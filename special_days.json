@@ -1,0 +1,57 @@
+[
+    {
+        "date": "2025-01-01",
+        "name": "New Year's Day",
+        "description": "First day of the year."
+    },
+    {
+        "date": "2025-12-07",
+        "name": "Testing Day",
+        "description": "A day for testing new features."
+    },
+    {
+        "date": "2025-01-14",
+        "name": "Pongal / Makar Sankranti",
+        "description": "Harvest Festival."
+    },
+    {
+        "date": "2025-01-26",
+        "name": "Republic Day",
+        "description": "Honors the date on which the Constitution of India came into effect."
+    },
+    {
+        "date": "2025-03-31",
+        "name": "Eid-ul-Fitr",
+        "description": "Festival of Breaking the Fast."
+    },
+    {
+        "date": "2025-04-14",
+        "name": "Vishu / Tamil New Year",
+        "description": "Malayalam and Tamil New Year."
+    },
+    {
+        "date": "2025-08-15",
+        "name": "Independence Day",
+        "description": "National Holiday."
+    },
+    {
+        "date": "2025-09-05",
+        "name": "Onam",
+        "description": "Harvest festival of Kerala."
+    },
+    {
+        "date": "2025-10-02",
+        "name": "Gandhi Jayanti",
+        "description": "Birthday of Mahatma Gandhi."
+    },
+    {
+        "date": "2025-10-20",
+        "name": "Diwali",
+        "description": "Festival of Lights."
+    },
+    {
+        "date": "2025-12-25",
+        "name": "Christmas",
+        "description": "Birth of Jesus Christ."
+    }
+]

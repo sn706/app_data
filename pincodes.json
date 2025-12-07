@@ -1,0 +1,83 @@
+[
+    {
+        "pincode": "682001",
+        "place": "Ernakulam Head Post Office",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "description": "Main post office in Kochi city. Heritage building near Hospital Road.",
+        "image": "ernakulam.jpg",
+        "video": ""
+    },
+    {
+        "pincode": "682011",
+        "place": "Kochi MG Road",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "description": "Busy commercial center in Kochi.",
+        "image": "mgroad.jpg",
+        "video": ""
+    },
+    {
+        "pincode": "695001",
+        "place": "Trivandrum GPO",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "description": "General Post Office near Statue Junction.",
+        "image": "trivandrum.jpg",
+        "video": ""
+    },
+    {
+        "pincode": "695011",
+        "place": "Medical College TVM",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "description": "Major hospital area in the capital.",
+        "image": "",
+        "video": ""
+    },
+    {
+        "pincode": "673001",
+        "place": "Kozhikode HO",
+        "district": "Kozhikode",
+        "state": "Kerala",
+        "description": "Head Post Office in Mananchira.",
+        "image": "kozhikode.jpg",
+        "video": ""
+    },
+    {
+        "pincode": "110001",
+        "place": "Connaught Place",
+        "district": "New Delhi",
+        "state": "Delhi",
+        "description": "Central business district of New Delhi.",
+        "image": "delhi.jpg",
+        "video": ""
+    },
+    {
+        "pincode": "400001",
+        "place": "Mumbai GPO",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "description": "Near CST Railway Station.",
+        "image": "mumbai.jpg",
+        "video": ""
+    },
+    {
+        "pincode": "600002",
+        "place": "Anna Salai",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "description": "Major arterial road in Chennai.",
+        "image": "chennai.jpg",
+        "video": ""
+    },
+    {
+        "pincode": "560001",
+        "place": "Bangalore GPO",
+        "district": "Bangalore",
+        "state": "Karnataka",
+        "description": "Near Vidhana Soudha.",
+        "image": "bangalore.jpg",
+        "video": ""
+    }
+]
