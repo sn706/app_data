@@ -1,83 +1,11 @@
 [
     {
         "type": "Mobile",
-        "state": "Kerala",
-        "operator": "Jio",
+        "state": "Tamilnadu",
+        "operator": "Airtel",
         "care_number": "198",
-        "whatsapp": "7000770007",
-        "description": "Call 198 from your Jio number for complaints. WhatsApp 'Hi' for help.",
-        "sms_activation": "START to 1925"
-    },
-    {
-        "type": "Mobile",
-        "state": "All India",
-        "operator": "Jio",
-        "care_number": "18008899999",
-        "whatsapp": "7000770007",
-        "description": "General Helpline for Non-Jio numbers.",
-        "sms_activation": ""
-    },
-    {
-        "type": "Mobile",
-        "state": "Kerala",
-        "operator": "Airtel",
-        "care_number": "121",
         "whatsapp": "",
-        "description": "24x7 Customer Support. Call 121 for queries.",
-        "sms_activation": ""
-    },
-    {
-        "type": "Mobile",
-        "state": "All India",
-        "operator": "Airtel",
-        "care_number": "9810012345",
-        "whatsapp": "",
-        "description": "Customer Care for Postpaid/Prepaid.",
-        "sms_activation": ""
-    },
-    {
-        "type": "Mobile",
-        "state": "Kerala",
-        "operator": "Vi",
-        "care_number": "199",
-        "whatsapp": "9654297000",
-        "description": "Vi Care: Call 199. WhatsApp Menu available.",
-        "sms_activation": ""
-    },
-    {
-        "type": "Mobile",
-        "state": "Kerala",
-        "operator": "BSNL",
-        "care_number": "1503",
-        "whatsapp": "9400024365",
-        "description": "BSNL Mobile Customer Care.",
-        "sms_activation": ""
-    },
-    {
-        "type": "DTH",
-        "state": "All India",
-        "operator": "Tata Sky",
-        "care_number": "18002086633",
-        "whatsapp": "18002086633",
-        "description": "Tata Play 24x7 Helpline.",
-        "sms_activation": ""
-    },
-    {
-        "type": "DTH",
-        "state": "All India",
-        "operator": "Dish TV",
-        "care_number": "9501795017",
-        "whatsapp": "",
-        "description": "Give a Missed Call for callback.",
-        "sms_activation": ""
-    },
-    {
-        "type": "DTH",
-        "state": "All India",
-        "operator": "Sun Direct",
-        "care_number": "18001237575",
-        "whatsapp": "",
-        "description": "Toll Free Number.",
+        "description": "",
         "sms_activation": ""
     }
 ]
