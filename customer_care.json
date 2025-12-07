@@ -7,5 +7,14 @@
         "whatsapp": "",
         "description": "",
         "sms_activation": ""
+    },
+    {
+        "type": "Mobile",
+        "state": "Karnataka",
+        "operator": "Jio",
+        "care_number": "198",
+        "whatsapp": "",
+        "description": "",
+        "sms_activation": ""
     }
 ]
