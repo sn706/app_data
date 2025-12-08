@@ -1,1 +1,40 @@
-{ "operators": [ "Tata Sky", "Dish TV", "Airtel DTH", "Sun Direct", "Videocon d2h" ], "states": [ "All India", "South India", "North India", "Kerala", "Tamil Nadu" ], "plans": [ { "operator": "Tata Sky", "state": "South India", "amount": 15, "validity": "56", "description": "", "channel_count": "", "channel_list": "", "tag": "Popular,Malayalam", "updated": "1733607275" } ] }
+{
+    "operators": [
+        "Tata Sky",
+        "Dish TV",
+        "Airtel DTH",
+        "Sun Direct",
+        "Videocon d2h"
+    ],
+    "states": [
+        "All India",
+        "South India",
+        "North India",
+        "Kerala",
+        "Tamil Nadu"
+    ],
+    "plans": [
+        {
+            "operator": "Tata Sky",
+            "state": "South India",
+            "amount": 1548,
+            "validity": "56",
+            "description": "",
+            "channel_count": "",
+            "channel_list": "",
+            "tag": "Popular,Malayalam",
+            "updated": "2025-12-07"
+        },
+        {
+            "operator": "Sun Direct",
+            "state": "North India",
+            "amount": 258,
+            "validity": "10",
+            "description": "",
+            "channel_count": "14",
+            "channel_list": "",
+            "tag": "",
+            "updated": "2025-12-08"
+        }
+    ]
+}
