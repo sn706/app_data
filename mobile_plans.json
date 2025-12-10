@@ -17,134 +17,134 @@
         {
             "operator": "Jio",
             "state": "All India",
-            "amount": 299,
+            "amount": 2,
             "validity": "28 Days",
             "data": "2 GB/Day",
             "sms": "100/Day",
             "talktime": "Unlimited",
             "description": "Unlimited Calls + 2GB/Day Data + 100 SMS/Day.",
-            "updated": "2025-01-10"
+            "updated": "2025-12-08 06:30"
         },
         {
             "operator": "Jio",
             "state": "All India",
-            "amount": 666,
+            "amount": 6,
             "validity": "84 Days",
             "data": "1.5 GB/Day",
             "sms": "100/Day",
             "talktime": "Unlimited",
             "description": "Best Value: Unlimited Calls + 1.5GB/Day for 84 Days.",
-            "updated": "2025-01-15"
+            "updated": "2025-12-08 05:45"
         },
         {
             "operator": "Jio",
             "state": "Kerala",
-            "amount": 155,
+            "amount": 1,
             "validity": "28 Days",
             "data": "2 GB Total",
             "sms": "300 Total",
             "talktime": "Unlimited",
             "description": "Affordable Pack: Unlimited Calls + 2GB Data.",
-            "updated": "2025-02-01"
+            "updated": "2025-12-07 18:20"
         },
         {
             "operator": "Airtel",
             "state": "All India",
-            "amount": 299,
+            "amount": 2,
             "validity": "28 Days",
             "data": "1.5 GB/Day",
             "sms": "100/Day",
             "talktime": "Unlimited",
             "description": "Truly Unlimited Calls + 1.5GB/Day + Apollo 24|7 Circle.",
-            "updated": "2025-01-12"
+            "updated": "2025-12-08 04:15"
         },
         {
             "operator": "Airtel",
             "state": "Tamil Nadu",
-            "amount": 479,
+            "amount": 4,
             "validity": "56 Days",
             "data": "1.5 GB/Day",
             "sms": "100/Day",
             "talktime": "Unlimited",
             "description": "Medium Validity: 1.5GB/Day for 56 Days.",
-            "updated": "2025-01-20"
+            "updated": "2025-12-06 14:30"
         },
         {
             "operator": "Airtel",
             "state": "Delhi",
-            "amount": 179,
+            "amount": 1,
             "validity": "28 Days",
             "data": "2 GB Total",
             "sms": "300 Total",
             "talktime": "Unlimited",
             "description": "Entry Level Unlimited Pack.",
-            "updated": "2025-02-05"
+            "updated": "2025-12-05 10:00"
         },
         {
             "operator": "Vi",
             "state": "All India",
-            "amount": 319,
+            "amount": 3,
             "validity": "1 Month",
             "data": "2 GB/Day",
             "sms": "100/Day",
             "talktime": "Unlimited",
             "description": "Binge All Night (12am-6am) + Weekend Data Rollover.",
-            "updated": "2025-03-01"
+            "updated": "2025-12-01 09:30"
         },
         {
             "operator": "Vi",
             "state": "Maharashtra",
-            "amount": 479,
+            "amount": 4,
             "validity": "56 Days",
             "data": "1.5 GB/Day",
             "sms": "100/Day",
             "talktime": "Unlimited",
             "description": "Hero Unlimited: 1.5GB/Day + Night Free Data.",
-            "updated": "2025-01-25"
+            "updated": "2025-11-25 16:45"
         },
         {
             "operator": "BSNL",
             "state": "Kerala",
-            "amount": 199,
+            "amount": 1,
             "validity": "30 Days",
             "data": "2 GB/Day",
             "sms": "100/Day",
             "talktime": "Unlimited",
             "description": "BSNL Special: 2GB/Day + Unlimited Calls.",
-            "updated": "2025-02-10"
+            "updated": "2025-11-10 11:20"
         },
         {
             "operator": "BSNL",
             "state": "Karnataka",
-            "amount": 99,
+            "amount": 9,
             "validity": "18 Days",
             "data": "Unlimited",
             "sms": "0",
             "talktime": "Unlimited",
             "description": "Voice Special: Unlimited Calls for 18 Days.",
-            "updated": "2025-02-15"
+            "updated": "2025-10-15 08:00"
         },
         {
             "operator": "Jio",
             "state": "Delhi",
-            "amount": 2999,
+            "amount": 2,
             "validity": "365 Days",
             "data": "2.5 GB/Day",
             "sms": "100/Day",
             "talktime": "Unlimited",
             "description": "Annual Plan: 2.5GB/Day for 1 Year.",
-            "updated": "2025-01-01"
+            "updated": "2025-01-01 00:00"
         },
         {
             "operator": "Vi",
             "state": "Kerala",
-            "amount": 98,
+            "amount": 9,
             "validity": "15 Days",
             "data": "Unlimited (No Cap)",
             "sms": "0",
             "talktime": "0",
             "description": "Data Only Pack: Truly Unlimited Data for 15 Days.",
-            "updated": "2025-03-10"
+            "updated": "2024-03-10 12:00"
         }
     ]
 }
