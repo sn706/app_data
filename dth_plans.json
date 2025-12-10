@@ -15,26 +15,15 @@
     ],
     "plans": [
         {
-            "operator": "Tata Sky",
-            "state": "South India",
-            "amount": 1548,
-            "validity": "56",
+            "operator": "Sun",
+            "state": "Kerala",
+            "amount": 1432,
+            "validity": "10 Months",
             "description": "",
-            "channel_count": "",
-            "channel_list": "",
-            "tag": "Popular,Malayalam",
-            "updated": "2025-12-07"
-        },
-        {
-            "operator": "Sun Direct",
-            "state": "North India",
-            "amount": 258,
-            "validity": "10",
-            "description": "",
-            "channel_count": "14",
-            "channel_list": "",
-            "tag": "",
-            "updated": "2025-12-08"
+            "channel_count": "565",
+            "channel_list": "Asaianet",
+            "tag": "High",
+            "updated": "2025-12-10 15:07"
         }
     ]
 }
