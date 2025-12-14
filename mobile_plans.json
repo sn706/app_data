@@ -17,7 +17,7 @@
         {
             "operator": "Jio",
             "state": "All India",
-            "amount": 2,
+            "amount": 255,
             "validity": "28 Days",
             "data": "2 GB/Day",
             "sms": "100/Day",
