@@ -1,10 +1,19 @@
 [
   {
-    "title": "Whatsapp Spam",
-    "highlight": "Whatsapp",
-    "content_blocks": [],
-    "updated": "Dec 16 2025, 10:52 PM",
-    "tag": "Whatsapp,Security",
+    "title": "Whatsapp Spam Call",
+    "highlight": "വാട്ട്സ് ആപ്പിൽ വ്യാജ കോൾ ജാഗ്രത പാലിക്കുക",
+    "content_blocks": [
+      {
+        "type": "sub_heading",
+        "content": "എന്തൊക്കെ ശ്രദ്ധിക്കണം"
+      },
+      {
+        "type": "paragraph",
+        "content": "വാട്ട്സ്ആപ്പ് അപ്ഡേറ്റ് ചെയ്യുക.അപരിചിതരായവരുടെ കോളുകൾക്കോ മെസേജുകൾക്കോ മറുപടി നൽകാതിരിക്കുക."
+      }
+    ],
+    "updated": "Dec 16 2025, 11:02 PM",
+    "tag": "Whatsapp,Security,Fake Call",
     "image": "",
     "video": "",
     "youtube_link": "",
