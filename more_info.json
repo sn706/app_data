@@ -1,34 +1,13 @@
 [
-    {
-        "title": "5G Activation Guide",
-        "highlight": "Steps to enable 5G on Android/iOS.",
-        "full_details": "1. Go to Settings > Mobile Network.\n2. Select SIM Card.\n3. Change Preferred Network Type to '5G/4G/LTE (Auto)'.\n4. Ensure you have a 5G compatible plan and are in a 5G coverage area.",
-        "image": "5g_guide.png",
-        "video": "5g_setup.mp4",
-        "updated": "2025-01-10"
-    },
-    {
-        "title": "Port to Jio/Airtel (MNP)",
-        "highlight": "How to switch operator without changing number.",
-        "full_details": "1. Send SMS 'PORT <Your Number>' to 1900.\n2. You will receive a UPC Code.\n3. Visit the nearest store of the new operator with ID proof and the UPC Code.\n4. Process takes 3-7 days.",
-        "updated": "2025-01-15"
-    },
-    {
-        "title": "Lost SIM Card?",
-        "highlight": "What to do if you lose your phone/SIM.",
-        "full_details": "1. Immediately call Customer Care to block the SIM to prevent misuse.\n2. Visit the nearest operator store with ID proof.\n3. Request a duplicate SIM (usually costs Rs. 50-100).\n4. Services resume within 2-4 hours.",
-        "updated": "2025-02-01"
-    },
-    {
-        "title": "Check Balance Codes (USSD)",
-        "highlight": "Shortcodes for checking balance.",
-        "full_details": "Jio: Call 1299 for SMS.\nAirtel: *121#\nVi: *199#\nBSNL: *123#",
-        "updated": "2025-02-20"
-    },
-    {
-        "title": "DTH Error Codes",
-        "highlight": "Common DTH Errors and fixes.",
-        "full_details": "No Signal: Check weather or dish alignment.\nError 4: Subscription expired.\nError 14: Card not inserted properly.",
-        "updated": "2025-03-05"
-    }
+  {
+    "title": "Whatsapp Spam",
+    "highlight": "Whatsapp",
+    "full_details": "Whatsapp Unknown Call",
+    "updated": "Just Now",
+    "tag": "Whatsapp,Security",
+    "image": "",
+    "video": "",
+    "youtube_link": "",
+    "website_link": ""
+  }
 ]
