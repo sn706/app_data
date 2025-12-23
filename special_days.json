@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Welcome",
+        "date": "17-12",
+        "fixed": true,
+        "display_duration_days": 1,
+        "description": "Welcome to the Galaxy App! Enjoy our new media features.",
+        "image_url": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=500",
+        "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    },
+    {
+        "title": "New Year",
+        "date": "01-01",
+        "fixed": true,
+        "display_duration_days": 7,
+        "description": "Happy New Year! Wishing everyone a prosperous year ahead.",
+        "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+    },
+    {
+        "title": "Christmas Sample",
+        "date": "23-12",
+        "fixed": true,
+        "description": "Christmas Video Sample Test",
+        "video_url": "christmas"
+    },
+    {
+        "title": "Christmas",
+        "date": "25-12",
+        "fixed": true,
+        "description": "Marry Christmas!",
+        "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    }
+]
