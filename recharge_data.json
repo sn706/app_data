@@ -32,6 +32,34 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "name": "Jio",
+                    "image": "logo",
+                    "circles": [
+                        {
+                            "name": "Kerala ",
+                            "tags": [
+                                ""
+                            ],
+                            "plans": [
+                                {
+                                    "id": "undefined_4056",
+                                    "amount": 199,
+                                    "validity": "56 Days",
+                                    "data": "1 GB Total",
+                                    "calls": "7.98 Talk Time ",
+                                    "sms": "No Available",
+                                    "short_desc": "Talktime",
+                                    "updated_timestamp": 1766654164056,
+                                    "tags": [
+                                        "Value Pack"
+                                    ],
+                                    "benefits": []
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
