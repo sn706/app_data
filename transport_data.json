@@ -1,39 +1,24 @@
 {
-    "disclaimer": "പ്ലാനുകളിൽ മാറ്റങ്ങൾ വരുത്താനുള്ള അധികാരം ഓപ്പറേറ്റർമാർക്ക് നിക്ഷിപ്തമാണ്.",
-    "modes": [
+    "disclaimer": "ഈ ആപ്പിൽ നൽകിയിരിക്കുന്ന വിവരങ്ങൾ കൃത്യമാണെന്ന് ഉറപ്പുവരുത്താൻ ഞങ്ങൾ പരമാവധി ശ്രമിക്കുന്നുണ്ട്. എന്നിരുന്നാലും, സമയക്രമത്തിൽ മാറ്റങ്ങൾ സംഭവിക്കാം.",
+    "buses": [
         {
-            "mode_name": "Mobile",
-            "operators": [
+            "bus_id": "1",
+            "name": "KSRTC",
+            "type": "Super Fast",
+            "route_name": "Moolamattom - Elappally",
+            "updated_date": "25-12-2025",
+            "stops": [
                 {
-                    "name": "BSNL",
-                    "image": "logo",
-                    "circles": [
-                        {
-                            "name": "Kerala",
-                            "tags": [
-                                ""
-                            ],
-                            "plans": [
-                                {
-                                    "id": "undefined_7528",
-                                    "amount": 1,
-                                    "validity": "28 Days",
-                                    "data": "2 GB Day",
-                                    "calls": "Unlimeted ",
-                                    "sms": "100 SMS Day",
-                                    "short_desc": "New Customer Offer",
-                                    "updated_timestamp": 1766646437528,
-                                    "tags": [
-                                        "FRC",
-                                        "New Connection"
-                                    ],
-                                    "benefits": []
-                                }
-                            ]
-                        }
-                    ]
+                    "place": "Moolamattom ",
+                    "time": "7:00 AM"
+                },
+                {
+                    "place": "Elappally ",
+                    "time": "8:15 AM"
                 }
-            ]
+            ],
+            "agency_type": "Private"
         }
-    ]
+    ],
+    "ksrtc_depots": []
 }
