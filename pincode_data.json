@@ -32,6 +32,20 @@
             "district": "Idukki",
             "state": "Kerala",
             "office_type": "Sub Post Office"
+        },
+        {
+            "place_name": "Edadu",
+            "pincode": "685589",
+            "district": "Idukki",
+            "state": "Kerala ",
+            "office_type": "Branch Post Office"
+        },
+        {
+            "place_name": "Moolamattom ",
+            "pincode": "685589",
+            "district": "Idukki",
+            "state": "Kerala ",
+            "office_type": "Branch Post Office"
         }
     ]
 }
