@@ -4,42 +4,32 @@
         {
             "bus_id": "1",
             "name": "KSRTC",
-            "type": "Super Fast",
-            "route_name": "Moolamattom - Elappally",
+            "type": "Ordinary",
+            "route_name": "Moolamattom - Vagamon",
             "updated_date": "25-12-2025",
             "stops": [
                 {
                     "place": "Moolamattom ",
-                    "time": "7:00 AM"
+                    "time": "08:00 AM"
                 },
                 {
-                    "place": "Elappally ",
-                    "time": "8:15 AM"
-                }
-            ],
-            "agency_type": "Private"
-        },
-        {
-            "bus_id": "2",
-            "name": "Achhos",
-            "type": "Ordinary ",
-            "route_name": "Moolamattom - Edadu",
-            "updated_date": "25-12-2025",
-            "stops": [
-                {
-                    "place": "Moolamattom ",
-                    "time": "12:00PM"
-                },
-                {
-                    "place": "Elappally ",
-                    "time": "01:00 PM"
+                    "place": "Elappally",
+                    "time": "08:15 AM"
                 },
                 {
                     "place": "Edadu",
-                    "time": "02:00 PM"
+                    "time": "08:30 AM"
+                },
+                {
+                    "place": "Pullikkanam",
+                    "time": "08:42 AM"
+                },
+                {
+                    "place": "Vagamon ",
+                    "time": "09:10 AM"
                 }
             ],
-            "agency_type": "Private"
+            "agency_type": "KSRTC"
         }
     ],
     "ksrtc_depots": []
