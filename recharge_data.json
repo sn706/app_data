@@ -1,0 +1,94 @@
+{
+    "disclaimer": "പ്ലാനുകളിൽ മാറ്റങ്ങൾ വരുത്താനുള്ള അധികാരം ഓപ്പറേറ്റർമാർക്ക് നിക്ഷിപ്തമാണ്.",
+    "modes": [
+        {
+            "mode_name": "Mobile",
+            "operators": [
+                {
+                    "name": "BSNL",
+                    "image": "logo",
+                    "circles": [
+                        {
+                            "name": "Kerala",
+                            "tags": [
+                                ""
+                            ],
+                            "plans": [
+                                {
+                                    "id": "undefined_7528",
+                                    "amount": 1,
+                                    "validity": "28 Days",
+                                    "data": "2 GB Day",
+                                    "calls": "Unlimeted ",
+                                    "sms": "100 SMS Day",
+                                    "short_desc": "New Customer Offer",
+                                    "updated_timestamp": 1766646437528,
+                                    "tags": [
+                                        "FRC",
+                                        "New Connection"
+                                    ],
+                                    "benefits": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Jio",
+                    "image": "logo",
+                    "circles": [
+                        {
+                            "name": "Kerala ",
+                            "tags": [
+                                ""
+                            ],
+                            "plans": [
+                                {
+                                    "id": "undefined_4056",
+                                    "amount": 199,
+                                    "validity": "56 Days",
+                                    "data": "1 GB Total",
+                                    "calls": "7.98 Talk Time ",
+                                    "sms": "No Available",
+                                    "short_desc": "Talktime",
+                                    "updated_timestamp": 1766654164056,
+                                    "tags": [
+                                        "Value Pack"
+                                    ],
+                                    "benefits": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Vi",
+                    "image": "logo",
+                    "circles": [
+                        {
+                            "name": "Kerala ",
+                            "tags": [],
+                            "plans": [
+                                {
+                                    "id": "undefined_8433",
+                                    "amount": 198,
+                                    "validity": "10 Days",
+                                    "data": "No Data",
+                                    "calls": "Unlimited ",
+                                    "sms": "No SMS",
+                                    "short_desc": "",
+                                    "updated_timestamp": 1766671598433,
+                                    "tags": [
+                                        "Call Pack"
+                                    ],
+                                    "benefits": []
+                                }
+                            ],
+                            "alert_message": "Plan Changed.ആപ്പിൽ അപ്ഡേറ്റ് ആകാൻ താമസം എടുത്തേക്കാം.റീചാർജ് ചെയ്യുന്നതിന് മുമ്പ് പരിശോധിച്ചുറപ്പിക്കണമെന്ന് അഭ്യർത്ഥിക്കുന്നു "
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
