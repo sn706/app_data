@@ -32,5 +32,18 @@
             "agency_type": "KSRTC"
         }
     ],
-    "ksrtc_depots": []
+    "ksrtc_depots": [
+        {
+            "place": "Moolamattom ",
+            "phone": "9544274249"
+        },
+        {
+            "place": "Vagamon ",
+            "phone": "7907323884"
+        },
+        {
+            "place": "Thodupuzha",
+            "phone": "1234567"
+        }
+    ]
 }
