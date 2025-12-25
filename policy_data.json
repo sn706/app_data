@@ -1,0 +1,39 @@
+{
+    "disclaimer": "പ്ലാനുകളിൽ മാറ്റങ്ങൾ വരുത്താനുള്ള അധികാരം ഓപ്പറേറ്റർമാർക്ക് നിക്ഷിപ്തമാണ്.",
+    "modes": [
+        {
+            "mode_name": "Mobile",
+            "operators": [
+                {
+                    "name": "BSNL",
+                    "image": "logo",
+                    "circles": [
+                        {
+                            "name": "Kerala",
+                            "tags": [
+                                ""
+                            ],
+                            "plans": [
+                                {
+                                    "id": "undefined_7528",
+                                    "amount": 1,
+                                    "validity": "28 Days",
+                                    "data": "2 GB Day",
+                                    "calls": "Unlimeted ",
+                                    "sms": "100 SMS Day",
+                                    "short_desc": "New Customer Offer",
+                                    "updated_timestamp": 1766646437528,
+                                    "tags": [
+                                        "FRC",
+                                        "New Connection"
+                                    ],
+                                    "benefits": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
