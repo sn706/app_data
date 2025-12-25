@@ -1,39 +1,37 @@
 {
-    "disclaimer": "പ്ലാനുകളിൽ മാറ്റങ്ങൾ വരുത്താനുള്ള അധികാരം ഓപ്പറേറ്റർമാർക്ക് നിക്ഷിപ്തമാണ്.",
-    "modes": [
+    "disclaimer": "ഈ ആപ്പിൽ നൽകിയിരിക്കുന്ന വിവരങ്ങൾ കൃത്യമാണെന്ന് ഉറപ്പുവരുത്താൻ ഞങ്ങൾ പരമാവധി ശ്രമിക്കുന്നുണ്ട്. ഔദ്യോഗിക വിവരങ്ങൾക്കായി പോസ്റ്റ് ഓഫീസ് വെബ്സൈറ്റ് സന്ദർശിക്കുക...",
+    "pincode_data": [
         {
-            "mode_name": "Mobile",
-            "operators": [
+            "place_name": "Elappally",
+            "pincode": "685589",
+            "district": "Idukki",
+            "state": "Kerala",
+            "office_type": "Branch Post Office",
+            "additional_details": [
                 {
-                    "name": "BSNL",
-                    "image": "logo",
-                    "circles": [
-                        {
-                            "name": "Kerala",
-                            "tags": [
-                                ""
-                            ],
-                            "plans": [
-                                {
-                                    "id": "undefined_7528",
-                                    "amount": 1,
-                                    "validity": "28 Days",
-                                    "data": "2 GB Day",
-                                    "calls": "Unlimeted ",
-                                    "sms": "100 SMS Day",
-                                    "short_desc": "New Customer Offer",
-                                    "updated_timestamp": 1766646437528,
-                                    "tags": [
-                                        "FRC",
-                                        "New Connection"
-                                    ],
-                                    "benefits": []
-                                }
-                            ]
-                        }
-                    ]
+                    "type": "title",
+                    "content": "ഇലപ്പള്ളി "
+                },
+                {
+                    "type": "paragraph",
+                    "content": "മൂലമറ്റത്തിന് സമീപം സ്ഥിതി ചെയ്യുന്ന ഗ്രാമമാണ് ഇലപ്പള്ളി "
+                },
+                {
+                    "type": "title",
+                    "content": "ഇലപ്പള്ളി വെള്ളച്ചാട്ടം "
+                },
+                {
+                    "type": "paragraph",
+                    "content": "മനോഹരമായ വെള്ളച്ചാട്ടം "
                 }
             ]
+        },
+        {
+            "place_name": "മൂലമറ്റം ",
+            "pincode": "685589",
+            "district": "Idukki",
+            "state": "Kerala",
+            "office_type": "Sub Post Office"
         }
     ]
 }
