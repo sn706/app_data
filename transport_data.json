@@ -18,6 +18,28 @@
                 }
             ],
             "agency_type": "Private"
+        },
+        {
+            "bus_id": "2",
+            "name": "Achhos",
+            "type": "Ordinary ",
+            "route_name": "Moolamattom - Edadu",
+            "updated_date": "25-12-2025",
+            "stops": [
+                {
+                    "place": "Moolamattom ",
+                    "time": "12:00PM"
+                },
+                {
+                    "place": "Elappally ",
+                    "time": "01:00 PM"
+                },
+                {
+                    "place": "Edadu",
+                    "time": "02:00 PM"
+                }
+            ],
+            "agency_type": "Private"
         }
     ],
     "ksrtc_depots": []
