@@ -1,0 +1,26 @@
+{
+    "disclaimer": "ഈ ആപ്പിൽ നൽകിയിരിക്കുന്ന വിവരങ്ങൾ കൃത്യമാണെന്ന് ഉറപ്പുവരുത്താൻ ഞങ്ങൾ പരമാവധി ശ്രമിക്കുന്നുണ്ട്. എന്നിരുന്നാലും, മാറ്റങ്ങൾ സംഭവിക്കാം.",
+    "phone_categories": [
+        {
+            "name": "KSRTC",
+            "image": "ic_contacts_modern",
+            "items": [
+                {
+                    "name": "Moolamattom",
+                    "number": "123456789",
+                    "updated_date": "27-12-25",
+                    "tags": [
+                        "Idukki"
+                    ],
+                    "description": "",
+                    "subcategory": "Travel"
+                }
+            ],
+            "subcategories": [
+                "Goverment",
+                "Travel",
+                "Idukki"
+            ]
+        }
+    ]
+}
