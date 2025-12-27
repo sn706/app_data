@@ -1,0 +1,28 @@
+{
+  "disclaimer": "വിവരങ്ങൾ വെബ്സൈറ്റുകളിൽ നിന്നുള്ളതാണ്.",
+  "more_info_data": [
+    {
+      "content_blocks": [
+        {
+          "content": "Table Data",
+          "table_data": [
+            {
+              "key": "Hi",
+              "value": ""
+            },
+            {
+              "key": "Hi",
+              "value": ""
+            }
+          ],
+          "type": "table"
+        }
+      ],
+      "id": "art_1766807279147",
+      "short_description": "ghh",
+      "thumbnail": "",
+      "title": "Ge",
+      "updated_timestamp": 1766807279147
+    }
+  ]
+}
