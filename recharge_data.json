@@ -1,0 +1,43 @@
+{
+  "disclaimer": "പ്ലാനുകളിൽ മാറ്റങ്ങൾ വരുത്താനുള്ള അധികാരം ഓപ്പറേറ്റർമാർക്ക് നിക്ഷിപ്തമാണ്.",
+  "modes": [
+    {
+      "mode_name": "Mobile",
+      "operators": [
+        {
+          "circles": [
+            {
+              "name": "Keralal",
+              "plans": [
+                {
+                  "amount": 1250,
+                  "app_subscriptions": "",
+                  "benefits": [],
+                  "calls": "150000000 Day",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "500 GB Day",
+                  "id": "p_1767023168223",
+                  "short_desc": "",
+                  "sms": "176666 Day",
+                  "tags": [
+                    "Wow"
+                  ],
+                  "updated_timestamp": 1767023168225,
+                  "validity": "17654 Days"
+                }
+              ],
+              "tags": []
+            }
+          ],
+          "image": "logo_vi",
+          "name": "Vi"
+        }
+      ]
+    },
+    {
+      "mode_name": "DTH",
+      "operators": []
+    }
+  ]
+}
