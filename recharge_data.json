@@ -7,6 +7,7 @@
         {
           "circles": [
             {
+              "alert_message": "Data Changed",
               "name": "Keralal",
               "plans": [
                 {
@@ -25,6 +26,21 @@
                   ],
                   "updated_timestamp": 1767023168225,
                   "validity": "17654 Days"
+                },
+                {
+                  "amount": 0,
+                  "app_subscriptions": "",
+                  "benefits": [],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "id": "p_1767368869110",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [],
+                  "updated_timestamp": 1767368869111,
+                  "validity": ""
                 }
               ],
               "tags": []
