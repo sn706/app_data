@@ -33,9 +33,29 @@
                   ],
                   "updated_timestamp": 1767456898955,
                   "validity": "28"
+                },
+                {
+                  "amount": 299,
+                  "app_subscriptions": "",
+                  "benefits": [],
+                  "calls": "Unlimited",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "1.5 GB Day",
+                  "id": "p_1767457138912",
+                  "short_desc": "Gemini Pro",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Gemini Pro",
+                    "Hot Star"
+                  ],
+                  "updated_timestamp": 1767457138913,
+                  "validity": "28 Days"
                 }
               ],
-              "tags": []
+              "tags": [
+                "Kerala"
+              ]
             }
           ],
           "image": "logo_vi",
