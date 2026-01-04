@@ -1,23 +1,25 @@
 {
-  "categories": [
-    {
-      "name": "KSRTC"
-    }
-  ],
   "disclaimer": "വിവരങ്ങളിൽ മാറ്റം വരാം. ഔദ്യോഗിക വിവരങ്ങൾക്ക് ബന്ധപ്പെട്ടവരെ സമീപിക്കുക.",
-  "phone_numbers": [
+  "phone_categories": [
     {
-      "category": "KSRTC",
-      "description": "0",
-      "id": "ph_1766839857151",
-      "is_new": false,
-      "name": "Moolamattom",
-      "number": "04862324108",
-      "subcategory": "",
-      "tags": [
-        "Idukki"
+      "image": "",
+      "items": [
+        {
+          "category": "Emergency ",
+          "description": "",
+          "icon": "",
+          "id": "ph_1767500561256",
+          "is_new": false,
+          "name": "Police",
+          "number": "100",
+          "subcategory": "",
+          "tags": [],
+          "updated_date": "",
+          "views": 0
+        }
       ],
-      "views": 0
+      "name": "Emergency ",
+      "subcategories": []
     }
   ]
 }
