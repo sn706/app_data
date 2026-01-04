@@ -1,0 +1,42 @@
+{
+  "customer_care_categories": [
+    {
+      "image": "",
+      "name": "Vi",
+      "providers": [
+        {
+          "image": "",
+          "name": "Jio",
+          "states": [
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "address": "",
+                  "email": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Moolamattom ",
+                  "updated_date": "04-01-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Kerala "
+            }
+          ]
+        },
+        {
+          "image": "",
+          "name": "Jio",
+          "states": []
+        }
+      ]
+    },
+    {
+      "image": "",
+      "name": "Vi",
+      "providers": []
+    }
+  ],
+  "disclaimer": "വിവരങ്ങൾ ഔദ്യോഗിക വെബ്സൈറ്റുകളിൽ നിന്നും ലഭിച്ചവയാണ്."
+}
