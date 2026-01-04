@@ -1,0 +1,15 @@
+{
+  "disclaimer": "നിരാകരണം: ഈ വിവരങ്ങൾ കൃത്യമായിരിക്കാൻ ഞങ്ങൾ ശ്രമിക്കാറുണ്ട്, എങ്കിലും മാറ്റങ്ങൾ വരാം.",
+  "message_center_providers": [
+    {
+      "image": "",
+      "name": "Jio",
+      "states": [
+        {
+          "smsc_number": "198",
+          "state_name": "Kerala "
+        }
+      ]
+    }
+  ]
+}
