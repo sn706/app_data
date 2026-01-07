@@ -4,23 +4,23 @@
     {
       "content_blocks": [
         {
-          "content": "",
+          "content": "Please Update Bank App",
           "table_data": [],
           "type": "paragraph"
         },
         {
           "content": "www.plansinfo.com",
-          "label": "",
+          "label": "App Download ",
           "subtype": "web",
           "table_data": [],
           "type": "link_button"
         }
       ],
       "id": "art_1767803657602",
-      "short_description": "ബാങ്ക്  സേവനങ്ങൾ ഓൺലൈനിൽ",
+      "short_description": "ബാങ്ക് സേവനങ്ങൾ ഓൺലൈനിൽ",
       "thumbnail": "",
       "title": "Bank Services",
-      "updated_timestamp": 1767803657602
+      "updated_timestamp": 1767804199796
     }
   ]
 }
