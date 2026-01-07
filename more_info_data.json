@@ -10,7 +10,7 @@
         },
         {
           "content": "www.plansinfo.com",
-          "label": "App Download ",
+          "label": "App Download",
           "subtype": "web",
           "table_data": [],
           "type": "link_button"
