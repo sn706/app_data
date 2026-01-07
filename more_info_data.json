@@ -4,25 +4,23 @@
     {
       "content_blocks": [
         {
-          "content": "Table Data",
-          "table_data": [
-            {
-              "key": "Hi",
-              "value": ""
-            },
-            {
-              "key": "Hi",
-              "value": ""
-            }
-          ],
-          "type": "table"
+          "content": "",
+          "table_data": [],
+          "type": "paragraph"
+        },
+        {
+          "content": "www.plansinfo.com",
+          "label": "",
+          "subtype": "web",
+          "table_data": [],
+          "type": "link_button"
         }
       ],
-      "id": "art_1766807279147",
-      "short_description": "ghh",
+      "id": "art_1767803657602",
+      "short_description": "ബാങ്ക് സേവനങ്ങൾ ഓൺലൈനിൽ",
       "thumbnail": "",
-      "title": "Ge",
-      "updated_timestamp": 1766807279147
+      "title": "Bank Services",
+      "updated_timestamp": 1767803657602
     }
   ]
 }
