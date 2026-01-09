@@ -67,6 +67,20 @@
       "thumbnail": "",
       "title": "Data Scientist ",
       "updated_timestamp": 1767804407991
+    },
+    {
+      "content_blocks": [
+        {
+          "content": "",
+          "table_data": [],
+          "type": "paragraph"
+        }
+      ],
+      "id": "art_1767977839115",
+      "short_description": "WhatsApp Update ",
+      "thumbnail": "ic_whatsapp",
+      "title": "New WhatsApp Feature",
+      "updated_timestamp": 1767977839115
     }
   ]
 }
