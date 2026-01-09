@@ -1,17 +1,30 @@
 {
   "pincode_data": [
     {
-      "additional_details": [],
-      "district": "ഇടുക്കി",
+      "additional_details": [
+        {
+          "content": "ഇടുക്കി ജില്ലയിലെ ഒരു ഗ്രാമമാണ് ഇലപ്പള്ളി ",
+          "type": "TEXT"
+        },
+        {
+          "content": "മൂലമറ്റം ആണ് അടുത്ത ടൗൺ ",
+          "type": "TEXT"
+        },
+        {
+          "content": "ഇലപ്പള്ളി വെള്ളച്ചാട്ടം തൊടുപുഴ - മൂലമറ്റം - വാഗമൺ റൂട്ടിലെ പ്രധാന ആകർഷണം ആണ്.",
+          "type": "TEXT"
+        }
+      ],
+      "district": "Idukki",
       "email": "",
-      "id": "pin_1766943460760",
+      "id": "pin_1767972959316",
       "latitude": "",
       "longitude": "",
-      "office_type": "Sub Post",
+      "office_type": "Branch Post Office",
       "phone": "",
       "pincode": "685589",
-      "place_name": "കട്ടപ്പന",
-      "state": "കേരള",
+      "place_name": "Elappally ",
+      "state": "Kerala",
       "whatsapp": ""
     }
   ]
