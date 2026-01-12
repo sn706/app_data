@@ -27,6 +27,29 @@
                   "tags": [],
                   "updated_timestamp": 1768236649210,
                   "validity": "10"
+                },
+                {
+                  "amount": 199,
+                  "app_subscriptions": "Gemini Pro ",
+                  "benefits": [
+                    "Unlimited Call",
+                    "1.5 GB Data",
+                    "100 SMS"
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Welcome Pack",
+                  "data": "1.5 GB Day",
+                  "id": "p_1768238727260",
+                  "short_desc": "1.5 GB Plan",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Unlimited Call",
+                    "1.5 GB Day",
+                    "28 Days"
+                  ],
+                  "updated_timestamp": 1768238727261,
+                  "validity": "28 Days"
                 }
               ],
               "tags": []
