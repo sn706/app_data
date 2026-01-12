@@ -3,47 +3,35 @@
     {
       "additional_details": [
         {
-          "content": "Idukki Village ",
+          "background_color": "#880E4F",
+          "content": "Moolamattom ",
+          "text_color": "#FFFFFF",
           "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Tourism ",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Elappally Water e",
+          "text_color": "",
+          "type": "PARAGRAPH"
         }
       ],
       "district": "Idukki",
       "email": "",
-      "id": "pin_1767977696664",
+      "id": "pin_1768235715442",
       "latitude": "",
       "longitude": "",
-      "office_type": "Sub Post Office ",
-      "phone": "",
-      "pincode": "685589",
-      "place_name": "Moolamattom ",
-      "state": "Kerala ",
-      "whatsapp": ""
-    },
-    {
-      "additional_details": [
-        {
-          "content": "ഇടുക്കി ജില്ലയിലെ ഒരു ഗ്രാമമാണ് ഇലപ്പള്ളി എന്ന കൊച്ചു ഗ്രാമം",
-          "type": "TEXT"
-        },
-        {
-          "content": "മൂലമറ്റം ആണ് അടുത്ത ടൗൺ ",
-          "type": "TEXT"
-        },
-        {
-          "content": "ഇലപ്പള്ളി വെള്ളച്ചാട്ടം തൊടുപുഴ - മൂലമറ്റം - വാഗമൺ റൂട്ടിലെ പ്രധാന ആകർഷണം ആണ്.",
-          "type": "TEXT"
-        }
-      ],
-      "district": "Idukki",
-      "email": "",
-      "id": "pin_1767972959316",
-      "latitude": "",
-      "longitude": "",
-      "office_type": "Branch Post Office",
+      "office_type": "",
       "phone": "",
       "pincode": "685589",
       "place_name": "Elappally ",
-      "state": "Kerala",
+      "search_keywords": [],
+      "state": "Kerala ",
       "whatsapp": ""
     }
   ]
