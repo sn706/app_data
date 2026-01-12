@@ -4,83 +4,29 @@
     {
       "content_blocks": [
         {
-          "content": "Please Update Bank App",
+          "background_color": "#DD3200",
+          "content": "മൂലമറ്റം പുതിയ മാറ്റത്തിൻ്റെ പിതയിൽ",
           "table_data": [],
-          "type": "paragraph"
+          "text_color": "#000000",
+          "type": "title"
         },
         {
-          "content": "www.plansinfo.com",
-          "label": "App Download ",
-          "subtype": "web",
+          "background_color": "#303F9F",
+          "content": "പുതിയ മാറ്റം മൂലമറ്റത്തും",
           "table_data": [],
-          "type": "link_button"
+          "text_color": "#B2FF59",
+          "type": "subtitle"
         }
       ],
-      "id": "art_1767803657602",
-      "short_description": "ബാങ്ക് സേവനങ്ങൾ ഓൺലൈനിൽ",
-      "thumbnail": "",
-      "title": "Bank Services",
-      "updated_timestamp": 1767804199796
-    },
-    {
-      "content_blocks": [
-        {
-          "content": "",
-          "label": "",
-          "subtype": "web",
-          "table_data": [],
-          "type": "link_button"
-        },
-        {
-          "content": "Table Data",
-          "table_data": [
-            {
-              "key": "Data Allocation",
-              "value": ""
-            }
-          ],
-          "type": "table"
-        },
-        {
-          "content": "Table Data",
-          "table_data": [
-            {
-              "key": "Data Plans",
-              "value": ""
-            }
-          ],
-          "type": "table"
-        },
-        {
-          "content": "Table Data",
-          "table_data": [
-            {
-              "key": "",
-              "value": ""
-            }
-          ],
-          "type": "table"
-        }
+      "id": "art_1768233299647",
+      "search_keywords": [
+        "moolamattom",
+        "idukki"
       ],
-      "id": "art_1767804407991",
       "short_description": "",
       "thumbnail": "",
-      "title": "Data Scientist ",
-      "updated_timestamp": 1767804407991
-    },
-    {
-      "content_blocks": [
-        {
-          "content": "",
-          "table_data": [],
-          "type": "paragraph"
-        }
-      ],
-      "id": "art_1767977839115",
-      "short_description": "WhatsApp Update ",
-      "thumbnail": "ic_whatsapp",
-      "title": "New WhatsApp Feature",
-      "updated_timestamp": 1767977839115
+      "title": "മൂലമറ്റം പുതിയ മാറ്റത്തോടെ",
+      "updated_timestamp": 1768233299647
     }
   ]
 }
