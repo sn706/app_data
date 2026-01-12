@@ -1,5 +1,5 @@
 {
-  "disclaimer": "പ്ലാനുകളിൽ മാറ്റങ്ങൾ വരുത്താനുള്ള അധികാരം ഓപ്പറേറ്റർമാർക്ക് നിക്ഷിപ്തമണ്.",
+  "disclaimer": "പ്ലാനുകളിൽ മാറ്റങ്ങൾ വരുത്താനുള്ള അധികാരം ഓപ്പറേറ്റർമാർക്ക് നിക്ഷിപ്തമാണ്.",
   "modes": [
     {
       "mode_name": "Mobile",
@@ -7,59 +7,33 @@
         {
           "circles": [
             {
-              "alert_message": "ഇന്ത്യയിലെ മികച്ച നെറ്റ്വർക്ക് ഓപ്പറേറ്ററാണ് Vi.5 ജി നെറ്റ് വർക്കും ലഭ്യമാണ്.കേരളത്തിലെ എല്ലാം ജില്ലകളിലും സേവനം ലഭ്യമാണ്.",
-              "name": "Keralal",
+              "name": "Kerala",
               "plans": [
                 {
-                  "amount": 199,
-                  "app_subscriptions": "Gemini Pro",
+                  "amount": 100,
+                  "app_subscriptions": "Gemini Pro (10 Days), Amazon Prime ",
                   "benefits": [
-                    "App Subscription",
-                    "Amazon",
-                    "Hot Star",
-                    "Gemini Pro"
+                    "Unlimited Call",
+                    "1 GB Data",
+                    "100 SMS Day"
                   ],
-                  "calls": "Unlimited",
-                  "channels": "",
-                  "custom_description": "കോളിംഗിന് യൂസ് ചെയ്യാവുന്ന പ്ലാനാണ് ഇത്.",
-                  "data": "1 GB Total",
-                  "id": "p_1767456898954",
-                  "short_desc": "Unlimited Calls And Data",
-                  "sms": "100 SMS",
-                  "tags": [
-                    "Gemini Pro",
-                    "Amazon",
-                    "Hot Star"
-                  ],
-                  "updated_timestamp": 1767456898955,
-                  "validity": "28"
-                },
-                {
-                  "amount": 299,
-                  "app_subscriptions": "",
-                  "benefits": [],
-                  "calls": "Unlimited",
+                  "calls": "",
                   "channels": "",
                   "custom_description": "",
-                  "data": "1.5 GB Day",
-                  "id": "p_1767457138912",
-                  "short_desc": "Gemini Pro",
-                  "sms": "100 SMS Day",
-                  "tags": [
-                    "Gemini Pro",
-                    "Hot Star"
-                  ],
-                  "updated_timestamp": 1767457138913,
-                  "validity": "28 Days"
+                  "data": "",
+                  "id": "p_1768236419202",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [],
+                  "updated_timestamp": 1768236419202,
+                  "validity": "10"
                 }
               ],
-              "tags": [
-                "Kerala"
-              ]
+              "tags": []
             }
           ],
-          "image": "logo_vi",
-          "name": "Vi"
+          "image": "logo_jio",
+          "name": "Jio"
         }
       ]
     },
