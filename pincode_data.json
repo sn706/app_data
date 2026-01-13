@@ -4,6 +4,7 @@
       "additional_details": [],
       "district": "Idukki ",
       "email": "",
+      "font_family": "e.ttf",
       "id": "pin_1768236043042",
       "latitude": "",
       "longitude": "",
@@ -19,25 +20,29 @@
       "additional_details": [
         {
           "background_color": "#880E4F",
-          "content": "Moolamattom ",
+          "content": "മൂലമറ്റം ",
+          "font_family": "ib.ttf",
           "text_color": "#FFFFFF",
           "type": "TEXT"
         },
         {
           "background_color": "",
           "content": "Tourism ",
+          "font_family": "",
           "text_color": "",
           "type": "SUBTITLE"
         },
         {
           "background_color": "",
           "content": "Elappally Water e",
+          "font_family": "",
           "text_color": "",
           "type": "PARAGRAPH"
         }
       ],
       "district": "Idukki",
       "email": "",
+      "font_family": "",
       "id": "pin_1768235715442",
       "latitude": "",
       "longitude": "",
