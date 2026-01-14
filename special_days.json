@@ -1,0 +1,19 @@
+{
+  "special_days": [
+    {
+      "background_color": "",
+      "background_gradient": "",
+      "date": "14-01-2026",
+      "description": "ഏവർക്കും പുതുവത്സരാശംസകൾ ",
+      "display_duration_days": 1,
+      "fixed": false,
+      "font_family": "ib.ttf",
+      "gradient_colors": [],
+      "id": "evt_1768413093877",
+      "image_url": "",
+      "text_color": "red",
+      "title": "Christmas",
+      "video_url": ""
+    }
+  ]
+}
