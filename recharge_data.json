@@ -1,7 +1,7 @@
 {
   "disclaimer": "റീചാർജ് പ്ലാനുകളിൽ തെറ്റ് വരാം.",
   "disclaimer_background_color": "",
-  "disclaimer_font_family": "ib.ttf",
+  "disclaimer_font_family": "fonts/ib.ttf",
   "disclaimer_text_color": "#DD3200",
   "modes": [
     {
@@ -59,6 +59,30 @@
                   "text_color": "green",
                   "updated_timestamp": 1768411011857,
                   "validity": "28 Days"
+                }
+              ],
+              "tags": []
+            },
+            {
+              "name": "Tamilnadu",
+              "plans": [
+                {
+                  "amount": 1599,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "കുറഞ്ഞ തുകയാണ് ",
+                  "data": "15 GB",
+                  "font_family": "fonts/ib.ttf",
+                  "id": "p_1768411321891",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [],
+                  "text_color": "red",
+                  "updated_timestamp": 1768411321891,
+                  "validity": "2 Days"
                 }
               ],
               "tags": []
