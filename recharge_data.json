@@ -1,5 +1,8 @@
 {
-  "disclaimer": "പ്ലാനുകളിൽ മാറ്റങ്ങൾ വരുത്താനുള്ള അധികാരം ഓപ്പറേറ്റർമാർക്ക് നിക്ഷിപ്തമാണ്.",
+  "disclaimer": "റീചാർജ് പ്ലാനുകളിൽ തെറ്റ് വരാം.",
+  "disclaimer_background_color": "",
+  "disclaimer_font_family": "ib.ttf",
+  "disclaimer_text_color": "#DD3200",
   "modes": [
     {
       "mode_name": "Mobile",
@@ -9,25 +12,6 @@
             {
               "name": "Kerala",
               "plans": [
-                {
-                  "amount": 100,
-                  "app_subscriptions": "Gemini Pro (10 Days), Amazon Prime ",
-                  "benefits": [
-                    "Unlimited Call",
-                    "1 GB Data",
-                    "100 SMS Day"
-                  ],
-                  "calls": "",
-                  "channels": "",
-                  "custom_description": "Super Plan",
-                  "data": "",
-                  "id": "p_1768236419202",
-                  "short_desc": "",
-                  "sms": "",
-                  "tags": [],
-                  "updated_timestamp": 1768236649210,
-                  "validity": "10"
-                },
                 {
                   "amount": 199,
                   "app_subscriptions": "Gemini Pro ",
@@ -49,6 +33,31 @@
                     "28 Days"
                   ],
                   "updated_timestamp": 1768238727261,
+                  "validity": "28 Days"
+                },
+                {
+                  "amount": 199,
+                  "app_subscriptions": "Amazon ",
+                  "background_color": "",
+                  "benefits": [
+                    "Hotstar",
+                    "Amazon Prime "
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "ഏറ്റവും കുറഞ്ഞ തുകയാണ് ഇത്",
+                  "data": "1.5 GB Day",
+                  "font_family": "ib.ttf",
+                  "id": "p_1768411011857",
+                  "short_desc": "1.5 GB Plan",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "1.5 GB",
+                    "Hotstar",
+                    "Amazon Prime "
+                  ],
+                  "text_color": "green",
+                  "updated_timestamp": 1768411011857,
                   "validity": "28 Days"
                 }
               ],
