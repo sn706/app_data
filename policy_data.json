@@ -1,10 +1,15 @@
 {
-    "policies": [
-        {
-            "title": "Data",
-            "content": "Data Added",
-            "web_url": "",
-            "app_url": ""
-        }
-    ]
+  "policies": [
+    {
+      "app_url": "",
+      "background_color": "",
+      "content": "ഞങ്ങൾ ഡാറ്റ അനുവദിച്ചു നൽകുന്നീല്ല",
+      "font_family": "fonts/ib.ttf",
+      "id": "pol_1768411727968",
+      "text_color": "",
+      "title": "ഡാറ്റ",
+      "updated_timestamp": 1768411727968,
+      "web_url": ""
+    }
+  ]
 }
