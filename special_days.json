@@ -29,6 +29,21 @@
       "text_color": "red",
       "title": "Christmas ",
       "video_url": ""
+    },
+    {
+      "background_color": "red",
+      "background_gradient": "",
+      "date": "15/01/2026",
+      "description": "Happy Day",
+      "display_duration_days": 1,
+      "fixed": false,
+      "font_family": "e.ttf",
+      "gradient_colors": [],
+      "id": "evt_1768490027344",
+      "image_url": "",
+      "text_color": "white",
+      "title": "Happy Day",
+      "video_url": ""
     }
   ]
 }
