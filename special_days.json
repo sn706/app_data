@@ -44,6 +44,21 @@
       "text_color": "white",
       "title": "Happy Day",
       "video_url": ""
+    },
+    {
+      "background_color": "",
+      "background_gradient": "",
+      "date": "15-01-2026",
+      "description": "Happy Day ",
+      "display_duration_days": 1,
+      "fixed": false,
+      "font_family": "",
+      "gradient_colors": [],
+      "id": "evt_1768492570644",
+      "image_url": "",
+      "text_color": "",
+      "title": "hi",
+      "video_url": ""
     }
   ]
 }
