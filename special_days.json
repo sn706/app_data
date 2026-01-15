@@ -33,7 +33,7 @@
     {
       "background_color": "red",
       "background_gradient": "",
-      "date": "15/01/2026",
+      "date": "15-01-2026",
       "description": "Happy Day",
       "display_duration_days": 1,
       "fixed": false,
