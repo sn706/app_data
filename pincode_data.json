@@ -101,9 +101,9 @@
           "type": "TEXT"
         },
         {
-          "background_color": "green",
+          "background_color": "brown ",
           "content": "തയ്യേനി കൂമ്പൻ",
-          "font_family": "",
+          "font_family": "ib.ttf",
           "text_color": "white",
           "type": "SUBTITLE"
         },
