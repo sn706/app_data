@@ -6,6 +6,7 @@
           "background_color": "",
           "content": "Post Office Details ",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "TITLE"
         },
@@ -13,6 +14,7 @@
           "background_color": "",
           "content": "Sub Division ",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "SUBTITLE"
         },
@@ -20,6 +22,7 @@
           "background_color": "",
           "content": "Payyannur",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "TEXT"
         },
@@ -27,6 +30,7 @@
           "background_color": "",
           "content": "Division ",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "SUBTITLE"
         },
@@ -34,6 +38,7 @@
           "background_color": "",
           "content": "Kannur",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "TEXT"
         },
@@ -41,6 +46,7 @@
           "background_color": "",
           "content": "Region ",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "SUBTITLE"
         },
@@ -48,6 +54,7 @@
           "background_color": "",
           "content": "Calicut ",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "TEXT"
         },
@@ -55,6 +62,7 @@
           "background_color": "",
           "content": "Head Office ",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "SUBTITLE"
         },
@@ -62,6 +70,7 @@
           "background_color": "",
           "content": "Taliparamba ",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "TEXT"
         },
@@ -69,6 +78,7 @@
           "background_color": "",
           "content": "Sub Post Office ",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "SUBTITLE"
         },
@@ -76,6 +86,7 @@
           "background_color": "",
           "content": "Cherupuzha ",
           "font_family": "",
+          "text_alignment": "LEFT",
           "text_color": "",
           "type": "TEXT"
         },
@@ -83,6 +94,7 @@
           "background_color": "#33691E",
           "content": "തയ്യേനി",
           "font_family": "ib.ttf",
+          "text_alignment": "CENTER",
           "text_color": "#ffffff",
           "type": "TEXT"
         },
@@ -90,6 +102,7 @@
           "background_color": "",
           "content": "കാസർഗോഡ് ജില്ലയിലെ വെള്ളരിക്കുണ്ട് താലൂക്കിൽ, ഈസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്തിൽ ഉൾപ്പെടുന്ന ഒരു മലയോര ഗ്രാമമാണ് തയ്യേനി. കർണാടക വനമേഖലയോട് ചേർന്നുനിൽക്കുന്ന അതിമനോഹരമായ ഒരു പ്രദേശമാണിത്.",
           "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
           "text_color": "green ",
           "type": "PARAGRAPH"
         },
@@ -97,6 +110,7 @@
           "background_color": "",
           "content": "മധ്യതിരുവിതാംകൂറിൽ നിന്ന്  1950-കളിൽ കുടിയേറിപ്പാർത്ത കർഷക കുടുംബങ്ങളാണ് ഈ പ്രദേശത്തിന്റെ വളർച്ചയിൽ പ്രധാന പങ്ക് വഹിച്ചത്.റബ്ബർ, കവുങ്ങ്, കുരുമുളക്, തേങ്ങ എന്നിവയാണ് ഇവിടുത്തെ പ്രധാന വിളകൾ.",
           "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
           "text_color": "#D32F2F",
           "type": "TEXT"
         },
@@ -104,13 +118,15 @@
           "background_color": "#1B5E20",
           "content": "തയ്യേനി കൂമ്പൻ",
           "font_family": "ib.ttf",
+          "text_alignment": "CENTER",
           "text_color": "#ffffff",
           "type": "TEXT"
         },
         {
           "background_color": "",
-          "content": "ഇവിടുത്തെ ഏറ്റവും ഉയർന്ന കുന്നുകളിൽ ഒന്നാണിത്. ട്രെക്കിംഗ് ഇഷ്ടപ്പെടുന്നവർക്കും പ്രകൃതിഭംഗി ആസ്വദിക്കാനും താല്പര്യമുള്ളവർക്കും പ്രിയപ്പെട്ട ഒരിടമാണിത്.",
+          "content": "ഇവിടുത്തെ ഏറ്റവും ഉയർന്ന കുന്നുകളിൽ ഒന്നാണിത്.",
           "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
           "text_color": "#880E4F",
           "type": "TEXT"
         }
