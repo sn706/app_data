@@ -96,7 +96,7 @@
           "font_family": "ib.ttf",
           "text_alignment": "CENTER",
           "text_color": "#ffffff",
-          "type": "TEXT"
+          "type": "TITLE"
         },
         {
           "background_color": "",
@@ -120,7 +120,7 @@
           "font_family": "ib.ttf",
           "text_alignment": "CENTER",
           "text_color": "#ffffff",
-          "type": "TEXT"
+          "type": "SUBTITLE"
         },
         {
           "background_color": "",
