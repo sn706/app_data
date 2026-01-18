@@ -1,57 +1,34 @@
 {
   "pincode_data": [
     {
-      "additional_details": [],
-      "district": "Idukki ",
-      "email": "",
-      "font_family": "e.ttf",
-      "id": "pin_1768236043042",
-      "latitude": "",
-      "longitude": "",
-      "office_type": "",
-      "phone": "",
-      "pincode": "685589",
-      "place_name": "Moolamattom ",
-      "search_keywords": [],
-      "state": "Kerala ",
-      "whatsapp": ""
-    },
-    {
       "additional_details": [
         {
-          "background_color": "#880E4F",
-          "content": "മൂലമറ്റം ",
-          "font_family": "ib.ttf",
-          "text_color": "#FFFFFF",
+          "background_color": "",
+          "content": "Sub Division",
+          "font_family": "",
+          "text_color": "",
+          "type": "TITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Nileswar",
+          "font_family": "",
+          "text_color": "",
           "type": "TEXT"
-        },
-        {
-          "background_color": "",
-          "content": "Tourism ",
-          "font_family": "",
-          "text_color": "",
-          "type": "SUBTITLE"
-        },
-        {
-          "background_color": "",
-          "content": "Elappally Water e",
-          "font_family": "",
-          "text_color": "",
-          "type": "PARAGRAPH"
         }
       ],
-      "district": "Idukki",
+      "district": "Kasargod",
       "email": "",
       "font_family": "",
-      "id": "pin_1768235715442",
+      "id": "pin_1768713441208",
       "latitude": "",
       "longitude": "",
-      "office_type": "",
+      "office_type": "Branch Post Office",
       "phone": "",
-      "pincode": "685589",
-      "place_name": "Elappally ",
+      "pincode": "671351",
+      "place_name": "Achanthuruthi",
       "search_keywords": [],
-      "state": "Kerala ",
+      "state": "Kerala",
       "whatsapp": ""
     }
   ]
