@@ -1,95 +1,42 @@
 {
-  "disclaimer": "റീചാർജ് പ്ലാനുകളിൽ തെറ്റ് വരാം.",
-  "disclaimer_background_color": "",
-  "disclaimer_font_family": "fonts/ib.ttf",
-  "disclaimer_text_color": "#DD3200",
+  "disclaimer": "പ്ലാനുകളിൽ മാറ്റങ്ങൾ വരുത്താനുള്ള അധികാരം ഓപ്പറേറ്റർമാർക്ക് നിക്ഷിപ്തമാണ്.",
   "modes": [
     {
       "mode_name": "Mobile",
       "operators": [
         {
+          "app_link": "",
           "circles": [
             {
               "name": "Kerala",
               "plans": [
                 {
-                  "amount": 199,
-                  "app_subscriptions": "Gemini Pro ",
-                  "benefits": [
-                    "Unlimited Call",
-                    "1.5 GB Data",
-                    "100 SMS"
-                  ],
-                  "calls": "Unlimited ",
-                  "channels": "",
-                  "custom_description": "Welcome Pack",
-                  "data": "1.5 GB Day",
-                  "id": "p_1768238727260",
-                  "short_desc": "1.5 GB Plan",
-                  "sms": "100 SMS Day",
-                  "tags": [
-                    "Unlimited Call",
-                    "1.5 GB Day",
-                    "28 Days"
-                  ],
-                  "updated_timestamp": 1768238727261,
-                  "validity": "28 Days"
-                },
-                {
-                  "amount": 199,
-                  "app_subscriptions": "Amazon ",
-                  "background_color": "",
-                  "benefits": [
-                    "Hotstar",
-                    "Amazon Prime "
-                  ],
-                  "calls": "Unlimited ",
-                  "channels": "",
-                  "custom_description": "ഏറ്റവും കുറഞ്ഞ തുകയാണ് ഇത്",
-                  "data": "1.5 GB Day",
-                  "font_family": "ib.ttf",
-                  "id": "p_1768411011857",
-                  "short_desc": "1.5 GB Plan",
-                  "sms": "100 SMS Day",
-                  "tags": [
-                    "1.5 GB",
-                    "Hotstar",
-                    "Amazon Prime "
-                  ],
-                  "text_color": "green",
-                  "updated_timestamp": 1768411011857,
-                  "validity": "28 Days"
-                }
-              ],
-              "tags": []
-            },
-            {
-              "name": "Tamilnadu",
-              "plans": [
-                {
-                  "amount": 1599,
+                  "amount": 2999,
                   "app_subscriptions": "",
                   "background_color": "",
-                  "benefits": [],
-                  "calls": "",
+                  "benefits": [
+                    "1 Year"
+                  ],
+                  "calls": "Unlimited ",
                   "channels": "",
-                  "custom_description": "കുറഞ്ഞ തുകയാണ് ",
-                  "data": "15 GB",
-                  "font_family": "fonts/ib.ttf",
-                  "id": "p_1768411321891",
-                  "short_desc": "",
+                  "custom_description": "",
+                  "data": "1.5 GB Day",
+                  "font_family": "",
+                  "id": "p_1768754294434",
+                  "short_desc": "1 Year Plan",
                   "sms": "",
                   "tags": [],
-                  "text_color": "red",
-                  "updated_timestamp": 1768411321891,
-                  "validity": "2 Days"
+                  "text_color": "",
+                  "updated_timestamp": 1768754294434,
+                  "validity": "365 Days"
                 }
               ],
               "tags": []
             }
           ],
-          "image": "logo_jio",
-          "name": "Jio"
+          "image": "logo_vi",
+          "name": "Vi",
+          "website": ""
         }
       ]
     },
