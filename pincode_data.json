@@ -11,6 +11,100 @@
         },
         {
           "background_color": "",
+          "content": "Sub Division ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Kasargod ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Division ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Kasargod ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Region ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Calicut ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Head Office ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Kasargod ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Sub Post Office ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Vidyanagar",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        }
+      ],
+      "district": "Kasargod ",
+      "email": "",
+      "font_family": "",
+      "id": "pin_1768716788648",
+      "latitude": "",
+      "longitude": "",
+      "office_type": "Branch Post Office ",
+      "phone": "",
+      "pincode": "671123",
+      "place_name": "Alampady",
+      "search_keywords": [],
+      "state": "Kerala ",
+      "whatsapp": ""
+    },
+    {
+      "additional_details": [
+        {
+          "background_color": "",
+          "content": "Post Office Details ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TITLE"
+        },
+        {
+          "background_color": "",
           "content": "Sub Division",
           "font_family": "",
           "text_color": "",
@@ -404,7 +498,7 @@
       "pincode": "671351",
       "place_name": "Achanthuruthi",
       "search_keywords": [],
-      "state": "Kerala",
+      "state": "Kerala ",
       "whatsapp": ""
     }
   ]
