@@ -84,12 +84,12 @@
           "content": "തയ്യേനി",
           "font_family": "ib.ttf",
           "text_color": "white",
-          "type": "TITLE"
+          "type": "SUBTITLE"
         },
         {
           "background_color": "",
           "content": "കാസർഗോഡ് ജില്ലയിലെ വെള്ളരിക്കുണ്ട് താലൂക്കിൽ, ഈസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്തിൽ ഉൾപ്പെടുന്ന ഒരു മലയോര ഗ്രാമമാണ് തയ്യേനി. കർണാടക വനമേഖലയോട് ചേർന്നുനിൽക്കുന്ന അതിമനോഹരമായ ഒരു പ്രദേശമാണിത്.",
-          "font_family": "i.ttf",
+          "font_family": "ib.ttf",
           "text_color": "green ",
           "type": "PARAGRAPH"
         },
@@ -101,17 +101,17 @@
           "type": "TEXT"
         },
         {
-          "background_color": "brown ",
+          "background_color": "#1B5E20",
           "content": "തയ്യേനി കൂമ്പൻ",
           "font_family": "ib.ttf",
-          "text_color": "white",
+          "text_color": "#FFFFFF",
           "type": "SUBTITLE"
         },
         {
           "background_color": "",
           "content": "ഇവിടുത്തെ ഏറ്റവും ഉയർന്ന കുന്നുകളിൽ ഒന്നാണിത്. ട്രെക്കിംഗ് ഇഷ്ടപ്പെടുന്നവർക്കും പ്രകൃതിഭംഗി ആസ്വദിക്കാനും താല്പര്യമുള്ളവർക്കും പ്രിയപ്പെട്ട ഒരിടമാണിത്.",
           "font_family": "i.ttf",
-          "text_color": "violet",
+          "text_color": "#880E4F",
           "type": "TEXT"
         }
       ],
