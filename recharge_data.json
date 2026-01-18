@@ -1,13 +1,18 @@
 {
-  "disclaimer": "പ്ലാനുകളിൽ മാറ്റങ്ങൾ വരുത്താനുള്ള അധികാരം ഓപ്പറേറ്റർമാർക്ക് നിക്ഷിപ്തമാണ്.",
+  "disclaimer": "വിവരങ്ങൾ ഉറപ്പ് വരുത്തുക ",
+  "disclaimer_background_color": "",
+  "disclaimer_font_family": "",
+  "disclaimer_text_color": "",
   "modes": [
     {
       "mode_name": "Mobile",
       "operators": [
         {
-          "app_link": "",
+          "app_link": "https://play.google.com/store/apps/details?id\u003dcom.mventus.selfcare.activity",
           "circles": [
             {
+              "alert_font_family": "fonts/ib.ttf",
+              "alert_message": "പ്രിയമുള്ളവരേ,ഈ ആപ്പിൽ നൽകിയിരിക്കുന്ന വിവരങ്ങളിൽ തെറ്റുകളുണ്ടാവാം.ദയവായി റീചാർജ് ചെയ്യുന്നതിന് മുമ്പ് വിവരങ്ങൾ കൃത്യമാണെന്ന് ഉറപ്പ് വരുത്തുക ",
               "name": "Kerala",
               "plans": [
                 {
@@ -29,6 +34,24 @@
                   "text_color": "",
                   "updated_timestamp": 1768754294434,
                   "validity": "365 Days"
+                },
+                {
+                  "amount": 1985,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1768754842871",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [],
+                  "text_color": "",
+                  "updated_timestamp": 1768754842871,
+                  "validity": "265  Days"
                 }
               ],
               "tags": []
