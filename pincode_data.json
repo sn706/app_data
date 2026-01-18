@@ -84,7 +84,7 @@
           "content": "തയ്യേനി",
           "font_family": "ib.ttf",
           "text_color": "#33691E",
-          "type": "TEXT"
+          "type": "TITLE"
         },
         {
           "background_color": "",
@@ -105,7 +105,7 @@
           "content": "തയ്യേനി കൂമ്പൻ",
           "font_family": "ib.ttf",
           "text_color": "#1B5E20",
-          "type": "TEXT"
+          "type": "SUBTITLE"
         },
         {
           "background_color": "",
