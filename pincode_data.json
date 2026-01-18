@@ -4,14 +4,21 @@
       "additional_details": [
         {
           "background_color": "",
-          "content": "Sub Division",
+          "content": "Post Office Details ",
           "font_family": "",
           "text_color": "",
           "type": "TITLE"
         },
         {
           "background_color": "",
-          "content": "Nileswar",
+          "content": "Sub Division",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Nileswar ",
           "font_family": "",
           "text_color": "",
           "type": "TEXT"
