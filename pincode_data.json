@@ -22,6 +22,20 @@
           "font_family": "",
           "text_color": "",
           "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Sub Post Office ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Thuruthi",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
         }
       ],
       "district": "Kasargod",
