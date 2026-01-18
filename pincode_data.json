@@ -80,10 +80,10 @@
           "type": "TEXT"
         },
         {
-          "background_color": "red",
+          "background_color": "",
           "content": "തയ്യേനി",
           "font_family": "ib.ttf",
-          "text_color": "white",
+          "text_color": "#33691E",
           "type": "SUBTITLE"
         },
         {
