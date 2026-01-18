@@ -4,6 +4,194 @@
       "additional_details": [
         {
           "background_color": "",
+          "content": "Post Office Details ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Sub Division",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Kanhangad ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Division ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Kasargod ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Region ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Calicut ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Head Office ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Kanhangad ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Sub Post Office ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Anandashrama ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        }
+      ],
+      "district": "Kasargod ",
+      "email": "",
+      "font_family": "",
+      "id": "pin_1768716422740",
+      "latitude": "",
+      "longitude": "",
+      "office_type": "Branch Post Office ",
+      "phone": "",
+      "pincode": "671531",
+      "place_name": "Ajanur",
+      "search_keywords": [],
+      "state": "Kerala ",
+      "whatsapp": ""
+    },
+    {
+      "additional_details": [
+        {
+          "background_color": "",
+          "content": "Post Office Details ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Sub Division",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Kanhangad ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Division ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Kasargod ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Region",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Calicut ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Head Office ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Kasargod ",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Sub Post Office ",
+          "font_family": "",
+          "text_color": "",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "Mulleria",
+          "font_family": "",
+          "text_color": "",
+          "type": "TEXT"
+        }
+      ],
+      "district": "Kasargod ",
+      "email": "",
+      "font_family": "",
+      "id": "pin_1768716137353",
+      "latitude": "",
+      "longitude": "",
+      "office_type": "Branch Post Office ",
+      "phone": "",
+      "pincode": "671543",
+      "place_name": "Adur",
+      "search_keywords": [],
+      "state": "Kerala ",
+      "whatsapp": ""
+    },
+    {
+      "additional_details": [
+        {
+          "background_color": "",
           "content": "കാസർഗോഡ് പുതിയ ബസ് സ്റ്റാൻഡിൽ നിന്നും ഏകദേശം 2 കി.മീ ദൂരത്തിലാണ് ഈ പ്രദേശം സ്ഥിതി ചെയ്യുന്നത്.",
           "font_family": "ib.ttf",
           "text_color": "",
