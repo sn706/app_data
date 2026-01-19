@@ -1,42 +1,30 @@
 {
-  "disclaimer": "വിവരങ്ങളിൽ മാറ്റം വരാം. ഔദ്യോഗിക വിവരങ്ങൾക്ക് ബന്ധപ്പെട്ടവരെ സമീപിക്കുക.",
+  "disclaimer": "വിവരങ്ങളിൽ മാറ്റം വരാം. ",
+  "disclaimer_background_color": "",
+  "disclaimer_font_family": "fonts/ib.ttf",
+  "disclaimer_text_color": "#1A237E",
   "phone_categories": [
     {
       "image": "",
       "items": [
         {
           "category": "Emergency ",
-          "description": "",
+          "description": "Kerala Police ",
+          "font_family": "",
           "icon": "",
-          "id": "ph_1768137885528",
-          "is_new": false,
-          "name": "പോലീസ്",
-          "number": "100",
-          "subcategory": "",
-          "tags": [],
-          "updated_date": "",
-          "views": 0
-        },
-        {
-          "category": "Emergency ",
-          "description": "",
-          "icon": "",
-          "id": "ph_1767973413515",
+          "id": "ph_1768840867922",
           "is_new": false,
           "name": "Police",
           "number": "100",
           "subcategory": "",
-          "tags": [],
-          "updated_date": "",
+          "tags": [
+            "Emergency",
+            "Police"
+          ],
+          "updated_date": "19-01-2026 10:11 pm",
           "views": 0
         }
       ],
-      "name": "Emergency ",
-      "subcategories": []
-    },
-    {
-      "image": "",
-      "items": [],
       "name": "Emergency ",
       "subcategories": []
     }
