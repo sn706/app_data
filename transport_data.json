@@ -1,5 +1,25 @@
 {
-  "buses": [],
+  "buses": [
+    {
+      "agency_type": "KSRTC",
+      "bus_id": "bus_1768840690488",
+      "contact_numbers": [],
+      "name": "Moolamattom - Koombara",
+      "route_name": "Moolamattom - Koombara ",
+      "stops": [
+        {
+          "place": "Moolamattom ",
+          "time": "3:00 PM"
+        },
+        {
+          "place": "Koombara ",
+          "time": "12:00 AM"
+        }
+      ],
+      "type": "Fast Passenger",
+      "updated_date": "19-01-26"
+    }
+  ],
   "disclaimer": "നൽകിയിരിക്കുന്ന വിവരങ്ങളിൽ മാറ്റങ്ങൾ വരാം.ദയവായി അതാത് ഓപ്പറേറ്ററുമായി ബന്ധപ്പെടുക",
   "disclaimer_background_color": "#E8EAF6",
   "disclaimer_font_family": "fonts/ib.ttf",
