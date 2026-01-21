@@ -4,29 +4,26 @@
     {
       "content_blocks": [
         {
-          "background_color": "#DD3200",
-          "content": "മൂലമറ്റം പുതിയ മാറ്റത്തിൻ്റെ പിതയിൽ",
+          "background_color": "",
+          "content": "ഗൂഗിൾ ജെമിനി ",
+          "font_family": "ib",
           "table_data": [],
-          "text_color": "#000000",
+          "text_alignment": "LEFT",
+          "text_color": "",
           "type": "title"
-        },
-        {
-          "background_color": "#303F9F",
-          "content": "പുതിയ മാറ്റം മൂലമറ്റത്തും",
-          "table_data": [],
-          "text_color": "#B2FF59",
-          "type": "subtitle"
         }
       ],
-      "id": "art_1768233299647",
+      "font_family": "ib.ttf",
+      "id": "art_1769009822087",
       "search_keywords": [
-        "moolamattom",
-        "idukki"
+        "Google",
+        "Gemini",
+        "ai"
       ],
-      "short_description": "",
+      "short_description": "ഗൂഗിൾ അവതരിപ്പിച്ച AI ആണ് ജെമിനി.",
       "thumbnail": "",
-      "title": "മൂലമറ്റം പുതിയ മാറ്റത്തോടെ",
-      "updated_timestamp": 1768233299647
+      "title": "ഗൂഗിളിൻ്റെ AI",
+      "updated_timestamp": 1769009822087
     }
   ]
 }
