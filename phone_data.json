@@ -55,6 +55,22 @@
       "items": [
         {
           "category": "KSRTC",
+          "description": "",
+          "font_family": "e",
+          "icon": "",
+          "id": "ph_1769179341484",
+          "is_new": false,
+          "name": "Kasargod ",
+          "number": "125",
+          "subcategory": "Kasargod ",
+          "tags": [
+            "KSRTC "
+          ],
+          "updated_date": "23-01-2026 08:12 pm",
+          "views": 0
+        },
+        {
+          "category": "KSRTC",
           "description": "Moolamattom ",
           "font_family": "",
           "icon": "",
