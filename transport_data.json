@@ -39,6 +39,33 @@
         "Adoor",
         "Pathanamthitta"
       ]
+    },
+    {
+      "agency_type": "KSRTC",
+      "bus_id": "bus_1769480565677",
+      "contact_numbers": [],
+      "font_family": "fonts/ib.ttf",
+      "name": "Moolamattom - Elappally ",
+      "route_name": "Moolamattom - Elappally ",
+      "stops": [
+        {
+          "place": "Moolamattom ",
+          "time": "10:00 AM"
+        },
+        {
+          "place": "Elappally ",
+          "time": "10:30 AM"
+        }
+      ],
+      "type": "Ordinary ",
+      "updated_date": "27-01-26",
+      "via_routes": [
+        "മൂലമറ്റം",
+        "മണപ്പാടി",
+        "ഇലപ്പള്ളി വെള്ളച്ചാട്ടം",
+        "ഇലപ്പള്ളി ടൗൺ",
+        "പാത്തിക്കപ്പാറ ജംഗഷൻ"
+      ]
     }
   ],
   "disclaimer": "സമയക്രമത്തിൽ മാറ്റങ്ങൾ സംഭവിക്കാം.",
