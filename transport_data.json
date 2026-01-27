@@ -2,27 +2,45 @@
   "buses": [
     {
       "agency_type": "KSRTC",
-      "bus_id": "bus_1768840690488",
+      "bus_id": "bus_1769480053008",
       "contact_numbers": [],
-      "name": "Moolamattom - Koombara",
-      "route_name": "Moolamattom - Koombara ",
+      "font_family": "fonts/e.ttf",
+      "name": "Kanhangad - Pathanamthitta ",
+      "route_name": "Kanhangad - Pathanamthitta ",
       "stops": [
         {
-          "place": "Moolamattom ",
-          "time": "3:00 PM"
+          "place": "Pala",
+          "time": "5:00 PM"
         },
         {
-          "place": "Koombara ",
-          "time": "12:00 AM"
+          "place": "Kanhangad ",
+          "time": "5:00 AM"
         }
       ],
-      "type": "Fast Passenger",
-      "updated_date": "19-01-26"
+      "type": "Super Fast",
+      "updated_date": "27-01-26",
+      "via_routes": [
+        "Kanhangad",
+        "Vellarikkundu",
+        "Chittarikkal",
+        "Cherupuzha",
+        "Alakkode",
+        "Kannur",
+        "Kozhikkode",
+        "Thrissur",
+        "Perumbavoor",
+        "Muvattupuzha",
+        "Thodupuzha",
+        "Vaikkom",
+        "Elanji",
+        "Ramapuram",
+        "Pala",
+        "Kottayam",
+        "Adoor",
+        "Pathanamthitta"
+      ]
     }
   ],
-  "disclaimer": "നൽകിയിരിക്കുന്ന വിവരങ്ങളിൽ മാറ്റങ്ങൾ വരാം.ദയവായി അതാത് ഓപ്പറേറ്ററുമായി ബന്ധപ്പെടുക",
-  "disclaimer_background_color": "#E8EAF6",
-  "disclaimer_font_family": "fonts/ib.ttf",
-  "disclaimer_text_color": "#1A237E",
+  "disclaimer": "സമയക്രമത്തിൽ മാറ്റങ്ങൾ സംഭവിക്കാം.",
   "ksrtc_depots": []
 }
