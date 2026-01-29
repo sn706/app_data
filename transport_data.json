@@ -1,0 +1,172 @@
+{
+  "buses": [
+    {
+      "agency_type": "Private",
+      "bus_id": "bus_1769655568892",
+      "contact_numbers": [],
+      "font_family": "fonts/ib.ttf",
+      "name": "Sun Rise",
+      "route_name": "Cheekkad - Iritty",
+      "stops": [
+        {
+          "place": "Cheekkad",
+          "time": "5:30 AM"
+        },
+        {
+          "place": "Alakkode",
+          "time": "6:00 AM"
+        },
+        {
+          "place": "Karuvanchal",
+          "time": "6:10 AM"
+        },
+        {
+          "place": "Kudiyanmala",
+          "time": "7:10 AM"
+        },
+        {
+          "place": "Chemperi",
+          "time": "7:30 AM"
+        },
+        {
+          "place": "Iritty",
+          "time": "8:35 AM"
+        }
+      ],
+      "type": "Ordinary",
+      "updated_date": "29-01-2026",
+      "via_routes": [
+        "ചീക്കാട്",
+        "ആലക്കോട്",
+        "കരുവഞ്ചാൽ",
+        "കുടിയാൻമല",
+        "ചെമ്പേരി",
+        "ഇരിട്ടി"
+      ]
+    },
+    {
+      "agency_type": "Private",
+      "bus_id": "bus_1769655825282",
+      "contact_numbers": [],
+      "font_family": "fonts/ib.ttf",
+      "name": "Sun Rise",
+      "route_name": "Iritty - Cheekkad",
+      "stops": [
+        {
+          "place": "Iritty",
+          "time": "8:42 AM"
+        },
+        {
+          "place": "Payyavoor",
+          "time": "9:35 AM"
+        },
+        {
+          "place": "Chemperi",
+          "time": "9:50 AM"
+        },
+        {
+          "place": "Alakkode",
+          "time": "10:50 AM"
+        },
+        {
+          "place": "Cheekkad",
+          "time": "11:20 AM"
+        }
+      ],
+      "type": "Ordinary",
+      "updated_date": "29-01-2026",
+      "via_routes": [
+        "ഇരിട്ടി",
+        "പയ്യാവൂർ",
+        "ചെമ്പേരി",
+        "ആലക്കോട്",
+        "ചീക്കാട്"
+      ]
+    },
+    {
+      "agency_type": "Private",
+      "bus_id": "bus_1769656056346",
+      "contact_numbers": [],
+      "font_family": "fonts/ib.ttf",
+      "name": "Sun Rise",
+      "route_name": "Manakkadavu - Iritty",
+      "stops": [
+        {
+          "place": "Manakkadavu",
+          "time": "11:40 AM"
+        },
+        {
+          "place": "Alakkode",
+          "time": "12:20 PM"
+        },
+        {
+          "place": "Naduvil",
+          "time": "12:55 PM"
+        },
+        {
+          "place": "Chemperi",
+          "time": "1:10 PM"
+        },
+        {
+          "place": "Iritty",
+          "time": "2:20 PM"
+        }
+      ],
+      "type": "Ordinary",
+      "updated_date": "29-01-2026",
+      "via_routes": [
+        "മണക്കടവ്",
+        "ആലക്കോട്",
+        "നടുവിൽ",
+        "ചെമ്പേരി",
+        "ഇരിട്ടി"
+      ]
+    },
+    {
+      "agency_type": "Private",
+      "bus_id": "bus_1769656260215",
+      "contact_numbers": [],
+      "font_family": "fonts/ib.ttf",
+      "name": "Sun Rise",
+      "route_name": "Iritty - Manakkadav",
+      "stops": [
+        {
+          "place": "Iritty",
+          "time": "2:40 PM"
+        },
+        {
+          "place": "Payyavoor",
+          "time": "3:30 PM"
+        },
+        {
+          "place": "Chemperi",
+          "time": "3:45 PM"
+        },
+        {
+          "place": "Naduvil",
+          "time": "4:00 PM"
+        },
+        {
+          "place": "Alakkode",
+          "time": "4:47 PM"
+        },
+        {
+          "place": "Manakkadavu",
+          "time": "5:15 PM"
+        }
+      ],
+      "type": "Ordinary",
+      "updated_date": "29-01-2026",
+      "via_routes": [
+        "ഇരിട്ടി",
+        "പയ്യാവൂർ",
+        "ചെമ്പേരി",
+        "നടുവിൽ",
+        "ആലക്കോട്",
+        "മണക്കടവ്"
+      ]
+    }
+  ],
+  "disclaimer": "സമയക്രമത്തിൽ മാറ്റങ്ങൾ സംഭവിക്കാം.",
+  "ksrtc_depots": []
+}
