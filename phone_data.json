@@ -1,0 +1,30 @@
+{
+  "disclaimer": "വിവരങ്ങളിൽ മാറ്റം വരാം. ഔദ്യോഗിക വിവരങ്ങൾക്ക് ബന്ധപ്പെട്ടവരെ സമീപിക്കുക.",
+  "phone_categories": [
+    {
+      "image": "",
+      "items": [
+        {
+          "category": "Police",
+          "description": "",
+          "font_family": "",
+          "icon": "",
+          "id": "ph_1769788210744",
+          "is_new": false,
+          "name": "Adhur Police",
+          "number": " 04994260024",
+          "subcategory": "Kasargod",
+          "tags": [
+            "Police",
+            "Kasargod",
+            "Emergency"
+          ],
+          "updated_date": "30-01-2026 09:20 pm",
+          "views": 0
+        }
+      ],
+      "name": "Police",
+      "subcategories": []
+    }
+  ]
+}
