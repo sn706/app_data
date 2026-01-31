@@ -12,28 +12,11 @@
     },
     {
       "image": "",
-      "items": [
-        {
-          "category": "Fire",
-          "description": "",
-          "font_family": "",
-          "icon": "",
-          "id": "ph_1769829900965",
-          "is_new": false,
-          "name": "Moolamattom ",
-          "number": "",
-          "subcategory": "Idukki",
-          "tags": [],
-          "timestamp": 1769829900974,
-          "updated_date": "31-01-2026 08:55 am",
-          "views": 0
-        }
-      ],
+      "items": [],
       "name": "Fire",
       "subcategories": [
         "Idukki"
       ]
     }
-  ],
-  "show_native_ad": true
+  ]
 }
