@@ -8,9 +8,11 @@
       "mode_name": "Mobile",
       "operators": [
         {
-          "app_link": "",
+          "app_link": "https://play.google.com/store/apps/details?id\u003dcom.mventus.selfcare.activity",
           "circles": [
             {
+              "alert_font_family": "",
+              "alert_message": "",
               "name": "Kerala",
               "plans": [
                 {
@@ -623,7 +625,7 @@
           ],
           "image": "logo_vi",
           "name": "Vi",
-          "website": ""
+          "website": "https://www.myvi.in/prepaid/best-prepaid-plans"
         }
       ]
     },
