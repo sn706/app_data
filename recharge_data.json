@@ -1,8 +1,5 @@
 {
   "disclaimer": "",
-  "disclaimer_background_color": "",
-  "disclaimer_font_family": "",
-  "disclaimer_text_color": "",
   "modes": [
     {
       "mode_name": "Mobile",
@@ -12,36 +9,12 @@
           "circles": [
             {
               "name": "Kerala",
-              "plans": [
-                {
-                  "amount": 399,
-                  "app_subscriptions": "",
-                  "background_color": "",
-                  "benefits": [
-                    "Get Half Day Unlimited Data From 12 AM Midnight to 12 PM!!.\n\nWeekend Data Rollover.\n\nGet 1 Month access to JioHotstar Mobile \u0026 enjoy online streaming of exclusive TV shows",
-                    "serials",
-                    "live sports",
-                    "dubbed Hollywood movies.\n\n\n\n\n"
-                  ],
-                  "calls": "Unlimited ",
-                  "channels": "",
-                  "custom_description": "",
-                  "data": "2 GB Day",
-                  "font_family": "",
-                  "id": "p_1769961379235",
-                  "short_desc": "Vi Super Hero",
-                  "sms": "100 SMS Day ",
-                  "tags": [],
-                  "text_color": "",
-                  "updated_timestamp": 1769961379235,
-                  "validity": "28 Days"
-                }
-              ],
+              "plans": [],
               "tags": []
             }
           ],
-          "image": "logo_vi (vodafone \u0026 idea)",
-          "name": "Vi (Vodafone \u0026 Idea)",
+          "image": "logo_planinfo website",
+          "name": "Planinfo Website",
           "website": ""
         }
       ]
