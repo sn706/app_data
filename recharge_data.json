@@ -1,8 +1,8 @@
 {
-  "disclaimer": "ഈ ആപ്പിൽ നൽകിയിരിക്കുന്ന റീച്ചാർജ് പ്ലാനുകളെക്കുറിച്ചുള്ള വിവരങ്ങൾ ഇൻഫർമേഷനു വേണ്ടി മാത്രമുള്ളതാണ്. മൊബൈൽ ഓപ്പറേറ്റർമാർ പ്ലാനുകളും നിരക്കുകളും ഏത് സമയത്തും മാറ്റിയേക്കാം.ദയവായി റീച്ചാർജ് ചെയ്യുന്നതിന് മുൻപ് ദയവായി അതാത് ഓപ്പറേറ്ററുടെ ഔദ്യോഗിക വെബ്സൈറ്റോ ആപ്പോ സന്ദർശിച്ച് വിവരങ്ങൾ ഉറപ്പുവരുത്തുക.ഏതെങ്കിലും തരത്തിലുള്ള നഷ്ടങ്ങൾക്ക് ഓപ്പറേറ്ററിനോ ആപ്പ് ഡവലപ്പറിനോ ഉത്തരവാദിത്വം ഉണ്ടായിരിക്കുന്നതല്ല.",
+  "disclaimer": "",
   "disclaimer_background_color": "",
   "disclaimer_font_family": "",
-  "disclaimer_text_color": "red",
+  "disclaimer_text_color": "",
   "modes": [
     {
       "mode_name": "Mobile",
@@ -15,37 +15,25 @@
               "plans": [
                 {
                   "amount": 399,
-                  "app_subscriptions": "Get 1 Month access to JioHotstar Mobile \u0026 enjoy online streaming of exclusive TV shows, serials, live sports, dubbed Hollywood movies.",
+                  "app_subscriptions": "",
                   "background_color": "",
                   "benefits": [
-                    "Get Half Day Unlimited Data From 12 AM Midnight to 12 PM!!.\nWeekend Data Rollover.\nGet 1 Month access to JioHotstar Mobile \u0026 enjoy online streaming of exclusive TV shows",
+                    "Get Half Day Unlimited Data From 12 AM Midnight to 12 PM!!.\n\nWeekend Data Rollover.\n\nGet 1 Month access to JioHotstar Mobile \u0026 enjoy online streaming of exclusive TV shows",
                     "serials",
                     "live sports",
-                    "dubbed Hollywood movies.\nUp to 2GB of backup Data every month",
-                    "at no extra cost",
-                    "Claim via Vi App.\n\nEnjoy data without limits from 12am to 12pm. Carry Mon-Fri unused Data into Sat-Sun.  Post daily quota",
-                    "data speed will be upto 64Kbps. Post daily SMS quota",
-                    "charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only. To check non-commercial usage policy and 5G Unlimited Data terms \u0026 conditions",
-                    "visit Vi app/website.\n\n\n\n\n"
+                    "dubbed Hollywood movies.\n\n\n\n\n"
                   ],
                   "calls": "Unlimited ",
                   "channels": "",
                   "custom_description": "",
-                  "data": "2\n\nGB / Day\n\n",
+                  "data": "2 GB Day",
                   "font_family": "",
-                  "id": "p_1769960057741",
-                  "short_desc": "Vi Super Hero ",
-                  "sms": "100 SMS /Day",
-                  "tags": [
-                    "Unlimited 5G",
-                    "2  GB Day",
-                    "28 Days",
-                    "12 AM To 12 PM Unlimited",
-                    "Weekend Data Rollover",
-                    "JioHotstar"
-                  ],
+                  "id": "p_1769961379235",
+                  "short_desc": "Vi Super Hero",
+                  "sms": "100 SMS Day ",
+                  "tags": [],
                   "text_color": "",
-                  "updated_timestamp": 1769960057742,
+                  "updated_timestamp": 1769961379235,
                   "validity": "28 Days"
                 }
               ],
