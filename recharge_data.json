@@ -532,7 +532,7 @@
                   "font_family": "",
                   "id": "p_1769924264497",
                   "short_desc": "",
-                  "sms": "100",
+                  "sms": "100 Day",
                   "tags": [
                     "Unlimited 5G",
                     "2 GB Day",
@@ -541,7 +541,7 @@
                     "Jio Hotstar"
                   ],
                   "text_color": "",
-                  "updated_timestamp": 1769924264497,
+                  "updated_timestamp": 1769925612316,
                   "validity": "365 Days"
                 },
                 {
@@ -591,14 +591,14 @@
                     "Lionsgate Play",
                     "Amazon Prime Lite Subscription of 1 Year.  "
                   ],
-                  "calls": "",
+                  "calls": "Unlimited ",
                   "channels": "",
                   "custom_description": "",
                   "data": "2 GB Day",
                   "font_family": "",
                   "id": "p_1769924884866",
                   "short_desc": "Amazon Prime,Jio Hotstar ",
-                  "sms": "",
+                  "sms": "100 Day",
                   "tags": [
                     "Unlimited 5G",
                     "Vi Super Hero",
@@ -614,7 +614,7 @@
                     "Amazon Prime Lite"
                   ],
                   "text_color": "",
-                  "updated_timestamp": 1769924884867,
+                  "updated_timestamp": 1769925582651,
                   "validity": "365 Days"
                 }
               ],
