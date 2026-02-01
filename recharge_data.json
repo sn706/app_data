@@ -174,8 +174,8 @@
                     "Unlimited 5G",
                     "Unlimited 4G"
                   ],
-                  "text_color": "green",
-                  "updated_timestamp": 1769921623990,
+                  "text_color": "red",
+                  "updated_timestamp": 1769922780897,
                   "validity": "28 Days"
                 },
                 {
@@ -293,7 +293,7 @@
                   "channels": "",
                   "custom_description": "പരിധിയില്ലാതെ ഡാറ്റ, കോൾ പ്ലാൻ,56 ദിവസം കാലാവധി ",
                   "data": "Unlimited ",
-                  "font_family": "",
+                  "font_family": "fonts/ib.ttf",
                   "id": "p_1769922020125",
                   "short_desc": "",
                   "sms": "100 Day",
@@ -303,8 +303,8 @@
                     "56 Days",
                     "Vi NonStop Hero"
                   ],
-                  "text_color": "",
-                  "updated_timestamp": 1769922020125,
+                  "text_color": "red",
+                  "updated_timestamp": 1769922773348,
                   "validity": "56 Days"
                 },
                 {
