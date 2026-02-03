@@ -1327,7 +1327,7 @@
                   "channels": "",
                   "custom_description": "ഇന്ത്യ സന്ദർശിക്കുന്ന നേപ്പാൾ,ഭൂട്ടാൻ എന്നീ രാജ്യങ്ങളിൽ നിന്നുള്ളവർക്കുള്ള പ്ലാനാണിത്.",
                   "data": "1 GB Day",
-                  "font_family": "fonts/ib ttf",
+                  "font_family": "fonts/ib.ttf",
                   "id": "p_1770134033867",
                   "short_desc": "FRC_559",
                   "sms": "100 SMS Day",
@@ -1338,7 +1338,7 @@
                     "1 GB Day"
                   ],
                   "text_color": "red",
-                  "updated_timestamp": 1770134174521,
+                  "updated_timestamp": 1770135841184,
                   "validity": "90 Days"
                 },
                 {
