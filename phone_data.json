@@ -1,0 +1,30 @@
+{
+  "disclaimer": "വിവരങ്ങളിൽ മാറ്റം വരാം. ഔദ്യോഗിക വിവരങ്ങൾക്ക് ബന്ധപ്പെട്ടവരെ സമീപിക്കുക.",
+  "phone_categories": [
+    {
+      "image": "",
+      "items": [
+        {
+          "category": "KSRTC",
+          "description": "",
+          "font_family": "",
+          "icon": "",
+          "id": "ph_1770256949678",
+          "is_new": false,
+          "name": "ARYANAD",
+          "number": "9188933700",
+          "subcategory": "",
+          "tags": [
+            "Travel",
+            "KSRTC",
+            "Kerala "
+          ],
+          "updated_date": "05-02-2026 07:32 am",
+          "views": 0
+        }
+      ],
+      "name": "KSRTC",
+      "subcategories": []
+    }
+  ]
+}
