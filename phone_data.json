@@ -5,25 +5,27 @@
       "image": "",
       "items": [
         {
-          "category": "KSRTC",
+          "addresses": [],
+          "category": "Important ",
           "description": "",
+          "emails": [],
           "font_family": "",
           "icon": "",
-          "id": "ph_1770256949678",
+          "id": "ph_1770391151285",
           "is_new": false,
-          "name": "ARYANAD",
-          "number": "9188933700",
-          "subcategory": "",
+          "name": "Emergency Service ",
+          "number": "112",
+          "phone_numbers": [],
+          "subcategory": "Emergency ",
           "tags": [
-            "Travel",
-            "KSRTC",
-            "Kerala "
+            "Emergency "
           ],
-          "updated_date": "05-02-2026 07:32 am",
-          "views": 0
+          "updated_date": "06-02-2026 08:49 pm",
+          "views": 0,
+          "whatsapp_numbers": []
         }
       ],
-      "name": "KSRTC",
+      "name": "Important ",
       "subcategories": []
     }
   ]
