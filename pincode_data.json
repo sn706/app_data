@@ -1,0 +1,53 @@
+{
+  "pincode_data": [
+    {
+      "additional_details": [
+        {
+          "background_color": "blue",
+          "content": "Calicut Region",
+          "font_family": "",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "Kasaragod Division",
+          "font_family": "",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "Nileshwar Sub Division",
+          "font_family": "",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "Kanhangad HO",
+          "font_family": "",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        }
+      ],
+      "district": "Kasargod ",
+      "email": "thuruthiso@indiapost.gov.in",
+      "font_family": "",
+      "id": "pin_1770386247127",
+      "latitude": "",
+      "longitude": "",
+      "office_type": "Branch Post Office",
+      "phone": "04672260660",
+      "pincode": "671351",
+      "place_name": "Achanthuruthi",
+      "search_keywords": [],
+      "state": "Kerala ",
+      "whatsapp": ""
+    }
+  ]
+}
