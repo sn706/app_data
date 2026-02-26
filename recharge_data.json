@@ -37,13 +37,69 @@
                   "short_desc": "",
                   "sms": "100 SMS Day",
                   "tags": [
-                    "Unlimited DataJio Hotstar",
+                    "Unlimited Data",
+                    "Jio Hotstar",
                     "Vi Movies",
-                    "OTT"
+                    "OTT",
+                    "28 Days"
                   ],
                   "text_color": "",
-                  "updated_timestamp": 1772071731291,
+                  "updated_timestamp": 1772071926956,
                   "validity": "28 Days"
+                },
+                {
+                  "amount": 398,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Enjoy full day Unlimited data",
+                    "Everyday + Unlimited Calls + 100 SMS/day valid for 28 days. Post daily quota",
+                    "data speed will be upto 64Kbps. Post daily SMS quota",
+                    "charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only. To check non-commercial usage policy and 5G Unlimited Data terms \u0026 conditions",
+                    "visit Vi app/website."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "Unlimited ",
+                  "font_family": "",
+                  "id": "p_1772071915773",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Unlimited Data",
+                    "28 Days"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1772071915773,
+                  "validity": "28 Days"
+                },
+                {
+                  "amount": 698,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Enjoy full day Unlimited data",
+                    "Everyday + Unlimited Calls + 100 SMS/day valid for 56 days. Post daily quota",
+                    "data speed will be upto 64Kbps. Post daily SMS quota",
+                    "charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only. To check non-commercial usage policy and 5G Unlimited Data terms \u0026 conditions",
+                    "visit Vi app/website."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "Unlimited ",
+                  "font_family": "",
+                  "id": "p_1772072002798",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Unlimited Data",
+                    "56 Days"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1772072002798,
+                  "validity": "56 Days"
                 }
               ],
               "tags": []
