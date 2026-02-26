@@ -19,10 +19,18 @@
                   "amount": 449,
                   "app_subscriptions": "Jio Hotstar.Vi Movies \u0026 TV.SonyLIV.ZEE5.FanCode",
                   "background_color": "",
-                  "benefits": [],
+                  "benefits": [
+                    "Enjoy Full Day Unlimited Data",
+                    "Everyday + Unlimited Calls + 100 SMS/Day valid for 28 Days. Get JioHotstar + Vi Movies \u0026 TV Super subscription of 28 Days. Includes access to SonyLIV",
+                    "ZEE5",
+                    "FanCode \u0026 16 more OTTs on TV \u0026 Mobile. Post daily quota",
+                    "data speed will be upto 64Kbps. Post daily SMS quota",
+                    "charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only. To check non-commercial usage policy and 5G Unlimited Data terms \u0026 conditions",
+                    "visit Vi app/website."
+                  ],
                   "calls": "Unlimited ",
                   "channels": "",
-                  "custom_description": "Enjoy Full Day Unlimited Data, Everyday + Unlimited Calls + 100 SMS/Day valid for 28 Days. Get JioHotstar + Vi Movies \u0026 TV Super subscription of 28 Days. Includes access to SonyLIV, ZEE5, FanCode \u0026 16 more OTTs on TV \u0026 Mobile. Post daily quota, data speed will be upto 64Kbps. Post daily SMS quota, charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only. To check non-commercial usage policy and 5G Unlimited Data terms \u0026 conditions, visit Vi app/website.",
+                  "custom_description": "",
                   "data": "Unlimited ",
                   "font_family": "",
                   "id": "p_1772071578165",
@@ -34,7 +42,7 @@
                     "OTT"
                   ],
                   "text_color": "",
-                  "updated_timestamp": 1772071578166,
+                  "updated_timestamp": 1772071731291,
                   "validity": "28 Days"
                 }
               ],
