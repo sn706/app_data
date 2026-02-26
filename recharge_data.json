@@ -17,7 +17,7 @@
               "plans": [
                 {
                   "amount": 399,
-                  "app_subscriptions": "Jio Hotstar.",
+                  "app_subscriptions": "Jio Hotstar..Vi Movies",
                   "background_color": "",
                   "benefits": [
                     "Enjoy 2 GB/Day + Unlimited Calls + 100 SMS/day valid for 28 days. Get JioHotstar Mobile subscription for 1 Month. Enjoy data without limits from 12am to 12pm. Carry Mon-Fri unused Data into Sat-Sun. Upto 2GB of Backup Data every month at no extra cost. Post daily quota",
@@ -27,7 +27,7 @@
                   ],
                   "calls": "Unlimited Call",
                   "channels": "",
-                  "custom_description": "Get Half Day Unlimited Data From 12 AM Midnight to 12 PM!!.\n\nWeekend Data Rollover.\n\nGet 1 Month access to JioHotstar Mobile \u0026 enjoy online streaming of exclusive TV shows, serials, live sports, dubbed Hollywood movies.\n\nUp to 2GB of backup Data every month, at no extra cost. Claim via ViApp\n\n",
+                  "custom_description": "Get Half Day Unlimited Data From 12 AM Midnight to 12 PM!!..\n\nWeekend Data Rollover..\n\nGet 1 Month access to JioHotstar Mobile \u0026 enjoy online streaming of exclusive TV shows, serials, live sports, dubbed Hollywood movies..\n\nUp to 2GB of backup Data every month, at no extra cost. Claim via ViApp\n\n",
                   "data": "2 GB Day",
                   "font_family": "",
                   "id": "p_1772124013663",
@@ -39,7 +39,7 @@
                     "Jio Hotstar"
                   ],
                   "text_color": "",
-                  "updated_timestamp": 1772124065926,
+                  "updated_timestamp": 1772126351865,
                   "validity": "28 Days"
                 }
               ],
