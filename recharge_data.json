@@ -16,90 +16,30 @@
               "name": "Kerala",
               "plans": [
                 {
-                  "amount": 449,
-                  "app_subscriptions": "Jio Hotstar.Vi Movies \u0026 TV.SonyLIV.ZEE5.FanCode",
+                  "amount": 399,
+                  "app_subscriptions": "Jio Hotstar.",
                   "background_color": "",
                   "benefits": [
-                    "Enjoy Full Day Unlimited Data",
-                    "Everyday + Unlimited Calls + 100 SMS/Day valid for 28 Days. Get JioHotstar + Vi Movies \u0026 TV Super subscription of 28 Days. Includes access to SonyLIV",
-                    "ZEE5",
-                    "FanCode \u0026 16 more OTTs on TV \u0026 Mobile. Post daily quota",
+                    "Enjoy 2 GB/Day + Unlimited Calls + 100 SMS/day valid for 28 days. Get JioHotstar Mobile subscription for 1 Month. Enjoy data without limits from 12am to 12pm. Carry Mon-Fri unused Data into Sat-Sun. Upto 2GB of Backup Data every month at no extra cost. Post daily quota",
                     "data speed will be upto 64Kbps. Post daily SMS quota",
                     "charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only. To check non-commercial usage policy and 5G Unlimited Data terms \u0026 conditions",
                     "visit Vi app/website."
                   ],
-                  "calls": "Unlimited ",
+                  "calls": "Unlimited Call",
                   "channels": "",
-                  "custom_description": "",
-                  "data": "Unlimited ",
+                  "custom_description": "Get Half Day Unlimited Data From 12 AM Midnight to 12 PM!!.\n\nWeekend Data Rollover.\n\nGet 1 Month access to JioHotstar Mobile \u0026 enjoy online streaming of exclusive TV shows, serials, live sports, dubbed Hollywood movies.\n\nUp to 2GB of backup Data every month, at no extra cost. Claim via ViApp\n\n",
+                  "data": "2 GB Day",
                   "font_family": "",
-                  "id": "p_1772071578165",
+                  "id": "p_1772124013663",
                   "short_desc": "",
                   "sms": "100 SMS Day",
                   "tags": [
-                    "Unlimited Data",
-                    "Jio Hotstar",
-                    "Vi Movies",
-                    "OTT",
-                    "28 Days"
+                    "28 Days",
+                    "2 GB Day"
                   ],
                   "text_color": "",
-                  "updated_timestamp": 1772071926956,
+                  "updated_timestamp": 1772124013664,
                   "validity": "28 Days"
-                },
-                {
-                  "amount": 398,
-                  "app_subscriptions": "",
-                  "background_color": "",
-                  "benefits": [
-                    "Enjoy full day Unlimited data",
-                    "Everyday + Unlimited Calls + 100 SMS/day valid for 28 days. Post daily quota",
-                    "data speed will be upto 64Kbps. Post daily SMS quota",
-                    "charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only. To check non-commercial usage policy and 5G Unlimited Data terms \u0026 conditions",
-                    "visit Vi app/website."
-                  ],
-                  "calls": "Unlimited ",
-                  "channels": "",
-                  "custom_description": "",
-                  "data": "Unlimited ",
-                  "font_family": "",
-                  "id": "p_1772071915773",
-                  "short_desc": "",
-                  "sms": "100 SMS Day",
-                  "tags": [
-                    "Unlimited Data",
-                    "28 Days"
-                  ],
-                  "text_color": "",
-                  "updated_timestamp": 1772071915773,
-                  "validity": "28 Days"
-                },
-                {
-                  "amount": 698,
-                  "app_subscriptions": "",
-                  "background_color": "",
-                  "benefits": [
-                    "Enjoy full day Unlimited data",
-                    "Everyday + Unlimited Calls + 100 SMS/day valid for 56 days. Post daily quota",
-                    "data speed will be upto 64Kbps. Post daily SMS quota",
-                    "charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only. To check non-commercial usage policy and 5G Unlimited Data terms \u0026 conditions",
-                    "visit Vi app/website."
-                  ],
-                  "calls": "Unlimited ",
-                  "channels": "",
-                  "custom_description": "",
-                  "data": "Unlimited ",
-                  "font_family": "",
-                  "id": "p_1772072002798",
-                  "short_desc": "",
-                  "sms": "100 SMS Day",
-                  "tags": [
-                    "Unlimited Data",
-                    "56 Days"
-                  ],
-                  "text_color": "",
-                  "updated_timestamp": 1772072002798,
-                  "validity": "56 Days"
                 }
               ],
               "tags": []
