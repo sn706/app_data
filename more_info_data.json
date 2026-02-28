@@ -1,4 +1,25 @@
 {
   "disclaimer": "വിവരങ്ങൾ വെബ്സൈറ്റുകളിൽ നിന്നുള്ളതാണ്.",
-  "more_info_data": []
+  "more_info_data": [
+    {
+      "content_blocks": [
+        {
+          "background_color": "",
+          "content": "DrnKXCfZgFo",
+          "font_family": "",
+          "table_data": [],
+          "text_alignment": "CENTER",
+          "text_color": "",
+          "type": "video"
+        }
+      ],
+      "font_family": "",
+      "id": "art_1772296430644",
+      "search_keywords": [],
+      "short_description": "",
+      "thumbnail": "",
+      "title": "Hi",
+      "updated_timestamp": 1772296430644
+    }
+  ]
 }
