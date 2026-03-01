@@ -1,0 +1,600 @@
+{
+  "pincode_data": [
+    {
+      "additional_details": [
+        {
+          "background_color": "",
+          "content": "പയ്യന്നൂർ  നഗരത്തിൽ നിന്നും 43 കി. മീ അകലെ തൃക്കരിപ്പൂർ നിയോജക മണ്‌ഡലത്തിലെ ഈസ്റ്റ്‌ എളേരി പഞ്ചായത്തിൽ  സ്ഥിതി ചെയ്യുന്ന ഒരു മലയോര കുടിയേറ്റ ഗ്രാമമാണ് തയ്യേനി  .കാസർഗോഡ് ജില്ലയിലെ വെള്ളരിക്കുണ്ട് താലൂക്കിൽ പരപ്പ ബ്ളോക്കിൽ ചിറ്റാരിക്കൽ, പാലാവയൽ വില്ലേജ് ഉൾപ്പെടുന്ന ഗ്രാമപഞ്ചായത്താണ് 62.52 ചതുരശ്ര കിലോമീറ്റർ വിസ്തീർണ്ണമുള്ള ഈസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്ത്.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "കുടിയേറ്റം",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "ഈ  പ്രദേശത്ത് 1950 കളിലാണ് കുടിയേറ്റം  ആരംഭിക്കുന്നത്. രണ്ടാം ലോക മഹായുദ്ധ കാലത്ത്  മധ്യ തിരുവതാംകൂറിലെ മീനച്ചിൽ (പാലാ ) പ്രദേശങ്ങളിൽ  നിന്നും മലബാറിലേക്ക് ആളുകൾ കുടിയേറി തുടങ്ങിയതോടെയാണ്  തയ്യേനിയിലും കുടിയേറ്റം ആരംഭിക്കുന്നത്.മലബാർ കുടിയേറ്റത്തിൻറെ  ഭാഗമായി  എത്തിച്ചേർന്ന കൃഷിക്കാർ അന്ന് ഭൂമി അവകാശമായി അനുഭവിച്ചു വന്ന നാടുവാഴികളേയും ജന്മിമാരേയും സമീപിച്ച്  ഭൂമിവാങ്ങി കൃഷി ആരംഭിച്ചു. തുടക്കത്തിൽ ഹൃസ്വകാലവിളകൾ  ആയിരുന്നു പിന്നീട് തോട്ടവിളയിലേക്കും അവർ നീങ്ങി.ഒരുകാലത്ത് നിബിഡവനമായിരുന്ന തയ്യേനി  പ്രദേശം നസ്രാണി കുടിയേറ്റക്കാർ കൃഷിയിടമാക്കി മാറ്റി . മരച്ചീനിയുടെ കടന്നുവരവ്  തദ്ദേശിയരെക്കൂടി പട്ടിണിയിൽ നിന്നും രക്ഷപ്പെടുത്തി.വർഷങ്ങൾ  നീണ്ട  പരിശ്രമത്തിലൂടെ  പാഴ് മരങ്ങളും കുറ്റികാടുകളും നിറഞ്ഞ ഈ  മലയോര മേഖലയെ  കർഷകർ  ഒന്നാംതരം വിളഭൂമിയാക്കി മാറ്റി",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "തയ്യേനിയിലെ പ്രധാന കാർഷിക വിളകൾ",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "കമുക്,",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "തെങ്ങ്,",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "റബ്ബർ,",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "മരച്ചീനി,",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "ചേന,",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "മഞ്ഞൾ,",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "ഇഞ്ചി.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "പുരോഗതി",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown ",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "തയ്യേനി  എന്ന കുടിയേറ്റഗ്രാമ ത്തിൻ്റെ ചരിത്രം  നോക്കിയാൽ ഭൂരിഭാഗവും  നസ്രാണികൾ വന്നത് മൂലം ഉണ്ടായ സാമ്പത്തിക പുരോഗതിയാണ് .വളർച്ചയുടെ വിവിധഘട്ടങ്ങളിൽ വ്യാപാരസ്ഥാപനങ്ങൾ, വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾ , പോസ്റ്റോഫീസ് പോലുള്ള പൊതുസ്ഥാപനങ്ങൾ  സ്ഥാപിക്കപ്പെട്ടു.കത്തോലിക്കാ വൈദികരും  പള്ളിയും മുൻ‌കൈ എടുത്തിട്ടുള്ള വികസന രീതിയിൽ  ഏറിയപങ്കും നാട്ടുകാരുടെ ശ്രമദാനത്തിന്റെ ഫലമായി ഉണ്ടായിട്ടുള്ളതാണ്‌. മലയിടുക്കിലേക്കുള്ള റോഡുകൾ എല്ലാം തന്നെ ഇങ്ങനെ  പൊതു സഹകരണത്തിലൂടെ ഉണ്ടായിട്ടുള്ളവയാണ്‌. പിന്നീട് അവ പഞ്ചായത്തുകളും പി.ഡബ്ല്യു.ഡി.യും ഏറ്റെടുത്ത് ടാറിടുകയാണുണ്ടായത്. ഇങ്ങനെ തയ്യേനിയുടെ സർ‌വതോന്മുഖമായ വികസനത്തിൽ കുടിയേറ്റജനത വഹിച്ച പങ്ക് വളരെ വലുതാണ്‌.കുടിയേറ്റത്തിന്റെ പ്രാരംഭഘട്ടത്തിൽ  കനത്ത തിരിച്ചടികളോട് പടപൊരുതി  പിടിച്ചുനിന്ന കർഷകരുടെ കഠിനാധ്വാനത്തിന്റെ ഫലമായി തയ്യേനിയുടെ സാമൂഹിക സാംസ്‌കാരിക രംഗങ്ങളിൽ വിപ്ലവകരമായ മാറ്റങ്ങൾ  ഉണ്ടായി .ഏകദേശം അമ്പതു വർഷങ്ങൾ കൊണ്ട് മലയോരമേഖലയുടെ മുഖഛായതന്നെ മാറ്റി എടുക്കാൻ  കുടിയേറ്റകർഷകർ‌ക്കു കഴിഞ്ഞു.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "മലയോര  പ്രദേശങ്ങൾ",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown ",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "വായിക്കാനം ,അത്തിയടുക്കം, തായമുണ്ട,കൊയിലമ്പാറ,നമ്പ്യാർമുക്ക്,മീനഞ്ചേരി,കൂട്ടക്കുഴി,ചാവറഗിരി എന്നീ മലയോര  പ്രദേശങ്ങൾ ഈ ഗ്രാമത്തിന്റെ  ഭാഗമാണ് .",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾ",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown ",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "കേന്ദ്രസർക്കാരിന്റെ രാഷ്ട്രീയ മാധ്യമിക് ശിക്ഷാ അഭിയാൻ (ആർഎംഎസ്എ) പദ്ധതിയിലുൾപ്പെടുത്തി 2010 ൽ നിലവിലുണ്ടായിരുന്ന  യു പി സ്കൂൾ  ഹൈസ്കൂൾ   ആയി ഉയർത്തി. മലയോരത്ത് പട്ടികവർഗ വിദ്യാർഥികൾ കൂടുതലുള്ള വിദ്യാലയമാണ് തയ്യേനി ഗവ. ഹൈസ്കൂൾ.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "വിനോദ സഞ്ചാരം",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown ",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "തയ്യേനി കൂമ്പൻ- തയ്യേനിയിലെ ഏറ്റവും ഉയരം കൂടിയ കുന്നാണ്‌ തയ്യേനി കൂമ്പൻ.കൂമ്പൻ കുന്ന് കേരളത്തിലാണെങ്കിലും ഭാഗികമായി കർണാടക വനാതിർത്തിയോട് ചേർന്നാണ് കിടക്കുന്നത്. കോടഞ്ചേരി വനാതിർത്തിയിൽ സ്ഥിതിചെയ്യുന്ന  കൂമ്പൻ മല സാഹസിക സഞ്ചാരികളുടെ  പറുദീസയാണ്. മഴക്കാലത്ത്  കുന്നിന്റെ മുകളിൽ നിറയെ പുല്ലിന്റെ പച്ചപ്പാണ്. സമുദ്ര നിരപ്പിൽ നിന്നും ഏകദേശം രണ്ടായിരത്തിലധികം അടി  ഉയരത്തിലാണ് ഈ സ്ഥലം സ്ഥിതി ചെയ്യുന്നത് . കൂമ്പൻ മലയിൽ  നിന്നും നോക്കിയാൽ കിഴക്കൻ പ്രദേശങ്ങളായ തലക്കാവേരി,ബാഗമണ്ഡലം എന്നിവയും  പടിഞ്ഞാറ്      അറബിക്കടൽ വരെയുള്ള ഭാഗങ്ങൾ കാണാൻ കഴിയും.പുളിങ്ങോത്തു നിന്നും തയ്യേനി  വഴി  പത്ത് കിലോമീറ്റർ യാത്ര ചെയ്താൽ കൂമ്പൻ കുന്നിന്റെ അടിവാരത്തെത്താം. പുളിങ്ങോം മുതൽ തയ്യേനി വഴി അത്തിയടുക്കം വരെ ടാറിങ് റോഡുണ്ട്.ഇത് കഴിഞ്ഞാൽ കൂമ്പൻ കുന്നിന്റെ അടിവാരം വരെ മൺറോഡാണ്.തയ്യേനിയിൽ നിന്നുമുള്ള  ജീപ്പ്  ഡ്രൈവർമാരുടെ  സേവനം ഈ മല കയറാൻ സഹായകമാകും.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "ഗതാഗതം",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown ",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "തയ്യേനി ഗ്രാമത്തിൽ എത്തിച്ചേരാൻ പ്രധാനമായും  ബസ്‌ സംവിധാനം ആണ് ഉപയോഗിക്കുന്നത് .പയ്യന്നൂർ കെ എസ് ആർ ടി സി ഡിപ്പോയിൽ നിന്നുള്ള ബസുകളും സ്വകാര്യ ബസുകളും  ഇവിടേയ്ക്ക് എത്തിച്ചേരുന്നു.വിവിധ സമയങ്ങളിലായി ഏകദേശം 24 ബസ്‌ ട്രിപ്പുകൾ ഉണ്ട്.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "അടുത്തുള്ള പ്രധാന പട്ടണങ്ങൾ",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown ",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "പയ്യന്നൂർ",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "ചെറുപുഴ",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "പുളിങ്ങോം",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "പാലാവയൽ",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "ചിറ്റാരിക്കാൽ ",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "വെള്ളരിക്കുണ്ട്",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "സ്ഥാപനങ്ങൾ",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown ",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "തയ്യേനി ഗവ. ഹൈസ്കൂൾ",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "തയ്യേനി പോസ്റ്റ്‌ ഓഫീസ് (പിൻ കോഡ്  -670511)",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "ഈസ്റ്റ്- എളേരി സർവീസ് സഹകരണ ബാങ്ക്",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "നന്മ  സ്റ്റോർ",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "വൈ .എം.എ  വായനശാല \u0026 ഗ്രന്ഥാലയം",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "രാജീവ്‌ ഭവൻ -കോൺഗ്രസ്‌  ഓഫീസ്",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "കുടുംബ ക്ഷേമ ഉപകേന്ദ്രം",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "റിയൽ ഫുഡ്സ് തയ്യേനി",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "ക്ഷീരോൽപാദക സഹകരണ സംഘം തയ്യേനി",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "വ്യാപാരി  വ്യവസായി  ഏകോപനസമിതി  യൂണിറ്റ്    ഓഫീസ്",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "തയ്യേനി ലൂർദ്മാതാ പള്ളി",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "തയ്യേനിശ്വര അമ്പലം",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "Information added on: 01 March 2026",
+          "font_family": "",
+          "text_alignment": "RIGHT",
+          "text_color": "#808080",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Powered by Wikipedia",
+          "font_family": "",
+          "text_alignment": "RIGHT",
+          "text_color": "#808080",
+          "type": "TEXT"
+        }
+      ],
+      "district": "Kasargod",
+      "email": "",
+      "font_family": "",
+      "id": "pin_1772343274492",
+      "latitude": "",
+      "longitude": "",
+      "office_type": "",
+      "phone": "",
+      "pincode": "670511",
+      "place_name": "Thayyeni",
+      "search_keywords": [],
+      "state": "Kerala",
+      "whatsapp": ""
+    },
+    {
+      "additional_details": [
+        {
+          "background_color": "",
+          "content": "കാസർഗോഡ് ജില്ലയിലെ ഈസ്റ്റ് എളേരി ഗ്രാമപഞ്ചായത്തിലെ ഒരു ഗ്രാമമാണ് പാലാവയൽ. ഓടക്കൊല്ലി, ചവറഗിരി, തയ്യേനി എന്നീ സ്ഥലങ്ങൾ പാലാവയൽ റവന്യൂ വില്ലേജിലാണ് സ്ഥിതി ചെയ്യുന്നത്. തേജസ്വിനി പുഴയാണ് കണ്ണൂർ ജില്ലയിൽ സ്ഥിതി ചെയ്യുന്ന തൊട്ടടുത്ത ഗ്രാമമായ പുളിങ്ങോം വില്ലേജുമായി ഇതിനെ വേർതിരിച്ചിരിക്കുന്നത്. മലയോര മേഖലയായ ഇവിടുത്തെ ജനസംഖ്യയുടെ ഭൂരിഭാഗവും കോട്ടയം ജില്ലയിലെ പാലാ, മണിമല തുടങ്ങിയ സ്ഥലങ്ങളിൽ നിന്നും 60 വർഷം മുമ്പ് മുതൽ കുടിയേറിയവരാണ്. 2001 ലെ സെൻസസ് പ്രകാരം 10,340 ആണ് ഇവിടത്തെ ജനസംഖ്യ. ജനസംഖ്യയുടെ 51 ശതമാനം പുരുഷന്മാരും 49 ശതമാനം സ്ത്രീകളുമാണ്. കേരള ഗ്രാമീൺ ബേങ്ക്, സെന്റ് ജോൺസ് ഹൈസ്കൂൾ, സെന്റ് ജോൺസ് എൽ.പി. സ്കൂൾ എന്നിവയാണ് ഇവിടുത്തെ പ്രധാന സ്ഥാപനങ്ങൾ.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "ഭൂമി ശാസ്ത്രം",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "തേജസ്വിനി പുഴയുടെ തീരത്തുള്ള ഒരു ഗ്രാമമാണ് പാലവയൽ. ഇതിന്റെ ഉദ്ഭവം കർണ്ണാടകയിലെ ബ്രഹ്മഗിരി മലമുകളിൽ നിന്നാണ്. കൂർഗിലേക്കുള്ള പ്രധാന പ്രവേശന കവാടം ഇവിടെയാണ്.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "ജനസംഖ്യ",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "2001 ലെ സെൻസസ് പ്രകാരം 10340 ആണ് ഇവിടുത്തെ മൊത്തം ജനസംഖ്യ. 2293 വീടുകളിലുള്ള ജനസംഖ്യയാണിത്. ആകെയുള്ള ജനസംഖ്യയുടെ 51% പുരുഷന്മാരും 49% സ്ത്രീകളുമാണ്.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "ഗതാഗതം",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown ",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "പാണത്തൂർ റോഡ് വഴി കർണ്ണാടകയുമായി ബന്ധപ്പെട്ടു കിടക്കുന്ന ഗ്രാമമാണിത്. കർണ്ണാടകയിലെ സുള്ള്യ വഴി ബാംഗ്ലൂർ, മൈസൂർ എന്നിവിടങ്ങളിലേക്ക് എത്താൻ എളുപ്പം സാധിക്കും. സമീപത്തുള്ള റയിൽവേ സ്റ്റേഷൻ മംഗലാപുരം - പാലക്കാട് ലൈനിൽ വരുന്ന പയ്യന്നൂർ ആണ്. വിമാനത്താവള സൗകര്യം കണ്ണൂരും മംഗലാപുരത്തും കോഴിക്കോടുമുണ്ട്.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "Information added on: 01 March 2026",
+          "font_family": "",
+          "text_alignment": "RIGHT",
+          "text_color": "#808080",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Powered by Wikipedia",
+          "font_family": "",
+          "text_alignment": "RIGHT",
+          "text_color": "#808080",
+          "type": "TEXT"
+        }
+      ],
+      "district": "Kasargod",
+      "email": "",
+      "font_family": "",
+      "id": "pin_1772342699588",
+      "latitude": "",
+      "longitude": "",
+      "office_type": "",
+      "phone": "",
+      "pincode": "670511",
+      "place_name": "Palavayal",
+      "search_keywords": [],
+      "state": "Kerala",
+      "whatsapp": ""
+    },
+    {
+      "additional_details": [],
+      "district": "Kasargod",
+      "email": "",
+      "font_family": "",
+      "id": "pin_1772342386862",
+      "latitude": "",
+      "longitude": "",
+      "office_type": "",
+      "phone": "",
+      "pincode": "670511",
+      "place_name": "Kannivayal",
+      "search_keywords": [],
+      "state": "Kerala",
+      "whatsapp": ""
+    },
+    {
+      "additional_details": [
+        {
+          "background_color": "",
+          "content": "കേരളത്തിന്റെ വടക്കേയറ്റത്തെ ജില്ലയായ കാസറഗോഡിലെ ഒരു കിഴക്കൻ മലയോര ഗ്രാമമാണ് കമ്പല്ലൂർ.  വെള്ളരിക്കുണ്ട് താലൂക്കിന്റ ഭാഗമാണിത്. ഈസ്ററ് എളേരി ഗ്രാമപഞ്ചായത്തിലെ 13, 14 വാർഡുകളിലായി ഈ ഗ്രാമം വ്യാപിച്ചുകിടക്കുന്നു.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "Information added on: 01 March 2026",
+          "font_family": "",
+          "text_alignment": "RIGHT",
+          "text_color": "#808080",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Powered by Wikipedia",
+          "font_family": "",
+          "text_alignment": "RIGHT",
+          "text_color": "#808080",
+          "type": "TEXT"
+        }
+      ],
+      "district": "Kasargod",
+      "email": "",
+      "font_family": "",
+      "id": "pin_1772342293275",
+      "latitude": "",
+      "longitude": "",
+      "office_type": "",
+      "phone": "",
+      "pincode": "670511",
+      "place_name": "Kamballoor",
+      "search_keywords": [],
+      "state": "Kerala",
+      "whatsapp": ""
+    },
+    {
+      "additional_details": [
+        {
+          "background_color": "",
+          "content": "കാസർഗോഡ് ജില്ലയിലെ ഒരു മലയോര ഗ്രാമം ആണ് കടുമേനി. കാസർഗോഡ്-കണ്ണൂർ ജില്ലകളെ വേർതിരിക്കുന്ന കാര്യങ്കോട് പുഴയുടെ സമീപത്തായതിനാൽ കണ്ണൂർ ജില്ലയുമായി കൂടുതൽ സമ്പർക്കം. ചെറുവത്തൂർ-നലോംപുഴ റോഡിൽ ചെറുവത്തൂരിന്നും നലോംപുഴക്കുംമിടയിൽ സ്ഥിതി ചെയ്യുന്നു. സ്ഥലം കടുവകൾ വിഹരിച്ചിരുന്ന നാടായതുകൊണ്ട് കടുമേനി എന്ന പേരു കിട്ടി എന്ന് ഐതിഹ്യം",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "#1A237E",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "പ്രമുഖ ദേവാലയങ്ങൾ",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "#880E4F",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "സെന്റ് മേരിസ് കത്തോലിക്ക ദേവാലയം, നീലംപാറ മുസ്‌ലിം ജമാഅത്ത് പള്ളി ,നീലംപാറമഖാം, വിഷ്ണു മൂർത്തി ക്ഷേത്രം എന്നിവ അടുത്തടുത്ത് സ്ഥിതി ചെയ്യുന്നു.",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "#750D01",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "പ്രധാന കൃഷി",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "റബ്ബർ, അടയ്ക്ക, തെങ്ങ്",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "blue",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "വിദ്യാലയങ്ങൾ",
+          "font_family": "j.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "brown",
+          "type": "SUBTITLE"
+        },
+        {
+          "background_color": "",
+          "content": "സെന്റ് മേരീസ് ഹൈസ്കൂൾ, എസ്.എൻ. ഡി. പി. യു. പി സ്കൂൾ,Holy family English Medium school kadumeni, എന്നീ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾ .",
+          "font_family": "ib.ttf",
+          "text_alignment": "LEFT",
+          "text_color": "blue",
+          "type": "PARAGRAPH"
+        },
+        {
+          "background_color": "",
+          "content": "Information added on: 01 March 2026",
+          "font_family": "",
+          "text_alignment": "RIGHT",
+          "text_color": "#808080",
+          "type": "TEXT"
+        },
+        {
+          "background_color": "",
+          "content": "Powered by Wikipedia",
+          "font_family": "",
+          "text_alignment": "RIGHT",
+          "text_color": "#808080",
+          "type": "TEXT"
+        }
+      ],
+      "district": "Kasargod",
+      "email": "",
+      "font_family": "",
+      "id": "pin_1772342168517",
+      "latitude": "",
+      "longitude": "",
+      "office_type": "",
+      "phone": "",
+      "pincode": "670511",
+      "place_name": "Kadumeni",
+      "search_keywords": [],
+      "state": "Kerala",
+      "whatsapp": ""
+    }
+  ]
+}
