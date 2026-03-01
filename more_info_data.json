@@ -47,6 +47,26 @@
       "thumbnail": "",
       "title": "അടിയന്തരമായി പോലീസ് സേവനം ആവശ്യമായി വന്നാൽ 112  എന്ന ഹെല്പ് ലൈൻ നമ്പറിൽ ബന്ധപ്പെടുക. \n",
       "updated_timestamp": 1772338573220
+    },
+    {
+      "content_blocks": [
+        {
+          "background_color": "",
+          "content": "https://www.facebook.com/share/p/14UZAvCcGfU/",
+          "font_family": "",
+          "table_data": [],
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "image"
+        }
+      ],
+      "font_family": "e.ttf",
+      "id": "art_1772338956711",
+      "search_keywords": [],
+      "short_description": "",
+      "thumbnail": "",
+      "title": "Police App",
+      "updated_timestamp": 1772338956711
     }
   ]
 }
