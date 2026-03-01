@@ -29,6 +29,15 @@
           "text_alignment": "LEFT",
           "text_color": "red",
           "type": "paragraph"
+        },
+        {
+          "background_color": "",
+          "content": "https://www.facebook.com/share/p/17vqiCe8jR/",
+          "font_family": "",
+          "table_data": [],
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "image"
         }
       ],
       "font_family": "",
@@ -37,7 +46,7 @@
       "short_description": "",
       "thumbnail": "",
       "title": "അടിയന്തരമായി പോലീസ് സേവനം ആവശ്യമായി വന്നാൽ 112  എന്ന ഹെല്പ് ലൈൻ നമ്പറിൽ ബന്ധപ്പെടുക. \n",
-      "updated_timestamp": 1772338377880
+      "updated_timestamp": 1772338573220
     }
   ]
 }
