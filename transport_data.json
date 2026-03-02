@@ -183,7 +183,7 @@
           "time": "14:05"
         }
       ],
-      "table_font_family": "",
+      "table_font_family": "fonts/j.ttf",
       "type": "Fast Passenger ",
       "updated_date": "02-03-2026",
       "via_routes": [
