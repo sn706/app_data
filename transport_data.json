@@ -204,6 +204,279 @@
         "തൊടുപുഴ",
         "മൂലമറ്റം"
       ]
+    },
+    {
+      "agency_type": "Government",
+      "bus_id": "bus_1772473358499",
+      "contact_numbers": [],
+      "font_family": "fonts/ib.ttf",
+      "name": "KSRTC",
+      "route_name": "Pala - Bandhadukka",
+      "stops": [
+        {
+          "place": "Pala",
+          "time": "19:00"
+        },
+        {
+          "place": "Thodupuzha ",
+          "time": "19:40"
+        },
+        {
+          "place": "Muvattupuzha ",
+          "time": "20:10"
+        },
+        {
+          "place": "Perumbavoor ",
+          "time": "20:30"
+        },
+        {
+          "place": "Angamali ",
+          "time": "20:50"
+        },
+        {
+          "place": "Chalakkudy ",
+          "time": "21:10"
+        },
+        {
+          "place": "Puthukkad ",
+          "time": "21:30"
+        },
+        {
+          "place": "Thrissur ",
+          "time": "21:45"
+        },
+        {
+          "place": "Kunnamkulam",
+          "time": "22:20"
+        },
+        {
+          "place": "Edappal",
+          "time": "22:50"
+        },
+        {
+          "place": "Kuttippuram",
+          "time": "23:00"
+        },
+        {
+          "place": "Kottakkal",
+          "time": "23:35"
+        },
+        {
+          "place": "Kozhikode University ",
+          "time": "00:20"
+        },
+        {
+          "place": "Kozhikkode ",
+          "time": "00:45"
+        },
+        {
+          "place": "Koyilandy",
+          "time": "01:20"
+        },
+        {
+          "place": "Vadakara",
+          "time": "01:50"
+        },
+        {
+          "place": "Thalassery",
+          "time": "02:25"
+        },
+        {
+          "place": "Kannur",
+          "time": "02:55"
+        },
+        {
+          "place": "Taliparamba ",
+          "time": "03:20"
+        },
+        {
+          "place": "Alakkode",
+          "time": "03:55"
+        },
+        {
+          "place": "Cherupuzha ",
+          "time": "04:20"
+        },
+        {
+          "place": "Vellarikkundu ",
+          "time": "04:50"
+        },
+        {
+          "place": "Odayanchal",
+          "time": "05:10"
+        },
+        {
+          "place": "Bandhadukka",
+          "time": "05:55"
+        }
+      ],
+      "table_font_family": "fonts/j.ttf",
+      "type": "Super Deluxe Air Bus",
+      "updated_date": "02-03-2026",
+      "via_routes": [
+        "പാലാ",
+        "കുറിഞ്ഞി",
+        "തൊടുപുഴ",
+        "മൂവാറ്റുപുഴ",
+        "പെരുമ്പാവൂർ",
+        "അങ്കമാലി",
+        "ചാലക്കുടി",
+        "പുതുക്കാട്",
+        "തൃശ്ശൂർ",
+        "കുന്നംകുളം",
+        "എടപ്പാൾ",
+        "കുറ്റിപ്പുറം",
+        "കോട്ടക്കൽ",
+        "കോഴിക്കോട് യൂണിവേഴ്സിറ്റി",
+        "കോഴിക്കോട്",
+        "കൊയിലാണ്ടി",
+        "വടകര",
+        "തലശ്ശേരി",
+        "കണ്ണൂർ",
+        "തളിപ്പറമ്പ്",
+        "ആലക്കോട്",
+        "ചെറുപുഴ",
+        "വെള്ളരിക്കുണ്ട്",
+        "ഒടയഞ്ചാൽ",
+        "കാഞ്ഞിരടുക്കം ബന്തടുക്ക"
+      ]
+    },
+    {
+      "agency_type": "Government",
+      "bus_id": "bus_1772474067292",
+      "contact_numbers": [],
+      "font_family": "fonts/ib.ttf",
+      "name": "KSRTC",
+      "route_name": "Bandhadukka - Pala",
+      "stops": [
+        {
+          "place": "Bandhadukka",
+          "time": "18:20"
+        },
+        {
+          "place": "Odayanchal",
+          "time": "19:00"
+        },
+        {
+          "place": "Vellarikkundu ",
+          "time": "19:20"
+        },
+        {
+          "place": "Cherupuzha ",
+          "time": "20:25"
+        },
+        {
+          "place": "Alakkode",
+          "time": "20:50"
+        },
+        {
+          "place": "Taliparamba ",
+          "time": "21:25"
+        },
+        {
+          "place": "Kannur",
+          "time": "21:50"
+        },
+        {
+          "place": "Thalassery",
+          "time": "22:20"
+        },
+        {
+          "place": "Vadakara",
+          "time": "22:45"
+        },
+        {
+          "place": "Koyilandy",
+          "time": "23:10"
+        },
+        {
+          "place": "Kozhikkode ",
+          "time": "23:40"
+        },
+        {
+          "place": "Kozhikode University ",
+          "time": "00:10"
+        },
+        {
+          "place": "Kottakkal",
+          "time": "00:50"
+        },
+        {
+          "place": "Kuttippuram",
+          "time": "01:20"
+        },
+        {
+          "place": "Edappal",
+          "time": "01:35"
+        },
+        {
+          "place": "Kunnamkulam",
+          "time": "02:00"
+        },
+        {
+          "place": "Thrissur ",
+          "time": "02:35"
+        },
+        {
+          "place": "Puthukkad ",
+          "time": "02:50"
+        },
+        {
+          "place": "Chalakkudy ",
+          "time": "03:10"
+        },
+        {
+          "place": "Angamali ",
+          "time": "03:30"
+        },
+        {
+          "place": "Perumbavoor ",
+          "time": "03:50"
+        },
+        {
+          "place": "Muvattupuzha ",
+          "time": "04:15"
+        },
+        {
+          "place": "Thodupuzha ",
+          "time": "04:40"
+        },
+        {
+          "place": "Pala",
+          "time": "05:15"
+        }
+      ],
+      "table_font_family": "fonts/j.ttf",
+      "type": "Super Deluxe Air Bus ",
+      "updated_date": "02-03-2026",
+      "via_routes": [
+        "ബന്തടുക്ക",
+        "കാഞ്ഞിരടുക്കം",
+        "ഒടയഞ്ചാൽ",
+        "വെള്ളരിക്കുണ്ട്",
+        "ചെറുപുഴ",
+        "ആലക്കോട്",
+        "തളിപ്പറമ്പ്",
+        "കണ്ണൂർ",
+        "തലശ്ശേരി",
+        "വടകര",
+        "കൊയിലാണ്ടി",
+        "കോഴിക്കോട്",
+        "കോഴിക്കോട് യൂണിവേഴ്സിറ്റി",
+        "കോട്ടക്കൽ",
+        "കുറ്റിപ്പുറം",
+        "എടപ്പാൾ",
+        "കുന്നംകുളം",
+        "തൃശ്ശൂർ",
+        "പുതുക്കാട്",
+        "ചാലക്കുടി",
+        "അങ്കമാലി",
+        "പെരുമ്പാവൂർ",
+        "മൂവാറ്റുപുഴ",
+        "തൊടുപുഴ",
+        "കുറിഞ്ഞി",
+        "പാലാ"
+      ]
     }
   ],
   "disclaimer": "ഈ ആപ്ലിക്കേഷനിൽ നൽകിയിരിക്കുന്ന വിവരങ്ങൾ പൊതുജനങ്ങളുടെ അറിവിലേക്കും സൗകര്യത്തിനുമായി മാത്രമുള്ളതാണ്.ആപ്പിൽ കാണിക്കുന്ന ബസ് സമയങ്ങളും റൂട്ടുകളും ലഭ്യമായ വിവരങ്ങളുടെ അടിസ്ഥാനത്തിലുള്ളതാണ്.ഇവയിൽ കാലഹരണപ്പെട്ടതും തെറ്റായതുമായ വിവരങ്ങൾ ഉൾപ്പെടാം.അതുപോലെ ഗതാഗത തടസ്സങ്ങൾ, വാഹനങ്ങളുടെ തകരാറുകൾ, കാലാവസ്ഥാ വ്യതിയാനങ്ങൾ അല്ലെങ്കിൽ മറ്റ് സാങ്കേതിക കാരണങ്ങളാൽ സമയക്രമത്തിൽ മാറ്റങ്ങളും വരാം.ഈ ആപ്പിലെ വിവരങ്ങൾ മാത്രം അടിസ്ഥാനമാക്കി യാത്ര പ്ലാൻ ചെയ്യുന്നത് മൂലമുണ്ടാകുന്ന അസൗകര്യങ്ങൾക്കോ, നഷ്ടങ്ങൾക്കോ ആപ്പ് ഡെവലപ്പർമാരോ ബന്ധപ്പെട്ട അധികൃതരോ ഉത്തരവാദികളായിരിക്കില്ല.യാത്ര പുറപ്പെടുന്നതിന് മുൻപ് ഔദ്യോഗിക ആപ്പുകൾ / വെബ് സൈറ്റുകൾ,ബസ് സ്റ്റാൻഡുകളിലോ അന്വേഷിച്ച് വിവരങ്ങൾ ഉറപ്പുവരുത്താൻ ശുപാർശ ചെയ്യുന്നു.",
