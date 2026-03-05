@@ -1,0 +1,77 @@
+{
+  "disclaimer": "ഈ ആപ്പിൽ നൽകിയിരിക്കുന്ന റീചാർജ് പ്ലാനുകൾ, ഓഫറുകൾ, മറ്റ് വിവരങ്ങൾ എന്നിവ വിവിധ ടെലികോം സേവന ദാതാക്കളുടെ ഔദ്യോഗിക വെബ്‌സൈറ്റുകളിൽ നിന്നും പൊതുവായ സ്രോതസ്സുകളിൽ നിന്നും ശേഖരിച്ചവയാണ്.റീചാർജ് പ്ലാനുകൾ കമ്പനികൾ ഇടയ്ക്കിടെ മാറ്റാറുണ്ട്. അതിനാൽ, ഈ ആപ്പിലെ വിവരങ്ങൾ എപ്പോഴും 100% കൃത്യമായിരിക്കണം എന്നില്ല. പ്ലാനുകൾ തിരഞ്ഞെടുക്കുന്നതിന് മുൻപ് ബന്ധപ്പെട്ട കമ്പനിയുടെ ഔദ്യോഗിക ആപ്പോ വെബ്‌സൈറ്റോ പരിശോധിച്ച് ഉറപ്പുവരുത്തുക.പ്ലാനുകളിൽ വരുന്ന മാറ്റങ്ങൾ മൂലമോ തെറ്റായ പ്ലാൻ തിരഞ്ഞെടുക്കുന്നത് മൂലമോ ഉണ്ടാകുന്ന സാമ്പത്തിക നഷ്ടങ്ങൾക്ക് ഈ ആപ്പിന്റെ ഡെവലപ്പർ ഉത്തരവാദി ആയിരിക്കില്ല.ഈ ആപ്ലിക്കേഷന് ഏതെങ്കിലും ടെലികോം കമ്പനികളുമായോ സർക്കാർ സ്ഥാപനങ്ങളുമായോ ഔദ്യോഗിക ബന്ധമില്ല. ഇത് ഉപയോക്താക്കൾക്ക് വിവരങ്ങൾ എളുപ്പത്തിൽ ലഭ്യമാക്കാൻ വേണ്ടി മാത്രം നിർമ്മിച്ചതാണ്.",
+  "disclaimer_background_color": "",
+  "disclaimer_font_family": "fonts/ib.ttf",
+  "disclaimer_text_color": "red",
+  "modes": [
+    {
+      "mode_name": "Mobile",
+      "operators": [
+        {
+          "app_link": "https://play.google.com/store/apps/details?id\u003dcom.mventus.selfcare.activity",
+          "circles": [
+            {
+              "alert_font_family": "",
+              "alert_message": "",
+              "name": "Kerala",
+              "plans": [],
+              "tags": []
+            }
+          ],
+          "image": "",
+          "name": "Vi",
+          "website": "https://www.myvi.in/prepaid/best-prepaid-plans"
+        },
+        {
+          "app_link": "https://play.google.com/store/apps/details?id\u003dcom.myairtelapp",
+          "circles": [
+            {
+              "alert_font_family": "",
+              "alert_message": "",
+              "name": "Kerala",
+              "plans": [],
+              "tags": []
+            }
+          ],
+          "image": "logo_airtel",
+          "name": "Airtel",
+          "website": "https://www.airtel.in/recharge-online"
+        },
+        {
+          "app_link": "https://play.google.com/store/apps/details?id\u003dcom.digital.bsnl.selfcare",
+          "circles": [
+            {
+              "alert_font_family": "",
+              "alert_message": "",
+              "name": "Kerala",
+              "plans": [],
+              "tags": []
+            }
+          ],
+          "image": "",
+          "name": "BSNL",
+          "website": "https://portal2.bsnl.in/myportal/tariffs.do?PREPAID\u0026hl\u003dml-IN"
+        },
+        {
+          "app_link": "https://play.google.com/store/apps/details?id\u003dcom.jio.myjio",
+          "circles": [
+            {
+              "alert_font_family": "",
+              "alert_message": "",
+              "name": "Kerala",
+              "plans": [],
+              "tags": []
+            }
+          ],
+          "image": "",
+          "name": "Jio",
+          "website": "https://www.jio.com/selfcare/plans/mobility/prepaid-plans-list/"
+        }
+      ]
+    },
+    {
+      "mode_name": "DTH",
+      "operators": []
+    }
+  ]
+}
