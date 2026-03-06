@@ -71,7 +71,83 @@
     },
     {
       "mode_name": "DTH",
-      "operators": []
+      "operators": [
+        {
+          "app_link": "https://play.google.com/store/apps/details?id\u003dcom.sd2labs.infinity",
+          "circles": [
+            {
+              "alert_font_family": "",
+              "alert_message": "",
+              "name": "All",
+              "plans": [],
+              "tags": []
+            }
+          ],
+          "image": "",
+          "name": "Videocon D2H",
+          "website": "https://www.d2h.com/subscription-plan/d2h-combo.html"
+        },
+        {
+          "app_link": "https://play.google.com/store/apps/details?id\u003dcom.ryzmedia.tatasky",
+          "circles": [
+            {
+              "alert_font_family": "",
+              "alert_message": "",
+              "name": "All",
+              "plans": [],
+              "tags": []
+            }
+          ],
+          "image": "",
+          "name": "Tata Play",
+          "website": "https://www.tataplay.com/explore/set-top-boxes-packs/dth-packages?srsltid\u003dAfmBOopl7l5Wp_VkQrBUgyKl0vi4ggja7XDzp3MgceZuXOLwHy36ficL"
+        },
+        {
+          "app_link": "https://play.google.com/store/apps/details?id\u003din.dishtv.subscriber",
+          "circles": [
+            {
+              "alert_font_family": "",
+              "alert_message": "",
+              "name": "All",
+              "plans": [],
+              "tags": []
+            }
+          ],
+          "image": "",
+          "name": "Dish TV",
+          "website": "https://www.dishtv.in/packs-channel/dish-combos.html?srsltid\u003dAfmBOooVZwtWVUuFgQd3Qfx7VSjgLbDiAOcdTwja2OssHkS49vshOi2v"
+        },
+        {
+          "app_link": "https://play.google.com/store/apps/details?id\u003dcom.myairtelapp",
+          "circles": [
+            {
+              "alert_font_family": "",
+              "alert_message": "",
+              "name": "All",
+              "plans": [],
+              "tags": []
+            }
+          ],
+          "image": "",
+          "name": "Airtel DTH",
+          "website": "https://www.airtel.in/dth-recharge"
+        },
+        {
+          "app_link": "https://play.google.com/store/apps/details?id\u003dcom.sundirect.sundth",
+          "circles": [
+            {
+              "alert_font_family": "",
+              "alert_message": "",
+              "name": "All",
+              "plans": [],
+              "tags": []
+            }
+          ],
+          "image": "",
+          "name": "Sun Direct",
+          "website": "https://www.sundirect.in/addons?srsltid\u003dAfmBOor6lparCJSZDfOf0y_IjJ-3Ez0oOUPdzuIUT7igjkhJShfImFh3"
+        }
+      ]
     }
   ]
 }
