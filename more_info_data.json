@@ -50,6 +50,17 @@
           "text_alignment": "LEFT",
           "text_color": "",
           "type": "paragraph"
+        },
+        {
+          "background_color": "",
+          "content": "1930",
+          "font_family": "",
+          "label": "",
+          "subtype": "call",
+          "table_data": [],
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "link_button"
         }
       ],
       "font_family": "ib.ttf",
@@ -58,7 +69,7 @@
       "short_description": "",
       "thumbnail": "",
       "title": "ഡിജിറ്റൽ അറസ്റ്റ് ",
-      "updated_timestamp": 1772979476697
+      "updated_timestamp": 1772984920381
     }
   ]
 }
