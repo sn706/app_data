@@ -1,6 +1,12 @@
 {
-  "latest_version_code": 34,
-  "play_store_url": "https://play.google.com/store/apps/details?id\u003dsebin.galaxy",
-  "update_description": "• Recharge Plan Section More Features\n• BSNL Kerala Plan Added\n• Official Website and Official App In Recharge Plans Section\n• Other App Functions Upcoming....",
-  "update_title": "Update Available."
+  "background_color": "",
+  "font_family": "ib.ttf",
+  "force_update": true,
+  "internal_ads": [],
+  "latest_version_code": 45,
+  "text_color": "brown",
+  "update_description": "• റീചാർജ് പ്ലാനിൽ മൊബൈൽ,ഡിടിഎച്ച് സേവനദാതാക്കളുടെ ഔദ്യോഗിക വെബ്സൈറ്റിൽ നിന്ന് വിവരങ്ങൾ അറിയാം.കൂടുതൽ ഫീച്ചറുകൾ ഉടൻ ലഭിക്കുന്നതാണ്.",
+  "update_message": "New Update Available",
+  "update_title": "New Update Available",
+  "update_url": "https://play.google.com/store/apps/details?id\u003dsebin.galaxy"
 }
