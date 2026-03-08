@@ -1,0 +1,19 @@
+{
+  "special_days": [
+    {
+      "background_color": "",
+      "background_gradient": "",
+      "date": "08-03",
+      "description": "വനിതാ ദിനാശംസകൾ",
+      "display_duration_days": 1,
+      "fixed": true,
+      "font_family": "ib.ttf",
+      "gradient_colors": [],
+      "id": "evt_1772959401224",
+      "image_url": "",
+      "text_color": "red",
+      "title": "അന്താരാഷ്ട്ര വനിതാ ദിനം ",
+      "video_url": ""
+    }
+  ]
+}
