@@ -1,25 +1,86 @@
 {
-  "disclaimer": "വിവരങ്ങൾ വെബ്സൈറ്റുകളിൽ നിന്നുള്ളതാണ്.",
+  "disclaimer": "ഈ ആപ്പിലെ വിവരങ്ങൾ ഉപയോഗിച്ച് നിങ്ങൾ ചെയ്യുന്ന റീചാർജുകൾക്കോ മറ്റ് ഇടപാടുകൾക്കോ ഡെവലപ്പർ ഉത്തരവാദി ആയിരിക്കില്ല. പണം നൽകുന്നതിന് മുൻപ് ഔദ്യോഗിക വെബ്സൈറ്റുകളുമായോ ആപ്പുകളുമായോ വിവരം ഒത്തുനോക്കാൻ അഭ്യർത്ഥിക്കുന്നു.\n ആപ്പിൽ നൽകിയിരിക്കുന്ന ലിങ്കുകൾ മറ്റ് വെബ്സൈറ്റുകളിലേക്കോ സേവനങ്ങളിലേക്കോ ഉള്ളതാണ്. അവയുടെ ഉള്ളടക്കത്തിലോ സുരക്ഷയിലോ ഡെവലപ്പർക്ക് നിയന്ത്രണമില്ല.\n  കാലാനുസൃതമായി വിവരങ്ങൾ പുതുക്കാൻ ഞങ്ങൾ ശ്രമിക്കുന്നതാണ്.",
+  "disclaimer_background_color": "",
+  "disclaimer_font_family": "fonts/ib.ttf",
+  "disclaimer_text_color": "",
   "more_info_data": [
     {
       "content_blocks": [
         {
           "background_color": "",
-          "content": "https://www.facebook.com/share/v/185iy4L8Rh/",
+          "content": "“ഡിജിറ്റൽ അറസ്റ്റ്” എന്നത് ഒരു സൈബർ തട്ടിപ്പാണ്. പണം നൽകാനോ വ്യക്തിഗത വിവരങ്ങൾ പങ്കിടാനോ ആളുകളെ ഭയപ്പെടുത്തുന്നതിനായി തട്ടിപ്പുകാർ ആർ‌ബി‌ഐ, പോലീസ് അല്ലെങ്കിൽ സർക്കാർ ഏജൻസികളുടെ പേരുകൾ ദുരുപയോഗം ചെയ്യുന്നു.",
+          "font_family": "ib.ttf",
+          "table_data": [],
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "paragraph"
+        },
+        {
+          "background_color": "",
+          "content": "സാമ്പത്തിക / വ്യക്തിഗത വിവരങ്ങൾ പങ്കിടരുത്.",
           "font_family": "",
           "table_data": [],
           "text_alignment": "LEFT",
           "text_color": "",
-          "type": "video"
+          "type": "paragraph"
+        },
+        {
+          "background_color": "",
+          "content": "വിളിക്കുന്നവരുടെ ആധികാരികത എപ്പോഴും പരിശോധിക്കുക",
+          "font_family": "",
+          "table_data": [],
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "paragraph"
+        },
+        {
+          "background_color": "",
+          "content": "സംശയം തോന്നിയാൽ  ബാങ്കുമായി ബന്ധപ്പെടുക",
+          "font_family": "",
+          "table_data": [],
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "paragraph"
+        },
+        {
+          "background_color": "",
+          "content": "തട്ടിപ്പിന് ഇരയായാൽ   1930 എന്ന സൈബർ ക്രൈം ഹെൽപ്പ്‌ലൈനിലോ www.cybercrime.gov.in ലോ ഉടൻ ബന്ധപ്പെടുക.",
+          "font_family": "",
+          "table_data": [],
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "paragraph"
+        },
+        {
+          "background_color": "",
+          "content": "www.cybercrime.gov.in",
+          "font_family": "",
+          "label": "",
+          "subtype": "web",
+          "table_data": [],
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "link_button"
+        },
+        {
+          "background_color": "",
+          "content": "1930",
+          "font_family": "",
+          "label": "",
+          "subtype": "call",
+          "table_data": [],
+          "text_alignment": "LEFT",
+          "text_color": "",
+          "type": "link_button"
         }
       ],
-      "font_family": "j.ttf",
-      "id": "art_1772350270450",
+      "font_family": "ib.ttf",
+      "id": "art_1772979370213",
       "search_keywords": [],
       "short_description": "",
       "thumbnail": "",
-      "title": "Kerala Police ",
-      "updated_timestamp": 1772350270450
+      "title": "ഡിജിറ്റൽ അറസ്റ്റ് ",
+      "updated_timestamp": 1772979370213
     }
   ]
 }
