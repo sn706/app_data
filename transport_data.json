@@ -2,610 +2,98 @@
   "buses": [
     {
       "agency_type": "Government",
-      "bus_id": "bus_1772381974524",
+      "bus_id": "bus_1773109657373",
       "contact_numbers": [],
       "font_family": "fonts/ib.ttf",
       "name": "KSRTC",
-      "route_name": "Moolamattom - Koombara",
+      "route_name": "Rajapuram - Mananthavady",
       "stops": [
         {
-          "place": "Moolamattom ",
-          "time": "15:00"
-        },
-        {
-          "place": "Thodupuzha ",
-          "time": "15:35"
-        },
-        {
-          "place": "Muvattupuzha ",
-          "time": "16:05"
-        },
-        {
-          "place": "Perumbavoor ",
-          "time": "16:40"
-        },
-        {
-          "place": "Angamali ",
-          "time": "17:10"
-        },
-        {
-          "place": "Chalakkudy ",
-          "time": "17:35"
-        },
-        {
-          "place": "Puthukkad ",
-          "time": "18:00"
-        },
-        {
-          "place": "Thrissur ",
-          "time": "18:45"
-        },
-        {
-          "place": "Kunnamkulam",
-          "time": "19:25"
-        },
-        {
-          "place": "Changaramkulam",
-          "time": "19:45"
-        },
-        {
-          "place": "Edappal",
-          "time": "20:00"
-        },
-        {
-          "place": "Kuttippuram",
-          "time": "20:15"
-        },
-        {
-          "place": "Valanchery",
-          "time": "20:25"
-        },
-        {
-          "place": "Kottakkal",
-          "time": "20:50"
-        },
-        {
-          "place": "Kozhikode University ",
-          "time": "22:00"
-        },
-        {
-          "place": "Kozhikkode ",
-          "time": "23:00"
-        },
-        {
-          "place": "Kunnamangalam",
-          "time": "23:20"
-        },
-        {
-          "place": "Thiruvambady",
-          "time": "23:50"
-        },
-        {
-          "place": "Koombara",
-          "time": "00:10"
-        }
-      ],
-      "table_font_family": "fonts/j.ttf",
-      "type": "Fast Passenger ",
-      "updated_date": "01-03-2026",
-      "via_routes": [
-        "മൂലമറ്റം",
-        "തൊടുപുഴ",
-        "മൂവാറ്റുപുഴ",
-        "പെരുമ്പാവൂർ",
-        "അങ്കമാലി",
-        "ചാലക്കുടി",
-        "പുതുക്കാട്",
-        "തൃശ്ശൂർ",
-        "കുന്നംകുളം",
-        "ചങ്ങരംകുളം",
-        "എടപ്പാൾ",
-        "കുറ്റിപ്പുറം",
-        "വളാഞ്ചേരി",
-        "കോട്ടക്കൽ",
-        "കോഴിക്കോട് യൂണിവേഴ്സിറ്റി",
-        "കോഴിക്കോട്",
-        "കുന്ദമംഗലം",
-        "തിരുവമ്പാടി",
-        "കൂമ്പാറ"
-      ]
-    },
-    {
-      "agency_type": "Government",
-      "bus_id": "bus_1772472043091",
-      "contact_numbers": [],
-      "font_family": "fonts/ib.ttf",
-      "name": "KSRTC ",
-      "route_name": "Koombara - Moolamattom ",
-      "stops": [
-        {
-          "place": "Koombara ",
-          "time": "06:00"
-        },
-        {
-          "place": "Thiruvambady ",
-          "time": "06:15"
-        },
-        {
-          "place": "Mukkam",
-          "time": "06:35"
-        },
-        {
-          "place": "Areekode",
-          "time": "06:55"
-        },
-        {
-          "place": "Manjeri",
-          "time": "07:25"
-        },
-        {
-          "place": "Perinthalmanna ",
-          "time": "08:20"
-        },
-        {
-          "place": "Pattambi",
-          "time": "09:00"
-        },
-        {
-          "place": "Kunnamkulam",
-          "time": "09:40"
-        },
-        {
-          "place": "Thrissur ",
-          "time": "10:35"
-        },
-        {
-          "place": "Puthukkad ",
-          "time": "10:55"
-        },
-        {
-          "place": "Chalakkudy ",
-          "time": "11:25"
-        },
-        {
-          "place": "Angamali ",
-          "time": "11:50"
-        },
-        {
-          "place": "Perumbavoor ",
-          "time": "12:30"
-        },
-        {
-          "place": "Muvattupuzha ",
-          "time": "13:00"
-        },
-        {
-          "place": "Thodupuzha ",
-          "time": "13:30"
-        },
-        {
-          "place": "Moolamattom ",
-          "time": "14:05"
-        }
-      ],
-      "table_font_family": "fonts/j.ttf",
-      "type": "Fast Passenger ",
-      "updated_date": "02-03-2026",
-      "via_routes": [
-        "കൂമ്പാറ",
-        "തിരുവമ്പാടി",
-        "മുക്കം",
-        "അരീക്കോട്",
-        "മഞ്ചേരി",
-        "പെരിന്തൽമണ്ണ",
-        "പട്ടാമ്പി",
-        "കുന്നംകുളം",
-        "തൃശ്ശൂർ",
-        "പുതുക്കാട്",
-        "ചാലക്കുടി",
-        "അങ്കമാലി",
-        "പെരുമ്പാവൂർ",
-        "മൂവാറ്റുപുഴ",
-        "തൊടുപുഴ",
-        "മൂലമറ്റം"
-      ]
-    },
-    {
-      "agency_type": "Government",
-      "bus_id": "bus_1772473358499",
-      "contact_numbers": [],
-      "font_family": "fonts/ib.ttf",
-      "name": "KSRTC",
-      "route_name": "Pala - Bandhadukka",
-      "stops": [
-        {
-          "place": "Pala",
-          "time": "19:00"
-        },
-        {
-          "place": "Thodupuzha ",
-          "time": "19:40"
-        },
-        {
-          "place": "Muvattupuzha ",
-          "time": "20:10"
-        },
-        {
-          "place": "Perumbavoor ",
-          "time": "20:30"
-        },
-        {
-          "place": "Angamali ",
-          "time": "20:50"
-        },
-        {
-          "place": "Chalakkudy ",
-          "time": "21:10"
-        },
-        {
-          "place": "Puthukkad ",
-          "time": "21:30"
-        },
-        {
-          "place": "Thrissur ",
-          "time": "21:45"
-        },
-        {
-          "place": "Kunnamkulam",
-          "time": "22:20"
-        },
-        {
-          "place": "Edappal",
-          "time": "22:50"
-        },
-        {
-          "place": "Kuttippuram",
-          "time": "23:00"
-        },
-        {
-          "place": "Kottakkal",
-          "time": "23:35"
-        },
-        {
-          "place": "Kozhikode University ",
-          "time": "00:20"
-        },
-        {
-          "place": "Kozhikkode ",
-          "time": "00:45"
-        },
-        {
-          "place": "Koyilandy",
-          "time": "01:20"
-        },
-        {
-          "place": "Vadakara",
-          "time": "01:50"
-        },
-        {
-          "place": "Thalassery",
-          "time": "02:25"
-        },
-        {
-          "place": "Kannur",
-          "time": "02:55"
-        },
-        {
-          "place": "Taliparamba ",
-          "time": "03:20"
-        },
-        {
-          "place": "Alakkode",
-          "time": "03:55"
+          "place": "Rajapuram ",
+          "time": "4:45 AM"
         },
         {
           "place": "Cherupuzha ",
-          "time": "04:20"
-        },
-        {
-          "place": "Vellarikkundu ",
-          "time": "04:50"
-        },
-        {
-          "place": "Odayanchal",
-          "time": "05:10"
-        },
-        {
-          "place": "Bandhadukka",
-          "time": "05:55"
-        }
-      ],
-      "table_font_family": "fonts/j.ttf",
-      "type": "Super Deluxe Air Bus",
-      "updated_date": "02-03-2026",
-      "via_routes": [
-        "പാലാ",
-        "കുറിഞ്ഞി",
-        "തൊടുപുഴ",
-        "മൂവാറ്റുപുഴ",
-        "പെരുമ്പാവൂർ",
-        "അങ്കമാലി",
-        "ചാലക്കുടി",
-        "പുതുക്കാട്",
-        "തൃശ്ശൂർ",
-        "കുന്നംകുളം",
-        "എടപ്പാൾ",
-        "കുറ്റിപ്പുറം",
-        "കോട്ടക്കൽ",
-        "കോഴിക്കോട് യൂണിവേഴ്സിറ്റി",
-        "കോഴിക്കോട്",
-        "കൊയിലാണ്ടി",
-        "വടകര",
-        "തലശ്ശേരി",
-        "കണ്ണൂർ",
-        "തളിപ്പറമ്പ്",
-        "ആലക്കോട്",
-        "ചെറുപുഴ",
-        "വെള്ളരിക്കുണ്ട്",
-        "ഒടയഞ്ചാൽ",
-        "കാഞ്ഞിരടുക്കം ബന്തടുക്ക"
-      ]
-    },
-    {
-      "agency_type": "Government",
-      "bus_id": "bus_1772474067292",
-      "contact_numbers": [],
-      "font_family": "fonts/ib.ttf",
-      "name": "KSRTC",
-      "route_name": "Bandhadukka - Pala",
-      "stops": [
-        {
-          "place": "Bandhadukka",
-          "time": "18:20"
-        },
-        {
-          "place": "Odayanchal",
-          "time": "19:00"
-        },
-        {
-          "place": "Vellarikkundu ",
-          "time": "19:20"
-        },
-        {
-          "place": "Cherupuzha ",
-          "time": "20:25"
+          "time": "5:50 AM"
         },
         {
           "place": "Alakkode",
-          "time": "20:50"
+          "time": "6:20 AM"
         },
         {
-          "place": "Taliparamba ",
-          "time": "21:25"
+          "place": "Payyavoor",
+          "time": "7:15 AM"
         },
         {
-          "place": "Kannur",
-          "time": "21:50"
+          "place": "Iritty",
+          "time": "7:50 AM"
         },
         {
-          "place": "Thalassery",
-          "time": "22:20"
-        },
-        {
-          "place": "Vadakara",
-          "time": "22:45"
-        },
-        {
-          "place": "Koyilandy",
-          "time": "23:10"
-        },
-        {
-          "place": "Kozhikkode ",
-          "time": "23:40"
-        },
-        {
-          "place": "Kozhikode University ",
-          "time": "00:10"
-        },
-        {
-          "place": "Kottakkal",
-          "time": "00:50"
-        },
-        {
-          "place": "Kuttippuram",
-          "time": "01:20"
-        },
-        {
-          "place": "Edappal",
-          "time": "01:35"
-        },
-        {
-          "place": "Kunnamkulam",
-          "time": "02:00"
-        },
-        {
-          "place": "Thrissur ",
-          "time": "02:35"
-        },
-        {
-          "place": "Puthukkad ",
-          "time": "02:50"
-        },
-        {
-          "place": "Chalakkudy ",
-          "time": "03:10"
-        },
-        {
-          "place": "Angamali ",
-          "time": "03:30"
-        },
-        {
-          "place": "Perumbavoor ",
-          "time": "03:50"
-        },
-        {
-          "place": "Muvattupuzha ",
-          "time": "04:15"
-        },
-        {
-          "place": "Thodupuzha ",
-          "time": "04:40"
-        },
-        {
-          "place": "Pala",
-          "time": "05:15"
+          "place": "Mananthavady ",
+          "time": "9:55 AM"
         }
       ],
       "table_font_family": "fonts/j.ttf",
-      "type": "Super Deluxe Air Bus ",
-      "updated_date": "02-03-2026",
+      "type": "Limited Stop ",
+      "updated_date": "10-03-2026",
       "via_routes": [
-        "ബന്തടുക്ക",
-        "കാഞ്ഞിരടുക്കം",
-        "ഒടയഞ്ചാൽ",
+        "ബളാൽ",
         "വെള്ളരിക്കുണ്ട്",
         "ചെറുപുഴ",
         "ആലക്കോട്",
-        "തളിപ്പറമ്പ്",
-        "കണ്ണൂർ",
-        "തലശ്ശേരി",
-        "വടകര",
-        "കൊയിലാണ്ടി",
-        "കോഴിക്കോട്",
-        "കോഴിക്കോട് യൂണിവേഴ്സിറ്റി",
-        "കോട്ടക്കൽ",
-        "കുറ്റിപ്പുറം",
-        "എടപ്പാൾ",
-        "കുന്നംകുളം",
-        "തൃശ്ശൂർ",
-        "പുതുക്കാട്",
-        "ചാലക്കുടി",
-        "അങ്കമാലി",
-        "പെരുമ്പാവൂർ",
-        "മൂവാറ്റുപുഴ",
-        "തൊടുപുഴ",
-        "കുറിഞ്ഞി",
-        "പാലാ"
+        "ചെമ്പേരി",
+        "പയ്യാവൂർ",
+        "ഉളിക്കൽ",
+        "ഇരിട്ടി",
+        "കൊട്ടിയൂർ"
       ]
     },
     {
       "agency_type": "Government",
-      "bus_id": "bus_1772590392630",
+      "bus_id": "bus_1773109907114",
       "contact_numbers": [],
       "font_family": "fonts/ib.ttf",
       "name": "KSRTC",
-      "route_name": "Pala - Kasargod ",
+      "route_name": "Mananthavady - Rajapuram ",
       "stops": [
         {
-          "place": "Pala",
-          "time": "20:30"
+          "place": "Mananthavady ",
+          "time": "12:30 PM"
         },
         {
-          "place": "Thodupuzha",
-          "time": "21:10"
+          "place": "Iritty",
+          "time": "2:30 PM"
         },
         {
-          "place": "Muvattupuzha ",
-          "time": "21:30"
+          "place": "Payyavoor",
+          "time": "3:10 PM"
         },
         {
-          "place": "Thrissur ",
-          "time": "23:00"
+          "place": "Alakkode",
+          "time": "4:15 PM"
         },
         {
-          "place": "Kottakkal",
-          "time": "00:30"
+          "place": "Cherupuzha ",
+          "time": "5:00 PM"
         },
         {
-          "place": "Kozhikkode ",
-          "time": "01:30"
-        },
-        {
-          "place": "Kannur",
-          "time": "03:15"
-        },
-        {
-          "place": "Payyannur",
-          "time": "03:55"
-        },
-        {
-          "place": "Kanhangad ",
-          "time": "04:35"
-        },
-        {
-          "place": "Kasargod ",
-          "time": "05:00"
+          "place": "Rajapuram ",
+          "time": "6:15 PM"
         }
       ],
       "table_font_family": "fonts/j.ttf",
-      "type": "Minnal Super Deluxe Air Bus ",
-      "updated_date": "04-03-2026",
+      "type": "Limited Stop ",
+      "updated_date": "10-03-2026",
       "via_routes": [
-        "പാലാ",
-        "തൊടുപുഴ",
-        "മൂവാറ്റുപുഴ",
-        "തൃശ്ശൂർ",
-        "കോട്ടക്കൽ",
-        "കോഴിക്കോട്",
-        "കണ്ണൂർ",
-        "പയ്യന്നൂർ",
-        "കാഞ്ഞങ്ങാട്",
-        "കാസർഗോഡ്"
-      ]
-    },
-    {
-      "agency_type": "Government",
-      "bus_id": "bus_1772590681277",
-      "contact_numbers": [],
-      "font_family": "fonts/ib.ttf",
-      "name": "KSRTC ",
-      "route_name": "Kasargod - Pala",
-      "stops": [
-        {
-          "place": "Kasargod ",
-          "time": "19:45"
-        },
-        {
-          "place": "Kanhangad ",
-          "time": "20:10"
-        },
-        {
-          "place": "Payyannur",
-          "time": "20:50"
-        },
-        {
-          "place": "Kannur",
-          "time": "22:00"
-        },
-        {
-          "place": "Kozhikkode ",
-          "time": "23:45"
-        },
-        {
-          "place": "Kottakkal",
-          "time": "00:45"
-        },
-        {
-          "place": "Thrissur ",
-          "time": "02:05"
-        },
-        {
-          "place": "Muvattupuzha ",
-          "time": "03:25"
-        },
-        {
-          "place": "Thodupuzha ",
-          "time": "03:55"
-        },
-        {
-          "place": "Pala",
-          "time": "04:25"
-        }
-      ],
-      "table_font_family": "fonts/j.ttf",
-      "type": "Minnal Super Deluxe Air Bus ",
-      "updated_date": "04-03-2026",
-      "via_routes": [
-        "കാസർഗോഡ്",
-        "കാഞ്ഞങ്ങാട്",
-        "പയ്യന്നൂർ",
-        "കണ്ണൂർ",
-        "കോഴിക്കോട്",
-        "കോട്ടക്കൽ",
-        "തൃശ്ശൂർ",
-        "മൂവാറ്റുപുഴ",
-        "തൊടുപുഴ",
-        "പാലാ"
+        "കൊട്ടിയൂർ",
+        "ഇരിട്ടി",
+        "ഉളിക്കൽ",
+        "പയ്യാവൂർ",
+        "ചെമ്പേരി",
+        "ആലക്കോട്",
+        "ചെറുപുഴ",
+        "വെള്ളരിക്കുണ്ട്",
+        "ബളാൽ"
       ]
     }
   ],
