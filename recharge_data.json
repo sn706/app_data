@@ -14,7 +14,62 @@
               "alert_font_family": "",
               "alert_message": "",
               "name": "Kerala",
-              "plans": [],
+              "plans": [
+                {
+                  "amount": 399,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get 1 Month JioHotstar Mobile subscription +2 GB/Day+ Unlimited Calls + 100 SMS/Day for 28 Days. Enjoy unlimited data from 12am to 12pm! Carry Mon-Fri unused data into Sat-Sun. 2GB of backup Data every month at no extra Cost! Post daily quota",
+                    "data speed will be upto 64Kbps. Post daily SMS quota charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. To check non-commercial usage policy",
+                    "please visit Prepaid T\u0026C. Unlimited 5G Data will be applicable only on 5G handset in 5G network coverage area. To check device compatibility download ViApp."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1773248930586",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "28 Days",
+                    "2 GB Day"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773248930586,
+                  "validity": "28 Days"
+                },
+                {
+                  "amount": 449,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Enjoy Full Day Unlimited Data",
+                    "Everyday + Unlimited Calls + 100 SMS/Day valid for 28 Days. Get JioHotstar + Vi Movies \u0026 TV Super subscription of 28 Days. Includes access to SonyLIV",
+                    "ZEE5",
+                    "FanCode \u0026 16 more OTTs on TV \u0026 Mobile. Post daily quota",
+                    "data speed will be upto 64Kbps. Post daily SMS quota",
+                    "charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only. To check non-commercial usage policy and 5G Unlimited Data terms \u0026 conditions",
+                    "visit Vi app/website."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "Unlimited ",
+                  "font_family": "",
+                  "id": "p_1773248997069",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "28 Days",
+                    "Unlimited"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773248997069,
+                  "validity": "28 Days"
+                }
+              ],
               "tags": []
             }
           ],
