@@ -20,29 +20,30 @@
                   "app_subscriptions": "",
                   "background_color": "",
                   "benefits": [
-                    "Get 1 Month JioHotstar Mobile subscription +2 GB/Day+ Unlimited Calls + 100 SMS/Day for 28 Days. Enjoy unlimited data from 12am to 12pm! Carry Mon-Fri unused data into Sat-Sun. 2GB of backup Data every month at no extra Cost! Post daily quota",
-                    "data speed will be upto 64Kbps. Post daily SMS quota charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. To check non-commercial usage policy",
-                    "please visit Prepaid T\u0026C. Unlimited 5G Data will be applicable only on 5G handset in 5G network coverage area. To check device compatibility download ViApp."
+                    "Enjoy 2 GB/Day + Unlimited Calls + 100 SMS/day valid for 28 days. Get JioHotstar Mobile subscription for 1 Month. Enjoy data without limits from 12am to 12pm. Carry Mon-Fri unused Data into Sat-Sun. Upto 2GB of Backup Data every month at no extra cost. Post daily quota",
+                    "data speed will be upto 64Kbps. Post daily SMS quota",
+                    "charges applicable at Rs 1/1.5 for Local/STD SMS. Unlimited Data is only meant for personal and non-commercial use. Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only. To check non-commercial usage policy and 5G Unlimited Data terms \u0026 conditions",
+                    "visit Vi app/website."
                   ],
                   "calls": "Unlimited ",
                   "channels": "",
-                  "custom_description": "",
+                  "custom_description": "Get Half Day Unlimited Data From 12 AM Midnight to 12 PM!!..Weekend Data Rollover..Get 1 Month access to JioHotstar Mobile \u0026 enjoy online streaming of exclusive TV shows, serials, live sports, dubbed Hollywood movies..Up to 2GB of backup Data every month, at no extra cost. Claim via ViApp",
                   "data": "2 GB Day",
                   "font_family": "",
-                  "id": "p_1773248930586",
+                  "id": "p_1773253391021",
                   "short_desc": "",
-                  "sms": "100 SMS Day",
+                  "sms": "100 SMS",
                   "tags": [
                     "28 Days",
                     "2 GB Day"
                   ],
                   "text_color": "",
-                  "updated_timestamp": 1773248930586,
+                  "updated_timestamp": 1773253917394,
                   "validity": "28 Days"
                 },
                 {
                   "amount": 449,
-                  "app_subscriptions": "",
+                  "app_subscriptions": "FanCode..Lionsgate Play..ZEE5..SonyLIV",
                   "background_color": "",
                   "benefits": [
                     "Enjoy Full Day Unlimited Data",
@@ -55,10 +56,10 @@
                   ],
                   "calls": "Unlimited ",
                   "channels": "",
-                  "custom_description": "",
+                  "custom_description": "Download Vi Movies \u0026 TV App on your TV \u0026 Mobile and stream 19 OTTs like SonyLIV, ZEE5, Lionsgate Play, FanCode \u0026 more...Get 28 Days access to JioHotstar Mobile \u0026 enjoy online streaming of exclusive TV shows, serials, live sports, dubbed Hollywood movies..Unlimited 5G \u0026 4G Data, everyday!",
                   "data": "Unlimited ",
                   "font_family": "",
-                  "id": "p_1773248997069",
+                  "id": "p_1773253694158",
                   "short_desc": "",
                   "sms": "100 SMS Day",
                   "tags": [
@@ -66,8 +67,33 @@
                     "Unlimited"
                   ],
                   "text_color": "",
-                  "updated_timestamp": 1773248997069,
+                  "updated_timestamp": 1773253939443,
                   "validity": "28 Days"
+                },
+                {
+                  "amount": 998,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "84 Day SonyLIV subscription; 2 GB/Day + Unlimited Calls + 100 SMS/Day. Pack Validity - 84 Days. Enjoy data without limits from 12am to 12pm! Carry Mon-Fri s unused data into Sat-Sun. Up to 2GB of backup Data every month at no extra Cost! Post daily quota usage",
+                    "data speed will be upto 64Kbps. Post daily 100 SMS limit charging will be Re 1 local Re 1.5 STD per SMS. Unlimited Data is only meant for personal and non-commercial use. To check non-commercial usage policy",
+                    "please visit Prepaid T\u0026C. Unlimited 5G Data will be applicable only on 5G handset in 5G network coverage area. To check device compatibility download ViApp."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Get 84 days access to Sony LIV Mobile and enjoy online streaming of exclusive Sony Liv originals, regional \u0026 international content, Live TV \u0026 News, kids content \u0026 more..Get Half Day Unlimited Data From 12 AM Midnight to 12 PM!!..Weekend Data Rollover..Up to 2GB of backup Data every month, at no extra cost. Dial 121249 or claim via ViApp",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1773253843041",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "84 Days",
+                    "2 GB Day"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773253843041,
+                  "validity": "84 Days"
                 }
               ],
               "tags": []
