@@ -995,6 +995,314 @@
                   "text_color": "",
                   "updated_timestamp": 1773285356374,
                   "validity": "72 Days"
+                },
+                {
+                  "amount": 179,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get Unlimited Calls + 1GB Data + 300SMS. Pack Validity - 24 Days. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota charging will be Re 1 local Re 1.5 STD per SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Download Vi Movies \u0026 TV app on your mobile device \u0026 SmartTV. Stream latest Bollywood Movies, TV Shows, MXPlayer, Live News \u0026 more.",
+                  "data": "1 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773327687936",
+                  "short_desc": "",
+                  "sms": "300 SMS Total ",
+                  "tags": [
+                    "24 Days",
+                    "1 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773327687936,
+                  "validity": "24 Days"
+                },
+                {
+                  "amount": 189,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get Unlimited Calls + 1GB Data + 300SMS. Pack Validity - 26 Days. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota charging will be Re 1 local Re 1.5 STD per SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "1 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773327764060",
+                  "short_desc": "",
+                  "sms": "300 SMS Total ",
+                  "tags": [
+                    "26 Days",
+                    "1 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773327764060,
+                  "validity": "26 Days"
+                },
+                {
+                  "amount": 199,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get Unlimited Calls + 2GB Data + 300 SMS. Pack Validity - 28 Days. Enjoy watching free OTTS",
+                    "movies",
+                    "TV Shows",
+                    "LIVE news \u0026 more with Vi Movies \u0026 TV App. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota charges applicable at Rs 1/1.5 for Local/STD SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Download Vi Movies \u0026 TV App on your TV \u0026 Mobile. Stream latest bollywood movies, TV shows, Amazon MX Player, LIVE news \u0026 more",
+                  "data": "2 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773327833642",
+                  "short_desc": "",
+                  "sms": "300 SMS Total ",
+                  "tags": [
+                    "28 Days",
+                    "2 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773327833643,
+                  "validity": "28 Days"
+                },
+                {
+                  "amount": 209,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get Unlimited Callertunes for 28 days + Unlimited Calls + 2GB Data + 300 SMS. Pack Validity - 28 Days. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota charging will be Re 1 local Re 1.5 STD per SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773327898899",
+                  "short_desc": "",
+                  "sms": "300 SMS Total ",
+                  "tags": [
+                    "28 Days",
+                    "2 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773327898899,
+                  "validity": "28 Days"
+                },
+                {
+                  "amount": 218,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get Unlimited Calls + 3GB Data + 300 SMS. Pack Validity - 1 Month. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota charging will be Re 1 local / Re 1.5 STD per SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "3 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773328133679",
+                  "short_desc": "",
+                  "sms": "300 SMS Total ",
+                  "tags": [
+                    "1 Month",
+                    "3 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773328133680,
+                  "validity": "1 Month"
+                },
+                {
+                  "amount": 239,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get 1 Month JioHotstar Mobile subscription + Unlimited Calls + 2GB Data + 300 SMS. Pack Validity - 28 Days. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota charging will be Re 1 local Re 1.5 STD per SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Get 1 Month access to JioHotstar Mobile \u0026 enjoy online streaming of exclusive TV shows, serials, live sports, dubbed Hollywood movies",
+                  "data": "2 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773328283266",
+                  "short_desc": "",
+                  "sms": "300 SMS Total ",
+                  "tags": [
+                    "28 Days",
+                    "2 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773328283267,
+                  "validity": "28 Days"
+                },
+                {
+                  "amount": 345,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get 25 GB + Unlimited Calls + 100 SMS/Day valid for 30 Days. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota charging will be Re 1 local Re 1.5 STD per SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "25 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773328347297",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "30 Days",
+                    "25 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773328347298,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 369,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get Unlimited Calls + 4GB Data + 600 SMS. Pack Validity - 56 Days. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota charging will be Re 1 local Re 1.5 STD per SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "4 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773328428389",
+                  "short_desc": "",
+                  "sms": "600 SMS Total ",
+                  "tags": [
+                    "56 Days",
+                    "4 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773328428389,
+                  "validity": "56 Days"
+                },
+                {
+                  "amount": 548,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get Unlimited Calls + 7GB Data + 1000 SMS. Pack Validity - 84 Days. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota",
+                    "charges applicable at Rs 1/1.5 for Local/STD SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Download Vi Movies \u0026 TV app on your mobile device \u0026 SmartTV. Stream latest Bollywood Movies, TV Shows, MXPlayer, Live News \u0026 more.",
+                  "data": "7 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773328536186",
+                  "short_desc": "",
+                  "sms": "1000 SMS Total ",
+                  "tags": [
+                    "84 Days",
+                    "7 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773328536186,
+                  "validity": "84 Days"
+                },
+                {
+                  "amount": 625,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get 50 GB + Unlimited Calls + 100 SMS/Day valid for 60 Days. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota charging will be Re 1 local Re 1.5 STD per SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "50 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773328609599",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "60 Days",
+                    "50 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773328609600,
+                  "validity": "60 Days"
+                },
+                {
+                  "amount": 1149,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get Unlimited Calls + 15GB Data + 1800 SMS. Pack Validity - 180 Days. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota",
+                    "charges applicable at Rs 1/1.5 for Local/STD SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "15 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773328740176",
+                  "short_desc": "",
+                  "sms": "1800 SMS Total ",
+                  "tags": [
+                    "180 Days",
+                    "15 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773328740176,
+                  "validity": "180 Days"
+                },
+                {
+                  "amount": 2249,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get Unlimited Calls + 30GB Data + 3600 SMS. Pack Validity - 365 Days. Data tariff post quota completion will be charged at 50p/MB. Post SMS quota",
+                    "charges applicable at Rs 1/1.5 for Local/STD SMS."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "30 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773328835093",
+                  "short_desc": "",
+                  "sms": "3600 SMS Total ",
+                  "tags": [
+                    "365 Days",
+                    "30 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773328835093,
+                  "validity": "365 Days"
+                },
+                {
+                  "amount": 175,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Get JioHotstar Mobile + 19 more OTTs including ZEE5",
+                    "SonyLIV",
+                    "FanCode",
+                    "Lionsgate Play \u0026 more on Vi Movies \u0026 TV app. Add-on 10 GB Data. No service validity. Pack validity 28 days."
+                  ],
+                  "calls": "No Outgoing Calls",
+                  "channels": "",
+                  "custom_description": "Jio Hotstar - TV Shows | Movies | Originals | Sports..Z5 - Award Winning Movies | Web series | TV Shows in 18 languages..Sony LIV - Popular TV Shows | New series | Movies..Lionsgate Play - Blockbuster Movies | Premium Originals | Exclusive Web Series..FanCode - Best Sports Content..MX Player - Movies | Shows..Atrangii - Popular Web Series, Movies \u0026 Original content..KLIKK - Bengali - Movies | Web Series | Music..Chaupal - Punjabi, Haryani \u0026 Bhojpuri movies..Manoramax - Malayalam - Movies | Web Series | TV Serials..Adda - Originals | Movies | Music..Kanchha Lannka - Web Series | Movies..Play flix - Popular K drama in Hindi | Tamil | Telugu | Kannada..ott - LIVE streaming channels..Shemaroo - Marathi Movies | TV Shows..Shemaroo Gujarati - Gujarati Blockbusters | Comedy Shows..Times Play - Hollywood Movies | Web Series | TV Shows..Yupptv - 250+ LIVE Indian TV Channels..NexGTV - LIVE TV | TV Series | LIVE News..pocket films - Best Short Films across variety of genres",
+                  "data": "10 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773329734534",
+                  "short_desc": "",
+                  "sms": "No Outgoing SMS",
+                  "tags": [
+                    "28 Days",
+                    "10 GB Total"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773329734535,
+                  "validity": "28 Days"
                 }
               ],
               "tags": []
