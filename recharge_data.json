@@ -12,7 +12,7 @@
           "name": "Kerala",
           "operators": [
             {
-              "image": "logo",
+              "image": "icon",
               "name": "BSNL",
               "official_apps": [
                 "https://play.google.com/store/apps/details?id\u003dcom.digital.bsnl.selfcare"
@@ -22,9 +22,341 @@
               ],
               "other_websites": [
                 "https://www.plansinfo.com/mobile/bsnl/kerala",
-                "https://www.plansinfo.com/mobile/bsnl/kerala"
+                "https://www.gadgets360.com/mobile-recharge-plans/bsnl-prepaid-kerala"
               ],
               "plans": [
+                {
+                  "amount": 2799,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited Voice calls + 3GB/day(thereafter U/L data with speed reduced to 40Kbps) + 100 SMS/day for 365 days."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "3 GB Day",
+                  "font_family": "",
+                  "id": "p_1773578131149",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773578131149,
+                  "validity": "365 Days"
+                },
+                {
+                  "amount": 599,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited free voice calling home and national roaming including MTNL roaming area of Delhi and Mumbai+Unlimited data with speed reduced to 40kbps after 3GB/day+Free 100 SMS/day."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "3 GB Day",
+                  "font_family": "",
+                  "id": "p_1773578042238",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773578042239,
+                  "validity": "70 Days"
+                },
+                {
+                  "amount": 485,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice calls/Day any-net (Local/STD) in Home LSA and Roaming including Mumbai and Delhi + Unlimited Data with speed restricted to 40Kbps after 2.5 GB Data/day + 100 MS/day to Any N/w Including while Roaming in Mumbai and New Delhi."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2.5 GB Day",
+                  "font_family": "",
+                  "id": "p_1773577969062",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773577969062,
+                  "validity": "72 Days"
+                },
+                {
+                  "amount": 449,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited Voice calls Local/STD/roaming + 5 GB Data with speed reduced to 40 kbps + 100 SMS/day.Only for customers GP2 and above for 90 days."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Only for customers GP2 and above for 90 days.",
+                  "data": "5 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773577858512",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Voice Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773577858513,
+                  "validity": "90 Days"
+                },
+                {
+                  "amount": 439,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice calls (Local/STD) any-net in Home LSA and national roaming including MTNL network in Mumbai and Delhi + 300 SMS"
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773577782951",
+                  "short_desc": "",
+                  "sms": "300 SMS",
+                  "tags": [
+                    "Voice Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773577782952,
+                  "validity": "80 Days"
+                },
+                {
+                  "amount": 347,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice + Unlimited data with speed reduced to 40Kbps after 2 GB/day + 100 SMS/day to any N/w including while Roaming in Mumbai and New Delhi."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1773577713856",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773577713856,
+                  "validity": "50 Days"
+                },
+                {
+                  "amount": 319,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice Local/STD calls any net in Home LSA and National roaming incl MTNL network in Mumbai and Delhi + 300 SMS + Unlimited data with speed reduced to 40 kbps after 10GB data."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "10 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773577660187",
+                  "short_desc": "",
+                  "sms": "300 SMS",
+                  "tags": [
+                    "Voice Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773577660187,
+                  "validity": "60 Days"
+                },
+                {
+                  "amount": 299,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice Local/STD calls any net in Home LSA and national roaming incl.MTNL network in Mumbai and Delhi + Unlimited data (speed reduced to 40 kbps after 3GB/day) + 100 SMS/day including MTNL area Mumbai and Delhi"
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "3 GB Day",
+                  "font_family": "",
+                  "id": "p_1773577603506",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773577603507,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 239,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice calls Local/STD/Roaming incl.MTNL network+ Unlimited data with speed reduced to 40 kbps after 2GB/day+ 100 SMS/day + *Rs.10 Talk value in Main Account balance.*Freebies validity of 1 month is not applicable to Rs.10 in main account balance."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": " 1 Month(Recharge on the same date every month) Calendar Day(s)..Rs.10 Talk value in Main Account balance.Freebies validity of 1 month is not applicable to Rs.10 in main account balance.",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1773577374497",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773577540619,
+                  "validity": "1 Month"
+                },
+                {
+                  "amount": 247,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Rs.10 Talk Value in Main account balance + 50GB Data at high speed (Post which unlimited @ 40 Kbps) + U/L voice + 100SMS/day.Freebies Validity of 30 days is not applicable for Rs.10 in main account balance."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Rs.10 Talk Value in Main account balance.Freebies Validity of 30 days is not applicable for Rs.10 in main account balance.",
+                  "data": "50 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773577527155",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Voice Plans",
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773577527155,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 228,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice calls Local/STD/Roaming incl. MTNL network + Unlimited data with speed reduced to 40 kbps after 2GB/day + 100 SMS/day."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "1 Month(Recharge on the same date every month) Calendar Day(s)",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1773577000029",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773577000029,
+                  "validity": "1 Month"
+                },
+                {
+                  "amount": 225,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice calls + 2.5 GB/day(thereafter U/L data with speed restricted to 40 Kbps) +100SMS/day."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2.5 GB Day",
+                  "font_family": "",
+                  "id": "p_1773576896337",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773576896337,
+                  "validity": ""
+                },
+                {
+                  "amount": 147,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice calls Local/STD/Roaming + Unlimited data with speed reduced to 40 kbps after 5 GB Data."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "5 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773576744230",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Voice Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773576744230,
+                  "validity": "24 Days"
+                },
+                {
+                  "amount": 69,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "This STV is applicable only for Kerala Police CUG.Unlimited voice calls + 300SMS + 1GB/day for 30 days."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Only For Kerala Police CUG",
+                  "data": "1 GB Day",
+                  "font_family": "",
+                  "id": "p_1773576546332",
+                  "short_desc": "",
+                  "sms": "300 SMS",
+                  "tags": [
+                    " CUG Plans",
+                    "Voice Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773576660471,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 99,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice calls (Local/STD) in Home LSA and National roaming incl. Mumbai and Delhi. Unlimited Data with speed reduced to 40 Kbps after 50MB data."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "50 MB Total ",
+                  "font_family": "",
+                  "id": "p_1773576631206",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Voice Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773576631206,
+                  "validity": "14 Days"
+                },
                 {
                   "amount": 411,
                   "app_subscriptions": "",
