@@ -26,6 +26,549 @@
               ],
               "plans": [
                 {
+                  "amount": 5399,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "This STV is for International Roaming only.Voice freebies(in min) [incl. MO (Local and Nat.) + MO (India) + MT] are 30 + Data 3GB + 15 SMS.These vouchers are available in Bhuatan Greece Malaysia Austria China Vietnam Nepal SriLanka Germany Israel Bangladesh Myanmar Kuwait Thailand Denmark Uzbekistan France Japan."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773582279681",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773582279681,
+                  "validity": "28 Days"
+                },
+                {
+                  "amount": 3599,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "This STV is for International Roaming only.Voice freebies(in min) [incl. MO (Local and Nat.) + MO (India) + MT] are 20 + Data 2GB + 10 SMS.These vouchers are available in Bhuatan Greece Malaysia Austria China Vietnam Nepal SriLanka Germany Israel Bangladesh Myanmar Kuwait Thailand Denmark Uzbekistan France Japan."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773582220169",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773582220169,
+                  "validity": "14 Days"
+                },
+                {
+                  "amount": 2199,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "International Roaming STV @ UAE (in the network of M/s Etisalat) :Free Out going Local calls 200 Min + Free Out going calls to India 200 Min + Free In coming calls 120 Min + 1000 MB Free Data. To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM"
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773582173350",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773582173350,
+                  "validity": "7 Days"
+                },
+                {
+                  "amount": 1799,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "This STV is for International Roaming only.Voice freebies(in min) [incl. MO (Local and Nat.) + MO (India) + MT] are 10 + Data 1GB + 5 SMS.These vouchers are available in Bhuatan Greece Malaysia Austria China Vietnam Nepal SriLanka Germany Israel Bangladesh Myanmar Kuwait Thailand Denmark Uzbekistan France Japan."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773582090505",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773582090505,
+                  "validity": "7 Days"
+                },
+                {
+                  "amount": 1359,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "STV for Prepaid International Roaming.60min Mobile Oriqinated Call(Local).30min Mobile Originated Call to lndia.30min Mobile Terminated Call.Data 100MB.To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM and recharge of IR STV 57 or 167."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773582048860",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773582048860,
+                  "validity": "3 Days"
+                },
+                {
+                  "amount": 898,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "STV for prepaid international Roaming @UAE(in the network of M/s Etisalat): Free Out going Local calls 120 Min + Free Out going calls to India 60 Min + Free In coming calls 50 Min + 250 MB Free Data. To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773581975627",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773581975627,
+                  "validity": "3 Days"
+                },
+                {
+                  "amount": 895,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "International Roaming STV for Bhutan.(This pack is valid for roaming into network of M/s B Mobile in Bhutan.).Free Data/ Data Charges:- 200MB after free data to be charged at Rs.1.3/MB.Free Voice/ Voice charges :-40 Free Mins to India and local outgoing and incoming.30 Free SMSs.call back to India(Rs/min):- Rs 10.4/min.Outgoing Local call (Rs/min):- Rs 10.4/min.Outgoing International (Rs/min):-Rs 54.6/min.Incoming call (Rs/min):- Rs 4.1/min.Outgoing SMS (Rs/SMS):-Rs 2/SMS.To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM and recharge of IR STV 57 or 167."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773581930000",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773581930000,
+                  "validity": "1 Day"
+                },
+                {
+                  "amount": 705,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Free Data/Data Charges : 200 MB/after freebies data to be charged @ Rs.0.65/MB.Free Voice/Voice Charges : 30 Free mins to India/Local outgoing and incoming and 5 sms free.Outgoing SMS charges beyond free SMs @ Rs.3.9/SMS./-Call back to India (Rs./Min) :-Rs.15.6/min.-Outgoing Local Call (Rs./Min) :-Rs.5.2/min.-Outgoing International (Rs./Min) :-Rs.52/min.-Incoming call (Rs./Min) :-Rs.11/min.-Outgoing SMS (Rs./SMS) :-Rs.3.9/SMS.To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM and recharge of IR STV 57 or 167"
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773581887847",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773581887847,
+                  "validity": "1 Day"
+                },
+                {
+                  "amount": 659,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "STV for Prepaid International Roaming.20min Mobile Oriqinated Call(Local).20min Mobile Originated Call to lndia.20min Mobile Terminated Call.Data 50MB.To avail International Roaming services it is mandatory to replace Normal SIM with International Roaming SIM and recharge of IR STV 57 or 167."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773581827143",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773581827143,
+                  "validity": "1 Day"
+                },
+                {
+                  "amount": 511,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "International roaming calls which includes outgoing/incoming local calls and calls back to India only : 50mins.Calls back to India @ Rs.10.90/min.Outgoing local call @ Rs.4.6/min.Outgoing International call @ Rs.52.8/min.Incoming call @ Rs.2/min.Outgoing SMS @ Rs.2/SMS.Free data 200MB.Data Charges beyond free Data @ Rs0.5/MB.To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM and recharge of IR STV 57 or 167"
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773581717266",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773581717266,
+                  "validity": "1 Day"
+                },
+                {
+                  "amount": 279,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "International Roaming STV for Singapore(This pack is valid for roaming into network of M/s StarHub in Singapore).Free Data/ Data Charges Rs 0.5/MB.Free Voice/ Voice charges ~30 mins of International Roaming calls which include Outgoing local calls. calls back to India and Incoming Calls only.~Call back to India(Rs/min):- Rs 10.90/min.~Outgoing Local call (Rs/min):- Rs 4.6/min.~Outgoing International (Rs/min):-Rs 52.8/min.~Incoming call (Rs/min):- Rs 2/min.~Outgoing SMS (Rs/SMS):-Rs 2/SMS.To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM and recharge of IR STV 57 or 167."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773581500936",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773581666079,
+                  "validity": "28 Days"
+                },
+                {
+                  "amount": 497,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "International Roaming @UAE(in the network of M/s Etisalat): Free Out going Local calls 40 Min + Free Out going calls to India 40 Min + Free In coming calls 30 Min + 100 MB Free Data.To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM and recharge of IR STV 167."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773581652464",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "International Roaming Packs"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773581652465,
+                  "validity": "1 Day"
+                },
+                {
+                  "amount": 167,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Activation/extension of pre-paid International roaming.It is mandatory to replace Normal SIM with International Roaming SIM to avail International Roaming services."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773581378420",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773581378420,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 151,
+                  "app_subscriptions": "SonyLiv..ShemarooMe..LIONSGATEPLAY..Sun NXT..Dollywood Play..ETV Win..Aha Tamil..Dangal Play..CHAUPAL..Shorts TV..Cahupal Bojpuri..VROTT..Premiumflix..Nammaflix..Gujari",
+                  "background_color": "",
+                  "benefits": [
+                    "BiTV Pack: 17 OTTS - 1.SonyLiv 2.ShemarooMe 3.LIONSGATEPLAY 4.Sun NXT 5.Dollywood Play 6.ETV Win 7.Aha 8.Aha Tamil 9.Dangal Play 10.CHAUPAL 11.Shorts TV 12.Cahupal Bojpuri 13.VROTT 14.Premiumflix 15.Nammaflix 16.Gujari"
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773581341991",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "OTT Plans",
+                    "Others"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773581341991,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 85,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "45 minutes of consultation on IVR."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773579673794",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773579673794,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 81,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "81 minutes of consultation on IVR (Astrology services from M/s Ubarri Marketing Pvt. Ltd). Short code for availing the service: 560001019. Rs.9/min will be charged after availing free minutes from dedicated STV. Plan Validity extension cannot be done with this VAS dedicated STVs."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773579628150",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773579628150,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 45,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "20 minutes of consultation on IVR."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773579144231",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773579144231,
+                  "validity": "15 Days"
+                },
+                {
+                  "amount": 37,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "SMS(News Pack: Sports Pack: Jokes Pack: Love Pack: Shayari Pack)."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773579093374",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773579093375,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 31,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "31 minutes of consultation on IVR.No charge till free minutes and Rs.9/min will be charged after availing free minutes from dedicated STVs.Plan Validity extension cannot be done with this VAS dedicated STVs."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773579059132",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773579059133,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 29,
+                  "app_subscriptions": "ShemarooMe..LIONSGATEPLAY..Dangal Play..VROTT..Premiumflix..Gujari..Fridaay along with 9 Complimentary OTTS.",
+                  "background_color": "",
+                  "benefits": [
+                    "BiTV pack: 7 OTT s - 1. ShemarooMe 2. LIONSGATEPLAY 3. Dangal Play 4. VROTT 5. Premiumflix 6. Gujari 7. Fridaay along with 9 Complimentary OTTS. Plan Validity extension cannot be done with this pack."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773579024071",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "OTT Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773579024071,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 28,
+                  "app_subscriptions": "Lionsgate Play..ETV Win..Vrott..Premiumflix..Nammaflix..Gujari..Fridaay along with 9 Complimentary OTTS.",
+                  "background_color": "",
+                  "benefits": [
+                    "BiTV pack: 7 OTT s - 1.LIONSGATE PLAY 2.ETV Win 3.VROTT 4.Premiumflix 5.Nammaflix 6.Gujari 7.Fridaay along with 9 Complimentary OTTS. Plan Validity extension cannot be done with this pack."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773578885802",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others",
+                    "OTT Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773578885802,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 23,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "23 minutes of consultation on IVR.No charge till free minutes and Rs.9/min will be charged after availing free minutes from dedicated STVs.Plan Validity extension cannot be done with this VAS dedicated STVs."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773578711776",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773578711776,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 15,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "5 minutes of consultation on IVR."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "",
+                  "font_family": "",
+                  "id": "p_1773578617719",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Others"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773578617719,
+                  "validity": "3 Days"
+                },
+                {
+                  "amount": 225,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice calls + 2.5 GB/day(thereafter U/L data with speed restricted to 40 Kbps) +100SMS/day."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2.5 GB Day",
+                  "font_family": "",
+                  "id": "p_1773576896337",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773578505221,
+                  "validity": "30 Days"
+                },
+                {
                   "amount": 2799,
                   "app_subscriptions": "",
                   "background_color": "",
@@ -267,28 +810,6 @@
                   "text_color": "",
                   "updated_timestamp": 1773577000029,
                   "validity": "1 Month"
-                },
-                {
-                  "amount": 225,
-                  "app_subscriptions": "",
-                  "background_color": "",
-                  "benefits": [
-                    "Unlimited voice calls + 2.5 GB/day(thereafter U/L data with speed restricted to 40 Kbps) +100SMS/day."
-                  ],
-                  "calls": "Unlimited ",
-                  "channels": "",
-                  "custom_description": "",
-                  "data": "2.5 GB Day",
-                  "font_family": "",
-                  "id": "p_1773576896337",
-                  "short_desc": "",
-                  "sms": "100 SMS Day",
-                  "tags": [
-                    "Combo Plans"
-                  ],
-                  "text_color": "",
-                  "updated_timestamp": 1773576896337,
-                  "validity": ""
                 },
                 {
                   "amount": 147,
