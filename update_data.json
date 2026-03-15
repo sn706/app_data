@@ -1,11 +1,11 @@
 {
   "background_color": "",
-  "font_family": "ib.ttf",
+  "font_family": "fonts/ib.ttf",
   "force_update": true,
   "internal_ads": [],
-  "latest_version_code": 48,
-  "text_color": "brown",
-  "update_description": "• Bug Fixed",
+  "latest_version_code": 52,
+  "text_color": "",
+  "update_description": "",
   "update_message": "New Update Available",
   "update_title": "New Update Available",
   "update_url": "https://play.google.com/store/apps/details?id\u003dsebin.galaxy"
