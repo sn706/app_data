@@ -26,6 +26,138 @@
               ],
               "plans": [
                 {
+                  "amount": 411,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited data with speed restricted to 40 Kbps after 100 GB."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "100 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773575834390",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Data Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773575834391,
+                  "validity": "60 Days"
+                },
+                {
+                  "amount": 198,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited DATA with speed restricted to 40 Kbps after 40 GB."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "40 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773575782830",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Data Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773575782830,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 105,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited data with speed restricted to 40 Kbps after 20 GB."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "20 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773575728361",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Data Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773575728361,
+                  "validity": "7 Days"
+                },
+                {
+                  "amount": 58,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited data with speed reduced to 40kbps after 8 GB for 7 days.Plan validity extension cannot be done with this voucher."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "8 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773575672494",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Data Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773575672495,
+                  "validity": "7 Days"
+                },
+                {
+                  "amount": 49,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "This STV is applicable only for Kerala Police CUG.300SMS +10GB for 30 days."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "Only For Kerala Police CUG",
+                  "data": "10 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773575598339",
+                  "short_desc": "",
+                  "sms": "300 SMS",
+                  "tags": [
+                    "CUG Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773575598339,
+                  "validity": "30 Days"
+                },
+                {
+                  "amount": 16,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited data with speed reduced to 40 kbps after 2GB DATA.Plan validity extension cannot be done with this voucher."
+                  ],
+                  "calls": "",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2 GB Total",
+                  "font_family": "",
+                  "id": "p_1773575456363",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Data Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773575456364,
+                  "validity": "1 Day"
+                },
+                {
                   "amount": 1000,
                   "app_subscriptions": "",
                   "background_color": "",
