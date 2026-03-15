@@ -26,6 +26,302 @@
               ],
               "plans": [
                 {
+                  "amount": 1999,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited Voice calls + Unlimited data (speed restricted to 40 kbps after 1.5 GB/day)+ 100 SMS/day."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "1.5 GB Day",
+                  "font_family": "",
+                  "id": "p_1773584349294",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans",
+                    "Plan Vouchers"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773584349294,
+                  "validity": "330 Days"
+                },
+                {
+                  "amount": 2399,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice calls + Unlimited data (speed restricted to 40 kbps after 2.5 GB/day) + 100 SMS/day."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2.5 GB Day",
+                  "font_family": "",
+                  "id": "p_1773584194061",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans",
+                    "Plan Vouchers"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773584194061,
+                  "validity": "365 Days"
+                },
+                {
+                  "amount": 1499,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited Voice calls + 100 SMS/day + Unlimited data with speed reduced to 40 kbps after 32GB data"
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "32 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773584045827",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Plan Vouchers"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773584045827,
+                  "validity": "300 Days"
+                },
+                {
+                  "amount": 997,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited Voice calls Local/STD/roaming incl. Mumbai and Delhi + Unlimited Data with speed reduced to 40 kbps after 2 GB/day + 100 SMS/day for 150 days."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "കോൾ,ഡാറ്റ,SMS ഓഫറുകൾ 150 ദിവസത്തേക്കാണ്.പ്ലാൻ കാലാവധി 164 ദിവസം",
+                  "data": "2 GB Day",
+                  "font_family": "fonts/j.ttf",
+                  "id": "p_1773583950975",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans",
+                    "Plan Vouchers"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773583950976,
+                  "validity": "164 Days"
+                },
+                {
+                  "amount": 897,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited free Data with speed reduced to 40 Kbps after 24GB + U/L Voice(local/STD)(on-net/off-net) + Free 100 SMS/day.All other tariff as per plan 107."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "24 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773583698472",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Plan Vouchers"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773583698472,
+                  "validity": "165 Days"
+                },
+                {
+                  "amount": 559,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "This Special FRC-559 is only for Citizens of Nepal and Bhutan visiting India.Unlimited free Data with speed reduced to 40 Kbps after 1GB/day + U/L Voice (local/STD)(on-net/off-net) in Home LSA and National Roaming incl. Mumbai and Delhi* + free 100 SMS/day.All other plan tariff as per plan 107.Migration to other plans not allowed."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Only for Citizens of Nepal and Bhutan visiting India.",
+                  "data": "1 GB Day",
+                  "font_family": "",
+                  "id": "p_1773583569527",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Plan Vouchers",
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773583569527,
+                  "validity": "90 Days"
+                },
+                {
+                  "amount": 249,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "This Plan is for new customers only.Extension of the plan validity/Migration is through any other active plan.Truly unlimited voice in Home LSA and National roaming including MTNL roaming area of Delhi and Mumbai + Unlimited Data with speed reduced to 40 kbps after 2GB/day + 100 SMS/day. Freebies validity 35 days. Migration from other Plan not allowed.Charges after freebies are as follows: Voice call charges: Local calls Rs 1/min STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS National: Rs 1.20/SMS International: Rs 6/SMS Data Charges 25p/MB"
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1773583309215",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "New Customer Packs",
+                    "Plan Vouchers",
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773583387444,
+                  "validity": "35 Days"
+                },
+                {
+                  "amount": 229,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited voice (Local/STD) any-net in Home LSA and national roaming incl. MTNL network in Mumbai and Delhi + Unlimited data with speed reduced to 40 Kbps after 2GB/day + free 100 SMS/day .Charges after freebies are as follows: Voice call charges:Local calls Rs 1/min. STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS National: Rs 1.20/SMS International: Rs 6/SMS Data Charges 25p/MB."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "1 month(recharge on the same date every month) Calendar Day(s)",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1773583205287",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans",
+                    "Plan Vouchers"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773583205287,
+                  "validity": "1 Month"
+                },
+                {
+                  "amount": 199,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited Voice Calls + Unlimited Data (speed restricted to 40 Kbps after 2GB/day) + 100 SMS/day."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1773583024844",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Combo Plans",
+                    "Plan Vouchers"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773583024844,
+                  "validity": "28 Days"
+                },
+                {
+                  "amount": 197,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "300 min Voice calls + Unlimited Data(speed restricted to 40 Kbps after 5GB)+ 100 SMS."
+                  ],
+                  "calls": "300 Minutes",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "5 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773582927666",
+                  "short_desc": "",
+                  "sms": "100 SMS",
+                  "tags": [
+                    "Plan Vouchers"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773582927666,
+                  "validity": "35 Days"
+                },
+                {
+                  "amount": 153,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited Voice Calls + Unlimited Data with speed restricted to 40 Kbps after 1GB/day + 100 SMS/day for 24 days."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "1 GB Day",
+                  "font_family": "",
+                  "id": "p_1773582862021",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "Plan Vouchers",
+                    "Combo Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773582862021,
+                  "validity": "24 Days"
+                },
+                {
+                  "amount": 107,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited data with speed reduced to 40 kbps after 3GB free data + 200 Min free voice anynet Local/STD/Roaming incl. MTNL network. Charges after freebies are as follows: Voice call charges: Local calls Rs 1/min. STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS. National: Rs 1.20/SMS International: Rs 6/SMS Data Charges 25p/MB."
+                  ],
+                  "calls": "200 Minutes",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "3 GB Total ",
+                  "font_family": "",
+                  "id": "p_1773582774029",
+                  "short_desc": "",
+                  "sms": "",
+                  "tags": [
+                    "Plan Vouchers"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773582774029,
+                  "validity": "20 Days"
+                },
+                {
+                  "amount": 69,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "This STV is applicable only for Kerala Police CUG.Unlimited voice calls + 300SMS + 1GB/day for 30 days."
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "Only For Kerala Police CUG",
+                  "data": "1 GB Day",
+                  "font_family": "",
+                  "id": "p_1773576546332",
+                  "short_desc": "",
+                  "sms": "300 SMS",
+                  "tags": [
+                    "Voice Plans",
+                    "CUG Plans"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1773582572998,
+                  "validity": "30 Days"
+                },
+                {
                   "amount": 5399,
                   "app_subscriptions": "",
                   "background_color": "",
@@ -832,29 +1128,6 @@
                   "text_color": "",
                   "updated_timestamp": 1773576744230,
                   "validity": "24 Days"
-                },
-                {
-                  "amount": 69,
-                  "app_subscriptions": "",
-                  "background_color": "",
-                  "benefits": [
-                    "This STV is applicable only for Kerala Police CUG.Unlimited voice calls + 300SMS + 1GB/day for 30 days."
-                  ],
-                  "calls": "Unlimited ",
-                  "channels": "",
-                  "custom_description": "Only For Kerala Police CUG",
-                  "data": "1 GB Day",
-                  "font_family": "",
-                  "id": "p_1773576546332",
-                  "short_desc": "",
-                  "sms": "300 SMS",
-                  "tags": [
-                    " CUG Plans",
-                    "Voice Plans"
-                  ],
-                  "text_color": "",
-                  "updated_timestamp": 1773576660471,
-                  "validity": "30 Days"
                 },
                 {
                   "amount": 99,
