@@ -12,7 +12,7 @@
           "name": "Kerala",
           "operators": [
             {
-              "image": "icon",
+              "image": "avd_recharge",
               "name": "BSNL",
               "official_apps": [
                 "https://play.google.com/store/apps/details?id\u003dcom.digital.bsnl.selfcare"
