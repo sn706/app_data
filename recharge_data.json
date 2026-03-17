@@ -12,7 +12,7 @@
           "name": "Kerala",
           "operators": [
             {
-              "image": "img_ussd_premium",
+              "image": "",
               "name": "BSNL",
               "official_apps": [
                 "https://play.google.com/store/apps/details?id\u003dcom.digital.bsnl.selfcare"
@@ -1442,7 +1442,7 @@
               ]
             },
             {
-              "image": "avd_recharge",
+              "image": "",
               "name": "Vi",
               "official_apps": [
                 "https://play.google.com/store/apps/details?id\u003dcom.mventus.selfcare.activity"
@@ -1453,6 +1453,36 @@
               "other_websites": [
                 "https://www.plansinfo.com/mobile/vi/kerala",
                 "https://www.gadgets360.com/mobile-recharge-plans/vi-prepaid-kerala"
+              ],
+              "plans": []
+            },
+            {
+              "image": "",
+              "name": "Airtel",
+              "official_apps": [
+                "https://play.google.com/store/apps/details?id\u003dcom.myairtelapp"
+              ],
+              "official_websites": [
+                "https://www.airtel.in/recharge-online/?hl\u003dml-IN"
+              ],
+              "other_websites": [
+                "https://www.plansinfo.com/mobile/airtel/kerala",
+                "https://www.gadgets360.com/mobile-recharge-plans/airtel-prepaid-kerala"
+              ],
+              "plans": []
+            },
+            {
+              "image": "",
+              "name": "Jio",
+              "official_apps": [
+                "https://play.google.com/store/apps/details?id\u003dcom.jio.myjio"
+              ],
+              "official_websites": [
+                "https://www.jio.com/selfcare/plans/mobility/prepaid-plans-list/"
+              ],
+              "other_websites": [
+                "https://www.plansinfo.com/mobile/jio/kerala",
+                "https://www.gadgets360.com/mobile-recharge-plans/jio-prepaid-kerala"
               ],
               "plans": []
             }
