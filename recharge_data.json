@@ -1440,6 +1440,21 @@
                   "validity": ""
                 }
               ]
+            },
+            {
+              "image": "avd_recharge",
+              "name": "Vi",
+              "official_apps": [
+                "https://play.google.com/store/apps/details?id\u003dcom.mventus.selfcare.activity"
+              ],
+              "official_websites": [
+                "https://www.myvi.in/prepaid/best-prepaid-plans"
+              ],
+              "other_websites": [
+                "https://www.plansinfo.com/mobile/vi/kerala",
+                "https://www.gadgets360.com/mobile-recharge-plans/vi-prepaid-kerala"
+              ],
+              "plans": []
             }
           ],
           "tags": []
