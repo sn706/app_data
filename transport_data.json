@@ -240,9 +240,9 @@
       "agency_type": "Government",
       "bus_id": "bus_1773589784566",
       "contact_numbers": [],
-      "font_family": "fonts/ib.ttf",
+      "font_family": "fonts/j.ttf",
       "name": "KSRTC",
-      "route_name": "Moolamattom - Koombara",
+      "route_name": "മൂലമറ്റം - കൂമ്പാറ",
       "stops": [
         {
           "place": "Moolamattom",
@@ -323,7 +323,7 @@
       ],
       "table_font_family": "fonts/j.ttf",
       "type": "Fast Passenger ",
-      "updated_date": "15-03-2026",
+      "updated_date": "18-03-2026",
       "via_routes": [
         "മൂലമറ്റം",
         "തൊടുപുഴ",
@@ -343,6 +343,140 @@
         "കുന്ദമംഗലം",
         "തിരുവമ്പാടി",
         "കൂമ്പാറ"
+      ]
+    },
+    {
+      "agency_type": "Government",
+      "bus_id": "bus_1773854193182",
+      "contact_numbers": [],
+      "font_family": "fonts/j.ttf",
+      "name": "KSRTC",
+      "route_name": "പത്തനംതിട്ട - കാഞ്ഞങ്ങാട് ",
+      "stops": [
+        {
+          "place": "Pathanamthitta",
+          "time": "18:20"
+        },
+        {
+          "place": "Thiruvalla",
+          "time": "19:05"
+        },
+        {
+          "place": "Changanassery",
+          "time": "19:15"
+        },
+        {
+          "place": "Kottayam",
+          "time": "19:40"
+        },
+        {
+          "place": "Ettumanoor",
+          "time": "20:05"
+        },
+        {
+          "place": "Vaikkom",
+          "time": "20:55"
+        },
+        {
+          "place": "Ernakulam",
+          "time": "21:55"
+        },
+        {
+          "place": "Aluva",
+          "time": "22:20"
+        },
+        {
+          "place": "Angamali",
+          "time": "22:45"
+        },
+        {
+          "place": "Chalakkudy",
+          "time": "23:05"
+        },
+        {
+          "place": "Puthukkad",
+          "time": "23:30"
+        },
+        {
+          "place": "Thrissur",
+          "time": "23:45"
+        },
+        {
+          "place": "Kunnamkulam",
+          "time": "00:15"
+        },
+        {
+          "place": "Changaramkulam",
+          "time": "00:40"
+        },
+        {
+          "place": "Edappal",
+          "time": "00:50"
+        },
+        {
+          "place": "Kottakkal",
+          "time": "01:35"
+        },
+        {
+          "place": "Kozhikkode University",
+          "time": "02:20"
+        },
+        {
+          "place": "Kozhikkode",
+          "time": "02:50"
+        },
+        {
+          "place": "Vadakara",
+          "time": "04:00"
+        },
+        {
+          "place": "Thalassery",
+          "time": "04:30"
+        },
+        {
+          "place": "Kannur",
+          "time": "05:00"
+        },
+        {
+          "place": "Taliparamba",
+          "time": "05:30"
+        },
+        {
+          "place": "Payyannur",
+          "time": "06:00"
+        },
+        {
+          "place": "Kanhangad",
+          "time": "06:50"
+        }
+      ],
+      "table_font_family": "fonts/j.ttf",
+      "type": "Super Fast Premium",
+      "updated_date": "18-03-2026",
+      "via_routes": [
+        "പത്തനംതിട്ട",
+        "തിരുവല്ല",
+        "ചങ്ങനാശ്ശേരി",
+        "കോട്ടയം",
+        "ഏറ്റുമാനൂർ",
+        "വൈക്കം",
+        "എറണാകുളം",
+        "ആലുവ",
+        "അങ്കമാലി",
+        "ചാലക്കുടി",
+        "പുതുക്കാട്",
+        "തൃശ്ശൂർ കുന്നംകുളം",
+        "ചങ്ങരംകുളം",
+        "എടപ്പാൾ",
+        "കോട്ടക്കൽ",
+        "കോഴിക്കോട് യൂണിവേഴ്സിറ്റി",
+        "കോഴിക്കോട്",
+        "വടകര",
+        "തലശ്ശേരി",
+        "കണ്ണൂർ",
+        "തളിപ്പറമ്പ്",
+        "പയ്യന്നൂർ",
+        "കാഞ്ഞങ്ങാട്"
       ]
     }
   ],
