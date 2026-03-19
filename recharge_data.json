@@ -1442,6 +1442,8 @@
               ]
             },
             {
+              "empty_plans_font_family": "fonts/ib.ttf",
+              "empty_plans_message": "വോഡഫോൺ ഐഡിയയുടെ കേരളത്തിലെ പ്ലാൻ വിവരങ്ങൾക്ക് ഒഫീഷ്യൽ വെബ്സൈറ്റ് അല്ലെങ്കിൽ ആപ്പ് സന്ദർശിക്കുക.",
               "image": "",
               "name": "Vi",
               "official_apps": [
