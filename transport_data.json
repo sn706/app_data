@@ -6,6 +6,8 @@
       "contact_numbers": [],
       "font_family": "fonts/ib.ttf",
       "name": "KSRTC",
+      "official_apps": [],
+      "official_websites": [],
       "route_name": "Rajapuram - Mananthavady",
       "stops": [
         {
@@ -54,6 +56,8 @@
       "contact_numbers": [],
       "font_family": "fonts/ib.ttf",
       "name": "KSRTC",
+      "official_apps": [],
+      "official_websites": [],
       "route_name": "Mananthavady - Rajapuram ",
       "stops": [
         {
@@ -102,6 +106,8 @@
       "contact_numbers": [],
       "font_family": "fonts/ib.ttf",
       "name": "KSRTC",
+      "official_apps": [],
+      "official_websites": [],
       "route_name": "Kattappana - Pulppally",
       "stops": [
         {
@@ -172,6 +178,8 @@
       "contact_numbers": [],
       "font_family": "fonts/ib.ttf",
       "name": "KSRTC ",
+      "official_apps": [],
+      "official_websites": [],
       "route_name": "Pulppally - Kattappana ",
       "stops": [
         {
@@ -242,6 +250,8 @@
       "contact_numbers": [],
       "font_family": "fonts/ib.ttf",
       "name": "KSRTC",
+      "official_apps": [],
+      "official_websites": [],
       "route_name": "മൂലമറ്റം - കൂമ്പാറ",
       "stops": [
         {
@@ -352,6 +362,8 @@
       "contact_numbers": [],
       "font_family": "fonts/ib.ttf",
       "name": "KSRTC",
+      "official_apps": [],
+      "official_websites": [],
       "route_name": "പത്തനംതിട്ട - കാഞ്ഞങ്ങാട് ",
       "stops": [
         {
@@ -487,6 +499,8 @@
       "contact_numbers": [],
       "font_family": "fonts/ib.ttf",
       "name": "KSRTC",
+      "official_apps": [],
+      "official_websites": [],
       "route_name": "കൂമ്പാറ - മൂലമറ്റം ",
       "stops": [
         {
@@ -627,6 +641,21 @@
       "phone": "+91 91889 33809",
       "place": "Kozhikkode ",
       "whatsapp": ""
+    },
+    {
+      "phone": "+91 91889 33766",
+      "place": "Kattappana",
+      "whatsapp": "+91 91889 33766"
+    },
+    {
+      "phone": "+91 91889 33767",
+      "place": "Kattappana Municipal Bus Stand ",
+      "whatsapp": "+91 91889 33767"
+    },
+    {
+      "phone": "+91 91889 33768",
+      "place": "Kumily",
+      "whatsapp": "+91 91889 33768"
     }
   ]
 }
