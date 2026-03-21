@@ -590,6 +590,56 @@
         "തൊടുപുഴ",
         "മൂലമറ്റം"
       ]
+    },
+    {
+      "agency_type": "Government",
+      "bus_id": "bus_1774103035384",
+      "contact_numbers": [],
+      "font_family": "fonts/ib.ttf",
+      "name": "KSRTC",
+      "official_apps": [
+        "https://play.google.com/store/apps/details?id\u003dcom.maven.onlineksrtcswift"
+      ],
+      "official_websites": [
+        "https://onlineksrtcswift.com/"
+      ],
+      "route_name": "Kattappana - Thiruvananthapuram ",
+      "stops": [
+        {
+          "place": "Kattappana",
+          "time": "10:30 PM"
+        },
+        {
+          "place": "Cheruthoni",
+          "time": "11:05 PM"
+        },
+        {
+          "place": "Thodupuzha",
+          "time": "12:55 AM"
+        },
+        {
+          "place": "Kottayam",
+          "time": "01:55 AM"
+        },
+        {
+          "place": "Kottarakkara",
+          "time": "03:30 AM"
+        },
+        {
+          "place": "Thiruvananthapuram",
+          "time": "04:45 AM"
+        }
+      ],
+      "suggested_by": "",
+      "table_font_family": "fonts/j.ttf",
+      "type": "Minnal Super Air Deluxe",
+      "updated_date": "21-03-2026",
+      "via_routes": [
+        "ചെറുതോണി",
+        "തൊടുപുഴ",
+        "കോട്ടയം",
+        "കൊട്ടാരക്കര"
+      ]
     }
   ],
   "disclaimer": "ഈ ആപ്ലിക്കേഷനിൽ നൽകിയിരിക്കുന്ന വിവരങ്ങൾ പൊതുജനങ്ങളുടെ അറിവിലേക്കും സൗകര്യത്തിനുമായി മാത്രമുള്ളതാണ്.ആപ്പിൽ കാണിക്കുന്ന ബസ് സമയങ്ങളും റൂട്ടുകളും ലഭ്യമായ വിവരങ്ങളുടെ അടിസ്ഥാനത്തിലുള്ളതാണ്.ഇവയിൽ കാലഹരണപ്പെട്ടതും തെറ്റായതുമായ വിവരങ്ങൾ ഉൾപ്പെടാം.അതുപോലെ ഗതാഗത തടസ്സങ്ങൾ, വാഹനങ്ങളുടെ തകരാറുകൾ, കാലാവസ്ഥാ വ്യതിയാനങ്ങൾ അല്ലെങ്കിൽ മറ്റ് സാങ്കേതിക കാരണങ്ങളാൽ സമയക്രമത്തിൽ മാറ്റങ്ങളും വരാം.ഈ ആപ്പിലെ വിവരങ്ങൾ മാത്രം അടിസ്ഥാനമാക്കി യാത്ര പ്ലാൻ ചെയ്യുന്നത് മൂലമുണ്ടാകുന്ന അസൗകര്യങ്ങൾക്കോ, നഷ്ടങ്ങൾക്കോ ആപ്പ് ഡെവലപ്പർമാരോ ബന്ധപ്പെട്ട അധികൃതരോ ഉത്തരവാദികളായിരിക്കില്ല.യാത്ര പുറപ്പെടുന്നതിന് മുൻപ് ഔദ്യോഗിക ആപ്പുകൾ / വെബ് സൈറ്റുകൾ,ബസ് സ്റ്റാൻഡുകളിലോ അന്വേഷിച്ച് വിവരങ്ങൾ ഉറപ്പുവരുത്താൻ ശുപാർശ ചെയ്യുന്നു.",
@@ -656,6 +706,26 @@
       "phone": "+91 91889 33768",
       "place": "Kumily",
       "whatsapp": "+91 91889 33768"
+    },
+    {
+      "phone": "+91 91889 33769",
+      "place": "Kumily Town",
+      "whatsapp": "+91 91889 33769"
+    },
+    {
+      "phone": "+91 91889 33771",
+      "place": "Munnar",
+      "whatsapp": "+91 91889 33771"
+    },
+    {
+      "phone": "+91 91889 33772",
+      "place": "Adimaly ",
+      "whatsapp": "+91 91889 33772"
+    },
+    {
+      "phone": "+91 91889 33774",
+      "place": "Nedumkandam ",
+      "whatsapp": "+91 91889 33774"
     }
   ]
 }
