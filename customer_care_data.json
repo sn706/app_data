@@ -45,6 +45,44 @@
                 }
               ],
               "state_name": "Kerala "
+            },
+            {
+              "common_numbers": [
+                {
+                  "description": "Customer Care (Short)",
+                  "number": "199"
+                },
+                {
+                  "description": "Customer Care (Long)",
+                  "number": "9826012345"
+                },
+                {
+                  "description": "Complaints (Short)",
+                  "number": "198"
+                },
+                {
+                  "description": "Complaints (Long)",
+                  "number": "9826000198"
+                }
+              ],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "139-140, Electronic Complex, Pardeshipura, Indore, MP , Pin - 452010",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Madhya Pradesh "
             }
           ]
         }
