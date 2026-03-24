@@ -83,6 +83,269 @@
                 }
               ],
               "state_name": "Madhya Pradesh "
+            },
+            {
+              "common_numbers": [
+                {
+                  "description": "Customer Care (Short)",
+                  "number": "199"
+                },
+                {
+                  "description": "Customer Care (Long)",
+                  "number": "9089012345"
+                },
+                {
+                  "description": "Complaints (Short)",
+                  "number": "198"
+                },
+                {
+                  "description": "Complaints (Long)",
+                  "number": "9089000198"
+                }
+              ],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "Red Den, Katahbari, NH37, Gorchuk, Guwahati 781035, Assam",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "North Eastern States of India"
+            },
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "2nd Floor, A-19 MCIE Mathura Road New Delhi-110076",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Delhi"
+            },
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "Building -A-Corporate Road-Off-S.G.Highway,Prahladnagar-Ahmedabad, 380015",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Gujarat"
+            },
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "Shalimar Titanium, Plot NoTC/G-1/1, Vibhuti Khand, Gomti Nagar, Lucknow 226010",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office Uttarpradesh East",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                },
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "1st Floor, A-19 MCIE Mathura Road New Delhi-110076",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office Uttarpradesh West",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Uttarpradesh"
+            },
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "2nd Floor, Varuntower II, Begumpet, Hyderabad – 500016, Telangana, India",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Andra Pradesh "
+            },
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "Vodafone Idea Limited RED DEN, NH – 37 Katahbari, Gorchuk, Guwahati, Assam-781035",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Assam"
+            },
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "Sai Corporate Park, Opp.- SSB Office, Rukanpura, Baily Road, Patna- 800014",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Bihar"
+            },
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "Vodafone Idea Limited, Plot No.173 sector 3 HS11DC Industrial Area, Karnala Haryana 132001",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Haryana "
+            },
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "Keonthal Complex, Khalini, Shimla - 171002",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Himachal Pradesh "
+            },
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "2nd Floor, Sunny Square, Gangyal, Jammu -180010, Jammu \u0026 Kashmir",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Jammu and Kashmir "
+            },
+            {
+              "common_numbers": [],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "Maruthi Infotec Center, Ground Floor, \u0027B\u0027 Block, 11/1, 12/1 Koramangala Intermediate Ring Road  Bangalore  -560071  ",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "24-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Karnataka "
             }
           ]
         }
