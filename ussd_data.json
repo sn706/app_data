@@ -1,0 +1,48 @@
+{
+  "disclaimer": "ഈ ആപ്പിൽ നൽകിയിരിക്കുന്ന USSD കോഡുകൾ വിവിധ ടെലികോം/സേവന ദാതാക്കളുടെ ഔദ്യോഗിക വെബ്സൈറ്റുകളിൽ നിന്നും ശേഖരിച്ചവയാണ്. സേവനദാതാക്കൾ അറിയിപ്പില്ലാതെ തന്നെ ഈ കോഡുകളിൽ മാറ്റം വരുത്താൻ സാധ്യതയുണ്ട്. അതിനാൽ, ചില കോഡുകൾ നിങ്ങളുടെ നിലവിലെ പ്ലാനിലോ സർക്കിളിലോ (Circle) ലഭ്യമായിരിക്കില്ല.",
+  "disclaimer_background_color": "",
+  "disclaimer_font_family": "fonts/ib.ttf",
+  "disclaimer_text_color": "",
+  "ussd_categories": [
+    {
+      "codes": [
+        {
+          "id": "ussd_1774369654459",
+          "tags": [],
+          "title": "Value Added Service Deactivation",
+          "type": "CALL",
+          "value": "155223"
+        },
+        {
+          "id": "ussd_1774369675135",
+          "tags": [],
+          "title": "Do Not Disturb ",
+          "type": "CALL",
+          "value": "1909"
+        },
+        {
+          "id": "ussd_1774369716122",
+          "tags": [],
+          "title": "Data Activation / Deactivation ",
+          "type": "CALL",
+          "value": "1925"
+        },
+        {
+          "id": "ussd_1774369741203",
+          "tags": [],
+          "title": "Televerification",
+          "type": "CALL",
+          "value": "59059"
+        },
+        {
+          "id": "ussd_1774369780189",
+          "tags": [],
+          "title": "Mobile Number Portability Helpline ",
+          "type": "CALL",
+          "value": "18001234567"
+        }
+      ],
+      "name": "Vi"
+    }
+  ]
+}
