@@ -201,7 +201,24 @@
               "state_name": "Uttarpradesh"
             },
             {
-              "common_numbers": [],
+              "common_numbers": [
+                {
+                  "description": "Customer Care (Short)",
+                  "number": "199"
+                },
+                {
+                  "description": "Customer Care (Long)",
+                  "number": "9848012345"
+                },
+                {
+                  "description": "Complaints (Short)",
+                  "number": "198"
+                },
+                {
+                  "description": "Complaints (Long)",
+                  "number": "9848009198"
+                }
+              ],
               "offices": [
                 {
                   "additional_addresses": [],
@@ -346,6 +363,82 @@
                 }
               ],
               "state_name": "Karnataka "
+            },
+            {
+              "common_numbers": [
+                {
+                  "description": "Customer Care (Short)",
+                  "number": "199"
+                },
+                {
+                  "description": "Customer Care (Long)",
+                  "number": "9887012345"
+                },
+                {
+                  "description": "Complaints (Short)",
+                  "number": "198"
+                },
+                {
+                  "description": "Complaints (Long)",
+                  "number": "9887010198"
+                }
+              ],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "1st Floor, Gaurav Tower, Malviya Nagar Jaipur-302017",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office",
+                  "suggested_by": "",
+                  "updated_date": "26-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Rajasthan "
+            },
+            {
+              "common_numbers": [
+                {
+                  "description": "Customer Care (Short)",
+                  "number": "199"
+                },
+                {
+                  "description": "Customer Care (Long)",
+                  "number": "9814012345"
+                },
+                {
+                  "description": "Complaints (Short)",
+                  "number": "198"
+                },
+                {
+                  "description": "Complaints (Long)",
+                  "number": "9781500198"
+                }
+              ],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "C-105,  Industrial Area Ph-VII. Mohali- 160055",
+                  "email": "",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Circle Office ",
+                  "suggested_by": "",
+                  "updated_date": "26-03-2026",
+                  "whatsapp": ""
+                }
+              ],
+              "state_name": "Punjab"
             }
           ]
         }
