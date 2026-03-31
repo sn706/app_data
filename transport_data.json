@@ -835,7 +835,7 @@
       "agency_type": "Government",
       "bus_id": "bus_1774972900638",
       "contact_numbers": [],
-      "font_family": "fonts/ib.ttf",
+      "font_family": "fonts/e.ttf",
       "name": "KSRTC",
       "official_apps": [],
       "official_websites": [],
@@ -863,7 +863,7 @@
         },
         {
           "place": "Kannur",
-          "time": "20:20"
+          "time": "2u0:20"
         },
         {
           "place": "Thalassery",
