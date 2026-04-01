@@ -16,25 +16,10 @@
       "video_url": ""
     },
     {
-      "background_color": "",
-      "background_gradient": "",
-      "date": "02-04-2026",
-      "description": "തന്റെ ശിഷ്യന്മാരുടെ പാദങ്ങൾ കഴുകി വിനയത്തിന്റെ മാതൃക കാട്ടിത്തന്ന ക്രിസ്തുദേവന്റെ ഓർമ്മ പുതുക്കുന്ന ഈ പെസഹാ ദിനത്തിൽ ഏവർക്കും ഹൃദയം നിറഞ്ഞ ആശംസകൾ",
-      "display_duration_days": 1,
-      "fixed": false,
-      "font_family": "ib.ttf",
-      "gradient_colors": [],
-      "id": "evt_1775008124059",
-      "image_url": "",
-      "text_color": "",
-      "title": "ഇന്ന് പെസഹാ വ്യാഴം ",
-      "video_url": ""
-    },
-    {
       "background_color": "red",
       "background_gradient": "blue,red",
       "date": "01-04",
-      "description": "ഇന്ത്യയിൽ പുതിയ സാമ്പത്തിക വർഷം  ആരംഭിക്കുന്നത് ഇന്നാണ്. നികുതി സംബന്ധമായ പുതിയ നിയമങ്ങളും മാറ്റങ്ങളും ഇന്ന് മുതൽ നിലവിൽ വരും.",
+      "description": "",
       "display_duration_days": 1,
       "fixed": true,
       "font_family": "ib.ttf",
@@ -44,8 +29,23 @@
       ],
       "id": "evt_1775008344912",
       "image_url": "",
-      "text_color": "blue",
+      "text_color": "white",
       "title": "സാമ്പത്തിക വർഷാരംഭം",
+      "video_url": ""
+    },
+    {
+      "background_color": "",
+      "background_gradient": "",
+      "date": "02-04-2026",
+      "description": "",
+      "display_duration_days": 1,
+      "fixed": false,
+      "font_family": "ib.ttf",
+      "gradient_colors": [],
+      "id": "evt_1775060704054",
+      "image_url": "",
+      "text_color": "",
+      "title": "പെസഹാ തിരുനാളിൻ്റെ ആശംസകൾ ",
       "video_url": ""
     }
   ]
