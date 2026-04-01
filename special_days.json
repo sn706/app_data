@@ -5,7 +5,7 @@
       "background_gradient": "",
       "date": "08-03",
       "description": "വനിതാ ദിനാശംസകൾ",
-      "display_duration_days": 0,
+      "display_duration_days": 1,
       "fixed": true,
       "font_family": "ib.ttf",
       "gradient_colors": [],
@@ -13,6 +13,21 @@
       "image_url": "",
       "text_color": "red",
       "title": "അന്താരാഷ്ട്ര വനിതാ ദിനം ",
+      "video_url": ""
+    },
+    {
+      "background_color": "",
+      "background_gradient": "",
+      "date": "02-04-2026",
+      "description": "തന്റെ ശിഷ്യന്മാരുടെ പാദങ്ങൾ കഴുകി വിനയത്തിന്റെ മാതൃക കാട്ടിത്തന്ന ക്രിസ്തുദേവന്റെ ഓർമ്മ പുതുക്കുന്ന ഈ പെസഹാ ദിനത്തിൽ ഏവർക്കും ഹൃദയം നിറഞ്ഞ ആശംസകൾ",
+      "display_duration_days": 1,
+      "fixed": false,
+      "font_family": "fonts/ib.ttf",
+      "gradient_colors": [],
+      "id": "evt_1775008124059",
+      "image_url": "",
+      "text_color": "",
+      "title": "ഇന്ന് പെസഹാ വ്യാഴം ",
       "video_url": ""
     }
   ]
