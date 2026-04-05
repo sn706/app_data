@@ -1,1 +1,23 @@
 
+{
+  "internal_ads": [
+    {
+      "action_url": "",
+      "body": "",
+      "button_text": "",
+      "headline": "",
+      "id": "ad_1",
+      "image_url": ""
+    }
+  ],
+  "isBusUpcoming": true,
+  "isCustomerCareUpcoming": true,
+  "isMessageUpcoming": true,
+  "isMoreUpcoming": true,
+  "isPhoneUpcoming": true,
+  "isPincodeUpcoming": true,
+  "isRechargeUpcoming": false,
+  "isUpdateUpcoming": false,
+  "isUssdUpcoming": true,
+  "isWhatsNewUpcoming": false
+}
