@@ -12,6 +12,8 @@
           "name": "Kerala",
           "operators": [
             {
+              "empty_plans_font_family": "",
+              "empty_plans_message": "",
               "image": "",
               "name": "BSNL",
               "official_apps": [
@@ -1439,7 +1441,8 @@
                   "updated_timestamp": 1773574416784,
                   "validity": ""
                 }
-              ]
+              ],
+              "plans_completed": false
             },
             {
               "empty_plans_font_family": "fonts/ib.ttf",
@@ -1456,7 +1459,8 @@
                 "https://www.plansinfo.com/mobile/vi/kerala",
                 "https://www.gadgets360.com/mobile-recharge-plans/vi-prepaid-kerala"
               ],
-              "plans": []
+              "plans": [],
+              "plans_completed": true
             },
             {
               "image": "",
@@ -1471,7 +1475,8 @@
                 "https://www.plansinfo.com/mobile/airtel/kerala",
                 "https://www.gadgets360.com/mobile-recharge-plans/airtel-prepaid-kerala"
               ],
-              "plans": []
+              "plans": [],
+              "plans_completed": true
             },
             {
               "image": "",
@@ -1486,7 +1491,8 @@
                 "https://www.plansinfo.com/mobile/jio/kerala",
                 "https://www.gadgets360.com/mobile-recharge-plans/jio-prepaid-kerala"
               ],
-              "plans": []
+              "plans": [],
+              "plans_completed": true
             }
           ],
           "tags": []
@@ -1499,16 +1505,5 @@
       "mode_name": "DTH"
     }
   ],
-  "recharge_news": [
-    {
-      "action_url": "",
-      "background_color": "",
-      "description": "മൊബൈൽ റീചാർജ് കാലാവധി 28 ദിവസത്തിന് പകരം 30 ദിവസമാക്കാനോ അല്ലെങ്കിൽ കലണ്ടർ മാസത്തിൽ ഒരേ തീയതിയിൽ പുതുക്കാവുന്ന  പ്ലാനുകൾ നൽകാനോ ടെലികോം കമ്പനികൾക്ക് കേന്ദ്ര സർക്കാരിൻ്റെ നിർദേശം. നിലവിൽ 28 ദിവസത്തെ സൈക്കിൾ കാരണം ഉപഭോക്താക്കൾക്ക് വർഷത്തിൽ 13 റീചാർജ് വേണ്ടിവരുന്ന അവസ്ഥ ഒഴിവാക്കാനാണ് ഈ നീക്കം. ",
-      "id": "news_0_1774874190340",
-      "operator": "Common",
-      "text_color": "red",
-      "timestamp": 1774874190340,
-      "title": "30 ദിവസത്തെ പ്ലാൻ നിർബന്ധം."
-    }
-  ]
+  "recharge_news": []
 }
