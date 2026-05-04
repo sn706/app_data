@@ -1,4 +1,6 @@
 {
+  "body_font_family": "",
+  "global_font_family": "",
   "internal_ads": [
     {
       "action_url": "",
@@ -13,10 +15,11 @@
   "isCustomerCareUpcoming": true,
   "isMessageUpcoming": true,
   "isMoreUpcoming": true,
-  "isPhoneUpcoming": true,
+  "isPhoneUpcoming": false,
   "isPincodeUpcoming": false,
   "isRechargeUpcoming": false,
   "isUpdateUpcoming": false,
   "isUssdUpcoming": true,
-  "isWhatsNewUpcoming": false
+  "isWhatsNewUpcoming": false,
+  "title_font_family": ""
 }
