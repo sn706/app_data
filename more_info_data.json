@@ -5,71 +5,20 @@
   "disclaimer_text_color": "",
   "more_info_data": [
     {
-      "content_blocks": [
-        {
-          "background_color": "",
-          "content": "“ഡിജിറ്റൽ അറസ്റ്റ്” എന്നത് ഒരു സൈബർ തട്ടിപ്പാണ്. പണം നൽകാനോ വ്യക്തിഗത വിവരങ്ങൾ പങ്കിടാനോ ആളുകളെ ഭയപ്പെടുത്തുന്നതിനായി തട്ടിപ്പുകാർ ആർ‌ബി‌ഐ, പോലീസ് അല്ലെങ്കിൽ സർക്കാർ ഏജൻസികളുടെ പേരുകൾ ദുരുപയോഗം ചെയ്യുന്നു.",
-          "font_family": "ib.ttf",
-          "table_data": [],
-          "text_alignment": "LEFT",
-          "text_color": "",
-          "type": "paragraph"
-        },
-        {
-          "background_color": "",
-          "content": "സാമ്പത്തിക / വ്യക്തിഗത വിവരങ്ങൾ പങ്കിടരുത്.",
-          "font_family": "",
-          "table_data": [],
-          "text_alignment": "LEFT",
-          "text_color": "",
-          "type": "paragraph"
-        },
-        {
-          "background_color": "",
-          "content": "വിളിക്കുന്നവരുടെ ആധികാരികത എപ്പോഴും പരിശോധിക്കുക",
-          "font_family": "",
-          "table_data": [],
-          "text_alignment": "LEFT",
-          "text_color": "",
-          "type": "paragraph"
-        },
-        {
-          "background_color": "",
-          "content": "സംശയം തോന്നിയാൽ  ബാങ്കുമായി ബന്ധപ്പെടുക",
-          "font_family": "",
-          "table_data": [],
-          "text_alignment": "LEFT",
-          "text_color": "",
-          "type": "paragraph"
-        },
-        {
-          "background_color": "",
-          "content": "തട്ടിപ്പിന് ഇരയായാൽ   1930 എന്ന സൈബർ ക്രൈം ഹെൽപ്പ്‌ലൈനിലോ www.cybercrime.gov.in ലോ ഉടൻ ബന്ധപ്പെടുക.",
-          "font_family": "",
-          "table_data": [],
-          "text_alignment": "LEFT",
-          "text_color": "",
-          "type": "paragraph"
-        },
-        {
-          "background_color": "",
-          "content": "1930",
-          "font_family": "",
-          "label": "",
-          "subtype": "call",
-          "table_data": [],
-          "text_alignment": "LEFT",
-          "text_color": "",
-          "type": "link_button"
-        }
+      "content_blocks": [],
+      "font_family": "fonts/ib.ttf",
+      "id": "art_1780073144216",
+      "search_keywords": [
+        "Cyber crime report",
+        "money fraud",
+        "thattippe",
+        "mokshanam"
       ],
-      "font_family": "ib.ttf",
-      "id": "art_1772979370213",
-      "search_keywords": [],
-      "short_description": "",
+      "short_description": "ഓൺലൈൻ തട്ടിപ്പിനിരയായാൽ സമയം വൈകാതെ നാഷണൽ സൈബർ ക്രൈം റിപ്പോർട്ടിംഗ് പോർട്ടലിൽ റിപ്പോർട്ട് ചെയ്യുക.",
+      "suggested_by": "",
       "thumbnail": "",
-      "title": "ഡിജിറ്റൽ അറസ്റ്റ് ",
-      "updated_timestamp": 1772984920381
+      "title": "ഓൺലൈൻ തട്ടിപ്പിനിരയായാൽ",
+      "updated_timestamp": 1780073144216
     }
   ]
 }
