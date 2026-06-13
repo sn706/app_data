@@ -48,6 +48,8 @@
               "plans_completed": true
             },
             {
+              "empty_plans_font_family": "",
+              "empty_plans_message": "",
               "image": "",
               "name": "Airtel",
               "official_apps": [
@@ -60,7 +62,51 @@
                 "https://www.plansinfo.com/mobile/airtel/kerala",
                 "https://www.gadgets360.com/mobile-recharge-plans/airtel-prepaid-kerala"
               ],
-              "plans": [],
+              "plans": [
+                {
+                  "amount": 979,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1781360573430",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "2 GB Day"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1781360573430,
+                  "validity": "84 Days"
+                },
+                {
+                  "amount": 3599,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [
+                    "Unlimited 5G",
+                    "Adobe Express Premium 12 Months"
+                  ],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1781360497131",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "2 GB Day"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1781360548330,
+                  "validity": "365 Days"
+                }
+              ],
               "plans_completed": true
             },
             {
