@@ -16,7 +16,7 @@
   "isMessageUpcoming": true,
   "isMoreUpcoming": false,
   "isPhoneUpcoming": false,
-  "isPincodeUpcoming": false,
+  "isPincodeUpcoming": true,
   "isRechargeUpcoming": false,
   "isUpdateUpcoming": false,
   "isUssdUpcoming": true,
