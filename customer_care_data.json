@@ -27,23 +27,7 @@
                   "number": "9947000198"
                 }
               ],
-              "offices": [
-                {
-                  "additional_addresses": [],
-                  "additional_emails": [],
-                  "additional_phones": [],
-                  "additional_whatsapps": [],
-                  "address": "4th Floor, KTDFC Building, Trans Towers, Near Kalabhavan Theatre, Vazhuthacaud, Trivandrum, Pin-695014 ",
-                  "email": "",
-                  "font_family": "",
-                  "location_url": "",
-                  "phone": "",
-                  "place_name": "Circle Office ",
-                  "suggested_by": "",
-                  "updated_date": "24-03-2026",
-                  "whatsapp": ""
-                }
-              ],
+              "offices": [],
               "state_name": "Kerala "
             },
             {
@@ -439,6 +423,68 @@
                 }
               ],
               "state_name": "Punjab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "image": "",
+      "name": "DTH",
+      "providers": [
+        {
+          "image": "",
+          "name": "Videocon D2H",
+          "states": [
+            {
+              "common_numbers": [
+                {
+                  "description": "Customer Care ",
+                  "number": "1800 212 212"
+                },
+                {
+                  "description": "Customer Care",
+                  "number": "91156 91156"
+                },
+                {
+                  "description": "New Connection",
+                  "number": "1800 3150 002"
+                },
+                {
+                  "description": "E16 / E18 Screen Errors",
+                  "number": "1800 1700 777"
+                },
+                {
+                  "description": "Emergency Top-up (3 Days Extra To Recharge)",
+                  "number": "1800 1700 333"
+                },
+                {
+                  "description": "Check Exclusive Offers",
+                  "number": "97818 97818"
+                },
+                {
+                  "description": "Account Update (ONTV)",
+                  "number": "1800 315 7331"
+                }
+              ],
+              "offices": [
+                {
+                  "additional_addresses": [],
+                  "additional_emails": [],
+                  "additional_phones": [],
+                  "additional_whatsapps": [],
+                  "address": "WhatsApp Support",
+                  "email": "customercare@d2h.com",
+                  "font_family": "",
+                  "location_url": "",
+                  "phone": "",
+                  "place_name": "Digital Support ",
+                  "suggested_by": "",
+                  "updated_date": "14-06-2026",
+                  "whatsapp": "8750917917"
+                }
+              ],
+              "state_name": "Kerala "
             }
           ]
         }
