@@ -487,6 +487,30 @@
               "state_name": "All States"
             }
           ]
+        },
+        {
+          "image": "",
+          "name": "Sun Direct",
+          "states": [
+            {
+              "common_numbers": [
+                {
+                  "description": "Customer Care",
+                  "number": "1800 123 7575"
+                },
+                {
+                  "description": "Customer Care",
+                  "number": "1800 103 7575"
+                },
+                {
+                  "description": "Customer Care",
+                  "number": "76010 12345"
+                }
+              ],
+              "offices": [],
+              "state_name": "All States"
+            }
+          ]
         }
       ]
     }
