@@ -12,9 +12,9 @@
     }
   ],
   "isBusUpcoming": true,
-  "isCustomerCareUpcoming": false,
+  "isCustomerCareUpcoming": true,
   "isMessageUpcoming": true,
-  "isMoreUpcoming": false,
+  "isMoreUpcoming": true,
   "isPhoneUpcoming": false,
   "isPincodeUpcoming": true,
   "isRechargeUpcoming": false,
