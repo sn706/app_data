@@ -5,7 +5,7 @@
   "disclaimer_text_color": "red",
   "phone_categories": [
     {
-      "image": "bus",
+      "image": "",
       "isUpcoming": false,
       "items": [
         {
@@ -1825,11 +1825,11 @@
           "name": "Adimaly ",
           "number": "+91 91889 33772",
           "phone_numbers": [],
-          "state": "Common",
+          "state": "Kerala",
           "subcategory": "Idukki",
           "suggested_by": "",
           "tags": [],
-          "updated_date": "14-06-2026 08:23 pm",
+          "updated_date": "15-06-2026 07:59 pm",
           "views": 0,
           "whatsapp_numbers": []
         },
@@ -2317,7 +2317,22 @@
       "name": "KSRTC (Kerala)",
       "state": "Kerala",
       "subcategories": [
-        
+        "Alappuzha Bus Stations",
+        "Ernakulam Bus Stations",
+        "Idukki Bus Stations",
+        "Kannur Bus Stations",
+        "Kasargod Bus Stations",
+        "Kollam Bus Stations",
+        "Kottayam Bus Stations",
+        "Kozhikkode Bus Stations",
+        "Malappuram Bus Stations",
+        "Palakkad Bus Stations",
+        "Pathanamthitta Bus Stations",
+        "Thiruvananthapuram Bus Stations",
+        "Thrissur Bus Stations",
+        "Wayanad Bus Stations",
+        "Other State Bus Stations",
+        "General Numbers",
         "Thiruvananthapuram",
         "Idukki",
         "Pathanamthitta",
@@ -2337,6 +2352,35 @@
         "General",
         "Malappuram"
       ]
+    },
+    {
+      "image": "",
+      "isUpcoming": false,
+      "items": [
+        {
+          "addresses": [],
+          "category": "Emergency Numbers",
+          "description": "പോലീസ്, ഫയർ ഫോഴ്സ്, ആംബുലൻസ് തുടങ്ങിയ എല്ലാ അടിയന്തര സേവനങ്ങളും ഇപ്പോൾ ഈ ഒരൊറ്റ നമ്പറിലൂടെ ലഭ്യമാകും.",
+          "emails": [],
+          "font_family": "",
+          "icon": "",
+          "id": "ph_1781533881212",
+          "is_new": false,
+          "name": "All In One Emergency Number",
+          "number": "112",
+          "phone_numbers": [],
+          "state": "Common",
+          "subcategory": "",
+          "suggested_by": "",
+          "tags": [],
+          "updated_date": "15-06-2026 08:01 pm",
+          "views": 0,
+          "whatsapp_numbers": []
+        }
+      ],
+      "name": "Emergency Numbers",
+      "state": "Common",
+      "subcategories": []
     }
   ]
 }
