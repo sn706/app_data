@@ -64,26 +64,6 @@
               ],
               "plans": [
                 {
-                  "amount": 979,
-                  "app_subscriptions": "",
-                  "background_color": "",
-                  "benefits": [],
-                  "calls": "Unlimited ",
-                  "channels": "",
-                  "custom_description": "",
-                  "data": "2 GB Day",
-                  "font_family": "",
-                  "id": "p_1781360573430",
-                  "short_desc": "",
-                  "sms": "100 SMS Day",
-                  "tags": [
-                    "2 GB Day"
-                  ],
-                  "text_color": "",
-                  "updated_timestamp": 1781360573430,
-                  "validity": "84 Days"
-                },
-                {
                   "amount": 3599,
                   "app_subscriptions": "",
                   "background_color": "",
@@ -105,6 +85,26 @@
                   "text_color": "",
                   "updated_timestamp": 1781360548330,
                   "validity": "365 Days"
+                },
+                {
+                  "amount": 979,
+                  "app_subscriptions": "",
+                  "background_color": "",
+                  "benefits": [],
+                  "calls": "Unlimited ",
+                  "channels": "",
+                  "custom_description": "",
+                  "data": "2 GB Day",
+                  "font_family": "",
+                  "id": "p_1781360573430",
+                  "short_desc": "",
+                  "sms": "100 SMS Day",
+                  "tags": [
+                    "2 GB Day"
+                  ],
+                  "text_color": "",
+                  "updated_timestamp": 1781360573430,
+                  "validity": "84 Days"
                 }
               ],
               "plans_completed": true
@@ -132,7 +132,101 @@
       "mode_name": "Mobile"
     },
     {
-      "circles": [],
+      "circles": [
+        {
+          "alert_font_family": "",
+          "alert_message": "",
+          "name": "All India",
+          "operators": [
+            {
+              "image": "logo_tataplay",
+              "name": "Tataplay",
+              "official_apps": [],
+              "official_websites": [],
+              "other_websites": [],
+              "plans": [],
+              "plans_completed": true
+            },
+            {
+              "empty_plans_font_family": "",
+              "empty_plans_message": "",
+              "image": "",
+              "name": "Sun Direct",
+              "official_apps": [
+                "https://play.google.com/store/apps/details?id\u003dcom.sundirect.sundth"
+              ],
+              "official_websites": [
+                "https://www.sundirect.in/"
+              ],
+              "other_websites": [
+                "https://www.gadgets360.com/dth-recharge-plans/sun-direct",
+                "https://www.plansinfo.com/dth/sun-direct"
+              ],
+              "plans": [],
+              "plans_completed": true
+            },
+            {
+              "empty_plans_font_family": "",
+              "empty_plans_message": "",
+              "image": "",
+              "name": "Dish TV",
+              "official_apps": [
+                "https://play.google.com/store/apps/details?id\u003din.dishtv.subscriber"
+              ],
+              "official_websites": [
+                "https://www.dishtv.in/"
+              ],
+              "other_websites": [
+                "https://www.gadgets360.com/dth-recharge-plans/dish-tv",
+                "https://www.plansinfo.com/dth/dish-tv"
+              ],
+              "plans": [],
+              "plans_completed": true
+            },
+            {
+              "image": "logo_videocon d2h",
+              "name": "Videocon D2H",
+              "official_apps": [],
+              "official_websites": [],
+              "other_websites": [],
+              "plans": [],
+              "plans_completed": true
+            },
+            {
+              "empty_plans_font_family": "",
+              "empty_plans_message": "",
+              "image": "",
+              "name": "Airtel DTH",
+              "official_apps": [
+                "https://play.google.com/store/apps/details?id\u003dcom.myairtelapp"
+              ],
+              "official_websites": [
+                "https://www.airtel.in/plans/dth/tv-today-channels"
+              ],
+              "other_websites": [
+                "https://www.plansinfo.com/dth/airtel-digital-tv",
+                "https://www.gadgets360.com/dth-recharge-plans/airtel-digital-tv"
+              ],
+              "plans": [],
+              "plans_completed": true
+            },
+            {
+              "empty_plans_font_family": "",
+              "empty_plans_message": "",
+              "image": "",
+              "name": "DD Free",
+              "official_apps": [],
+              "official_websites": [],
+              "other_websites": [
+                "https://www.plansinfo.com/dth/dd-free-dish"
+              ],
+              "plans": [],
+              "plans_completed": true
+            }
+          ],
+          "tags": []
+        }
+      ],
       "mode_name": "DTH"
     }
   ],
