@@ -14,7 +14,7 @@
   "isBusUpcoming": true,
   "isCustomerCareUpcoming": false,
   "isMessageUpcoming": true,
-  "isMoreUpcoming": true,
+  "isMoreUpcoming": false,
   "isPhoneUpcoming": false,
   "isPincodeUpcoming": false,
   "isRechargeUpcoming": false,
