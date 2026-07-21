@@ -28,778 +28,508 @@
               ],
               "plans": [
                 {
-                  "amount": 997,
-                  "app_subscriptions": "",
-                  "background_color": "",
-                  "benefits": [
-                    "Unlimited Voice calls Local/STD/roaming incl. Mumbai and Delhi.",
-                    "Unlimited Data with speed reduced to 40 kbps after 2 GB/day.",
-                    "Extra 5GB data for the entire validity period of 150 days for one time recharge between 20.06.2026 to 30.06.2026."
-                  ],
-                  "calls": "Unlimited",
-                  "channels": "",
-                  "custom_description": "",
-                  "data": "2GB/day",
-                  "font_family": "",
-                  "id": "p_1784473694093_29",
-                  "short_desc": "",
-                  "sms": "100 /day",
-                  "tags": [
-                    "2 GB ദിവസേന ലഭിക്കുന്ന പ്ലാനുകൾ"
-                  ],
-                  "text_color": "",
-                  "updated_timestamp": 1784473819926,
-                  "validity": "150 days"
-                },
-                {
-                  "amount": 1499,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data with speed reduced to 40 kbps after 32GB data."
-                  ],
-                  "calls": "Unlimited",
-                  "channels": "",
-                  "data": "32 GB",
-                  "id": "p_1784473694093_30",
-                  "sms": "100 /day",
-                  "tags": [],
-                  "updated_timestamp": 1784473694093,
-                  "validity": "300 days"
-                },
-                {
-                  "amount": 1999,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data (speed restricted to 40 kbps after 1.5 GB/day).",
-                    "Extra 10GB data for the entire validity period of 330 days for one time recharge between 20.06.2026 to 30.06.2026."
-                  ],
-                  "calls": "Unlimited",
-                  "channels": "",
-                  "data": "1.5GB/day",
-                  "id": "p_1784473694093_31",
-                  "sms": "100 /day",
-                  "tags": [
-                    "Bonus Data"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": "330 days"
-                },
-                {
-                  "amount": 2399,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited voice calls.",
-                    "Unlimited data (speed restricted to 40 kbps after 2 GB/day)."
-                  ],
-                  "calls": "Unlimited",
-                  "channels": "",
-                  "data": "2GB/day",
-                  "id": "p_1784473694093_32",
-                  "sms": "100 /day",
-                  "tags": [],
-                  "updated_timestamp": 1784473694093,
-                  "validity": "365 days"
-                },
-                {
-                  "amount": 10,
-                  "app_subscriptions": "",
-                  "benefits": [],
-                  "calls": "7.47 Talktime",
-                  "channels": "",
-                  "data": "",
-                  "id": "p_1784473694093_33",
-                  "sms": "",
-                  "tags": [
-                    "Talktime"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": ""
-                },
-                {
-                  "amount": 20,
-                  "app_subscriptions": "",
-                  "benefits": [],
-                  "calls": "14.95 Talktime",
-                  "channels": "",
-                  "data": "",
-                  "id": "p_1784473694093_34",
-                  "sms": "",
-                  "tags": [
-                    "Talktime"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": ""
-                },
-                {
-                  "amount": 50,
-                  "app_subscriptions": "",
-                  "benefits": [],
-                  "calls": "39.37 Talktime",
-                  "channels": "",
-                  "data": "",
-                  "id": "p_1784473694093_35",
-                  "sms": "",
-                  "tags": [
-                    "Talktime"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": ""
-                },
-                {
-                  "amount": 100,
-                  "app_subscriptions": "",
-                  "benefits": [],
-                  "calls": "81.75 Talktime",
-                  "channels": "",
-                  "data": "",
-                  "id": "p_1784473694093_36",
-                  "sms": "",
-                  "tags": [
-                    "Talktime"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": ""
-                },
-                {
-                  "amount": 220,
-                  "app_subscriptions": "",
-                  "benefits": [],
-                  "calls": "220 Talktime",
-                  "channels": "",
-                  "data": "",
-                  "id": "p_1784473694093_37",
-                  "sms": "",
-                  "tags": [
-                    "Talktime"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": ""
-                },
-                {
-                  "amount": 500,
-                  "app_subscriptions": "",
-                  "benefits": [],
-                  "calls": "500 Talktime",
-                  "channels": "",
-                  "data": "",
-                  "id": "p_1784473694093_38",
-                  "sms": "",
-                  "tags": [
-                    "Talktime"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": ""
-                },
-                {
-                  "amount": 1000,
-                  "app_subscriptions": "",
-                  "benefits": [],
-                  "calls": "844.46 Talktime",
-                  "channels": "",
-                  "data": "",
-                  "id": "p_1784473694093_39",
-                  "sms": "",
-                  "tags": [
-                    "Talktime"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": ""
-                },
-                {
-                  "amount": 898,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "STV for prepaid international Roaming @UAE(in the network of M/s Etisalat).",
-                    "To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM."
-                  ],
-                  "calls": "120 Min Local Outgoing + 60 Min India Outgoing + 50 Min Incoming",
-                  "channels": "",
-                  "data": "250 MB",
-                  "id": "p_1784473694093_40",
-                  "sms": "",
-                  "tags": [
-                    "International Roaming",
-                    "UAE"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": "3 days"
-                },
-                {
-                  "amount": 1359,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "STV for Prepaid International Roaming.",
-                    "To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM and recharge of IR STV 57 or 167."
-                  ],
-                  "calls": "60 Min Local Outgoing + 30 Min India Outgoing + 30 Min Incoming",
-                  "channels": "",
-                  "data": "100 MB",
-                  "id": "p_1784473694093_41",
-                  "sms": "",
-                  "tags": [
-                    "International Roaming"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": "3 days"
-                },
-                {
-                  "amount": 1799,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "This STV is for International Roaming only. Voice freebies (in min) [incl. MO (Local and Nat.) + MO (India) + MT] are 10.",
-                    "Available in Bhuatan, Greece, Malaysia, Austria, China, Vietnam, Nepal, SriLanka, Germany, Israel, Bangladesh, Myanmar, Kuwait, Thailand, Denmark, Uzbekistan, France, Japan."
-                  ],
-                  "calls": "10 Min",
-                  "channels": "",
-                  "data": "1 GB",
-                  "id": "p_1784473694093_42",
-                  "sms": "5",
-                  "tags": [
-                    "International Roaming"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": "7 days"
-                },
-                {
-                  "amount": 2199,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "International Roaming STV @ UAE (in the network of M/s Etisalat).",
-                    "To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM."
-                  ],
-                  "calls": "200 Min Local Outgoing + 200 Min India Outgoing + 120 Min Incoming",
-                  "channels": "",
-                  "data": "1000 MB",
-                  "id": "p_1784473694093_43",
-                  "sms": "",
-                  "tags": [
-                    "International Roaming",
-                    "UAE"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": "7 days"
-                },
-                {
-                  "amount": 3599,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "This STV is for International Roaming only. Voice freebies (in min) [incl. MO (Local and Nat.) + MO (India) + MT] are 20.",
-                    "Available in Bhuatan, Greece, Malaysia, Austria, China, Vietnam, Nepal, SriLanka, Germany, Israel, Bangladesh, Myanmar, Kuwait, Thailand, Denmark, Uzbekistan, France, Japan."
-                  ],
-                  "calls": "20 Min",
-                  "channels": "",
-                  "data": "2 GB",
-                  "id": "p_1784473694093_44",
-                  "sms": "10",
-                  "tags": [
-                    "International Roaming"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": "14 days"
-                },
-                {
-                  "amount": 5399,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "This STV is for International Roaming only. Voice freebies (in min) [incl. MO (Local and Nat.) + MO (India) + MT] are 30.",
-                    "Available in Bhuatan, Greece, Malaysia, Austria, China, Vietnam, Nepal, SriLanka, Germany, Israel, Bangladesh, Myanmar, Kuwait, Thailand, Denmark, Uzbekistan, France, Japan."
-                  ],
-                  "calls": "30 Min",
-                  "channels": "",
-                  "data": "3 GB",
-                  "id": "p_1784473694093_45",
-                  "sms": "15",
-                  "tags": [
-                    "International Roaming"
-                  ],
-                  "updated_timestamp": 1784473694093,
-                  "validity": "28 days"
-                },
-                {
                   "amount": 69,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "This STV is applicable only for Kerala Police CUG."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "1GB/day",
-                  "id": "p_1784473694092_0",
+                  "id": "p_1784601211346_0",
+                  "short_desc": "This STV is applicable only for Kerala Police CUG.Unlimited voice calls + 300SMS + 1GB/day for 30 days.",
                   "sms": "300",
-                  "tags": [
-                    "CUG"
-                  ],
-                  "updated_timestamp": 1784473694092,
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
                   "validity": "30 days"
                 },
                 {
                   "amount": 99,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited voice calls (Local/STD) in Home LSA and National roaming incl. Mumbai and Delhi.",
-                    "Unlimited Data with speed reduced to 40 Kbps after 50MB data."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "50 MB",
-                  "id": "p_1784473694092_1",
-                  "sms": "",
+                  "id": "p_1784601211346_1",
+                  "short_desc": "Unlimited voice calls (Local/STD) in Home LSA and National roaming incl. Mumbai and Delhi. Unlimited Data with speed reduced to 40 Kbps after 50MB data.",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "14 days"
                 },
                 {
                   "amount": 147,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited voice calls Local/STD/Roaming.",
-                    "Unlimited data with speed reduced to 40 kbps after 5 GB Data."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "5 GB",
-                  "id": "p_1784473694092_2",
-                  "sms": "",
+                  "id": "p_1784601211346_2",
+                  "short_desc": "Unlimited voice calls Local/STD/Roaming + Unlimited data with speed reduced to 40 kbps after 5 GB Data.",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "24 days"
                 },
                 {
                   "amount": 225,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data with speed restricted to 40 Kbps thereafter."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "2.5GB/day",
-                  "id": "p_1784473694092_3",
+                  "id": "p_1784601211346_3",
+                  "short_desc": "Unlimited voice calls + 2.5 GB/day(thereafterUnlimiteddata with speed restricted to 40 Kbps) +100SMS/day.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "30 days"
                 },
                 {
                   "amount": 228,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited voice calls Local/STD/Roaming incl. MTNL network.",
-                    "Unlimited data with speed reduced to 40 kbps after 2GB/day."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "2GB/day",
-                  "id": "p_1784473694092_4",
+                  "id": "p_1784601211346_4",
+                  "short_desc": "Unlimited voice calls Local/STD/Roaming incl. MTNL network + Unlimited data with speed reduced to 40 kbps after 2GB/day + 100 SMS/day.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "1 month"
                 },
                 {
                   "amount": 239,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited voice calls Local/STD/Roaming incl.MTNL network.",
-                    "Unlimited data with speed reduced to 40 kbps after 2GB/day.",
-                    "Rs.10 Talk value in Main Account balance.",
-                    "Freebies validity of 1 month is not applicable to Rs.10 in main account balance."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "2GB/day",
-                  "id": "p_1784473694092_5",
+                  "id": "p_1784601211346_5",
+                  "short_desc": "Unlimited voice calls Local/STD/Roaming incl.MTNL network+ Unlimited data with speed reduced to 40 kbps after 2GB/day+ 100 SMS/day + *Rs.10 Talk value in Main Account balance.*Freebies validity of 1 month is not applicable to Rs.10 in main account balance.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "1 month"
                 },
                 {
                   "amount": 247,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Rs.10 Talk Value in Main account balance.",
-                    "50GB Data at high speed (Post which unlimited @ 40 Kbps).",
-                    "Freebies Validity of 30 days is not applicable for Rs.10 in main account balance."
-                  ],
-                  "calls": "Unlimited",
-                  "channels": "",
+                  "benefits": [],
                   "data": "50 GB",
-                  "id": "p_1784473694092_6",
+                  "id": "p_1784601211346_6",
+                  "short_desc": "Rs.10 Talk Value in Main account balance + 50GB Data at high speed (Post which unlimited @ 40 Kbps) +Unlimitedvoice + 100SMS/day.Freebies Validity of 30 days is not applicable for Rs.10 in main account balance.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "30 days"
                 },
                 {
                   "amount": 319,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited voice Local/STD calls any net in Home LSA and National roaming incl MTNL network in Mumbai and Delhi.",
-                    "Unlimited data with speed reduced to 40 kbps after 10GB data."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "10 GB",
-                  "id": "p_1784473694092_7",
+                  "id": "p_1784601211346_7",
+                  "short_desc": "Unlimited voice Local/STD calls any net in Home LSA and National roaming incl MTNL network in Mumbai and Delhi + 300 SMS + Unlimited data with speed reduced to 40 kbps after 10GB data.",
                   "sms": "300",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "60 days"
                 },
                 {
                   "amount": 347,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data with speed reduced to 40Kbps after 2 GB/day.",
-                    "100 SMS/day to any Network including while Roaming in Mumbai and New Delhi."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "2GB/day",
-                  "id": "p_1784473694092_8",
+                  "id": "p_1784601211346_8",
+                  "short_desc": "Unlimited voice + Unlimited data with speed reduced to 40Kbps after 2 GB/day + 100 SMS/day to any Network including while Roaming in Mumbai and New Delhi.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "50 days"
                 },
                 {
                   "amount": 439,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited voice calls (Local/STD) any-net in Home LSA and national roaming including MTNL network in Mumbai and Delhi."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
-                  "data": "",
-                  "id": "p_1784473694092_9",
+                  "id": "p_1784601211346_9",
+                  "short_desc": "Unlimited voice calls (Local/STD) any-net in Home LSA and national roaming including MTNL network in Mumbai and Delhi + 300 SMS",
                   "sms": "300",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "80 days"
                 },
                 {
                   "amount": 485,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited voice calls/Day any-net (Local/STD) in Home LSA and Roaming including Mumbai and Delhi.",
-                    "Unlimited Data with speed restricted to 40Kbps after 2 GB Data/day.",
-                    "100 SMS/day to Any Network Including while Roaming in Mumbai and New Delhi."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "2GB/day",
-                  "id": "p_1784473694092_10",
-                  "sms": "100 /day",
+                  "id": "p_1784601211346_10",
+                  "short_desc": "Unlimited voice calls/Day any-net (Local/STD) in Home LSA and Roaming including Mumbai and Delhi + Unlimited Data with speed restricted to 40Kbps after 2 GB Data/day + 100 MS/day to Any Network Including while Roaming in Mumbai and New Delhi.",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "72 days"
                 },
                 {
                   "amount": 599,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited free voice calling home and national roaming including MTNL roaming area of Delhi and Mumbai.",
-                    "Unlimited data with speed reduced to 40kbps after 3GB/day."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "3GB/day",
-                  "id": "p_1784473694092_11",
+                  "id": "p_1784601211346_11",
+                  "short_desc": "Unlimited free voice calling home and national roaming including MTNL roaming area of Delhi and Mumbai+Unlimited data with speed reduced to 40kbps after 3GB/day+Free 100 SMS/day.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "70 days"
                 },
                 {
                   "amount": 2799,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data with speed reduced to 40Kbps thereafter.",
-                    "Valid for 365 days."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "3GB/day",
-                  "id": "p_1784473694092_12",
+                  "id": "p_1784601211346_12",
+                  "short_desc": "Unlimited Voice calls + 3GB/day(thereafterUnlimiteddata with speed reduced to 40Kbps) + 100 SMS/day for 365 days.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "365 days"
                 },
                 {
                   "amount": 16,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data with speed reduced to 40 kbps after 2GB DATA.",
-                    "Plan validity extension cannot be done with this voucher."
-                  ],
-                  "calls": "",
-                  "channels": "",
+                  "benefits": [],
                   "data": "2 GB",
-                  "id": "p_1784473694092_13",
-                  "sms": "",
-                  "tags": [
-                    "Validity Extension Not Allowed"
-                  ],
-                  "updated_timestamp": 1784473694092,
+                  "id": "p_1784601211346_13",
+                  "short_desc": "Unlimited data with speed reduced to 40 kbps after 2GB DATA.Plan validity extension cannot be done with this voucher.",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
                   "validity": "1 day"
                 },
                 {
                   "amount": 49,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "This STV is applicable only for Kerala Police CUG."
-                  ],
-                  "calls": "",
-                  "channels": "",
+                  "benefits": [],
                   "data": "10 GB",
-                  "id": "p_1784473694092_14",
+                  "id": "p_1784601211346_14",
+                  "short_desc": "This STV is applicable only for Kerala Police CUG.300SMS +10GB for 30 days.",
                   "sms": "300",
-                  "tags": [
-                    "CUG"
-                  ],
-                  "updated_timestamp": 1784473694092,
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
                   "validity": "30 days"
                 },
                 {
                   "amount": 58,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data with speed reduced to 40kbps after 8 GB for 7 days.",
-                    "Plan validity extension cannot be done with this voucher."
-                  ],
-                  "calls": "",
-                  "channels": "",
+                  "benefits": [],
                   "data": "8 GB",
-                  "id": "p_1784473694092_15",
-                  "sms": "",
-                  "tags": [
-                    "Validity Extension Not Allowed"
-                  ],
-                  "updated_timestamp": 1784473694092,
+                  "id": "p_1784601211346_15",
+                  "short_desc": "Unlimited data with speed reduced to 40kbps after 8 GB for 7 days.Plan validity extension cannot be done with this voucher.",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
                   "validity": "7 days"
                 },
                 {
                   "amount": 105,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data with speed restricted to 40 Kbps after 20 GB."
-                  ],
-                  "calls": "",
-                  "channels": "",
+                  "benefits": [],
                   "data": "20 GB",
-                  "id": "p_1784473694092_16",
-                  "sms": "",
+                  "id": "p_1784601211346_16",
+                  "short_desc": "Unlimited data with speed restricted to 40 Kbps after 20 GB.",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "7 days"
                 },
                 {
                   "amount": 198,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited DATA with speed restricted to 40 Kbps after 40 GB."
-                  ],
-                  "calls": "",
-                  "channels": "",
+                  "benefits": [],
                   "data": "40 GB",
-                  "id": "p_1784473694092_17",
-                  "sms": "",
+                  "id": "p_1784601211346_17",
+                  "short_desc": "Unlimited DATA with speed restricted to 40 Kbps after 40 GB.",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "30 days"
                 },
                 {
                   "amount": 411,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data with speed restricted to 40 Kbps after 100 GB."
-                  ],
-                  "calls": "",
-                  "channels": "",
+                  "benefits": [],
                   "data": "100 GB",
-                  "id": "p_1784473694092_18",
-                  "sms": "",
+                  "id": "p_1784601211346_18",
+                  "short_desc": "Unlimited data with speed restricted to 40 Kbps after 100 GB.",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "60 days"
                 },
                 {
                   "amount": 51,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited Data (speed restricted to 40 Kbps after 2GB/day).",
-                    "For New Activation only."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "2GB/day",
-                  "id": "p_1784473694092_19",
+                  "id": "p_1784601211346_19",
+                  "short_desc": "Unlimited Voice Calls + Unlimited Data (speed restricted to 40 Kbps after 2GB/day) + 100 SMS/day for New Activation only.",
                   "sms": "100 /day",
-                  "tags": [
-                    "New Activation"
-                  ],
-                  "updated_timestamp": 1784473694092,
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
                   "validity": "28 days"
                 },
                 {
                   "amount": 107,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data with speed reduced to 40 kbps after 3GB data.",
-                    "200 Min free voice all network Local/STD/Roaming incl. MTNL network.",
-                    "Charges after freebies are as follows: Voice call charges: Local calls Rs 1/min. STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS. National: Rs 1.20/SMS International: Rs 6/SMS Data Charges 25p/MB."
-                  ],
-                  "calls": "200 Min",
-                  "channels": "",
+                  "benefits": [],
                   "data": "3 GB",
-                  "id": "p_1784473694092_20",
-                  "sms": "",
+                  "id": "p_1784601211346_20",
+                  "short_desc": "Unlimited data with speed reduced to 40 kbps after 3GB data + 200 Min free voice all network Local/STD/Roaming incl. MTNL network. Charges after freebies are as follows: Voice call charges: Local calls Rs 1/min. STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS. National: Rs 1.20/SMS International: Rs 6/SMS Data Charges 25p/MB.",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "20 days"
                 },
                 {
                   "amount": 153,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited Data with speed restricted to 40 Kbps after 1GB/day."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "1GB/day",
-                  "id": "p_1784473694092_21",
+                  "id": "p_1784601211346_21",
+                  "short_desc": "Unlimited Voice Calls + Unlimited Data with speed restricted to 40 Kbps after 1GB/day + 100 SMS/day for 24 days.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "24 days"
                 },
                 {
                   "amount": 197,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited Data(speed restricted to 40 Kbps after 5GB)."
-                  ],
-                  "calls": "300 min",
-                  "channels": "",
+                  "benefits": [],
                   "data": "5 GB",
-                  "id": "p_1784473694092_22",
+                  "id": "p_1784601211346_22",
+                  "short_desc": "300 min Voice calls + Unlimited Data(speed restricted to 40 Kbps after 5GB)+ 100 SMS.",
                   "sms": "100",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "35 days"
                 },
                 {
                   "amount": 199,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited Data (speed restricted to 40 Kbps after 2GB/day)."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "2GB/day",
-                  "id": "p_1784473694092_23",
+                  "id": "p_1784601211346_23",
+                  "short_desc": "Unlimited Voice Calls + Unlimited Data (speed restricted to 40 Kbps after 2GB/day) + 100 SMS/day.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "28 days"
                 },
                 {
                   "amount": 229,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited voice (Local/STD) any-net in Home LSA and national roaming incl. MTNL network in Mumbai and Delhi.",
-                    "Unlimited data with speed reduced to 40 Kbps after 2GB/day.",
-                    "Charges after freebies are as follows: Voice call charges:Local calls Rs 1/min. STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS National: Rs 1.20/SMS International: Rs 6/SMS Data Charges 25p/MB."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "2GB/day",
-                  "id": "p_1784473694092_24",
+                  "id": "p_1784601211346_24",
+                  "short_desc": "Unlimited voice (Local/STD) any-net in Home LSA and national roaming incl. MTNL network in Mumbai and Delhi + Unlimited data with speed reduced to 40 Kbps after 2GB/day + free 100 SMS/day .Charges after freebies are as follows: Voice call charges:Local calls Rs 1/min. STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS National: Rs 1.20/SMS International: Rs 6/SMS Data Charges 25p/MB.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "1 month"
                 },
                 {
                   "amount": 249,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "This Plan is for new customers only.",
-                    "Extension of the plan validity/Migration is through any other active plan.",
-                    "Truly unlimited voice in Home LSA and National roaming including MTNL roaming area of Delhi and Mumbai.",
-                    "Unlimited Data with speed reduced to 40 kbps after 2GB/day.",
-                    "Freebies validity 35 days.",
-                    "Migration from other Plan not allowed.",
-                    "Charges after freebies are as follows: Voice call charges: Local calls Rs 1/min STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS National: Rs 1.20/SMS International: Rs 6/SMS Data Charges 25p/MB"
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "2GB/day",
-                  "id": "p_1784473694092_25",
+                  "id": "p_1784601211346_25",
+                  "short_desc": "This Plan is for new customers only.Extension of the plan validity/Migration is through any other active plan.Truly unlimited voice in Home LSA and National roaming including MTNL roaming area of Delhi and Mumbai + Unlimited Data with speed reduced to 40 kbps after 2GB/day + 100 SMS/day. Freebies validity 35 days. Migration from other Plan not allowed.Charges after freebies are as follows: Voice call charges: Local calls Rs 1/min STD calls Rs 1.3/min Video Calls : Local/STD:- Rs 2/min SMS: Local 80p/SMS National: Rs 1.20/SMS International: Rs 6/SMS Data Charges 25p/MB",
                   "sms": "100 /day",
-                  "tags": [
-                    "New Customer",
-                    "Migration Not Allowed"
-                  ],
-                  "updated_timestamp": 1784473694092,
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
                   "validity": "35 days"
                 },
                 {
                   "amount": 299,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited voice Local/STD calls any net in Home LSA and national roaming incl.MTNL network in Mumbai and Delhi.",
-                    "Unlimited data (speed reduced to 40 kbps after 3GB/day)."
-                  ],
+                  "benefits": [],
                   "calls": "Unlimited",
-                  "channels": "",
                   "data": "3GB/day",
-                  "id": "p_1784473694092_26",
+                  "id": "p_1784601211346_26",
+                  "short_desc": "Unlimited voice Local/STD calls any net in Home LSA and national roaming incl.MTNL network in Mumbai and Delhi + Unlimited data (speed reduced to 40 kbps after 3GB/day) + 100 SMS/day.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "30 days"
                 },
                 {
                   "amount": 559,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "This Special FRC-559 is only for Citizens of Nepal and Bhutan visiting India.",
-                    "Unlimited data with speed reduced to 40 Kbps after 1GB/day.",
-                    "Unlimited Voice (local/STD)(on-net/off-net) in Home LSA and National Roaming incl. Mumbai and Delhi.",
-                    "All other plan tariff as per plan 107.",
-                    "Migration to other plans not allowed."
-                  ],
-                  "calls": "Unlimited",
-                  "channels": "",
+                  "benefits": [],
                   "data": "1GB/day",
-                  "id": "p_1784473694092_27",
+                  "id": "p_1784601211346_27",
+                  "short_desc": "This Special FRC-559 is only for Citizens of Nepal and Bhutan visiting India.Unlimited data with speed reduced to 40 Kbps after 1GB/day +UnlimitedVoice (local/STD)(on-net/off-net) in Home LSA and National Roaming incl. Mumbai and Delhi* + free 100 SMS/day.All other plan tariff as per plan 107.Migration to other plans not allowed.",
                   "sms": "100 /day",
-                  "tags": [
-                    "International Roaming",
-                    "Specific Customer",
-                    "Migration Not Allowed"
-                  ],
-                  "updated_timestamp": 1784473694092,
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
                   "validity": "90 days"
                 },
                 {
                   "amount": 897,
-                  "app_subscriptions": "",
-                  "benefits": [
-                    "Unlimited data with speed reduced to 40 Kbps after 24GB.",
-                    "Unlimited Voice (local/STD)(on-net/off-net).",
-                    "All other tariff as per plan 107."
-                  ],
-                  "calls": "Unlimited",
-                  "channels": "",
+                  "benefits": [],
                   "data": "24 GB",
-                  "id": "p_1784473694092_28",
+                  "id": "p_1784601211346_28",
+                  "short_desc": "Unlimited data with speed reduced to 40 Kbps after 24GB +UnlimitedVoice(local/STD)(on-net/off-net) + Free 100 SMS/day.All other tariff as per plan 107.",
                   "sms": "100 /day",
                   "tags": [],
-                  "updated_timestamp": 1784473694092,
+                  "updated_timestamp": 1784601211346,
                   "validity": "165 days"
+                },
+                {
+                  "amount": 997,
+                  "benefits": [],
+                  "calls": "Unlimited",
+                  "data": "2GB/day",
+                  "id": "p_1784601211346_29",
+                  "short_desc": "Unlimited Voice calls Local/STD/roaming incl. Mumbai and Delhi + Unlimited Data with speed reduced to 40 kbps after 2 GB/day + 100 SMS/day for 150 days.Extra 5GB data for the entire validity period of 150 days for one time recharge between 20.06.2026 to 30.06.2026.",
+                  "sms": "100 /day",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "150 days"
+                },
+                {
+                  "amount": 1499,
+                  "benefits": [],
+                  "calls": "Unlimited",
+                  "data": "32 GB",
+                  "id": "p_1784601211346_30",
+                  "short_desc": "Unlimited Voice calls + 100 SMS/day + Unlimited data with speed reduced to 40 kbps after 32GB data",
+                  "sms": "100 /day",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "300 days"
+                },
+                {
+                  "amount": 1999,
+                  "benefits": [],
+                  "calls": "Unlimited",
+                  "data": "1.5GB/day",
+                  "id": "p_1784601211346_31",
+                  "short_desc": "Unlimited Voice calls + Unlimited data (speed restricted to 40 kbps after 1.5 GB/day)+ 100 SMS/day.Extra 10GB data for the entire validity period of 330 days for one time recharge between 20.06.2026 to 30.06.2026.",
+                  "sms": "100 /day",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "330 days"
+                },
+                {
+                  "amount": 2399,
+                  "benefits": [],
+                  "calls": "Unlimited",
+                  "data": "2GB/day",
+                  "id": "p_1784601211346_32",
+                  "short_desc": "Unlimited voice calls + Unlimited data (speed restricted to 40 kbps after 2 GB/day) + 100 SMS/day.",
+                  "sms": "100 /day",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "365 days"
+                },
+                {
+                  "amount": 10,
+                  "benefits": [],
+                  "id": "p_1784601211346_33",
+                  "short_desc": "7.47 Talktime",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346
+                },
+                {
+                  "amount": 20,
+                  "benefits": [],
+                  "id": "p_1784601211346_34",
+                  "short_desc": "14.95 Talktime",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346
+                },
+                {
+                  "amount": 50,
+                  "benefits": [],
+                  "id": "p_1784601211346_35",
+                  "short_desc": "39.37 Talktime",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346
+                },
+                {
+                  "amount": 100,
+                  "benefits": [],
+                  "id": "p_1784601211346_36",
+                  "short_desc": "81.75 Talktime",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346
+                },
+                {
+                  "amount": 220,
+                  "benefits": [],
+                  "id": "p_1784601211346_37",
+                  "short_desc": "220 Talktime",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346
+                },
+                {
+                  "amount": 500,
+                  "benefits": [],
+                  "id": "p_1784601211346_38",
+                  "short_desc": "500 Talktime",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346
+                },
+                {
+                  "amount": 1000,
+                  "benefits": [],
+                  "id": "p_1784601211346_39",
+                  "short_desc": "844.46 Talktime",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346
+                },
+                {
+                  "amount": 895,
+                  "benefits": [],
+                  "data": "200 MB",
+                  "id": "p_1784601211346_40",
+                  "short_desc": "International Roaming STV for Bhutan.(This pack is valid for roaming into network of M/s B Mobile in Bhutan.).data/ Data Charges:- 200MB after free data to be charged at Rs.1.3/MB.Free Voice/ Voice charges :-40 Free Mins to India and local outgoing and incoming.30 Free SMSs.call back to India(Rs/min):- Rs 10.4/min.Outgoing Local call (Rs/min):- Rs 10.4/min.Outgoing International (Rs/min):-Rs 54.6/min.Incoming call (Rs/min):- Rs 4.1/min.Outgoing SMS (Rs/SMS):-Rs 2/SMS.To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM and recharge of IR STV 57 or 167.",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "1 Day"
+                },
+                {
+                  "amount": 898,
+                  "benefits": [],
+                  "data": "250 MB",
+                  "id": "p_1784601211346_41",
+                  "short_desc": "STV for prepaid international Roaming @UAE(in the network of M/s Etisalat): Free Out going Local calls 120 Min + Free Out going calls to India 60 Min + Free In coming calls 50 Min + 250 MB data. To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM.",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "3 days"
+                },
+                {
+                  "amount": 1359,
+                  "benefits": [],
+                  "data": "100 MB",
+                  "id": "p_1784601211346_42",
+                  "short_desc": "STV for Prepaid International Roaming.60min Mobile Oriqinated Call(Local).30min Mobile Originated Call to lndia.30min Mobile Terminated Call.Data 100MB.To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM and recharge of IR STV 57 or 167.",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "3 days"
+                },
+                {
+                  "amount": 1799,
+                  "benefits": [],
+                  "data": "1 GB",
+                  "id": "p_1784601211346_43",
+                  "short_desc": "This STV is for International Roaming only.Voice freebies(in min) [incl. MO (Local and Nat.) + MO (India) + MT] are 10 + Data 1GB + 5 SMS.These vouchers are available in Bhuatan Greece Malaysia Austria China Vietnam Nepal SriLanka Germany Israel Bangladesh Myanmar Kuwait Thailand Denmark Uzbekistan France Japan.",
+                  "sms": "5",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "7 days"
+                },
+                {
+                  "amount": 2199,
+                  "benefits": [],
+                  "data": "1000 MB",
+                  "id": "p_1784601211346_44",
+                  "short_desc": "International Roaming STV @ UAE (in the network of M/s Etisalat) :Free Out going Local calls 200 Min + Free Out going calls to India 200 Min + Free In coming calls 120 Min + 1000 MB data. To avail International Roaming services it is is mandatory to replace Normal SIM with International Roaming SIM",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "7 days"
+                },
+                {
+                  "amount": 3599,
+                  "benefits": [],
+                  "data": "2 GB",
+                  "id": "p_1784601211346_45",
+                  "short_desc": "This STV is for International Roaming only.Voice freebies(in min) [incl. MO (Local and Nat.) + MO (India) + MT] are 20 + Data 2GB + 10 SMS.These vouchers are available in Bhuatan Greece Malaysia Austria China Vietnam Nepal SriLanka Germany Israel Bangladesh Myanmar Kuwait Thailand Denmark Uzbekistan France Japan.",
+                  "sms": "10",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "14 days"
+                },
+                {
+                  "amount": 5399,
+                  "benefits": [],
+                  "data": "3 GB",
+                  "id": "p_1784601211346_46",
+                  "short_desc": "This STV is for International Roaming only.Voice freebies(in min) [incl. MO (Local and Nat.) + MO (India) + MT] are 30 + Data 3GB + 15 SMS.These vouchers are available in Bhuatan Greece Malaysia Austria China Vietnam Nepal SriLanka Germany Israel Bangladesh Myanmar Kuwait Thailand Denmark Uzbekistan France Japan.",
+                  "sms": "15",
+                  "tags": [],
+                  "updated_timestamp": 1784601211346,
+                  "validity": "28 days"
                 }
               ],
               "plans_completed": true
@@ -819,7 +549,105 @@
                 "https://www.plansinfo.com/mobile/vi/kerala",
                 "https://www.gadgets360.com/mobile-recharge-plans/vi-prepaid-kerala"
               ],
-              "plans": [],
+              "plans": [
+                {
+                  "amount": 3699,
+                  "app_subscriptions": "JioHotstar Mobile",
+                  "benefits": [
+                    "Get 2 GB/day + Unlimited Calls + 100 SMS/Day valid for 365 days.",
+                    "Enjoy unlimited data from 12am to 12pm.",
+                    "Carry Mon-Fri unused Data into Sat-Sun.",
+                    "Upto 2GB of Backup Data every month at no extra cost.",
+                    "Post daily data quota, data speed will be upto 64Kbps.",
+                    "Post daily SMS quota, charges applicable at Rs 1/1.5 for Local/STD SMS.",
+                    "Unlimited Data is only meant for personal and non-commercial use.",
+                    "Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only.",
+                    "To check non-commercial usage policy, please visit Prepaid T&C."
+                  ],
+                  "calls": "Unlimited",
+                  "channels": "",
+                  "data": "Unlimited 5G+2GB/Day",
+                  "id": "p_1784474374006_0",
+                  "sms": "100/day",
+                  "tags": [
+                    "5G"
+                  ],
+                  "updated_timestamp": 1784474374006,
+                  "validity": "365 days"
+                },
+                {
+                  "amount": 3999,
+                  "app_subscriptions": "JioHotstar Mobile, Amazon PrimeLite",
+                  "benefits": [
+                    "Get 2 GB/day + Unlimited Calls + 100 SMS/Day valid for 365 days.",
+                    "Enjoy night data without limits from 12am to 12pm.",
+                    "Carry Mon-Fri unused Data into Sat-Sun.",
+                    "Upto 2GB of Backup Data every month at no extra cost.",
+                    "Post daily quota, data speed will be upto 64Kbps.",
+                    "Post daily SMS quota, charges applicable at Rs 1/1.5 for Local/STD SMS.",
+                    "Unlimited Data is only meant for personal and non-commercial use.",
+                    "Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only.",
+                    "To check non-commercial usage policy and 5G Unlimited Data terms & conditions, visit Vi app/website."
+                  ],
+                  "calls": "Unlimited",
+                  "channels": "",
+                  "data": "Unlimited 5G+2GB/Day",
+                  "id": "p_1784474374006_1",
+                  "sms": "100/day",
+                  "tags": [
+                    "5G"
+                  ],
+                  "updated_timestamp": 1784474374006,
+                  "validity": "365 days"
+                },
+                {
+                  "amount": 4099,
+                  "app_subscriptions": "",
+                  "benefits": [
+                    "Enjoy full day Unlimited data, Everyday + Unlimited Calls + 100 SMS/day valid for 365 days.",
+                    "Post daily SMS quota, charges applicable at Rs 1/1.5 for Local/STD SMS.",
+                    "Unlimited Data is only meant for personal and non-commercial use.",
+                    "Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only.",
+                    "To check commercial usage policy, please visit Prepaid T&C."
+                  ],
+                  "calls": "Unlimited",
+                  "channels": "",
+                  "data": "Unlimited 5G+Unlimited",
+                  "id": "p_1784474374006_2",
+                  "sms": "100/day",
+                  "tags": [
+                    "5G"
+                  ],
+                  "updated_timestamp": 1784474374006,
+                  "validity": "365 days"
+                },
+                {
+                  "amount": 4999,
+                  "app_subscriptions": "Vi Movies & TV Super, Amazon Prime Lite, SonyLIV, ZEE5, FanCode",
+                  "benefits": [
+                    "Enjoy 2 GB/Day + Unlimited Calls + 100 SMS/day valid for 365 days.",
+                    "Includes access to SonyLIV, ZEE5, FanCode & 17 more OTTs on TV & Mobile.",
+                    "Enjoy unlimited night data from 12am to 12pm.",
+                    "Carry Mon-Fri unused Data into Sat-Sun.",
+                    "Upto 2GB of Backup Data every month at no extra cost.",
+                    "Post daily quota, data speed will be upto 64Kbps.",
+                    "Post daily SMS quota, charges applicable at Rs 1/1.5 for Local/STD SMS.",
+                    "Unlimited Data is only meant for personal and non-commercial use.",
+                    "Subscribers using 5G Handset will be able to use 5G Unlimited data in 5G network coverage area only.",
+                    "To check non-commercial usage policy and 5G Unlimited Data terms & conditions, please visit Prepaid T&C."
+                  ],
+                  "calls": "Unlimited",
+                  "channels": "",
+                  "data": "Unlimited 5G+2GB/Day",
+                  "id": "p_1784474374006_3",
+                  "sms": "100/day",
+                  "tags": [
+                    "5G"
+                  ],
+                  "updated_timestamp": 1784474374006,
+                  "validity": "365 days"
+                }
+              ],
               "plans_completed": true
             },
             {
