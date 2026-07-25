@@ -1,7 +1,7 @@
 {
   "background_color": "",
   "font_family": "fonts/ib.ttf",
-  "force_update": true,
+  "force_update": false,
   "internal_ads": [],
   "latest_version_code": 81,
   "text_color": "",
