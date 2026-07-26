@@ -1,1 +1,22 @@
-Hi
+{
+  "disclaimer": "Plans are subject to operator changes and standard terms.",
+  "plans": [
+    {
+      "amount": "₹299",
+      "appSubscription": "Jio Cinema",
+      "call": "Unlimited Calls",
+      "category": "mobile",
+      "data": "2GB/day High Speed Data",
+      "description": "JioCinema subscription included",
+      "provider": "Jio",
+      "sms": "100 SMS/day",
+      "state": "Kerala",
+      "tag": "Popular",
+      "talktime": "10",
+      "validity": "28 Days"
+    }
+  ],
+  "provider": "Jio",
+  "specialNews": "പുതിയ റീച്ചാർജ് പ്ലാനുകൾ ലഭ്യമാണ് • Check Latest Offers",
+  "state": "Kerala"
+}
