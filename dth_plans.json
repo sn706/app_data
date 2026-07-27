@@ -1,1 +1,38 @@
-Hi
+{
+  "disclaimer": "",
+  "plans": [
+    {
+      "amount": "₹123",
+      "appSubscription": "N/A",
+      "call": "N/A",
+      "category": "dth",
+      "channelGroups": [
+        {
+          "channels": "Asianet,Asianet News",
+          "language": "Malayalam"
+        },
+        {
+          "channels": "Surya",
+          "language": "Tamil"
+        }
+      ],
+      "channelsCount": "14",
+      "customInformation": "",
+      "data": "N/A",
+      "description": "14 • Languages: Malayalam, Tamil",
+      "dthCategory": "Malayalam",
+      "packageName": "Malayalam Family Pack",
+      "provider": "Malayalam",
+      "sms": "N/A",
+      "state": "All India",
+      "tag": "Best Value",
+      "talktime": "N/A",
+      "updatedDate": "27 July 2026, 12:18 PM",
+      "validity": "1 Month"
+    }
+  ],
+  "provider": "Sun Direct",
+  "specialNews": "",
+  "state": "",
+  "updatedDate": "27 July 2026, 12:18 PM"
+}
