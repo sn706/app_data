@@ -1,1 +1,29 @@
-Hi
+{
+  "disclaimer": "Plans are subject to operator changes and standard terms.",
+  "plans": [
+    {
+      "amount": "₹146",
+      "appSubscription": "N/A",
+      "call": "Unlimited",
+      "category": "broadband",
+      "channelGroups": [],
+      "channelsCount": "",
+      "customInformation": "",
+      "data": "2 GB Day / 100 mbps",
+      "description": "Unlimited free net with gp",
+      "dthCategory": "",
+      "packageName": "",
+      "provider": "JioFiber",
+      "sms": "100",
+      "state": "Common Plan",
+      "tag": "",
+      "talktime": "N/A",
+      "updatedDate": "27 July 2026, 01:33 PM",
+      "validity": "1 Month"
+    }
+  ],
+  "provider": "JioFiber",
+  "specialNews": "പുതിയ റീച്ചാർജ് പ്ലാനുകൾ ലഭ്യമാണ് • Check Latest Offers",
+  "state": "Common Plan",
+  "updatedDate": "27 July 2026, 01:33 PM"
+}
