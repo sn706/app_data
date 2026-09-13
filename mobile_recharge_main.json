@@ -5,8 +5,8 @@
         "jsonLink": "kerala_jio.json"
     },
     {
-        "state": "Jio",
-        "name": "Karnataka",
-        "jsonLink": "jio_karnataka.json"
+        "state": "Kerala",
+        "name": "Vi",
+        "jsonLink": "kerala_vi.json"
     }
 ]
