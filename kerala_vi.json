@@ -1,6 +1,6 @@
 {
-    "id": "1789317373709",
-    "path": "Kerala\/Jio",
+    "id": "1789317382159",
+    "path": "Kerala\/Vi",
     "officialWebsites": "",
     "officialApps": "",
     "thirdPartyWebsites": "",
@@ -9,30 +9,30 @@
     "notes": "",
     "plans": [
         {
-            "id": "1789317441949",
-            "amount": "145",
+            "id": "1789317546760",
+            "amount": "147",
             "validity": "210 Days",
-            "data": "1 GB Day",
-            "call": "Unlimited",
-            "sms": "100 SMS Day",
-            "description": "Plan Sample",
-            "appSubscription": "Hotstar\nAmazon Prime",
-            "otherBenefits": "Amazon Prime",
-            "tags": "Amazon Prime",
-            "updatedTime": "2026-09-13 22:07:21"
-        },
-        {
-            "id": "1789317498210",
-            "amount": "1495",
-            "validity": "365 Days",
             "data": "Unlimited",
             "call": "Unlimited",
             "sms": "Unlimited",
-            "description": "Unlimited",
+            "description": "Amazon",
             "appSubscription": "Amazon\nJio",
-            "otherBenefits": "Amazon Prime\nJio",
-            "tags": "Jio Hotstar",
-            "updatedTime": "2026-09-13 22:08:18"
+            "otherBenefits": "Jio",
+            "tags": "Amazon Prime",
+            "updatedTime": "2026-09-13 22:09:06"
+        },
+        {
+            "id": "1789317572943",
+            "amount": "1695",
+            "validity": "365 Days",
+            "data": "1 GB Day",
+            "call": "Unlimited",
+            "sms": "Unlimited",
+            "description": "",
+            "appSubscription": "",
+            "otherBenefits": "",
+            "tags": "",
+            "updatedTime": "2026-09-13 22:09:32"
         }
     ]
 }
