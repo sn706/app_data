@@ -1,0 +1,38 @@
+{
+    "id": "1789294434374",
+    "path": "Jio\/Karnataka",
+    "officialWebsites": "www.plansinfo.com\/",
+    "officialApps": "https:\/\/play.google.com\/store\/apps\/details?id=com.jio.myjio",
+    "thirdPartyWebsites": "www.plansinfo.com\/",
+    "customerCareNumbers": "Customer Care - 199,Balance Enquiry - 1299",
+    "ussdCodes": "Main Balance - 1299",
+    "notes": "",
+    "plans": [
+        {
+            "id": "1789294482581",
+            "amount": "1499",
+            "validity": "365 Days",
+            "data": "2.5 GB Day",
+            "call": "Unlimited",
+            "sms": "100 SMS Day",
+            "description": "Unlimited Call ,Sms",
+            "appSubscription": "➡ Amazon Prime\n➡ Jio Hotstar\n➡ Net",
+            "otherBenefits": "1. Unlimited\n2. Sms",
+            "tags": "Unlimited Call,Data Plan",
+            "updatedTime": "2026-09-13 15:44:42"
+        },
+        {
+            "id": "1789294971294",
+            "amount": "1587",
+            "validity": "125",
+            "data": "1 GB Total",
+            "call": "Unlimited",
+            "sms": "",
+            "description": "",
+            "appSubscription": "",
+            "otherBenefits": "",
+            "tags": "",
+            "updatedTime": "2026-09-13 15:52:51"
+        }
+    ]
+}
