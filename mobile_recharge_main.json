@@ -1,0 +1,12 @@
+[
+    {
+        "state": "Kerala",
+        "name": "Jio",
+        "jsonLink": "kerala_jio.json"
+    },
+    {
+        "state": "Jio",
+        "name": "Karnataka",
+        "jsonLink": "jio_karnataka.json"
+    }
+]
