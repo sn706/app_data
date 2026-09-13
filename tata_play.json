@@ -1,0 +1,40 @@
+{
+    "id": "1789294989048",
+    "path": "Tata Play",
+    "officialWebsites": "",
+    "officialApps": "",
+    "thirdPartyWebsites": "",
+    "customerCareNumbers": "",
+    "ussdCodes": "",
+    "notes": "",
+    "plans": [
+        {
+            "id": "1789295042801",
+            "tag": "Malayalam",
+            "packageName": "Malayalam Sample",
+            "amount": "148",
+            "channels": "24",
+            "paidChannels": "14",
+            "hdChannels": "3",
+            "updatedTime": "2026-09-13 15:54:02",
+            "channelList": {
+                "Malayalam": "Surya,Asianet",
+                "Tamil": "Sun,Tamil"
+            }
+        },
+        {
+            "id": "1789319597109",
+            "tag": "Combo",
+            "packageName": "Malayalam Sample",
+            "amount": "145",
+            "channels": "2",
+            "paidChannels": "2",
+            "hdChannels": "2",
+            "updatedTime": "2026-09-13 22:43:17",
+            "channelList": {
+                "Malayalam": "Asianet",
+                "Tamil": "Sun"
+            }
+        }
+    ]
+}
