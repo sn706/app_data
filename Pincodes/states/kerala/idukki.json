@@ -1,1 +1,79 @@
-Hi
+{
+  "state": "Kerala",
+  "state_slug": "kerala",
+  "district": "Idukki",
+  "district_slug": "idukki",
+  "index_path": "..\/..\/index.json",
+  "all_pincodes_path": "..\/..\/all_pincodes.json",
+  "total_records": 1,
+  "pincodes": [
+    {
+      "post_office_name": "Elappally",
+      "pincode": "685589",
+      "state": "Kerala",
+      "district": "Idukki",
+      "branch_type": "Branch Post Office",
+      "taluk": "Thodupuzha",
+      "region": "Kochi",
+      "division": "Thodupuzha",
+      "sub_division": "Moolamattom",
+      "sub_post_office": "Moolamattom",
+      "head_office": "Thodupuzha",
+      "wiki_data": {
+        "wiki_title": "الاپالی",
+        "primary_lang": "azb",
+        "wiki_extract": "الاپالی(اینگیلیسجه:Elappally) هیندوستان اؤلکه‌سینین کرالا ایالتینده بیر کند دیر. بۇ کنده مالایالم دیلی دانیشیلیر.\n\n== گؤرونتولر ==\n\n== قایناقلار ==",
+        "wiki_images": [
+          {
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/Elappally_Waterfall.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Robinmemana",
+            "license": "CC0",
+            "description": "Elappally Waterfalls"
+          },
+          {
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6c\/India_Kerala_location_map.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "NordNordWest",
+            "license": "CC BY-SA 3.0 de",
+            "description": "Location map of Kerala, India"
+          },
+          {
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/dc\/India_location_map.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Uwe Dedering at German Wikipedia",
+            "license": "CC BY-SA 3.0",
+            "description": "Location map of India. \n\nEquirectangular projection. Strechted by 106.0%. Geographic limits of the map: \n\nN: 37.5° N\n\nS: 5.0° N\n\nW: 67.0° E\n\nE: 99.0° E\n\nMade with Natural Earth. Free vector and raster map data @ naturalearthdata.com."
+          },
+          {
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/4\/41\/Flag_of_India.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Unknown",
+            "license": "PD-India",
+            "description": ""
+          }
+        ],
+        "available_languages": [
+          "ml",
+          "en",
+          "ur",
+          "azb"
+        ],
+        "languages": {
+          "ml": {
+            "title": "ഇലപ്പള്ളി",
+            "extract": "കേരളത്തിലെ ഇടുക്കി ജില്ലയിലെ തൊടുപുഴ താലൂക്കിൽ, അറക്കുളം ഗ്രാമപഞ്ചായത്തിന്റെ ഭാഗമായ ഒരു ഗ്രാമമാണ് ഇലപ്പള്ളി. തൊടുപുഴയിൽ നിന്ന് 26 കിലോമീറ്ററും കൊച്ചിയിൽ നിന്ന് 85 കിലോമീറ്ററും കോട്ടയത്ത് നിന്ന് 70 കിലോമീറ്ററും അകലെയാണ് ഈ ഗ്രാമം സ്ഥിതിചെയ്യുന്നത്.\n\nപശ്ചിമഘട്ട പർവ്വതനിരകളുടെ മുകൾഭാഗത്ത് നിന്ന് ഉത്ഭവിക്കുന്ന ഇലപ്പള്ളി വെള്ളച്ചാട്ടം മൂലമറ്റം - വാഗമൺ റോഡിന് സമീപമാണ് സ്ഥിതി ചെയ്യുന്നത്. മഴക്കാലത്താണ്  ഈ വെള്ളച്ചാട്ടം കൂടുതൽ സജീവമാകുന്നത്.\n\n== ജനസംഖ്യാശാസ്ത്രം ==\n\n2011 ലെ ഇന്ത്യൻ സെൻസസ് പ്രകാരം 2186 പുരുഷന്മാരും 2134 സ്ത്രീകളും ഉൾപ്പെടെ 4320 ആയിരുന്നു ഇലപ്പള്ളിയിലെ ജനസംഖ്യ.\n\n== മതസ്ഥാപനങ്ങൾ ==\n\nസെന്റ് ലൂക്ക് സി എസ് ഐ പള്ളി, ഇലപ്പള്ളി\n\nസെന്റ് മേരീസ് ദേവാലയം, ഇലപ്പള്ളി\n\nശ്രീ ധർമ്മശാസ്താ ക്ഷേത്രം, ഇലപ്പള്ളി\n\nഐപിസി ഹെബ്രോൺ ദേവാലയം, ഇലപ്പള്ളി\n\n== അവലംബം =="
+          },
+          "en": {
+            "title": "Elappally",
+            "extract": "Elappally is a village in Thodupuzha Taluk, Idukki district in Kerala, India. It is located 26 km from Thodupuzha, 85 km from Kochi, and 70 km from Kottayam.\n\nThe Elappally Falls are situated near Moolamattom Wagamon road, which originates in the upper reaches of the Western Ghats. It is most active during the monsoon season.\n\n== Nearest airports ==\n\nKochi International Airport\n\n== Nearest railway stations ==\n\nThripponithura -TRTR\n\nErnakulam Junction (Ernakulam South)\n\nERS, Ernakulam Town (Ernakulam North)\n\nERN, Aluva\n\nAWY and Kottayam\n\nKTYM\n\n== Demographics ==\n\nAs of 2011 India census, Elappally had a population of 4320 with 2186 males and 2134  females.\n\n== Religious institutions ==\n\nSt.Luke's C S I Church, Elappally\n\nSt.Mary's Church, Elappally\n\nSree Dharma Sastha Temple, Elappally\n\nIPC Hebron Church, Elappally\n\n== References =="
+          },
+          "ur": {
+            "title": "ایلاپلی",
+            "extract": "ایلاپلی (انگریزی: Elappally) بھارت کا ایک بھارت میں گاؤں جو ایڈوکی ضلع میں واقع ہے۔\n\n== تفصیلات ==\n\nایلاپلی کی مجموعی آبادی 4,320 افراد پر مشتمل ہے۔\n\n== مزید دیکھیے ==\n\nبھارت\n\nبھارت کے شہروں کی فہرست\n\n== حوالہ جات =="
+          },
+          "azb": {
+            "title": "الاپالی",
+            "extract": "الاپالی(اینگیلیسجه:Elappally) هیندوستان اؤلکه‌سینین کرالا ایالتینده بیر کند دیر. بۇ کنده مالایالم دیلی دانیشیلیر.\n\n== گؤرونتولر ==\n\n== قایناقلار =="
+          }
+        }
+      }
+    }
+  ]
+}
