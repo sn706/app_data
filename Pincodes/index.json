@@ -1,1 +1,29 @@
-Hi
+{
+  "title": "Galaxy Pincodes Master Index",
+  "version": "1.0",
+  "generated_at": "2026-10-11T19:08:31Z",
+  "total_records": 1,
+  "total_states": 1,
+  "total_districts": 1,
+  "all_pincodes_file": "all_pincodes.json",
+  "states": {
+    "Kerala": {
+      "state_name": "Kerala",
+      "state_slug": "kerala",
+      "folder": "states\/kerala\/",
+      "total_records": 1,
+      "total_districts": 1,
+      "districts": {
+        "Idukki": {
+          "district_name": "Idukki",
+          "district_slug": "idukki",
+          "file": "states\/kerala\/idukki.json",
+          "total_records": 1,
+          "pincodes": [
+            "685589"
+          ]
+        }
+      }
+    }
+  }
+}
