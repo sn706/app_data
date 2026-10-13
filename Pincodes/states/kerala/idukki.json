@@ -8,315 +8,39 @@
   "total_records": 1,
   "pincodes": [
     {
-      "post_office_name": "Munnar",
+      "post_office_name": "Moolamattom",
       "pincode": "685589",
       "state": "Kerala",
       "district": "Idukki",
-      "branch_type": "Branch Post Office",
+      "branch_type": "Sub Post Office",
       "taluk": "Thodupuzha",
       "region": "Kochi",
-      "division": "Thodupuzha",
+      "division": "Idukki",
       "sub_division": "Thodupuzha",
       "sub_post_office": "Moolamattom",
       "head_office": "Thodupuzha",
       "wiki_data": {
-        "wiki_title": "मुन्नार",
-        "primary_lang": "mr",
-        "wiki_extract": "मुन्नार(मल्याळम) किंवा मुणार(तमिळभाषेत)  भारताच्या केरळ राज्यातील शहर आहे.",
+        "wiki_title": "مولامٹم",
+        "primary_lang": "ur",
+        "wiki_extract": "مولامٹم (انگریزی: Moolamattom) بھارت کا ایک بھارت میں گاؤں جو ایڈوکی ضلع میں واقع ہے۔",
         "wiki_images": [
           {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e3\/CSI_Churchyard_in_CSI_Christ_Church_in_Munnar%2C_Kerala_10.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Pinakpani",
-            "license": "CC BY 4.0",
-            "description": "CSI Churchyard in CSI Christ Church in Munnar, Kerala"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8d\/Eravikulam_National_Park%2C_Munnar_-_panoramio_%289%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Jaseem Hamza",
-            "license": "CC BY 3.0",
-            "description": "View of Anamudi with Eravikulam National Park and tea plantations in Kerala, India. Taken from State Highway 17 in Kannan Devan Hills."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/97\/Eravikulum_National_Park_PM_07.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Priyanka Manocha",
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6b\/Thriveni_Sangamam_Moolamattom.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Robinmemana",
             "license": "CC BY-SA 4.0",
-            "description": "Views from Eravikulam National Park Road in Munnar."
+            "description": "Thriveni Sangamam Moolamattom"
           },
           {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cf\/MunnarTown1.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Aruna at Malayalam Wikipedia",
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/17\/Moolamattom_power_house_view_and_area_5868.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Rameshng",
             "license": "CC BY-SA 3.0",
-            "description": "Downtown of Munnar town with State Highway 17."
+            "description": "Moolamattom power station area"
           },
           {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/09\/Munnar_-_Tea_Plantations.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Ingo Mehling",
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6b\/Thriveni_Sangamam_Moolamattom.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Robinmemana",
             "license": "CC BY-SA 4.0",
-            "description": "Tea plantations in Munnar. Taken from State Highway 18."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6d\/Munnar_-_View_from_Grand_Plaza_Hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Ingo Mehling",
-            "license": "CC BY-SA 4.0",
-            "description": "Southern Munnar downtown and Muthirapuzha River. Anamudi mountain in the background. Photo taken from Grand Plaza Hotel."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/51\/Munnar_.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Jusjose",
-            "license": "CC BY-SA 3.0",
-            "description": "Downtown Munnar Town. Looking southwest."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/59\/Munnar_CSI_Christ_Church.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Pinakpani",
-            "license": "CC BY 4.0",
-            "description": "Munnar CSI Church"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b9\/Munnar_Overview.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Kondephy",
-            "license": "CC BY-SA 4.0",
-            "description": "View over Munnar town from North East (see geotag location)"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/48\/Munnar_Tea_Plantations-IMG_20250321_093255.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Rainer Halama",
-            "license": "CC BY-SA 4.0",
-            "description": "Munnar - Tea Plantations"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2b\/Naikolli_Mala_near_Anamudi.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Arunguy2002",
-            "license": "CC BY-SA 3.0",
-            "description": "Naikolli Mala, a satellite peak of Anamudi from the Eravikulam National Park"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/63\/Tea_plantations_in_Munnar_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "www.eatoutzone.com",
-            "license": "CC BY 3.0",
-            "description": "Tea plantations in Munnar. Taken from State Highway 18."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/54\/Varayadu.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Vethalam at ml.wikipedia",
-            "license": "Public domain",
-            "description": "കേരളത്തിലെ മൂന്നാർ- രാജാമലയിലുള്ള വംശനാശം വന്നുകൊണ്ടിരിക്കുന്ന വരയാട്"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9d\/A_nice_view_of_Munnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Unknown",
-            "license": "CC BY-SA 3.0",
-            "description": "View of Mattupetty Dam reservoir"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6a\/AnayirangalDam%2CMunnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Aruna at ml.wikipedia",
-            "license": "CC BY-SA 3.0",
-            "description": "Anayirangal dam across periyar river near Munnar, Kerala"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2a\/Blue_Jacaranda_blossom_in_Munnar_April_2009.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Wikibluff",
-            "license": "CC BY-SA 4.0",
-            "description": "Blue Jacaranda blossom in the northwesten Kannan Devan Hills. Taken from State Highway 17."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/93\/Carmelogiri_CMI_PublicSchool%2CMunnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Carmelogiri CMI Public School in Kannan Devan Hills, Idukki district, Kerala."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cf\/ChurchillBridge%2CMunnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Aruna at ml.wikipedia",
-            "license": "CC BY-SA 3.0",
-            "description": "Churchill Bridge, Munnar"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/18\/EchoPoint%2CMunnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Aruna at ml.wikipedia",
-            "license": "CC BY-SA 3.0",
-            "description": "Echo point , Munnar"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/Elephant_Munnar.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Girish Mohan P K",
-            "license": "CC BY-SA 4.0",
-            "description": "Elephants near Mattupetty dam in Munnar"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4a\/Foundation_Stone_of_Munnar_Road.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Ranjithsiji",
-            "license": "CC BY-SA 3.0",
-            "description": "മൂന്നാർ പാത നിർമ്മക്കാനും തുറന്നുകൊടുക്കാനും ഉത്തവായിക്കൊണ്ടുള്ള സ്ഥാപന ശില"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2f\/Govt._Vocational_Hr._Sec._School_%26_TTI_Tamil%2C_Munnar%2C_Idukki.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "കാക്കര",
-            "license": "CC BY-SA 3.0",
-            "description": "Govt. Vocational Hr. Sec. School & TTI Tamil, Munnar, Idukki"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/98\/KunadalaLake%2CMunnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Kundala Lake in Munnar"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cd\/KundalaLake2%2CMunnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Kundala lake in Munnar"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/dc\/Lakkam_waterfalls_-_munnar.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Sajith Erattupetta",
-            "license": "CC BY-SA 4.0",
-            "description": "ലക്കം വെള്ളച്ചാട്ടം - മൂന്നാര്"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cc\/LiveStockDevelopmentBoard%2CMunnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Also known as Mattupetti (cattle village), the Swiss Livestock Project is a highly specialized dairy farm where over a hundred breeds of highly yielding cattle are reared in eleven cattle sheds. Visitors are allowed into three of the sheds during fixed hours. The project was established in 1961 by Kerala Livestock Development Board (KLDB)."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e4\/MadupettyDam2.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Madupetty dam, Munnar"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/75\/MattupettiRiver%2CMunnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Mattupetty Dam reservoir in Kannan Devan Hills, Kerala."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fb\/MattupettyLake%2CMunnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Kundala Dam and Reservoier, which lie 16 km from the downtown of Munnar town, enroute Top Station, at an altitude of 1700 mt, are popular picnic spot with visitors."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c0\/Munnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Tea plantations in the eastern Kannan Devan Hills village of Kerala. Near Top Station. Taken from State Highway 18."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cf\/MunnarTown1.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Downtown of Munnar town with State Highway 17."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/17\/MunnarTown2.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Downtown of Munnar town with State Highway 17. Mount Carmel Church in the upper center."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6c\/Munnar_Mount_Carmel_Church_-_%E0%B4%AE%E0%B5%82%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BE%E0%B5%BC_%E0%B4%AE%E0%B5%97%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B5%8D_%E0%B4%95%E0%B4%BE%E0%B5%BC%E0%B4%AE%E0%B5%BD_%E0%B4%AA%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%BF-3.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "കാക്കര",
-            "license": "CC BY-SA 3.0",
-            "description": "മൗണ്ട് കാർമൽ ഫൊറോന പള്ളി, മൂന്നാർ, ഇടുക്കി, കേരളം \n\nമൂന്നാറിലെ ആദ്യത്തെ കത്തോലിക്ക ദേവാലയമാണിത്... 1898 ൽ സ്പാനിഷ് കർമ്മലീത്ത മിഷനറീസ് പണി കഴിപ്പിച്ചതാണ്. വിജയപുരം രൂപത...﻿ \n\nഇടുക്കി ജില്ല"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f8\/Munnar_Muslim_Jamath_-_%E0%B4%AE%E0%B5%82%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BE%E0%B5%BC_%E0%B4%AE%E0%B5%81%E0%B4%B8%E0%B5%8D%E0%B4%B2%E0%B5%80%E0%B4%82_%E0%B4%9C%E0%B4%AE%E0%B4%BE%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%8D-3.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "കാക്കര",
-            "license": "CC BY-SA 3.0",
-            "description": "മൂന്നാർ മുസ്ലീം ജമാത്ത് മൂന്നാർ, ഇടുക്കി, കേരളം, ഇന്ത്യ"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d5\/Munnar_Temple_-_Om_Saravana_Bhavan_-_%E0%B4%AE%E0%B5%82%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BE%E0%B5%BC_-_%E0%B4%93%E0%B4%82_%E0%B4%B6%E0%B4%B0%E0%B4%B5%E0%B4%A3_%E0%B4%AD%E0%B4%B5%E0%B5%BB.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "കാക്കര",
-            "license": "CC BY-SA 3.0",
-            "description": "Munnar - Om Saravana Bhavan, Idukki District ഓം ശരവണ ഭവൻ, മൂന്നാർ, ഇടുക്കി ജില്ല"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c5\/Munnar_Top_station.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Bimal K C from Cochin, India",
-            "license": "CC BY 2.0",
-            "description": "Top station, 41 km (1hr) from Munnar is aptly named, as it is home to some of the highest tea plantations in India. It lies on the state border between Kerala and Tamilnadu and commands a panoramic view of rolling green hills."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/08\/Munnar_hills_of_kerala.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Challiyan",
-            "license": "CC BY-SA 4.0",
-            "description": "Tea plantations in Kannan Devan Hills, Kerala. Taken from State Highway 18."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ad\/Munnar_hillstation_kerala.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Bimal K C from Cochin, India",
-            "license": "CC BY 2.0",
-            "description": "Anamudi as seen from the south with State Highway 17. Photo taken from Nayamakad, Kannan Devan Hills, Kerala, India. \n\nAuthor's comment: One of the most popular hill stations in India, Munnar (Kerala) is situated at the confluence of three mountain streams - Mudrapuzha, Nallathanni and Kundala. Located at 1600 M above sea level, this was once the summer resort of the erstwhile British Government in South India. Sprawling tea plantations, picture book towns, winding lanes, trekking and holiday facilities make Munnar a unique experience. Munnar is essentially a tea town."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/17\/Munnar_panaromic_view.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Challiyan",
-            "license": "CC BY-SA 2.5",
-            "description": "View of Pallivasal and Kunchithanny in Kerala. Taken from National Highway 85."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8e\/Munnar_top_station.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "RanjithSiji",
-            "license": "CC BY 3.0",
-            "description": "ഈ മീഡിയ പ്രമാണം മലയാളികൾ വിക്കിമീഡിയയെ സ്നേഹിക്കുന്നു പദ്ധതിയുടെ ഭാഗമായി ചേർത്തതാണ്."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4f\/Munnar_town.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Sajith Erattupetta",
-            "license": "CC BY-SA 4.0",
-            "description": "മൂന്നാര് ടൗണ്"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1b\/Munnarview.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Noblevmy",
-            "license": "CC BY-SA 3.0",
-            "description": "Tea plantations in the northwestern Kannan Devan Hills, Idukki district, Kerala. Taken from State Highway 17."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a1\/Neelakurinji1.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Simynazareth at ml.wikipedia",
-            "license": "CC BY-SA 3.0",
-            "description": "Neelakurinji 1"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3b\/Tea_Leaf_from_Munanar_-1375470.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Ranjithsiji",
-            "license": "CC0",
-            "description": "Tea Leaf from Munanar, Kerala, India"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/44\/View_point_-_top_station_-_munnar.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Sajith Erattupetta",
-            "license": "CC BY-SA 4.0",
-            "description": "മൂന്നാർ ടോപ് സ്റ്റേഷനിലെ വ്യൂ പോയന്റ്‌"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/77\/%E0%B4%AE%E0%B5%82%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B4%BE%E0%B5%BC-%E0%B4%AE%E0%B4%B2%E0%B4%A8%E0%B4%BF%E0%B4%B0%E0%B4%95%E0%B5%BE-1.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Bipinkdas",
-            "license": "CC BY-SA 3.0",
-            "description": "Tea plantations in the eastern Kannan Devan Hills village of Kerala. Taken from State Highway 18."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Munnar_tea_gardens.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Unknown",
-            "license": "Public domain",
-            "description": "Munnar, a hill station in Kerala, South India, is one of the most beautiful places in the Western Ghats. A view of a tea garden in the morning mist is shown here. The area in the picture is 8 km east of the town of Munnar. The place is Pallivasal panchayat and the builgings visible are in Chithirapuram."
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/97\/Neelakurinji_%28Strobilanthes_Kunthiana%29.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Aruna Radhakrishnan",
-            "license": "CC BY 2.0",
-            "description": "Neelakurinji (Strobilanthes Kunthiana) is a bush with several branches. The species name Kunthiana has been derived from the River Kunthi which flows through the rich expanse of the renowned Silent Valley National Park in Kerala. It means that the plant has been first described from the vicinity of this river. The plant grows profusely Shola grasslands and mountain slopes of the mighty Western Ghats and Nilgiris in India. Neelakurinji blooms in a clustered manner on typical inflorescence stocks once in every 12 years. The flowering season ranges between August and November with a peak period of late September and October although some varieties exhibit little variation in their phrenology. The flower has purplish blue colour when aged. It looks light blue in the earlier stage of blooming. http:\/\/www.neelakurinji.net\/"
-          },
-          {
-            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e0\/PeriyarRiver%2CMunnar.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-            "author": "Aruna",
-            "license": "CC BY-SA 3.0",
-            "description": "Anayirankal Dam reservoir as seen from Anayirangal Dam."
+            "description": "Thriveni Sangamam Moolamattom"
           }
         ],
         "available_languages": [
@@ -324,660 +48,117 @@
           "en",
           "hi",
           "ta",
-          "kn",
-          "te",
-          "bn",
-          "mr",
-          "gu",
-          "pa",
-          "ur",
-          "or",
-          "ar",
-          "arz",
-          "as",
-          "ceb",
-          "de",
-          "es",
-          "eu",
-          "fi",
-          "fr",
-          "he",
-          "it",
-          "nb",
-          "pt",
-          "ru",
-          "sa",
-          "sv",
-          "zh"
+          "ur"
         ],
         "languages": {
           "ml": {
-            "title": "മൂന്നാർ",
+            "title": "മൂലമറ്റം",
             "extract": [
-              "ഇടുക്കി ജില്ലയിലെ ആദ്യത്തെ  പ്രധാന പട്ടണമായിരുന്നു മൂന്നാർ. ഇത് കേരളത്തിലെ പ്രധാനപ്പെട്ട ഒരു വിനോദസഞ്ചാര കേന്ദ്രമാ‍ണ്. അതിമനോഹരമായ മൂന്നാർ തെക്കിന്റെ കാശ്മീർ എന്ന്‌ അറിയപ്പെടുന്നു. മൂന്നാർ പട്ടണവും വിനോദസഞ്ചാരകേന്ദ്രങ്ങളും ഒന്നായി മൂന്നാർ എന്നാണ് അറിയപ്പെടുന്നത്. ധാരാളം വിനോദ സഞ്ചാരികളാണ് വർഷം തോറും മൂന്നാറിൽ എത്തിച്ചേരുന്നത്.",
-              "== പേരിനു കാരണം ==",
-              "മുതിരപ്പുഴ, നല്ലതണ്ണി, കുണ്ടള  ഈ മൂന്നു നദികളുടെ സംഗമ വേദി ആയതു കൊണ്ടാണ് മൂന്നാർ എന്ന പേരു വന്നത്.",
-              "== ചരിത്രം ==",
-              "ഇന്ത്യയിലെ ബ്രിട്ടീഷ് ഭരണകാലത്ത് തേയിലക്കൃഷിക്കായി വികസിപ്പിച്ചെടുത്ത സ്ഥലമാണ് മൂന്നാർ. ആദ്യകാലത്ത് തമിഴരും ചുരുക്കം മലയാളികളും മാത്രമാണ് അവിടെ താമസിച്ചിരുന്നത്. ഇവരെ തേയിലത്തോട്ടങ്ങളിലെ തൊഴിലാളികളായി കൊണ്ടുവന്നതാണ്. തോട്ടങ്ങളിലെ ഉയർന്ന ഉദ്യോഗസ്ഥരും മാനേജർമാരുമെല്ലാം ബ്രിട്ടീഷുകാരായിരുന്നു. അവർക്കു താമസിക്കാനായി അക്കാലത്ത് പണിത കുറെ ബംഗ്ലാവുകളും മൂന്നാറിൽ ഉണ്ട്. സായ്പന്മാരെ വളരെയധികം ആകർഷിച്ച ഒരു പ്രദേശമാണ് മൂന്നാർ .",
-              "2000 ത്തിൽ കേരളസർക്കാർ മൂന്നാറിനെ ഒരു വിനോദസഞ്ചാരകേന്ദ്രമായി പ്രഖ്യാപിച്ചു.",
-              "മൂന്നാറിൽ കഴിഞ്ഞ നൂറ്റാണ്ടിന്റെ തുടക്കത്തിൽ തന്നെ മോണോറെയിൽ സ്ഥാപിക്കപ്പെട്ടിരുന്നു. ജലവൈദ്യുതി പദ്ധതിക്ക് വഴികാട്ടിയായതും കന്നുകാലി വർഗോർദ്ധരണത്തിന് തുടക്കമിട്ടതും ഈ മണ്ണിൽ നിന്നാണ്. 1790ലാണ് ബ്രിട്ടിഷുകാർ ആദ്യം കണ്ണൻ ദേവൻ കുന്നുകളിൽ വന്നത്. അന്നത്തെ സായ്പിന്റെ വരവ് ടിപ്പുവിന്റെ പടയോട്ടത്തെ ചെറുക്കുകയെന്ന ലക്ഷ്യത്തോടെയായിരുന്നുവെങ്കിലും അത് വേണ്ടി വന്നില്ല. 1817ൽ ഈ പ്രദേശത്ത് സർവേക്കായി മദിരാശി ആർമിയിൽ നിന്ന് ഉദ്യോഗസ്ഥരെത്തെി. 1888ലാണ് കണ്ണൻ ദേവൻ പ്ളാന്റേഴ്സ് അസോസിയേഷൻറ പിറവി. അപ്പോഴെക്കും പാർവതി മലയിലെ 50 ഏക്കർ സ്ഥലത്ത് തേയില കൃഷി ആരംഭിച്ചിരുന്നു. ആദ്യ റബ്ബർ തൈ നട്ടതും അടുത്ത കാലം വരെ മൂന്നാർ പഞ്ചായത്തിന്റെ ഭാഗമായിരുന്ന മാങ്കുളത്താണ്. മൂന്നാർ മലകൾ തേയില കൃഷിക്ക് അനുയോജ്യമാണെന്ന് കണ്ടത്തെിയതോടെ മൂന്നാറിന്റെ കുതിപ്പിന് തുടക്കമായി. 1915ൽ മൂന്നാറിൽ ധാരാളം തേയിൽ എസ്റ്റേറ്റുകൾ ആരംഭിച്ചു കഴിഞ്ഞിരുന്നു. 16 ഫാക്ടറികൾ അന്ന് പ്രവർത്തിച്ചിരുന്നു. ചരക്ക് നീക്കത്തിന് വേണ്ടിയാണ് റോഡുകൾ നിർമ്മിക്കപ്പെട്ടത്. 1902ൽ മൂന്നാറിനെ ടോപ്പ് സ്റ്റേഷനുമായി ബന്ധിപ്പിച്ച് മോണോറെയിൽ സ്ഥാപിച്ചു. ടോപ്പ് സ്റ്റേഷനിൽ നിന്ന് റോപ്‌വേയിലുടെ കോട്ടക്കുടിയിലും അവിടെ നിന്നും തൂത്തുക്കുടി തുറമുഖത്തും എത്തിച്ചായിരുന്നു തേയില ബ്രിട്ടണിലേക്ക് കയറ്റി അയച്ചിരുന്നത്. വിവിധ എസ്റ്റേറ്റുകളിൽ നിന്ന് കാളവണ്ടി മാർഗ്ഗമാണ് തേയില",
-              "മൂന്നാറിൽ എത്തിച്ചിരുന്നത്. ഇതിന് വേണ്ടി 500 കാളകളെ വിദേശത്ത് നിന്നും ഇറക്കുമതി ചെയ്തു. ഒപ്പം ഇംഗ്ളണ്ടിൽ നിന്ന് വെറ്ററനറി സർജനും രണ്ട് സഹായികളും എത്തി. കുണ്ടളയിലായിരുന്നു ഈ കാലികൾക്കായി ഷെഡ് ഒരുക്കിയത്. പിന്നിട് കുണ്ടളയിൽ സാൻഡോസ് കോളനി ആരംഭിക്കാൻ കാരണമായതും അന്നത്തെ സംഭവമാണ്. പിന്നീട് മാടുപ്പെട്ടിയിൽ ഇൻഡോ-സ്വീസ് പ്രോജക്ട് സ്ഥാപിക്കുകയും ഇവിടം കേരളത്തിലെ കന്നുകാലി വർഗോദ്ധാരണത്തിന്റെ തുടക്കമിട്ട സ്ഥലമാകുകയും ചെയ്തു. മാടുകളുടെ ഗ്രാമം എന്നർഥം വരുന്ന മാടുപ്പെട്ടിയിൽ വികസിപ്പിച്ചെടുത്ത ‘സുനന്ദനി’എന്ന സങ്കരയിനം ബീജമാണ് കേരളത്തിൽ ധവള വിപ്ലവത്തിന് വഴിയൊരുക്കിയത്.",
-              "മോണോറെയിൽ 1908ൽ തീവണ്ടി പാതയായി മാറി. മാടുപെട്ടിയിലും പാലാറിലും റെയിൽവേ സ്റ്റേഷനുകളുമുണ്ടായിരുന്നു. എന്നാൽ, 1924ലെ വെള്ളപ്പൊക്കത്തിൽ തീവണ്ടിപാത തകർന്നു. മൂന്നാർ ടൗണും അന്നത്തെ കനത്ത പ്രളയത്തിൽ തകർന്നു.  തീവണ്ടിപാതയുടെ തകർച്ചയെ തുടർന്ന് റോപ്‌വേയെ ആശ്രയിച്ചാണ് തേയില ടോപ്‌സ്റ്റേഷനിൽ എത്തിച്ചത്. പിന്നിടാണ്  പാതകൾ വികസിപ്പിച്ചതും തേയില നീക്കം റോഡ് മാർഗ്ഗമാക്കിയതും.",
-              "ഇതിനിടെ ആദ്യ ജലവൈദ്യുതി നിലയം 1906ൽ പെരിയകനാൽ പവ്വർ ഹൗസിൽ പ്രവർത്തിച്ച് തുടങ്ങി. പഴയദേവികുളം ലേക്കിൽ നിന്നുള്ള വെള്ളം ഉപയോഗിച്ചണ് 200 കിലോവാട്ട് വൈദ്യുതി ഉൽപാദിപ്പിച്ചത്. രണ്ടാമത് നിലയം പള്ളിവാസലിലും ആരംഭിച്ചു. ഇപ്പോഴത്തെ ഹെഡ്വർക്സ് ഡാമിന് സമീപത്ത് ചെക്ക് ഡാം നിർമ്മിച്ചാണ് വെള്ളം തിരിച്ച് വിട്ടത്. ഇതിനെ ചുവട് പിടിച്ചാണ് സർ സി.പി. രാമസ്വാമി അയ്യർ ദിവാനായിരിക്കെ തിരുവിതാംകൂർ സർക്കാരിന്റെ ഉടമസ്ഥതയിൽ പള്ളിവാസൽ ജലവൈദ്യൂതി പദ്ധതി ആരംഭിച്ചത്. ഇതിനിടെ കമ്പനിയുടെ ആവശ്യത്തിനായി ടെലഫോൺ, തപാൽ സംവിധാനങ്ങളും ആരംഭിച്ചിരുന്നു. വാർത്താവിനിമയ രംഗത്ത് വലിയ കുതിച്ച് ചാട്ടത്തിന് വഴിയൊരുക്കിയതാണ് അവ.",
-              "തമിഴ്നാടിലെ വിവിധ പ്രദേശങ്ങളിൽ നിന്നാണ് തൊഴിലാളികളെ കൊണ്ട് വന്നത്. അവർക്ക് അടിസ്ഥാന സൗകര്യങ്ങൾ നിഷേധിക്കപ്പെട്ടു. കങ്കാണിമാരുടെ കീഴിൽ തൊഴിലാളികൾ ദുരതമനുഭവിച്ചു.12 മണിക്കൂർ ജോലി, ഒരു വീട്ടിൽ ചാക്ക് കൊണ്ട് മറച്ച് അഞ്ച് കുടംബങ്ങൾ, രണ്ട് ദിവസത്തെ ജോലിക്ക് ഒരു ദിവസത്തെ ശമ്പളം അങ്ങനെ ദുരിതപൂർണമായിരുന്നു മൂന്നാറിന്റെ മുൻതലമറുയുടെ ജീവിതം. അന്ന് രണ്ട് തരം പിരതി (പേ സ്ളിപ്)യാണ് ഉണ്ടായിരുന്നത്-കറുപ്പും വെളുപ്പും. കുറപ്പ് പിരതിയുള്ള തൊഴിലാളി മുൻകൂർ പണം കൈപ്പറ്റിയിട്ടുള്ളവർ, വെളുത്ത പിരതിയാണെങ്കിൽ മറിച്ചും. കറുപ്പ് പിരതിയുള്ള തൊഴിലാളിയുടെ കടം ഒരിക്കലും തീരുമായിരുന്നില്ല. കങ്കാണിയാണ് നിശ്ചയിക്കുന്നത് ആർക്കൊക്കെ എതൊക്കെ പിരതി കൊടുക്കണമെന്ന്. അന്ന് ആറ് മാസത്തിലൊരിക്കലാണ് കണക്ക് തീർത്തിരുന്നത്. അത് വരെ ഒരണയും അരയണയും ചെലവ് കാശായി കൊടുക്കുമായിരുന്നു. തോട്ടം തൊഴിലാളികളുടെ ദുരിതം കേട്ടറിഞ്ഞ്  കെ. കാമരാജ് മൂന്നാറിൽ എത്തിയിരുന്നു. 1948 ഫെബ്രുവരി എട്ടിനാണ് ഐ.എൻ.ടി.യു.സി. സ്ഥാപക സെക്രട്ടറി ജനറലൽ ഗന്ധുഭായ് ദേശായിക്കൊപ്പം  കാമരാജ് മൂന്നാറിൽ എത്തിയത്. തോട്ടം തൊഴിലാകളുടെ പ്രശ്നങ്ങൾ പുറം ലോകമറിഞ്ഞതും കാമരാജിന്റെ സന്ദർശനത്തെ തുടർന്നാണ്.  1952ന് ശേഷം നടന്ന സമരങ്ങളെ തുടർന്നാണ് തോട്ടം തൊഴിലാളികളുടെ ജീവിത നിലവാരത്തിൽ മാറ്റം വന്നത്. തോട്ടം തൊഴിലാളി സമരത്തിനിടെയിൽ രണ്ട് തൊഴിലാളികൾക്ക് (ഹസൻ റാവുത്തർ, പാപ്പമ്മാൾ എന്നിവർ) ജീവൻ നഷ്ടമായി. 1958 ഒക്ടോബറിൽ ഗൂഡാർവിളയിൽ നടന്ന പോലീസ് വെടിവെപ്പിലാണ് ഇവർ മരിച്ചത്.",
-              "== 2015ലെ തൊഴിൽ സമരം ==",
-              "വേതനവർധനവും ബോണസും ആവശ്യപ്പെട്ട് മൂന്നാറിലെ തോട്ടം തൊഴിലാളികൾ ഒൻപതു ദിവസം തുടർച്ചയായി സമരം നടത്തി. ട്രേഡ് യൂണിയനുകളെയും രാഷ്ട്രീയ കക്ഷികളെയും വിശ്വാസത്തിലെടുക്കാതെ, തൊഴിലാളി സ്ത്രീകളുടെ നേരിട്ടുള്ള നിയന്ത്രണത്തിലായിരുന്നു സമരവും ചർച്ചയും.  ആയിരക്കണക്കിന് സ്ത്രീതൊഴിലാളികൾ അടങ്ങുന്ന തോട്ടം തൊഴിലാളികളുടെ ഈ സമരത്തിന്റെ പ്രധാന ആവശ്യങ്ങൾ, ബോണസ് പുന:സ്ഥാപിക്കുക, അത് 20 ശതമാനമായി തന്നെ നിജപ്പെടുത്തുക, ദിവസക്കൂലി 232 രൂപയിൽ നിന്ന് 500 ആയി വർധിപ്പിക്കുക എന്നിവയായിരുന്നു. സമരം വിജയകരമായി അവസാനിപ്പിക്കാൻ തൊഴിലാളികൾക്കായി.  ബോണസായി 8.33 ശതമാനവും ആശ്വാസ സഹായമായി (എക്‌സ്‌ഗ്രേഷ്യ) ആയി 11.66 ശതമാനവും ആയി സർക്കാർ തീരുമാനിച്ചത് കമ്പനി അധികൃതർ അംഗീകരിച്ചു.  പ്രതിപക്ഷ നേതാവ് വി.എസ്. അച്യുതാനന്ദൻ മൂന്നാറിലെത്തി തൊഴിലാളികളോടൊപ്പം സമരത്തിൽ പങ്കെടുത്തു.",
-              "== ഭൂപ്രകൃതിയും കാലാവസ്ഥയും ==",
-              "സമുദ്രനിരപ്പിൽ നിന്നും ഏകദേശം1600-1800 മീറ്റർ ഉയരത്തിലാണ് മൂന്നാർ സ്ഥിതിചെയ്യുന്നത്. സാധാരണനിലയിൽ 9 °C നും 26 °C നും ഇടയ്കാണ് അവിടുത്തെ താപനില. ഓഗസ്റ്റ് തൊട്ട് മാർച്ച് വരെയുള്ള കാലയളവിലാണ് വിനോദസഞ്ചാരികൾ കൂടുതൽ . ഇരവികുളം നാഷനൽ പാർക്ക് മൂന്നാറിനടുത്താണ്. തെക്കിന്റെ കാശ്മീർ എന്ന അപരനാമത്തിൽ മൂന്നാർ പ്രസിദ്ധമാണ്. മഞ്ഞിൽ കുളിച്ച് നിൽക്കുന്ന തേയില തോട്ടങ്ങളിലൂടെ ഉള്ള സഞ്ചാരം നമ്മുടെ നയനങ്ങൾക്ക് വേറിട്ട അനുഭൂതിയും കഴ്ചകാൾ അതിമനോഹരമാണ്",
-              "== തേയിലത്തോട്ടങ്ങൾ ==",
-              "== ഗതാ‍ഗതം ==",
-              "=== വ്യോമഗതാഗതം ===",
-              "ഏറ്റവും അടുത്തുള്ള വിമാനത്താവളം കൊച്ചി അന്താരാഷ്ട്ര വിമാനത്താവളമാണ്.",
-              "=== റെയിൽവേ ===",
-              "എറണാകുളം ജങ്ക്ഷൻ തീവണ്ടി നിലയവും (127 കി.മീ) ആലുവ തീവണ്ടി നിലയവും (111 കി.മീ) ആണ് മൂന്നാറിന് ഏറ്റവും അടുത്തുള്ള റെയിൽവേ സ്റ്റേഷനുകൾ.",
-              "=== റോഡുകൾ ===",
-              "ദേശീയ പാത 85 കൊച്ചിയെയും മൂന്നാറിനെയും ബന്ധിപ്പിക്കുന്നു. മൂന്നാർ പൊള്ളാച്ചി, ഉദുമലൈപേട്ട വഴി തമിഴ്‌നാട്ടിലെ കോയമ്പത്തൂരുമായി ബന്ധിപ്പിക്കുന്നു. KSRTC ബസുകളും സ്വകാര്യ ബസുകളും മൂന്നാറിനെ ചുറ്റുമുള്ള സംസ്ഥാനങ്ങളുമായി ബന്ധിപ്പിക്കുന്നു.",
-              "== വിനോദസഞ്ചാര കേന്ദ്രങ്ങൾ ==",
-              "മാട്ടുപ്പെട്ടി ഡാം",
-              "എക്കൊ പോയിന്റ്",
-              "കുണ്ടള ഡാം",
-              "ടോപ്പ് സ്റ്റേഷൻ",
-              "രാജമല",
-              "ആനമുടി",
-              "ആനയിറങ്ങൽ ഡാം",
-              "കൊളുക്കുമല",
-              "മീശപ്പുലിമല",
-              "കാന്തല്ലൂർ (അടുത്തുള്ള മറ്റൊരു ഗ്രാമം. ആപ്പിൾ, പീച്ച്, സ്ട്രൗബറി പോലെയുള്ള ശീതപ്രദേശത്ത് വളരുന്ന ഫലങ്ങളുടെ കൃഷിക്കും മറ്റും  പ്രസിദ്ധം)",
-              "== പ്രധാനസ്ഥാപനങ്ങൾ ==",
-              "ഗവ. വൊക്കേഷണൽ ഹയർ സെക്കണ്ടറി സ്കൂൾ & ടി.ടി.ഐ തമിൾ",
-              "ഗവണ്മെന്റ് എഞ്ചിനീയറിംഗ് കോളേജ്",
-              "ഗവണ്മെന്റ് കോളേജ്",
-              "ട്രൈബൽ സ്കൂൾ",
-              "ഗവണ്മെന്റ്  ഹയർ സെക്കൻഡറി സ്കൂൾ",
-              "മൂന്നാർ ശ്രീ സുബ്രമണ്യസ്വാമി ക്ഷേത്രം",
-              "മൂന്നാർ മൗണ്ട് കാർമൽ പള്ളി",
-              "മൂന്നാർ മുസ്ലീം ജമാത്ത് പള്ളി",
-              "മൂന്നാർ ഓം ശരവണ ഭവൻ",
-              "സി.എസ്.ഐ. പള്ളി (1910 സ്ഥാപിതം)"
+              "മൂലമറ്റം ഇടുക്കി ജില്ലയിൽ തൊടുപുഴ താലൂക്കിലെ ഒരു ഗ്രാമവും അറക്കുളം ഗ്രാമപഞ്ചായത്തിന്റെ ആസ്ഥാനവുമാണ്. തൊടുപുഴയിൽ നിന്നും 22 കിലോമീറാണ് ഇവിടേക്കുള്ള ദൂരം. വളരെ മനോഹരമായ ഭൂപ്രകൃതിയാൽ അനുഗൃഹീതമായതിനാൽ മലയാള സിനിമാ വ്യവസായത്തിന്റെ ശ്രദ്ധാകേന്ദ്രമാണിവിടം. മൂന്നു വശങ്ങളും മലനിരകളാൽ ചുറ്റപ്പെട്ടു കിടക്കുന്നതും അരുവികളാൽ നിറഞ്ഞതും, ഒരിക്കലും വറ്റാത്ത തൊടുപുഴയാറിന്റെ ഉത്ഭവസ്ഥാനവുമാണ് ഇവിടം.",
+              "== മൂലമറ്റം പവർ ഹൗസ് ==",
+              "ഗ്രാമത്തിൽ സ്ഥിതിചെയ്യുന്ന മൂലമറ്റം പവർ ഹൗസ് ഇൻഡ്യയിലെ ഏറ്റവും വലിയ ഭൂഗർഭ ജലവൈദ്യുതി ഉത്പാദന കേന്ദ്രങ്ങളിൽ  (പവർ ഹൗസ്) ഒന്നാണ്. ഇടുക്കി ജലസംഭരണിയിൽ നിന്നുള്ള വെള്ളം ഭൂമിക്കടിയിലൂടെ വലിയ പൈപ്പുകളിൽ കൂടി മൂലമറ്റത്ത് എത്തിച്ച് ഏകദേശം 669.2 മിറ്റർ (2195 അടി) ഉയരത്തിൽ നിന്നും 6 ടർബൈനുളിലേക്കു വീഴിച്ച് വൈദ്യുതി ഉത്പാദിപ്പിക്കുന്നു. ഒരോ ടർബൈനുകളുടേയും ക്ഷമത 130 മെഗാവാട്ടും മൊത്ത ഉത്പാദന ക്ഷമത 780 മെഗാവാട്ടുമാണ്. വൈദ്യുതോത്പാദനത്തിനു ശേഷം പുറന്തള്ളുന്ന ജലം ത്രിവേണി സംഗമത്തിൽ വെച്ച്  തൊടുപുഴയാറിലേക്കു ചേരുന്നതിനാൽ ഒരിക്കലും വറ്റാത്ത പുഴ പേർ തൊടുപുഴയാറിനു ലഭിച്ചിരിക്കുന്നു. സുരക്ഷാ കാരണങ്ങളാൽ ഇവിടേക്കുള്ള പ്രവേശനം പരിമിതപ്പെടുത്തിയിരിക്കുന്നു.",
+              "== വിനോദ സഞ്ചാര കേന്ദ്രം ==",
+              "മൂലമറ്റം തേക്കും കൂപ്പ്, ഇലപ്പള്ളി വെള്ളച്ചാട്ടം, ത്രിവേണി സംഗമം, തൂക്കുപാലം, നാടുകാണി മണ്ഡപം, തുമ്പിച്ചി വി. തോമാ ഗിരി, മലങ്കര ജലസംഭരണി, കുടയത്തൂർ മല, ഇലവീഴാപൂഞ്ചിറ എന്നിവിടങ്ങളാണ് അടുത്തുള്ള പ്രധാന വിനോദസഞ്ചാര കേന്ദ്രങ്ങൾ. ലോകത്തിലെ രണ്ടാമത്തേതും, ഏഷ്യയിലെ ഒന്നാമത്തെതും കമാന ജലസംഭരണിയായ ഇടുക്കി ജലസംഭരണി ഇവിടെനിന്നും 45 കിലോമീറ്റർ അകലെയാണ്.",
+              "== വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾ ==",
+              "പാഠശാലകൾ : ഇടുക്കി ഹൈഡ്രോ ഇലക്ട്രിക് പ്രോജക്ട് ഗവണ്മെന്റ് അപ്പർ പ്രൈമറി സ്കൂൾ (ഐ.എച്ച്.ഇ.പി.ജി.യു.പി.എസ്.), ഗവണ്മെന്റ് വൊക്കേഷണൽ ഹയർ സെക്കൻഡറി സ്കൂൾ ( ജി.വി.എച്ച്.എസ്.എസ്.), സെന്റ്. ജോർജ്ജ് യു.പി സ്കൂൾ (എസ്.ജി.യു.പി.എസ്.), സേക്രട്ട് ഹാർട്ട് ഇംഗളീഷ് മീഡിയം ഹയർ സെക്കൻഡറി സ്കൂൾ (എസ്.എച്ച്.ഇ.എം.എച്ച്.എസ്.എസ്.), സെന്റ്. മേരീസ് ഹയർ സെക്കൻഡറി സ്കൂൾ (എസ്.എം.എച്ച്.എസ്.എസ്).",
+              "കലാശാലകൾ : സെന്റ് ജോസഫ്സ് കോളേജ് അറക്കുളം ഇവിടെ നിന്നും 5 കി. മി. ദൂരത്തിലാണ്, ഇത് സി.എം.ഐ പാതിരിമാരാൽ 1980-ൽ സ്ഥാപിക്കപ്പെട്ട് നടന്നുവരുന്ന ഒരു വിദ്യഭ്യാസ സ്ഥാപനമാണ്. ഇവിടെ ബിരുദ പഠനവും ആംഗലേയ ഭാഷ, രസതന്ത്രം, വണികം, സാമൂഹ്യ പഠനം, സാമ്പത്തിക ശാസ്ത്രം എന്നിവയിൽ ബിരുദാനന്തര ബിരുദ പഠനം സാധ്യമാണ്."
             ]
           },
           "en": {
-            "title": "Munnar",
+            "title": "Moolamattom",
             "extract": [
-              "Munnar (Malayalam pronunciation: [muːn̪ːɐːr]) is a town located in the Idukki district of the southwestern Indian state of Kerala. Munnar is situated at around 1,600 metres (5,200 ft) above mean sea level, in the Western Ghats mountain range. This ancient plantation settlement, dominated by its tea industry, is also a growing modern hill station.",
-              "== Etymology ==",
-              "The name Munnar is a combination of the words \"Munnu\" and \"Aaru\" in the local languages of Malayalam\/Tamil meaning \"three rivers\", referring to its location at the confluence of the Muthirapuzha, Nallathanni and Kundali River rivers.",
-              "== History ==",
-              "The region has been inhabited by hunter-gatherer tribals like the Malayarayan and Muthuvan for thousands of years. In the early days, only Tamils and few Malayalis lived there. They were brought as workers in the tea plantations. Tradition states that Colonel Arthur Wellesley, later the Duke of Wellington, was the first British person to pass through Munnar during Tipu Sultan's campaign in Travancore, but this is unsubstantiated. The first survey of the terrain was undertaken by Benjamin Swayne Ward in 1816–1817, who followed Periyar into the Western Ghats and established a camp at the confluence of three rivers, from which the name of Munnar is derived.",
-              "50 years later Sir Charles Trevelyan who was the Governor of Madras, instructed Col. Douglas Hamilton to explore the hill country in the western part of the Madras Presidency, requesting special advice on the feasibility of establishing sanatoria for the British in the South and of developing revenue- earning projects without endangering the environment, as had happened in Ceylon where coffee had destroyed not only the rain forest but also paddy cultivation in the north-central rice bowl of ancient Ceylon. Hamilton climbed throughout the Ghats in Munnar region. 15 years later, John Daniel Munro noted that much of Munnar's land was suitable for coffee plantations. Munro, Henry Turn, and his half-brother AW Turner obtained ownership of the Cardamom Hills from the Raja of Travancore and began clearing forest around Devikulam in 1879. Soon many other Europeans began establishing tea plantations in the area throughout the 1880s. Early plantations had few facilities and were mainly huts of straw.",
-              "Eventually roads were opened to the lowlands and in Bodinayakanur in western Madras Presidency, planters got provisions from a local headman - Suppan Chetty. He and his son, Alaganan Chetty (later an MLA) would continue providing supplies to the tea estates in the region. By 1894, 26 estates were established in the hills, but all were facing losses. In 1897, a separate company, Kannan Devan Hills Corporation (KDHC) was registered to operate the tea estates which was later taken over by the American Direct Tea Trading Company Ltd., who owned 26 estates, most with coffee and some with cinchona, almost all in the area except for a few in the lower areas.",
-              "In 1900, a ropeway was built and eventually monorails were installed for easier transport of goods to the plains. In 1901, P. R. Buchanan took over as General Manager and began the most extensive clearing of jungles for plantations. In 1908, construction started on a new railway which opened in 1909. By 1911, around 6,500 hectares (16,000 acres) of the region was under cultivation.",
-              "In 1924, a flood swept through Munnar, damaged the road and destroyed the rail track. In its place it was decided to create a ropeway to transport tea. In 1930, this in turn was replaced by a modern road that made transport much easier. By 1952, almost 11,000 hectares (28,000 acres) of land was under cultivation. After Independence, Indian planters took over. In 1964, the KDHC which owned most tea estates was acquired by Tata and Finlay who started the first instant tea factory in the country. In 1971, the Kerala government wanted to reforest all land in the hills not used for plantations. However, negotiations that followed resulted in Tata keeping most of the land, leaving it with 23,000 hectares (57,000 acres).",
-              "Most tea estate labourers are landless. In the early 2000s, the Viduthalai Chiruthaigal Katchi, a Dalit outfit from Tamil Nadu, started demanding land for the labourers, started making inroads into Kerala. In 2009, VS Achuthanandan promised his support for providing land to the mainly Tamil Dalit estate labourers. However, the process became very slow and as of 2018, most families still had no land.",
-              "The former Kunda Valley Railway in Munnar was destroyed by a flood in 1924, but in 2019 tourism officials were considering reconstructing the railway line to attract more tourists to the area.",
-              "== Geography ==",
-              "The region in and around Munnar varies in height from 1,450 metres (4,760 ft) to 2,695 metres (8,842 ft) above mean sea level. The temperature ranges between 5 °C (41 °F) and 25 °C (77 °F) in winter and 15 °C (59 °F) and 25 °C (77 °F) in summer. Temperatures as low as −4 °C (25 °F) have been recorded in the Sevenmallay region of Munnar.",
-              "Köppen-Geiger climate classification system classifies it as subtropical highland (Cwb).",
-              "== Transportation ==",
-              "=== Road ===",
-              "Munnar is well connected by both National highways, state highways and rural roads. The town lies in the Kochi - Dhanushkodi National highway (N.H 49), about 130 km (81 mi) from Cochin, 31 km (19 mi) from Adimali, 85 km (53 mi) from Udumalaipettai in Tamil Nadu and 60 km (37 mi) from Neriyamangalam.",
-              "Distance from major cities & tourist destinations.",
-              "Aluva - 109 km",
-              "Varkala - 245 km",
-              "Trivandrum - 280 km",
-              "from Kochi - Ernakulam - 150 km",
-              "=== Railway ===",
-              "The nearest railway station is Bodinayakkanur (68 km) in Tamil Nadu and nearest major railway stations in Kerala are at Ernakulam (126 km) and Aluva (110 km).",
-              "Kerala State Road Transport Corporation (KSRTC) bus stand is in walking distance from Aluva Railway Station, and buses are available for Munnar every hour.",
-              "=== Airport ===",
-              "The nearest airport is Cochin International Airport, which is 110 kilometres (68 mi) away. The Coimbatore and Madurai airports are 165 kilometres (103 mi) from Munnar.",
-              "== Administration ==",
-              "The Panchayat of Munnar formed on January 24, 1961, and it is divided into 21 wards for administrative convenience. Coimbatore district lies to the north, Pallivasal to the south, Devikulam and Marayoor to the east, and Mankulam and Kuttampuzha Panchayats to the west.",
-              "== Demographics ==",
-              "According to the 2011 Census, Munnar Grama Panchayat had a total population of 32,039. 16,061 were males and 15,968 were females, with 7,968 families total residing therein. Children represented in the age group of 0-6 were 2,916 (9.1% of the total population), which constitutes 1,478 males and 1,438 females. Munnar Panchayat had an overall literacy rate of 84.85%, substantially lower than the Kerala state average of 94.00%. Male literacy stands at 91.05% and female literacy at 78.64%.",
-              "== Flora and fauna ==",
-              "Most of the native flora and fauna of Munnar have disappeared due to severe habitat fragmentation resulting from creation of the plantations. However, some species continue to survive and thrive in several protected areas nearby, including the new Kurinjimala Sanctuary to the east, the Chinnar Wildlife Sanctuary, Manjampatti Valley and the Amaravati reserve forest of Indira Gandhi Wildlife Sanctuary to the north east, the Eravikulam National Park and Anamudi Shola National Park to the north, the Pampadum Shola National Park to the south and the proposed Palani Hills National Park to the east.",
-              "=== Endemic species ===",
-              "These protected areas are especially known for several threatened and endemic species including Nilgiri Thar, the grizzled giant squirrel, the Nilgiri wood-pigeon, elephant, the gaur, the Nilgiri langur,  the sambar, and the Neelakurinji (that blossoms only once in twelve years).",
-              "== Land ownership ==",
-              "There has been action to address the problems of property takeovers by the land mafia that have, according to successive governments, plagued the area. In 2011, the government estimated that 20,000 hectares (49,000 acres) of land had been illegally appropriated and launched a campaign of evictions that had first been mooted in 2007."
+              "Moolamattom is the headquarters of Arakulam Panchayath in Thodupuzha Taluk, Idukki district in Kerala, India. It lies 22 km from Thodupuzha, on the banks of the Thodupuzha River, a tributary of the Muvattupuzha river. Moolamattom is famous for India's second largest underground hydroelectric power station - Moolamattom hydro power station.",
+              "== Moolamattom Power Station ==",
+              "Moolamattom Power Station is the biggest underground hydro-electric project in India. The water from the Idukki Dam is carried by the underground pipes to the power station. The installed capacity of the power house is 780 MW consisting of six generator units of 130 MW each. The regulated waters of Periyar fall through a drop of about 669.2 metres (2195 feet) while generating power in the underground power house. The tail waters makes Thodupuzha river, a tributary of the Muvattupuzha river, at Thriveni sangamam which is 1 km from Moolamattom Power Station. Project work on this power station was initiated by Sri. E.U. Philipose, Superintending Engineer, Kerala State Electricity Board in 1964. Visitors are restricted from entry due to security reasons.",
+              "== Tourism ==",
+              "Thumpichi St. Thomas mount, Nadukani, Malankara Dam, Kudayathoor Mala, Vayanakavu Temple and Ilaveezhapoonchira are nearby attractions. Idukki Dam, the world's second and Asia's first arch dam, is 43 kilometers away from Moolamattom. There are several Malayalam and other language films shot at Moolamattom and nearby places. Purappadu Rasathanthram, Drishyam, Papanasam are some of them.",
+              "== Education ==",
+              "Schools: IHEP Govt UP School, Govt Vocational Higher Secondary School, St. George UP School, Sacred Heart English medium High schools are the elementary schools in Moolamattom.",
+              "College: St. Joseph's College, Moolamattom, is a liberal arts and science college is situated 5 km away from Moolamattom run by the CMI fathers. Established in 1980, it offers undergraduate and postgraduate degrees in Management, Social Work, Chemistry, Physics, Commerce, Economics and English language.",
+              "St Joseph's Academy of higher education and research is another education institution situated 5 km away from Moolamattom run by the CMI fathers. Established in 2007, they offers undergraduate and postgraduate degrees in Actuarial  Science, Physical Education, Animation and Commerce.",
+              "== Important Personalities ==",
+              "NP Pradeep-Indian Professional Footballer",
+              "Honey Rose"
             ]
           },
           "hi": {
-            "title": "मून्नार",
+            "title": "मूलामट्टमं",
             "extract": [
-              "मुन्नार इडुक्की जिले का पहला प्रमुख शहर था। यह केरल का एक महत्वपूर्ण पर्यटन स्थल है। खूबसूरत मुन्नार को दक्षिण का कश्मीर कहा जाता है। मुन्नार शहर और पर्यटन स्थलों को मुन्नार के नाम से जाना जाता है। मुन्नार में हर साल कई पर्यटक आते हैं।",
-              "== नाम के कारण ==",
-              "मुन्नार नाम इन तीन नदियों के संगम से आया है: मुथिरापुझा, नल्लाथन्नी और कुंडला।",
-              "== प्रमुख आकर्षण ==",
-              "=== मट्टुपेट्टी ===",
-              "मट्टुपेट्टी समुद्र तल से 1700 मी. ऊंचाई पर स्थित है। यहां पर बनी मट्टुपेट्टी झील और बांध पर पर्यटक पिकनिक मनाने आते हैं। यहां से चाय के बागानों का मनमोहक दृश्य नजर आता हैं। यहां पर पर्यटक बोटिंग का भी आनंद ले सकते हैं। मट्टुपेट्टी अपने उच्च विशिष्टीकृत डेयरी फार्म के लिए प्रसिद्ध है। मट्टुपेट्टी के अंदर व आसपास के शोला वन ट्रैकिंग करने की सुविधा उपलब्ध कराता हैं। ये जंगल विभिन्न प्रकार के पक्षियों का घर भी है। यहाँ एक छोटी सी नदी और पानी का सोता भी है जो यहां के आकर्षण को और भी बढ़ा देता है।",
-              "समय: सुबह 9-11 बजे तक, दोपहर 2-3.30 बजे तक",
-              "=== इरावीकुलम राष्ट्रीय उद्यान ===",
-              "यह उद्यान मुन्नार से 15 किलोमीटर दूर है। यह स्थान देवीकुलम तालुक में पड़ता है। उद्यान के दक्षिणी क्षेत्र में अनामुडी चोटी है। मूल रूप से इस पार्क का निर्माण नीलगिरी जंगली बकरों की रक्षा करने के लिए किया गया था। 1975 में इसे अभयारण्य घोषित किया गया था। वनस्पति और जंतु के पर्यावरण जगत में इसके महत्व को देखते हुए 1978 में इसे राष्ट्रीय उद्यान घोषित कर दिया गया। 97 वर्ग किमी में फैला यह उद्यान प्राकृतिक सुंदरता के लिए मशहूर है। यहां दुर्लभ नीलगिरी बकरों को देखा जा सकता है। साथ ही यहां ट्रैकिंग की भी सुविधा उपलब्धह है।",
-              "=== चाय संग्रहालय और टी प्रोसेसिंग ===",
-              "यह संग्रहालय टाटा टी द्वारा संचालित है। इस संग्रहालय में 1880 में मुन्नार में चाय उत्पादन की शुरुआत से जुड़ी निशानियां रखी गई हैं। यहाँ कई ऐतिहासिक तस्वीरें भी लगी हुई हैं। इसके पास ही स्थित टी प्रोसेसिंग ईकाई में चाय बनने की पूरी प्रक्रिया को करीब से देखा व समझा जा सकता है।",
-              "समय: सुबह10-दोपहर 4बजे तक, सोमवार को बंद, दूरभाष: 04865-230561-65, एक्सटेंशन: 3224",
-              "=== अथुकड फॉल्स ===",
-              "गहरी घाटी में स्थित यह झरना मुन्नार से 8 किलोमीटर दूर कोच्चि रोड पर स्थित है। अथुकड फॉल्य मुन्नार का एक प्रमुख पर्यटक स्थल है। मानसून के दिनों में (जुलाई-अगस्त) इसकी सुंदरता और भी बढ़ जाती है। इस झरने के अलावा भी इस रास्ते में दो और झरने भी हैं-चीयापरा फॉल्स और वलार फॉल्स।",
-              "== निकटवर्ती दर्शनीय स्थल ==",
-              "=== चिन्नार वन्यजीव अभयारण्य ===",
-              "(60 किलोमीटर) मरयूर से 20 किमी आगे चिन्नार वन्यजीव अभयारण्य केरल-तमिलनाडु बॉर्डर पर स्थित है। राजमला-उदुमलपेट रोड इस अभयारण्य के बीच से होकर जाती है जहां से पर्यटक हाथी, जंगली सुअर, धब्बेदार हिरन, सांभर, गौर और मोर को देख सकते हैं। अगर आप भाग्यशाली रहे तो आपको मंजमपट्टी का सफेद भैंसा दिखाई दे जाएगा। शेर और चीते भी यहां दिखाई दे जाते हैं। वन विभाग पर्यटकों के लिए ट्रैकिंग, चिन्नार सफारी और वॉटर फॉल ट्रैकिंग की सुविधा भी उपलब्ध कराता है। मरयूर से मुन्नार का रास्ता 2 घंटे का है।",
-              "समय: सुबह 7 बजे-शाम 5बजे तक",
-              "=== कोल्लुकुमल्ले चाय बागान ===",
-              "(38 किलोमीटर) यह चाय बागान भारत में सबसे ऊंचाई पर स्थित चाय बागान है। कहा जाता है कि यहां भारत की सबसे जायकेदार चाय का उत्पादन होता है। चाय के अलावा यहां की एक और खासियत यहां के खूबसूरत नजारे हैं। यहां से तमिलनाडु के मैदानी इलाकों के खूबसूरत दृश्य दिखाई देते हैं। यहां केवल जीप से ही पहुंचा जा सकता है।",
-              "== अवागमन ==",
-              "वायु मार्ग",
-              "नजदीकी हवाई अड्डा कोचीन अंतर्राष्ट्रीय एयरपोर्ट।",
-              "रेल मार्ग",
-              "मुन्नार का निकटतम रेलवे स्टेशन एरनाकुलम जंक्शन रेलवे स्टेशन(127किमी) और अलुवा रेलवे स्टेशन(111किमी) है",
-              "सड़क मार्ग",
-              "राष्ट्रीय राजमार्ग 85 कोच्चि और मुन्नार को आपस में जोड़ता है। मुन्नार तमिलनाडु में कोयंबटूर से पोल्लची और उदुमलाईपेट्टई के रास्ते जुड़ा है। केएसआरटीसी की बसें और निजी बसें भी मुन्नार को आसपास के राज्यों से जोड़ती हैं।",
-              "== खानपान ==",
-              "मुन्नार में खाने-पीने की अनेक छोटी दुकानें हैं जो दिखने में अधिक आकर्षक नहीं हैं लेकिन यहां सस्ता और अच्छा भोजन मिलता है। राप्सी रेस्टोरेंट और होटल अजारिका की खासियत यहां मिलने वाली चिकन और मटन बिरयानी है। शुद्ध और असली केरलाई खाने के लिए एसएन लॉज सबसे सही जगह है। एमजी रोड पर स्थित सरवन भवन का शाकाहारी भोजन बहुत मशहूर है। इसके अलावा शाकाहारी खाने के लिए आर्य भवन ओर एसएन एनेक्स भी अच्छे विकल्प हैं। अंग्रेजी खाने के शौकीनों के लिए हाई रेंज क्लब सबसे बेहतर जगह है।",
-              "== चित्र दीर्घा ==",
-              "== सन्दर्भ ==",
-              "== बाहरी कड़ियाँ ==",
-              "Beautiful Idukki and Munnar photo album",
-              "Complete Munnar Travel Guide, Photo & Video Albums",
-              "History of Munnar",
-              "Munnar photo impressions"
+              "मूलामट्टमं केरल के इडुक्की ज़िले के इडुक्की तालूक के अंतरगत अराक्कुलम ग्राम पंचायत के मुख्यालय है। ये तोटुपुज़ा शहर से २२ क़ी मी दूर दक्षिण पूर्व की ओर तोटुपुज़यार नदी के किनारे पे बसा हुआ है। ये गाव तीनों तरफ से पर्वतमालाएं घिरा हुआ और तराई में बसा होने के कारण यह जगह सुरम्य स्थान है, इसलिए दक्षिण भारतीय भाषा फिल्मों का बहुत फिल्में यहाँ फिल्माए गए हैं। भारत में सबसे बड़ी भूमिगत जल विद्युत पावर स्टेशन के कारण मूलामट्टमं प्रसिद्ध है।",
+              "== मूलामट्टमं पवर हाउस ==",
+              "मूलामट्टमं पावर स्टेशन भारत में सबसे बड़ी भूमिगत जल विद्युत परियोजना है, इडुक्की बांध से पानी भूमिगत पाइप द्वारा यहाँ ले आकर 669.2 मीटर (2195 फीट) ऊचाई से नीचे पानी ६ जनरेटरों पे गिराकर ७८० मेगावाट का बिजली उद्पादन करता है। बिजली उद्पादन के बाद में, पानी त्रिवेणी संगमं पे तोटुपुऴायार नदी जा मिलते है, इसलिए तोटुपुऴायार नदी ३६५ दिनों में पानी से भरपुर है। कडि सुरक्षा के वजह से पर्यटकों को प्रवेश प्रतिबंध है।",
+              "== आसपाक के पर्यटक स्थलें ==",
+              "सागौन बागानों, इलाप्पल्ली जल-प्रपात, त्रिवेणी संगमं, हैंगिगं पुल, तुम्बिच्ची काल्वरी समुच्चयम, नाटुकाणी मंडप, मलंकारा बांध, कुडायात्तूर पर्वत, वायानाक्कावु मंदिर और इलावीऴापून्चिरा आदि पर्यटकों केलिए मुख्य आकर्षण का जगह हैं। दुनिया का दूसरा और एशिया का पहिला आर्क बांध इडुक्की यहां से ४५ कि॰मी॰ दूर पे है।",
+              "== शिक्षा ==",
+              "स्कूल: IHEP यूपी स्कूल, गवर्नमेंट वोकेशनल हायर सेकेंडरी स्कूल, सेंट जॉर्ज स्कूल, सेक्रेड हार्ट अंग्रेजी मीडियम हायस्कूल",
+              "कॉलेज: सेन्ट जोसफ कॉलेज, सीएमआई पाद्री लोगों से 1980 में स्थापित किया गया था। यह मूलामट्टम से 5 किमी दूर अराक्कुळम स्थित है। यह प्रबंधन, सामाजिक कार्य, रसायन विज्ञान, वाणिज्य, अर्थशास्त्र और अंग्रेजी भाषा में स्नातक और स्नातकोत्तर डिग्री प्रदान करता है।"
             ]
           },
           "ta": {
-            "title": "மூணார்",
+            "title": "மூலமட்டம்",
             "extract": [
-              "மூணாறு (Munnar) கேரளத்தின் தென் மாவட்டமான இடுக்கி மாவட்டத்தில் உள்ள ஒரு நகரம் ஆகும். கடல் மட்டத்திலிருந்து 1600–1800 மீட்டர் உயரத்தில் அமைந்துள்ளது. மூணாறு தென்னகத்து காஷ்மீர் என அழைக்கப்படுகிறது. மூணாறு நகரமும், அதைச் சுற்றியுள்ள சுற்றுலா இடங்களும் சேர்ந்தே மூணாறு என அழைக்கப்படுகிறது. தேயிலை உற்பத்தியே இங்குள்ள முக்கியமான தொழில் ஆகும். நயமக்காடு, நல்லதண்ணி, குண்டலை ஆகிய  மூன்று ஆறுகள் கூடுமிடமாதலால், மூன்றாறு என்றிருந்து மூணாறாகியுள்ளது. தேயிலைத் தோட்டங்களும் வளைந்து நெளிந்து செல்லும் பாதைகளும் இந்நகரின் சிறப்பியல்புகள். உதகமண்டலம், கொடைக்கானலிற்குப் பிறகு, தீபகற்ப இந்தியாவில் உள்ள மூன்றாவது புகழ்பெற்ற கோடை வாழிடம் மூணாறு. இந்நகரின் பெரும்பான்மையான மக்கள் தோட்டத் தொழிலாளர்களான தமிழர்கள் ஆவர்.",
-              "== வரலாறு ==",
-              "இப்பகுதி முழுவதும் முதுவான் இன, மலை வாழ் மக்களின் வசம் இருந்தது. இவர்களுக்குப் பின் பூஞ்ஞார் ராஜ வம்சத்தினரின் ஆட்சியில் இருந்தது.பின்னர், திருவிதாங்கூர் சமஸ்தானத்தின் ஆட்சிக்கு கீழ் வந்தது. ஆங்கிலேயர்கள் தேயிலை பயிரிடத் தொடங்கினர். ஜான் டேணியல் முன்றோ என்ற ஆங்கிலேயர் முதன் முதலில், இங்கே தோட்டப்பயிர் செய்ய வழிவகுத்தார். தேயிலைத் தோட்டங்களில் வேலை செய்வதற்கு, தமிழகத்தில் இருந்து ஆட்களை வரவழைத்தனர். சரக்குகளை கையாளுவதற்கு தொடர்வண்டி வசதி, கம்பிவட வாகன வசதியை ஏற்படுத்தினர். எனினும் பின்னர் வெள்ளத்தால் தொடருந்து பாதைகள் அழிந்ததால் சாலை வசதி மேம்படுத்தப்பட்டு சரக்குகளை கையாளப்பட்டது. இங்கு உற்பத்தியான தேயிலை உலக அளவில் புகழ் பெற்றது.",
+              "மூலமற்றம் (மூலமட்டம், Moolamattom, மலையாளம்: മൂലമറ്റം) இந்தியாவின் கேரள மாநிலம், இடுக்கி மாவட்டத்தில் தொடுபுழா தாலூக்காவில் அறக்குளம் பஞ்சாயத்து தலைமையகமாக உள்ள ஒரு கிராமம். இது தொடுபுழாவிலிருந்து 22 கி. மி. தூரத்தில் தொடுபுழா ஆற்றின் கரையில் அமைந்துள்ளது. மூன்று பக்கஙகளிலும் மலைகளாள் நிறைந்த ஒரு பள்ளத்தாக்கு ஆகும் இந்த இடம். தென் இந்திய மொழி திரைப்படங்கள் நிறைய இங்கே படமாக்கப்பட்டது",
+              "== மூலமற்றம் மின் நிலையம் ==",
+              "இந்தியாவின் மிகப்பெரிய நிலத்தடி நீர் மின்சார திட்டம். இடுக்கி அணையில் இருந்து தண்ணீர் நிலத்தடி குழாய்கள் மூலம் கொண்டுவரப்பட்டு  669,2 மீட்டர் ( 2195 அடி)மேலிருருந்து 6 ஜெனரேட்டர் மேல் விழுத்தி 780 மெகாவாட் மின் உற்பத்தி செய்கிறது. பாதுகாப்பு காரணங்களுக்காக பார்வையாளர்களுக்கு மின் நிலையம் நுழைய தடை செய்யப்படுள்ளது.",
               "== சுற்றுலா ==",
-              "தமிழ்நாடு-கேரள எல்லையில் கடல் மட்டத்தில் இருந்து 1,600 மீட்டர் உயரத்தில் உள்ள இயற்கை எழில் வாய்ந்த இந்த அழகிய மலைப் பகுதி. 3 ஆறுகளின் சங்கமத்தினால் மூணாறு எனப் பெயர் பெற்றது. தென்நாட்டில் மிக உயரமான (2,695 மீட்டர்) ஆனைமுடி சிகரம், மூணாறு மலைப் பகுதியில் உள்ள ராஜமலைத் தொடரில் உள்ளது. தென்னிந்தியாவின் மூன்றாவது உயர மலையான சொக்கர்முடி மலை லோக்கார்ட் எஸ்ட்டேட்டின் (Lockhart Estate) ஓர் எல்லைகளாகும். ராஜமலைத் தொடரில் அழிந்துவரும் விலங்கினமான வரையாடு (மலை ஆடு) ஏராளமாக உள்ளது. மூணாறு வரும் சுற்றுலாப் பயணிகளை மிகவும் கவரும் ராஜமலைத் தொடரில் 12 ஆண்டுகளுக்கு ஒரு முறை பூக்கும், குறிஞ்சி மலர்க்காடு மிகப் புகழ்பெற்றது.",
-              "=== முக்கியச் சுற்றுலா இடங்கள் ===",
-              "ராஜமலை (Rajamalai)",
-              "ஆனை முடி மலைமுடி (Anaimudi Peak)",
-              "ரோஸ் கார்டன் (Rose Garden)",
-              "மாட்டுப்பட்டி அணை (Mattupatty Dam)",
-              "எக்கோ பாயிண்ட் (Echo Point)",
-              "குண்டலை அணை (Kundalai Dam)",
-              "லோக்கார்ட் டீ மியூசியம் (Lockhart Tea Museum)",
-              "லோக்கார்ட் டீ பார்க் (Lockhart Tea Park)",
-              "லோக்கார்ட்  கேப் வியூ பாயிண்ட்",
-              "(Lockhart Gap View Point)",
-              "கள்ளன் குகை (Kallan Cave)",
-              "பெரியகானல் அருவி (Periyakanel Water Falls)",
-              "ஆணையிரங்கல் அணை (Anayirangal Dam)",
-              "லக்காம் அருவி (Luckam Water Falls)",
-              "வாகுவரை தேயிலை தோட்டம் (Vaguvarrai Estate)",
-              "மூணாறில் இருந்து தமிழக, கேரள எல்லைப் பகுதியான தேனி மாவட்டத்தின் எல்லைப் பகுதிக்கு வந்து அங்குள்ள சிகரங்களில் நின்று மலைப் பகுதிகளின் எழிலை கண்டு ரசிக்கலாம். குடும்பத்தினரோடும், நண்பர்களோடும் சென்று இளைப்பாறுவதற்கு அற்புதமான இடம். இடுக்கி மாவட்டத்தில் அமைந்துள்ள மூணாறுக்கு தமிழகத்திலிருந்து உடுமலைப்பேட்டை, மதுரை, தேனி, கோவை, சென்னை யிலிருந்தும், கேரளத்தின் முக்கிய ஊர்களான கொச்சி, ஆலுவா, திருவனந்தபுரம் ஆகிய ஊர்களில் இருந்தும் பேருந்தின் வாயிலாகச் செல்லலாம். கர்நாடக மாநிலம் பெங்களூரிலிருந்து உடுமலை வழியாகவும் (KSRTC ராஜஹம்சா) அடிமாலி வழியாகவும் (KSRTC) மூணாற்றிற்குப் பேருந்துகள் உள்ளன. உடுமலையில் இருந்து 3 மணி நேரத்திலும் போடிநாயக்கனூர்  நகரிலிருந்து 2 மணி நேரத்திலும் சிற்றுந்தில் செல்லலாம். உடுமலையில் இருந்து மூணாறு 88 கி.மீ. தொலைவில் உள்ளது. போடியில் இருந்து மூணாறு சுமார் 70 கி.மீ. தொலைவில் உள்ளது.",
-              "பெங்களூரு, மைசூரு, சேலம், ஈரோடு, கோயம்புத்தூர், திருப்பூர் நகரங்களில் இருந்து உடுமலை வழியாகவும், திண்டுக்கல், மதுரை, தேனி நகரங்களில் இருந்து போடி வழியாகவும் மூணாறை அடையலாம்.உடுமலை, போடி நகரங்களில் இருந்து அதிகப்படியான பேருந்துகள் இயக்கப்படுகின்றன.",
-              "இந்த நகரை அடையும் முன்னர் போடி மெட்டு என்ற அழகிய மலையுச்சியே கேரளத்துக்கும், தமிழகத்துக்கும் உள்ள எல்லையாகும்.",
-              "ஆனைமலை புலிகள் காப்பகம், சின்னாறு வனவிலங்கு சரணாலயம் மற்றும் மறையூர் சந்தனக் காடுகள் வழியாகச் செல்லும் உடுமலை - மூணாறு சாலை யானைகள், புள்ளிமான்கள், புலிகள், காட்டுப்பன்றிகள், காட்டெருமைகள் நடமாட்டம் மிகுந்த ஆபத்தான மலைச்சரிவில் அமைந்த ஒற்றைப் பாதையாகும்.",
-              "1600 மீட்டரிலிருந்து 1800 மீட்டர் கடல் மட்டத்திற்கு மேல் அமைந்துள்ள இந்த நகரில் கண் கொள்ளாக் காட்சியாக முருகன் கோவில் ஒன்றும் உண்டு. இங்கு கார்த்திகைப் பண்டிகை சிறப்பாகக் கொண்டாடப்படும்.",
-              "== மேற்கோள்கள் ==",
-              "== வெளி இணைப்புகள் ==",
-              "விக்கிச்செலவில் செலவு வழிகாட்டி: மூணார்",
-              "Kerala Tourism"
-            ]
-          },
-          "kn": {
-            "title": "ಮುನ್ನಾರ್",
-            "extract": [
-              "ಮುನ್ನಾರ್ (ಮಲಯಾಳಂ:മൂന്നാർ) ದಕ್ಷಿಣ ಭಾರತದ ರಾಜ್ಯಗಳಲ್ಲಿ ಒಂದಾದ ಕೇರಳದ ಇಡುಕ್ಕಿ ಜಿಲ್ಲೆಯಲ್ಲಿರುವ ಒಂದು ಪಟ್ಟಣ ಮತ್ತು ಗಿರಿಧಾಮ.  ಪಶ್ಚಿಮ ಘಟ್ಟಗಳ ಪರ್ವತ ಶ್ರೇಣಿಗಳಲ್ಲಿ ಒಂದಾದ ಮುನ್ನಾರ್ ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 1,600 metres (5,200 ft) ಎತ್ತರದಲ್ಲಿದೆ.",
-              "== ವ್ಯುತ್ಪತ್ತಿಶಾಸ್ತ್ರ ==",
-              "ಮುನ್ನಾರ್ ಎಂಬ ಹೆಸರು \"ಮೂರು ನದಿ\"ಗಳನ್ನು ಬಿಂಬಿಸುತ್ತದೆ ಎಂದು ನಂಬಲಾಗುತ್ತದೆ, ಅಂದರೆ ಮುದಿರಪುಜ಼, ನಲ್ಲತನ್ನಿ ಮತ್ತು ಕುನ್ಡಲಿ ನದಿಗಳ ಸಂಗಮವನ್ನು ಉಲ್ಲೇಖಿಸುತ್ತದೆ.",
-              "== ಸ್ಥಳ ==",
-              "ಮುನ್ನಾರ್ ನ ಭೌಗೋಳಿಕ ನಿರ್ದೇಶಾಂಕಗಳು 10°05′21″N 77°03′35″E. ಮುನ್ನಾರ್ ಪಟ್ಟಣವು ಕಣ್ಣನ್ ದೆವನ್ ಬೆಟ್ಟಗಳ ದೆವಿಕುಲ್ಲಮ್ ತಾಲ್ಲೂಕಿನ ಕಣ್ಣನ್ ದೆವನ್ ಬೆಟ್ಟಗಳ ಹಳ್ಳಿಯ ಮೇಲೆ ನೆಲೆಗೊಂಡಿದೆ ಮತ್ತು ಇಡುಕ್ಕಿ ಜಿಲ್ಲೆಯ ಅತಿ ದೊಡ್ಡ ಪಂಚಾಯತ್.",
-              "=== ರಸ್ತೆ ===",
-              "ಮುನ್ನಾರ್ ರಾಷ್ಟ್ರೀಯ ಹೆದ್ದಾರಿ, ರಾಜ್ಯ ಹೆದ್ದಾರಿ ಮತ್ತು ಗ್ರಾಮೀಣ ರಸ್ತೆಗಳ ಮೂಲಕ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕಗೊಂಡಿದೆ. ಮುನ್ನಾರ್ ಪಟ್ಟಣವು ಕೊಚ್ಚಿ - ಧನುಷ್ಕೋಡಿ ರಾಷ್ಟೀಯ ಹೆದ್ದಾರಿಯಲ್ಲಿ(N.H 49),ಕೊಚ್ಚಿಯಿಂದ ಸುಮಾರು ೧೩೦ಮೈಲಿ, ಅದಿಮಲಿಯಿಂದ ೩೧ಮೈಲಿ, ತಮಿಳುನಾಡಿನ ಉದುಮಲ್ಪೆಟ್ಟು ಇಂದ ೮೫ಮೈಲಿ ಮತ್ತು ನೆರಿಯಮನ್ಗಲಮ್ ೬೦ಮೈಲಿ ದೂರದಲ್ಲಿದೆ.",
-              "ಪ್ರಮುಖ ನಗರಗಳಿಂದ ದೂರ",
-              "ಕೊಚ್ಚಿ ಇಂದ- ಎರ್ನಾಕುಳಮ್ ಇಂದ- 150 km",
-              "=== ವಿಮಾನ ನಿಲ್ದಾಣ ===",
-              "110 kilometres (68 mi) ದೂರದಲ್ಲಿರುವ ಕೊಚ್ಚಿ ಅಂತರ್ರಾಷ್ಟೀಯ ವಿಮಾನ ನಿಲ್ದಾಣವು ಹತ್ತಿರದ ನಿಲ್ದಾಣ. ಮುನ್ನಾರ್ನಿಂದ ಕೊಯಂಬತ್ತೂರು ಮತ್ತು ಮದುರೈ ವಿಮಾನ ನಿಲ್ದಾಣವು ೧೬೫km ದೂರದಲ್ಲಿದೆ.",
-              "== ಆಡಳಿತ ==",
-              "೧೯೬೨ ಜನವರಿ ೨೪ರಂದು ನಿರ್ಮಿತವಾದ ಮುನ್ನಾರ್ ಪಂಚಾಯತ್ ೨೧ ವಾರ್ಡ್ಗಳಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ. ಉತ್ತರ ದಿಕ್ಕಿಗೆ ಕೊಯಂಬತ್ತೂರು ಜಿಲ್ಲೆಯು, ದಕ್ಷಿಣಕ್ಕೆ ಪಲ್ಲಿವಸಲ್, ಪೂರ್ವಕ್ಕೆ ದೆವಿಕುಳಮ್ ಮತ್ತು ಮರಯೂರ್ ಮತ್ತು ಮನುಕುಳಮ್,",
-              "ಪಶ್ಚಿಮಕ್ಕಿ ಕುಟ್ಟಮ್ಪುಜ಼ ಪಂಚಾಯತ್ ಇದೆ.",
-              "== ಆಕರ್ಷಕ ಸ್ಥಳಗಳು ==",
-              "ಎರವಿಕುಳಮ್ ರಾಷ್ಟೀಯ ಉದ್ಯಾನವನ",
-              "ಅನ್ನಮುಡಿ ಉತ್ತುಂಗ",
-              "ಮಟ್ಟುಪೆಟ್ಟಿ ಅಣೆಕಟ್ಟು",
-              "ಪಲ್ಲಿವಸಲ್",
-              "ಚಿನ್ನಕನಾಲ್ ಮತ್ತು ಅನಯಿರನ್ಗಳ್",
-              "ಟಾಪ್ ಸ್ಟೇಷನ್",
-              "ಮುನ್ನಾರ್ ಟೀ ಮ್ಯೂಸಿಯಂ",
-              "ಕುನ್ಡ್ಲಾ ಅಣೆಕಟ್ಟು",
-              "== ಉಲ್ಲೇಖಗಳು =="
-            ]
-          },
-          "te": {
-            "title": "మున్నార్",
-            "extract": [
-              "మున్నార్ కేరళలోని ఇడుక్కి జిల్లాలో ఉన్న పర్వతప్రాంత పట్టణం. మున్నార్ సుమారు 1,600 మీ. ఎత్తున పశ్చిమ కనుమల పర్వత శ్రేణిలోఉంది.మున్నార్ ను \"దక్షిణ భారత కాశ్మీర్\" అని కూడా పిలుస్తారు. హనీమూన్ వెళ్ళేవారికి ఇది ప్రసిద్ధి. మున్నార్‌లోని పూర్వపు కుండా వ్యాలీ రైల్వే 1924 లో వచ్చిన వరదల్లో ధ్వంసమైంది. అయితే పర్యాటకులను ఆకర్షించడానికి రైల్వే మార్గాన్ని పునర్నిర్మించాలని పర్యాటక అధికారులు పరిశీలిస్తున్నారు.",
-              "== పద చరిత్ర ==",
-              "మున్నార్ అంటే \"మూడు నదులు\" అని అర్థం. ముదిరపుళ, నల్లతన్ని, కుండలి అనే మూడు నదుల సంగమం వద్ద ఉన్న ప్రదేశం మున్నార్ అని సూచిస్తుంది.",
-              "== భౌగోళిక స్థానం ==",
-              "మున్నార్ యొక్క భౌగోళిక నిర్దేశాంశాలు 10 ° 05′21 ″ N 77 ° 03′35 ″ E. మున్నార్ పట్టణం దేవికులం తాలూకాలోని కన్నన్ దేవన్ హిల్స్ లో ఉంది. దాదాపు 557 చ.కి.మీ. లతో విస్తీర్ణం గల మున్నార్, ఇడుక్కి జిల్లాలో కెల్లా అతిపెద్ద పంచాయతీ.",
-              "=== మార్గాలు ===",
-              "మున్నార్‌కు జాతీయ రహదారులు, రాష్ట్ర రహదారులు, గ్రామీణ రహదారులు ఉన్నాయి. ఈ పట్టణం కొచ్చి - ధనుష్కోడి జాతీయ రహదారి (ఎన్‌హెచ్ 49) లో కొచ్చి నుండి 130 కి.మీ., ఆదిమాలి నుండి  31 కి.మీ., ఆదిమాలి నుండి, తమిళనాడులోని ఉడుమలైపెట్టై నుండి 85 కి.మీ., నెరియమంగళం నుండి 60 కి.మీ. దూరంలో ఉంది.",
-              "=== రైల్వే ===",
-              "సమీప ప్రధాన రైల్వే స్టేషన్లు ఎర్నాకుళం, అలువా (రోడ్డు ద్వారా సుమారు 140 కి.మీ). సమీప ఫంక్షనింగ్ రైల్వే స్టేషన్ ఉడుమలైపెట్టై వద్ద ఉంది.",
-              "=== విమానాశ్రయం ===",
-              "సమీప విమానాశ్రయం 110 కి.మీ. దూరంలో ఉన్న కొచ్చిలో ఉంది. కోయంబత్తూర్, మదురై విమానాశ్రయాలు 165 కి.మీ. దూరంలో ఉన్నాయి.",
-              "== వృక్ష జంతుజాలాలు ==",
-              "తోటల పెంపకం ఫలితంగా ఆవాస ప్రాంతాలు విచ్ఛిన్నమయ్యాయి. ఈ కారణంగా మున్నార్ లోని స్థానిక వృక్షజాలం, జంతుజాలం చాలావరకు కనుమరుగయ్యాయి. అయితే, కొన్ని జాతులు జీవించి, సమీపంలోని రక్షిత స్థలాల్లో వృద్ధి చెందుతున్నాయి. తూర్పున ఉన్న కురింజిమల అభయారణ్యం, ఈశాన్యం లోని చిన్నార్ అభయారణ్యం, మంజంపట్టి లోయ, ఇందిరా గాంధీ వన్యప్రాణుల అభయారణ్యం లోని అమరావతి అడవి, ఉత్తరాన ఎర్నాకుళంలో నేషనల్ పార్కు, అనముడి షోలా నేషనల్ పార్కు, దక్షిణాన పంపడం షోలా నేషనల్ పార్కు, తూర్పున ప్రతిపాదిత పళని హిల్స్ నేషనల్ పార్క్ వంటివి ఈ రక్షిత స్థలాల్లో కొన్ని.",
-              "== స్థానిక జాతులు ==",
-              "ఈ రక్షిత ప్రాంతాల్లో అనేక క్షీణిస్తున్న జాతులకు చెందిన జీవులున్నాయి. నీలగిరి థార్, నెరసిన వన్నె పెద్ద ఉడుత, నీలగిరి వుడ్ పిజియన్, ఏనుగు, గౌర్, నీలగిరి లంగూర్, సాంబార్, నీలకురింజి (పన్నెండేళ్ళకు ఒకసారి పూచే మొక్క) వీటిలో కొన్ని.",
-              "== భూమి యాజమాన్యం ==",
-              "ల్యాండ్ మాఫియా ఆస్తులను కబ్జా చెయ్యడం మున్నర్‌లో పెద్ద సమస్య. 2011 లో, ప్రభుత్వం 20,000 హెక్టార్ల భూమిని అక్రమంగా ఆక్రమించుకున్నట్లు అంచనా వేసింది. ఈ ఆక్రమణలను ఎత్తివేసేందుకు కార్యాచరణ మొదలుపెట్టింది.",
-              "== మున్నార్‌లో చెయ్యదగ్గ పనులు ==",
-              "మున్నార్‌లో నాలుగు ప్రధాన దిశల్లో పర్యటనకు వెళ్ళవచ్చు. మట్టుపట్టి వైపు, తెక్కెడి వైపు, ఆదిమాలి వైపు, కోయంబత్తూర్ వైపు. మున్నార్‌లో పర్యాటకానికి వాతావరణం, టీ తోటలూ ఆధారం. చుట్టూ పరుచుకుని ఉన్న పచ్చటి తివాచీ లాంటి ప్రకృతిని చూడటానికి పర్యాటకులు ఇక్కడికి వస్తారు. దేశవ్యాప్తంగా వేసవి సెలవుల రోజులైన ఏప్రిల్ - మే నెలల్లో పర్యాటకుల సంఖ్య పెరుగుతుంది.",
-              "== భౌగోళికం, శీతోష్ణస్థితి ==",
-              "మున్నార్ ఎత్తు సముద్ర మట్టం నుండి 1,450 మీ. - 2,695 మీ. ఎత్తున ఉంది. ఉష్ణోగ్రత శీతాకాలంలో 5 - 25oC మధ్య, వేసవిలో 15 -25 oC ల మధ్య ఉంటుంది. అత్యల్పంగా, మున్నార్ లోని సెవెన్మల్లె ప్రాంతంలో -4oC  నమోదైంది.",
-              "== గ్యాలరీ ==",
-              "== మూలాలు =="
-            ]
-          },
-          "bn": {
-            "title": "মুন্নার",
-            "extract": [
-              "মুন্নার দক্ষিণ-পশ্চিম ভারতের কেরালার ইদুক্কি জেলার একটি শহর ও পাহাড়ী অবস্থান। মুন্নার পশ্চিমাঘাট পর্বতমালার মাঝামাঝি সমুদ্র সমতল থেকে ১,৬০০ মিটার (৫,২০০ ফুট) উপরে অবস্থিত। [2] মুন্নারকে \"দক্ষিণ ভারতের কাশ্মীর\" বলা হয় এবং মধুচন্দ্রিমার জন্য এটি একটি প্রিয় গন্তব্য।",
-              "== ইতিহাস ==",
-              "কল্যাণ আর্থার ওয়েলেসলি পরবর্তীতে ওয়েলিংটন এর ড্যুক হয়েছিলেন, তিনি ভ্যানিপেরিয়ার থেকে Bodinayakanur একটি ব্রিটিশ বিচ্ছিন্নতা নেতৃত্ব, তারপর হাই রেঞ্জ এবং কোয়ম্বাতোরে সমভূমিতে Travancore থেকে টিপু সুলতান এর পশ্চাদপসরণ কাটা বন্ধ, ব্রিটিশ মধ্যে প্রথম ইংরেজি ছিল বিন্যাস জড়িত তারিখ দ্বারা মিথ্যা বলে মনে হচ্ছে। ওয়েলসলেয়ের জন্য খুব তাড়াতাড়ি গল্পটি যদি এক ডজন বছর হয়, তবে জেনারেল মেইডোর সেনাবাহিনীর অন্য কিছু কর্মকর্তা হয়তো এই পার্থক্যটি পেয়েছিলেন। দুর্ভাগ্যবশত, যে অগ্রণী পর্বত ক্রসিং এর কোনো রেকর্ড শনাক্ত করা হয়েছে। 1816-17 সালে কর্ন ফ্রান্সিস সোয়াইন ওয়ার্ডের ছেলে লে। বেঞ্জামিন সোয়ান ওয়ার্ডের এই ভূখণ্ডের জরিপের রেকর্ডটি পাওয়া যায়, যার জন্য আমরা মাদ্রাজ ও দক্ষিণ ভারত এর প্রথম দিকের মতামতকে ঋণপত্রগুলিতে পাওয়া যায়।",
-              "== ব্যুত্পত্তি ==",
-              "মুন্নার নামটি \"তিনটি নদী\" বলে মনে করা হয়, [5] মুধিরাপুজা, নলথান্নি এবং কুণ্ডলী নদীগুলির সম্মানে এটির অবস্থান উল্লেখ করে। [6]",
-              "== অবস্থান ==",
-              "মুন্নার জিওগ্রাফিক কোঅর্ডিনেটস 10 ° 05'21 \"এন 77 ° 03'35\" ই। মুন্নার শহর দেবীকুলাম তালুকের কানন দেবান পাহাড়ের গ্রামে অবস্থিত এবং ইদুক্কি জেলার বৃহত্তম পঞ্চায়েত রয়েছে যা প্রায় 557 বর্গ কিলোমিটার (215 বর্গ মাইল) এলাকা জুড়ে অবস্থিত। [উল্লেখ করা]",
-              "== প্রশাসন ==",
-              "২4 জানুয়ারি 1961 সালে মুন্নার গঠিত পঞ্চায়েতটি প্রশাসনিক সুবিধার জন্য ২1 টি ওয়ার্ডে বিভক্ত। কোয়েম্বাটোর জেলা উত্তরে, দক্ষিণে পল্লীবাসল, পূর্বে দেবীকুলাম ও ময়ূরপুর এবং পশ্চিমে মানকুলাম, কুট্টামপুঝ পঞ্চায়েত।",
-              "== তথ্যসূত্র ==",
-              "== বহিঃসংযোগ =="
-            ]
-          },
-          "mr": {
-            "title": "मुन्नार",
-            "extract": "मुन्नार(मल्याळम) किंवा मुणार(तमिळभाषेत)  भारताच्या केरळ राज्यातील शहर आहे."
-          },
-          "gu": {
-            "title": "મુનાર",
-            "extract": [
-              "મુનાર એ ભારતના કેરળ રાજ્યના ઈડ્ડુકી જિલ્લામાં પશ્ચિમ ઘાટમાં આવેલ એક ગિરિમથક છે. મુન્નર નામ એ તમિલ અને મલયાલમ ભાષાના બે શબ્દો મુન અને આરુ પરથી ઉતરી આવ્યો છે જેનો અર્થ થાય છે ત્રણ અને નદી. આ નગર ત્રણ નદીઓ મુથીરપુળા, નલ્લાથન્ની અને કુંડલીના સંગમ પર વસેલું છે. દેવીકુલમ બ્લોકમાં આવેલ મુનાર પંચાયત સૌથી મોટી પંચાયત છે જેની હેઠળ ૫૫૭ ચો. કિમી જેટલું ક્ષેત્ર આવે છે.",
-              "== ભૂગોળ અને આબોહવા ==\nમુનાર અને તેની આસપાસનું ક્ષેત્ર સમુદ્ર સપાટીથી ૨૦૦ ફૂટથી ૨૬૦૦ ફૂટ પર આવેલું છે. મુનાર આરોગ્યપ્રદ આબોહવા ધરાવે છે. અહીંનું ઉષ્ણતામાન શિયાળામાં ૦ થે ૧૦ અંશ અને ઉનાળામાં ૮ થે ૧૬ અંશ સેલ્સિયસ જેટલું રહે છે. મુનારમાં પ્રવાસી મોસમ ઑગસ્ટથી મે સુધીનું છે. જો કે વરસાદની ઋતુમાં હળવા ધુમ્મસમાં ઝરણાઓ અને વેહેળાઓ, પાણીથી ભીંજાયેલા ચાના બગીચા વૈભવી અને દૈવી લાગે છે.",
-              "== અર્થ વ્યવસ્થા ==\nમુનારના સ્થાનીય લોકો મોટે ભાગે યાતો ચા ના બગીચામાં અથવા તો પ્રવાસ ઉદ્યોગ સાથે સંકળાયેલ છે. ઈ.સ. ૨૦૦૦માં કેરળ સરકારે મુનારને પ્રવાસ ક્ષેત્ર જાહેર કર્યુ. આને કારણે અહીં વધુ પ્રવાસીઓ આવવા માંડ્યાં છે. આસપાસના ક્ષેત્રોમાં આવેલ વન્યજીવન અભયારણ્ય અહીંનું સુંદર વાતવરણ આદિને કારણે અહીંની ઘણી હોટેલ, વાહન વ્યવહાર ઉદ્યોગને પોષે છે",
-              "== ચિથિરાપુરમ ==",
-              "આ દ્રશ્ય મુનારથી ૧૦ કિમી દૂર આવેલ ચિથીરાપુરમનું સુંદર દ્રશ્ય બતાવે છે. આમાં શાળા, ચર્ચ, નાના નાના કોટેજ, બંગલાઓ, પ્રાચીન મેદાનો અને કોર્ટ આદિ દેખાય છે. આ સ્થળે એક જળ વિદ્યુત કેંદ્ર આવેલું છે. તે સિવાય આ ક્ષેત્ર ચા બગીચાના સુંદર દ્રશ્યો માટે પણ પ્રચલિત છે.",
-              "== પ્રવાસ ==",
-              "૧૯૯૦ સુધી પ્રાકૃતિક સૌંદર્ય અને મનોરમ્ય વાતાવરણ મુનાર છતાં એક નિંદ્રાધીન ચા વાવેતર ધરાવતું નાનકડું નગર હતું. આ સ્થળની પર્યટન ક્ષમતા સ્ટરલીંગ ગ્રુપ અને મહિંદ્રા હોલીડેએ પારખી હતી. જોકે, કેરળના ગોડ્સ ઑન કન્ટ્રી તરીકે પર્યટન પ્રસિદ્ધી કરાતા અને મધ્યમ વર્ગની વધેલી આવકને પરિણામે થયેલી ખરીદ શક્તિના વધરાને પરિણામે મુનારમાં પર્યટન ઉદ્યોગ વિકાસ પામ્યો. નગરની ચારે તરફ નાના મોટાં  રીસોર્ટ ફૂટી નિકળ્યાં અને એક સમનું સુપ્ત નગર સક્રીય પર્યટન સ્થળ બની ગયું. રોકાણકરો દ્વારા હાથ ધરાયેલા વિકાસને પરિણામે એક સમયનું સુપ્ત નગરના પ્રાકૃતિક સૌંદર્યને નુકશાન પહોંચ્યું છે.   સ્થાનીય અને વિદેશી પર્યટકો દ્વારા લવાતા વાહન વ્યવહારને પરિણામે અહીં વાયુ પ્રદૂષ્ણ પણ વધ્યું છે અને પ્રવાસીઓ આદિની વસતી વધતાં માળખાકીય સુવિધા પર તણાવ વધ્યો છે.\nપહેલાના સમયમાં મુનારની આસપાસની જમીન વાવેતર કરનારાઓને ભાડેથી અપાતી હતી. અને અને આ જમીન પર માત્ર એલચીનું વાવેતર કરવાનીજ પરવાનગી અપાતી હતી. આ જમીન પર સરકારની માલિકી રહેતી અને આવી જમીન પર વૃક્ષ કાપવાની સુદ્ધાં મનાઈ હતી. જો હાલમાં થયેલા રીસોર્ટ આદિના બાંધકામ ચાલતા ઘણાં જંગલોનો વિનાશ થયો છે તથા જમીન વપરાશના, જંગલો અને વાવેતરને લાગતા સરકારી નિયમોનો સરેઆમ તોડાયા છે. છેવટે ૨૦૦૭માં સરકાર ક્રિયાશીલ બની નગરની સુંદરતા જાળવી રાખવા અને ગેરકાયદેસરના રીસોર્ટને તોડવાની કામગીરી હાથ ધરી.\nઆ બધી ઘટનાઓ",
-              "છતાં મુનારમાં પ્રવાસ ઉદ્યોગ વિકસતો રહ્યો છે. અહીંની મહત્વ પૂર્ણ પ્રવાસી ગતિવિધીઓ છે નૌકા વિહાર, પર્વતા રોહણ, શઢવાળી નૌકાનું ચાલન, ગરમ હવાના ફુગ્ગામાં વહન, કેમ્પીંગ, વન્ય જીવનમાં વિહાર (સફારી) વગેરે. આ બધી ગતિવિધીને કારણે મુનાર દેશી અને વિદેશી પર્યટકોમાં લોકપ્રિય બન્યું છે. કેરળ અને તામિલનાડુની આસપાસના લોકો રજાઓમાં અહીં આવી પહોંચે છે.\n૧૮૯૦થી ૧૯૨૪ વચ્ચે કાર્યરત રહેલ કુંડલા વેલી રેલ્વેનું મુનાર શરૂઆતી શરૂઆતી સ્ટેશન હતું.",
-              "== વનસ્પતિ અને પ્રાણી સૃષ્ટી ==\nમુનાર અને આસપાસની વનસ્પતિ સૃષ્ટી વાવેતર માટે જમીન તૈયાર કરવામાં ટુકડામાં વહેંચાઇ ગઇ અને અદ્રશ્ય થઈ ગઈ. તેમ છતાં કેરળના નવા અભયારણ્ય ચીનાર વન્ય જીવન અભયારણ્ય, મંજામપટી ખીણ, અમરાવતી આરક્ષીત જંગલ એરાવીકુલમ રાષ્ટ્રીય ઉદ્યાન, અનામુડી શોલા રાષ્ટ્રીય ઉદ્યાન, પંપાડમ શોલા રાષ્ટ્રીય ઉદ્યાન,પળની ટેકરીઓ પરનું નિયોજીત રાષ્ટ્રીય ઉદ્યાન જેવા અમુક આરક્ષીત ક્ષેત્રમાં અમુક પ્રજાતિઓએ પોતાનું અસ્તિત્વ ટકાવી રાખ્યું છે. આ આરક્ષિત ક્ષેત્રો અમુક સ્થાન ખાસ પ્રજાતિઓ, ભયગ્રસ્ત પ્રજાતિઓ જેવી કે નિલગિરી થાર, ગ્રીઝલ્ડ મહા ખીસકોલી, નીલગીરી જંગલી કબૂતર,ભારતીય હાથી, ગૌર, સાબર અને નીલકુરીંજી (૧૨ વર્ષે એક વખત ખીલતું ફૂલ).",
-              "== ચિત્રમાળા ==",
-              "== સંદર્ભ ==",
-              "== બાહ્ય કડીઓ ==",
-              "મુનાર પ્રવાસન માહિતી વિકિવોયજ પર",
-              "કેરળ ટુરિઝમ"
-            ]
-          },
-          "pa": {
-            "title": "ਮੁਨਾਰ",
-            "extract": [
-              "ਮੁੰਨਾਰ (Munnar) ਦੱਖਣ-ਪੱਛਮੀ ਭਾਰਤੀ ਰਾਜ ਕੇਰਲਾ ਦੇ ਇਡੁੱਕੀ ਜ਼ਿਲ੍ਹੇ ਵਿੱਚ ਸਥਿਤ ਇੱਕ ਕਸਬਾ ਅਤੇ ਪਹਾੜੀ ਸਟੇਸ਼ਨ ਹੈ। ਮੁੰਨਾਰ ਲਗਭਗ 1,600 metres (5,200 ft) 'ਤੇ ਸਥਿਤ ਹੈ ਮੱਧ ਸਮੁੰਦਰੀ ਤਲ ਤੋਂ ਉੱਪਰ, ਪੱਛਮੀ ਘਾਟ ਪਹਾੜੀ ਲੜੀ ਵਿੱਚ। ਮੁੰਨਾਰ ਨੂੰ \"ਦੱਖਣੀ ਭਾਰਤ ਦਾ ਕਸ਼ਮੀਰ \" ਵੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਇੱਕ ਪ੍ਰਸਿੱਧ ਹਨੀਮੂਨ ਸਥਾਨ ਹੈ।",
-              "== ਭੂਗੋਲ ==\nਮੁੰਨਾਰ ਦੇ ਅੰਦਰ ਅਤੇ ਆਲੇ-ਦੁਆਲੇ ਦੇ ਖੇਤਰ ਦੀ ਉਚਾਈ 1,450 ਮੀਟਰ (4,760 ਫੀਟ) ਤੋਂ 2,695 ਮੀਟਰ (8,842 ਫੀਟ) ਸਮੁੰਦਰੀ ਤਲ ਤੋਂ ਉੱਪਰ ਹੈ। ਸਰਦੀਆਂ ਵਿੱਚ ਤਾਪਮਾਨ 5 °C (41 °F) ਅਤੇ 25 °C (77 °F) ਅਤੇ ਗਰਮੀਆਂ ਵਿੱਚ 15 °C (59 °F) ਅਤੇ 25 °C (77 °F) ਦੇ ਵਿਚਕਾਰ ਹੁੰਦਾ ਹੈ। ਮੁੰਨਾਰ ਦੇ ਸੇਵੇਨਮਾਲੇ ਖੇਤਰ ਵਿੱਚ −4 °C (25 °F) ਤੱਕ ਘੱਟ ਤਾਪਮਾਨ ਦਰਜ ਕੀਤਾ ਗਿਆ ਹੈ।",
-              "== ਆਵਾਜਾਈ ==",
-              "=== ਰੋਡ ===",
-              "ਮੁੰਨਾਰ ਰਾਸ਼ਟਰੀ ਰਾਜ ਮਾਰਗਾਂ, ਰਾਜ ਮਾਰਗਾਂ ਅਤੇ ਪੇਂਡੂ ਸੜਕਾਂ ਦੋਵਾਂ ਦੁਆਰਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜੁੜਿਆ ਹੋਇਆ ਹੈ। ਇਹ ਸ਼ਹਿਰ ਕੋਚੀ - ਧਨੁਸ਼ਕੋਡੀ ਰਾਸ਼ਟਰੀ ਰਾਜਮਾਰਗ (N.H 49) ਵਿੱਚ ਸਥਿਤ ਹੈ, ਕੋਚੀਨ ਤੋਂ ਲਗਭਗ 130 km (81 mi), ਅਦੀਮਾਲੀ ਤੋਂ 31 km (19 mi), ਤਾਮਿਲਨਾਡੂ ਵਿੱਚ Udumalpettu ਤੋਂ 85 km (53 mi) ਅਤੇ 60 km (37) mi) ਨੇਰੀਆਮੰਗਲਮ ਤੋਂ।\nਪ੍ਰਮੁੱਖ ਸ਼ਹਿਰਾਂ ਅਤੇ ਸੈਰ-ਸਪਾਟਾ ਸਥਾਨਾਂ ਤੋਂ ਦੂਰੀ।",
-              "ਅਲੂਵਾ - 109 ਕਿ.ਮੀ\nਵਰਕਲਾ - 245 ਕਿ.ਮੀ\nਤ੍ਰਿਵੇਂਦਰਮ - 280 ਕਿ.ਮੀ\nਕੋਚੀ ਤੋਂ - ਏਰਨਾਕੁਲਮ - 150 ਕਿਲੋਮੀਟਰ",
-              "=== ਰੇਲਵੇ ===\nਸਭ ਤੋਂ ਨਜ਼ਦੀਕੀ ਰੇਲਵੇ ਸਟੇਸ਼ਨ ਤਾਮਿਲਨਾਡੂ ਵਿੱਚ ਬੋਦੀਨਾਇਕਾਨੂਰ (68 ਕਿ.ਮੀ.) ਹੈ ਅਤੇ ਕੇਰਲ ਵਿੱਚ ਸਭ ਤੋਂ ਨਜ਼ਦੀਕੀ ਪ੍ਰਮੁੱਖ ਰੇਲਵੇ ਸਟੇਸ਼ਨ ਏਰਨਾਕੁਲਮ (126 ਕਿ.ਮੀ.) ਅਤੇ ਅਲੁਵਾ (110 ਕਿਮੀ) ਵਿੱਚ ਹਨ।\nਕੇਰਲ ਸਟੇਟ ਰੋਡ ਟਰਾਂਸਪੋਰਟ ਕਾਰਪੋਰੇਸ਼ਨ ( KSRTC ) ਬੱਸ ਸਟੈਂਡ ਅਲੁਵਾ ਰੇਲਵੇ ਸਟੇਸ਼ਨ ਤੋਂ ਪੈਦਲ ਦੂਰੀ 'ਤੇ ਹੈ, ਅਤੇ ਮੁੰਨਾਰ ਲਈ ਹਰ ਘੰਟੇ ਬੱਸਾਂ ਉਪਲਬਧ ਹਨ।",
-              "=== ਹਵਾਈ ਅੱਡਾ ===\nਸਭ ਤੋਂ ਨਜ਼ਦੀਕੀ ਹਵਾਈ ਅੱਡਾ ਕੋਚੀਨ ਅੰਤਰਰਾਸ਼ਟਰੀ ਹਵਾਈ ਅੱਡਾ ਹੈ, ਜੋ ਕਿ 110 ਕਿਲੋਮੀਟਰ (68 ਮੀਲ) ਦੂਰ ਹੈ। ਕੋਇੰਬਟੂਰ ਅਤੇ ਮਦੁਰਾਈਹਵਾਈ ਅੱਡੇ ਮੁੰਨਾਰ ਤੋਂ 165 ਕਿਲੋਮੀਟਰ (103 ਮੀਲ) ਦੂਰ ਹਨ।",
-              "== ਪ੍ਰਸ਼ਾਸਨ ==\n24 ਜਨਵਰੀ 1961 ਨੂੰ ਬਣੀ ਮੁੰਨਾਰ ਦੀ ਪੰਚਾਇਤ ਨੂੰ ਪ੍ਰਸ਼ਾਸਨਿਕ ਸਹੂਲਤ ਲਈ 21 ਵਾਰਡਾਂ ਵਿੱਚ ਵੰਡਿਆ ਗਿਆ ਹੈ। ਕੋਇੰਬਟੂਰ ਜ਼ਿਲ੍ਹਾ ਉੱਤਰ ਵਿੱਚ, ਪੱਲੀਵਾਸਲ ਦੱਖਣ ਵਿੱਚ, ਪੂਰਬ ਵਿੱਚ ਦੇਵੀਕੁਲਮ ਅਤੇ ਮਰਯੂਰ ਅਤੇ ਪੱਛਮ ਵਿੱਚ ਮਾਨਕੁਲਮ ਅਤੇ ਕੁੱਟਮਪੁਝਾ ਪੰਚਾਇਤਾਂ ਸਥਿਤ ਹਨ।",
-              "== ਜਨਸੰਖਿਆ ==\n2011 ਦੀ ਮਰਦਮਸ਼ੁਮਾਰੀ ਦੇ ਅਨੁਸਾਰ, ਮੁੰਨਾਰ ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਦੀ ਕੁੱਲ ਆਬਾਦੀ 32,039 ਸੀ। 16,061 ਮਰਦ ਅਤੇ 15,968 ਔਰਤਾਂ ਸਨ, ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਕੁੱਲ 7,968 ਪਰਿਵਾਰ ਰਹਿੰਦੇ ਸਨ। 0-6 ਸਾਲ ਦੀ ਉਮਰ ਦੇ ਬੱਚਿਆਂ ਦੀ ਨੁਮਾਇੰਦਗੀ 2,916 (ਕੁੱਲ ਆਬਾਦੀ ਦਾ 9.1%) ਸੀ, ਜੋ ਕਿ 1,478 ਮਰਦ ਅਤੇ 1,438 ਔਰਤਾਂ ਹਨ। ਮੁੰਨਾਰ ਪੰਚਾਇਤ ਦੀ ਸਮੁੱਚੀ ਸਾਖਰਤਾ ਦਰ 84.85% ਸੀ, ਜੋ ਕੇਰਲ ਰਾਜ ਦੀ ਔਸਤ 94.00% ਤੋਂ ਕਾਫੀ ਘੱਟ ਹੈ। ਮਰਦ ਸਾਖਰਤਾ 91.05% ਅਤੇ ਔਰਤਾਂ ਦੀ ਸਾਖਰਤਾ 78.64% ਹੈ।",
-              "== ਹਵਾਲੇ =="
+              "தேக்கு தோட்டம் , இலப்பள்ளி நீர்வீழ்ச்சி, அருவிகள், த்ரிவேணி சங்கமம், தொங்கு பாலம்,தும்பிச்சி புனித தோமையார் மலை, நாடுகாணி, மலங்காரா அணை , குடயத்தூர் மலை, வாயனக்காவு கோயில்,இலவீழாபூஞ்சிரா துடங்கிய கண்ணுக்கினிய அருகில் இடங்கள் இருக்கின்றன. இடுக்கி அணை , உலகின் இரண்டாவது மற்றும் ஆசியாவின் முதல் கமான் அணை , 43 கிலோ மீட்டர் தொலைவில் இருக்கிறது."
             ]
           },
           "ur": {
-            "title": "مونار",
-            "extract": [
-              "مونار مغربی گھاٹ سلاسلِ کوہ کا ایک پہاڑی مستقر ہے۔ یہ بھارت کی ریاست کیرالا میں واقع ہے۔ یہ ایک سیاحتی مقام ہے۔یہ دل لبھانے والی ایک ایسی جگہ ہے جہاں ہر ہندوستانی شخص کو اپنی زندگی میں ایک بار ضرور جانا چاہیے تاکہ اسے یہ پتا چلے کہ قدرت کے نظارے کتنے ہی انمول ہیں۔بے شک یہ جگہ بار بار آپ کو اس بات پر سوچنے کے لیے اکساتی ہے کہ دنیا بنا مسی خالق کے موجود نہیں.",
-              "== نام ==\nملیالم زبان میں مونّار کا مطلب 'تین ندیوں کا دیس' ہے۔ یہاں مُوتیرا ندی، چنتو وَرائی ندی اور کُنڈلا ندی کا سنگم ہے۔ اس لیے یہ نام پڑا ہے۔ ملیالم میں مُونُّ (Moonnu) کا معنیٰ ہے تین اور آر کا معنیٰ ہے دریا۔",
-              "== جغرافیہ اور موسم ==\nمونّار سطحِ بحر سے تقریباً 1600-1800 میٹر بلندی میں واقع ہے۔ درجۂ حرارت عام طور پر 14 ° اور 26 ° کے درمیاں ہے۔",
-              "== ماٹوپیٹی ==\nماٹوپیٹی سمندر کی سطح سے 1700 میٹر اونچائی پر واقع ہے۔ یہاں ماٹوپیٹی جھیل اور باندھ ہیں۔ یہاں سے چائے کے باغات کا خوش نما منظر نظر آتا ہے۔ یہاں پر سیاح کشتی سواری سے لطف اندوز ہو سکتے ہیں۔ ماٹوپیٹی خصوصی لبنیاتی کاشت کے لیے مشہور ہے۔ ماٹوپیٹی کے اندر اور آس پاس کے شولا جنگلات مختلف قسم کے پرندوں کا گھر ہے۔ یہاں ایک چھوٹی سی ندی اور پانی کا سوتا بھی ہے جو یہاں کی توجہ کو اور بھی بڑھا دیتا ہے۔",
-              "== ایراوی كولم نیشنل پارک ==\nایراوی كولم نیشنل پارک مونار سے 15 کلومیٹر دور ہے۔ یہ دیوی کولم تعلقہ میں ہے۔ باغ کے جنوبی علاقے میں آناموڈی چوٹی ہے۔ بنیادی طور پر نيلگری جنگلی بكریوں کی حفاظت کرنے کے لیے اس پارک کی بنیاد ڈالی گئی تھی۔ 1975 میں اسے پناہ گاہ کے طور پر اعلان کیا گیا تھا۔ نباتات اور جت کے ماحول کی دنیا میں اس کی اہمیت کو دیکھتے ہوئے 1978 میں اسے نیشنل پارک کا اعلان کر دیا گیا۔ 97 مربع کلومیٹر پر پھیلا یہ پارک قدرتی خوبصورتی کے لیے مشہور ہے۔ یہاں نایاب نيلگری بكریوں کو دیکھا جا سکتا ہے۔",
-              "== عجائبخانۂ چائے اور عملیتِ چائے ==\nیہ میوزیم ٹاٹا ٹی کے زیرِ نگرانی ہے۔ اس میوزیم میں 1880 میں مونار میں چائے کی پیداوار کے آغاز سے متعلق نشانياں رکھی گئی ہیں۔ یہاں کئی تاریخی تصاویر بھی لگی ہوئی ہیں۔ اس کے پاس ہی واقع ٹی پروسیسنگ اکائی میں چائے بننے کے پورے عمل کو قریب سے دیکھا اور سمجھا جا سکتا ہے۔",
-              "== آبشاریں ==\nگہری وادی میں واقع یہ جھرنا مونار سے 8 کلومیٹر دور کوچی سڑک پر واقع ہے۔ اتھكڈ پھلي مونار کا ایک اہم سیاحتی مقام ہے۔ مانسون کے دنوں میں (جولائی - اگست) اس کی خوبصورتی اور بھی بڑھ جاتی ہے۔ اس آبشار کے علاوہ بھی اس راستے میں دو اور آبشاریں بھی ہیں - چيياپارا آبشار اور والرا آبشار۔",
-              "== آب و ہوا ==",
-              "== تصاویر ==",
-              "== بیرونی روابط ==\nکیرالا سیاحت کا موقعِ حبالہ",
-              "== حوالہ جات =="
-            ]
-          },
-          "or": {
-            "title": "ମୁନ୍ନାର",
-            "extract": [
-              "ମୁନ୍ନାର ଭାରତୀୟ ରାଜ୍ୟ କେରଳର ଇଦୁକ୍କି ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ ଏକ ସହର ଓ ଶୈଳନିବାସ । ପଶ୍ଚିମ ଘାଟ ପର୍ବତରେ ସମୁଦ୍ରପତ୍ତନରୁ ୫, ୨୦୦ ଫୁଟ ଉପରେ ଏହା ଅବସ୍ଥିତ ।",
-              "== ଭୂଗୋଳ ==\nKerala Tourism",
-              "== ଆଧାର ==",
-              "== ବାହାର ଲିଙ୍କ ==\n Munnar travel guide from Wikivoyage",
-              "Kerala Tourism"
-            ]
-          },
-          "ar": {
-            "title": "مونار"
-          },
-          "arz": {
-            "title": "مونار (بلده فى ادوكى)"
-          },
-          "as": {
-            "title": "মুন্নাৰ"
-          },
-          "ceb": {
-            "title": "Munnar (lungsod sa Indiya)"
-          },
-          "de": {
-            "title": "Munnar"
-          },
-          "es": {
-            "title": "Munnar"
-          },
-          "eu": {
-            "title": "Munnar"
-          },
-          "fi": {
-            "title": "Munnar"
-          },
-          "fr": {
-            "title": "Munnar"
-          },
-          "he": {
-            "title": "מונאר"
-          },
-          "it": {
-            "title": "Munnar"
-          },
-          "nb": {
-            "title": "Munnar"
-          },
-          "pt": {
-            "title": "Munnar"
-          },
-          "ru": {
-            "title": "Муннар"
-          },
-          "sa": {
-            "title": "मुन्नार्"
-          },
-          "sv": {
-            "title": "Munnar (ort i Indien)"
-          },
-          "zh": {
-            "title": "慕那尔"
+            "title": "مولامٹم",
+            "extract": "مولامٹم (انگریزی: Moolamattom) بھارت کا ایک بھارت میں گاؤں جو ایڈوکی ضلع میں واقع ہے۔"
           }
         }
       },
       "youtube_videos": [
         {
-          "video_id": "tAPwtirZJoc",
-          "title": "Munnar | Kerala Tourism | MM Travel Guide | Travel Videos | Munnar Tourist Places | Travelogues",
-          "author_name": "MM Travel Guide Malayalam",
-          "thumbnail": "https:\/\/img.youtube.com\/vi\/tAPwtirZJoc\/hqdefault.jpg"
-        },
-        {
-          "video_id": "rrgj9fSspCM",
-          "title": "കോടമഞ്ഞിൻ താഴ്വരയിൽ, നീലക്കുറിഞ്ഞി; നീലവസന്തം കാണാൻ മൂന്നാറിൽ സഞ്ചാരികളുടെ ഒഴുക്ക്| Neelakurinji",
-          "author_name": "asianetnews",
-          "thumbnail": "https:\/\/img.youtube.com\/vi\/rrgj9fSspCM\/hqdefault.jpg"
+          "video_id": "ye1xxCcEktw",
+          "title": "ഇടുക്കി ജലവൈദ്യുത പദ്ധതി : ചരിത്രവും വർത്തമാനവും",
+          "author_name": "Kerala State Electricity Board Ltd.",
+          "thumbnail": "https:\/\/img.youtube.com\/vi\/ye1xxCcEktw\/hqdefault.jpg"
         }
       ],
       "attractions": [
         {
-          "name": "Mattupetty Dam",
+          "name": "Moolamattom Power House",
           "wiki_data": {
-            "wiki_title": "മാട്ടുപ്പെട്ടി അണക്കെട്ട്",
+            "wiki_title": "മൂലമറ്റം പവർ ഹൗസ്",
             "primary_lang": "ml",
             "wiki_extract": [
-              "കേരളത്തിലെ ഇടുക്കി ജില്ലയിൽ മൂന്നാറിനു സമീപം ദേവികുളം പഞ്ചായത്തിൽ മാട്ടുപ്പെട്ടിയിൽ ചിത്തിരപുരം ഗ്രാമത്തിൽ സ്ഥിതി ചെയ്യുന്ന ഒരു അണക്കെട്ടാണ് മാട്ടുപ്പെട്ടി അണക്കെട്ട്. പള്ളിവാസൽ ജലവൈദ്യുതപദ്ധതി, ഒരു സംഭരണി അണക്കെട്ടുമാണിത്. ഇത് പെരിയാറിന്റെ പോഷകനദിയായ മുതിരപ്പുഴയാറിലാണ്  ഇത് നിർമിച്ചിട്ടുള്ളത് . വൈദ്യുതോല്പാദനത്തിനായി നിർമ്മിച്ച കോൺക്രീറ്റ് ഗ്രാവിറ്റി അണക്കെട്ടാണിത്. ഇത്തരത്തിലുള്ള ഇന്ത്യയിലെ ആദ്യത്തെ അണക്കെട്ടാണിത്.   അണക്കെട്ടിലെ ചെളി പുറത്തേക്ക് കളയാനായി അടിഭാഗത്ത് വാൽവ് സ്ഥാപിച്ചിട്ടുണ്ട്. 1954 ഇൽ ഇതിന്റെ നിർമ്മാണം പൂർത്തിയായി.",
-              "== വൈദ്യുതി ഉത്പാദനം ==\nകെ.എസ്.ഇ.ബിയുടെ കേരളത്തിലെ ആദ്യത്തെ ജലവൈദ്യുത പദ്ധതിയായ പള്ളിവാസൽ ജലവൈദ്യുതപദ്ധതി 1942 ഫെബ്രുവരി 10 നു 4.5 മെഗാവാട്ടിന്റെ 3 ടർബൈനുകൾ ഉപയോഗിച്ച് 13.5 മെഗാവാട്ട് വൈദ്യുതി ഉത്പാദിപ്പിക്കുന്ന നിലയിൽ നിലവിൽ വന്നു . 1951 മാർച്ച് 7ന് 7.5 മെഗാവാട്ടിന്റെ 3 ടർബൈനുകൾ കൂടി കമ്മീഷൻ ചെയ്തു . 2001 ൽ പദ്ധതി നവീകരിച്ചു 36 മെഗാവാട്ടിൽ നിന്ന് 37.5 മെഗാവാട്ടായി ഉയർത്തി .നിലവിൽ വാർഷിക ഉൽപ്പാദനം 158 MU ആണ് .",
-              "== മാട്ടുപ്പെട്ടി  വൈദ്യുതി നിലയം ==\n1998 ൽ അണക്കെട്ടിന് താഴെ 2 മെഗാവാട്ടിന്റെ ഒരു  ടർബൈൻ ഉപയോഗിച്ചുള്ള മാട്ടുപ്പെട്ടി  പവർ സ്റ്റേഷൻ എന്ന  ചെറിയ ഒരു പദ്ധതി കൂടെ നിലവിൽ വന്നു . ഇവിടുത്തെ  വാർഷിക ഉൽപ്പാദനം 6.4 MU ആണ്.",
-              "== വിനോദസഞ്ചാരം ==\nമൂന്നാറിന്റെ സമീപപ്രദേശമായതുകൊണ്ട് തന്നെ മാട്ടുപ്പെട്ടി ഡാം സന്ദർശിക്കാൻ വളരെയധികം സഞ്ചാരികൾ വരാറുണ്ട്. ഡാമിന്റെ ആകർഷണവും മാട്ടുപ്പെട്ടിയുടെ പ്രകൃതിസൗന്ദര്യവും അണക്കെട്ടിൽ സാധ്യമാകുന്ന സ്പീഡ് ബോട്ട് സഞ്ചാരവുമാണ്.സുപ്രസിദ്ധമായ എക്കോ പോയിന്റ് ഇവിടെയാണ്.",
-              "== ചിത്രശാല ==",
-              "== കൂടുതൽ കാണുക ==\nകേരളത്തിലെ ജലവൈദ്യുതപദ്ധതികളുടെ പട്ടിക\nകേരളത്തിലെ അണക്കെട്ടുകളുടെ പട്ടിക",
-              "== അവലംബം ==",
-              "== പുറത്തേക്കുള്ള കണ്ണികൾ =="
+              "പ്രതിവർഷം 2398 ദശലക്ഷം യൂണിറ്റ് വൈദ്യുതി ഉത്പാദിപ്പിക്കാൻ ശേഷിയുള്ള കേരള സ്റ്റേറ്റ് ഇലക്ട്രിസിറ്റി ബോർഡിന്റെ കേരളത്തിലെ ഏറ്റവും വലിയ  ജലവൈദ്യുതപദ്ധതിയാണ്  ഇടുക്കി ജലവൈദ്യുതപദ്ധതി.  1976 ഫെബ്രുവരി 12  നു അന്നത്തെ ഇന്ത്യൻ പ്രധാനമന്ത്രി ഇന്ദിരാഗാന്ധി ഇടുക്കി ജലവൈദ്യുത പദ്ധതി ഉദ്ഘാടനം ചെയ്തു.  ഇടുക്കി ജില്ലയിലെ  തൊടുപുഴ  താലൂക്കിലെ  അറക്കുളം ഗ്രാമപഞ്ചായത്തിലെ മൂലമറ്റത്താണ് ആണ് പദ്ധതിയിലെ പവർ ഹൗസ് നിർമിച്ചിട്ടുള്ളത്.  ഇന്ത്യയിലെ ഏറ്റവും വലിപ്പമേറിയ ഭൂഗർഭ ജല വൈദ്യുത നിലയമാണ് ഇത്.  പവർ ഹൗസിന്റെ സ്ഥാപിത ശേഷി 780 മെഗാ വാട്ടാണ്.  ഈ ജലവൈദ്യുത പദ്ധതിയിലെ മൂന്ന് അണക്കെട്ടുകളിൽ കുളമാവിനു സമീപമുള്ള ടണലുകൾ (പെൻസ്റ്റോക്ക് പൈപ്പുകൾ ) വഴിയാണ് മൂലമറ്റം പവർ ഹൗസിൽ വൈദ്യുതി ഉൽപ്പാദിപ്പിക്കുവാനാവശ്യമായ ജലമെത്തിക്കുന്നത്. തൊടുപുഴയാറിലേക്കാണ് ഇവിടെ നിന്നും പുറന്തള്ളുന്ന ജലം എത്തിച്ചേരുന്നത്. തന്മൂലം തൊടുപുഴയാർ വർഷം മുഴുവനും ജലസമൃദ്ധമാണ്. മൂലമറ്റം പവർ ഹൗസിലേക്ക് പൊതു ജനങ്ങൾക്ക് പ്രവേശനം ലഭ്യമല്ല. ഇടുക്കി അണക്കെട്ടിൽ നിന്നും 46 കിലോമീറ്റർ ദൂരത്തായി നാടുകാണി മലയുടെ താഴ്വാരത്തു ഭൂമിക്കടിയിലാണ്  പവർഹൗസ് സ്ഥാപിച്ചിരിക്കുന്നത്. പദ്ധതിയിൽ ഇടുക്കി ജലസംഭരണിയും ഇടുക്കി ആർച്ച് ഡാമും ചെറുതോണി , കുളമാവ് അണക്കെട്ടുകളും , ഏഴു ഡൈവേർഷൻ അണക്കെട്ടുകളും  മൂലമറ്റം പവർ ഹൗസും ഉൾപ്പെടുന്നു.",
+              "== പദ്ധതിയിലെ ജലസംഭരണികളും അണക്കെട്ടുകളും പവർ ഹൗസുകളും ==\n1) മൂലമറ്റം പവർ ഹൗസ് \n1) ഇടുക്കി അണക്കെട്ട് (ഇടുക്കി ജലസംഭരണി )\n2) ചെറുതോണി അണക്കെട്ട് (ഇടുക്കി ജലസംഭരണി )\n3) കുളമാവ് അണക്കെട്ട് (ഇടുക്കി ജലസംഭരണി )\n4) അഴുത അണക്കെട്ട്  \n5) വഴിക്കടവ് ഡൈവേർഷൻ അണക്കെട്ട് \n6) കുട്ടിയാർ ഡൈവേർഷൻ ഡാം\n7) വടക്കേപ്പുഴ അണക്കെട്ട് \n8) കല്ലാർ അണക്കെട്ട്\n9) ഇരട്ടയാർ അണക്കെട്ട്\n10) നാരകക്കാനം ഡൈവേർഷൻ അണക്കെട്ട്",
+              "== വൈദ്യുതി ഉത്പാദനം ==\nഇടുക്കി ജലവൈദ്യുതപദ്ധതി യിൽ 130 മെഗാവാട്ടിന്റെ 6 ടർബൈനുകൾ (PELTON TYPE- Neyrpic Canada , PELTON TYPE- Dominion Canada )  ഉപയോഗിച്ച്  130 മെഗാവാട്ട്   വൈദ്യുതി ഉത്പാദിപ്പിക്കുന്നു .  ആദ്യ മൂന്നു യൂണിറ്റിന്റെ ജനറേറ്റർ GE Canada യും രണ്ടാമത്തെ മൂന്നു യൂണിറ്റിന്റെ ജനറേറ്റർ MIL Canada യും ആണ്. വാർഷിക ഉൽപ്പാദനം 2398   MU ആണ്.  1976 ഫെബ്രുവരി 12 ന് യന്ത്രം കമ്മീഷൻ ചെയ്തു. 1986 സെപ്റ്റംബർ 9 ന്  പദ്ധതിയിലെ ആറാമത്തെ ജനറേറ്ററും കമ്മീഷൻ ചെയ്തു.  2017 ൽനവീകരണ പ്രവർത്തങ്ങൾ തുടങ്ങിയിട്ടുണ്ട് ."
             ],
             "wiki_images": [
               {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fa\/Mattupetty_Dam.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "DdraconiandevilL",
-                "license": "CC BY-SA 3.0",
-                "description": "Image of Mattupetty Dam, located near Munnar in Kerala"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/69\/Mattupetty_Dam_-_%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF_%E0%B4%85%E0%B4%A3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D-1.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "കാക്കര",
-                "license": "CC BY-SA 3.0",
-                "description": "മാട്ടുപ്പെട്ടി അണക്കെട്ട് \n\nമാട്ടുപ്പെട്ടി, ഇടുക്കി, കേരളം \n\nമൂന്നാർ പട്ടണത്തിൽ നിന്ന് 13 കി.മി ദൂരത്തിൽ"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bb\/Mattupetty_Dam_-_%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF_%E0%B4%85%E0%B4%A3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D-2.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "കാക്കര",
-                "license": "CC BY-SA 3.0",
-                "description": "മാട്ടുപ്പെട്ടി അണക്കെട്ട് \n\nമാട്ടുപ്പെട്ടി, ഇടുക്കി, കേരളം \n\nമൂന്നാർ പട്ടണത്തിൽ നിന്ന് 13 കി.മി ദൂരത്തിൽ"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2e\/Mattupetty_Dam_-_%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF_%E0%B4%85%E0%B4%A3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D-4.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "കാക്കര",
-                "license": "CC BY-SA 3.0",
-                "description": "മാട്ടുപ്പെട്ടി അണക്കെട്ട് \n\nമാട്ടുപ്പെട്ടി, ഇടുക്കി, കേരളം \n\nമൂന്നാർ പട്ടണത്തിൽ നിന്ന് 13 കി.മി ദൂരത്തിൽ"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e6\/Mattupetty_Dam_-_%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF_%E0%B4%85%E0%B4%A3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D_-5.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "കാക്കര",
-                "license": "CC BY-SA 3.0",
-                "description": "മാട്ടുപ്പെട്ടി അണക്കെട്ട് \n\nമാട്ടുപ്പെട്ടി, ഇടുക്കി, കേരളം \n\nമൂന്നാർ പട്ടണത്തിൽ നിന്ന് 13 കി.മി ദൂരത്തിൽ"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/Mattupetty_Dam_-_%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF_%E0%B4%85%E0%B4%A3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D_-6.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "കാക്കര",
-                "license": "CC BY-SA 3.0",
-                "description": "മാട്ടുപ്പെട്ടി അണക്കെട്ട് \n\nമാട്ടുപ്പെട്ടി, ഇടുക്കി, കേരളം \n\nമൂന്നാർ പട്ടണത്തിൽ നിന്ന് 13 കി.മി ദൂരത്തിൽ"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Mattuppetty_Dam_-_%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF_%E0%B4%85%E0%B4%A3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D-3.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "കാക്കര",
-                "license": "CC BY-SA 3.0",
-                "description": "മാട്ടുപ്പെട്ടി അണക്കെട്ട് \n\nമാട്ടുപ്പെട്ടി, ഇടുക്കി, കേരളം \n\nമൂന്നാർ പട്ടണത്തിൽ നിന്ന് 13 കി.മി ദൂരത്തിൽ"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1b\/%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF_%E0%B4%85%E0%B4%A3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D-1.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Bipinkdas",
-                "license": "CC BY-SA 3.0",
-                "description": "Mattuppetty Dam"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ae\/Drinking_water.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Photo taken by de:Benutzer:Alex Anlicker using a Nikon Coolpix 950.",
-                "license": "CC BY-SA 3.0",
-                "description": "Drinking water"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/41\/Madupetty.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "KSEB",
-                "license": "CC BY-SA 2.5",
-                "description": "Mattupetty Dam (Madupetty Dam), near Munnar in Idukki District, is a storage Concrete Gravity dam built in the mountains of Kerala, India to conserve water for hydroelectricity."
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fa\/Mattupetty_Dam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "DdraconiandevilL",
-                "license": "CC BY-SA 3.0",
-                "description": "Image of Mattupetty Dam, located near Munnar in Kerala"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2e\/Mattupetty_Dam_-_%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF_%E0%B4%85%E0%B4%A3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D-4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "കാക്കര",
-                "license": "CC BY-SA 3.0",
-                "description": "Mattuppetty Dam \n\nMattuppetty, Idukki, Kerala, India \n\n13 k.m away from Munnar Town"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e6\/Mattupetty_Dam_-_%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF_%E0%B4%85%E0%B4%A3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D_-5.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "കാക്കര",
-                "license": "CC BY-SA 3.0",
-                "description": "Mattupetty Dam \n\nMattupetty, Idukki, Kerala, India \n\n13 k.m away from Munnar Town"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/af\/Mattupetty_Lake_View.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Ingo Mehling",
-                "license": "CC BY-SA 4.0",
-                "description": "Tea plantations at Mattupetty reservoir \/ Kannan Devan Hills, Idukki district, Kerala, India"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Mattuppetty_Dam_-_%E0%B4%AE%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF_%E0%B4%85%E0%B4%A3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D-3.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "കാക്കര",
-                "license": "CC BY-SA 3.0",
-                "description": "Mattuppetty Dam \n\nMattuppetty, Idukki, Kerala, India \n\n13 k.m away from Munnar Town"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ef\/Panoramic_View_of_Mattupetty_Dam%2C_Munnar%2C_Kerala%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "DeepeshAgarwal",
-                "license": "CC0",
-                "description": "Panoramic view of Mattupetty Dam in Kannan Devan Hills, Kerela, India."
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/33\/Tehri_dam_india.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Arvind Iyer from Mumbai, India",
-                "license": "CC BY-SA 2.0",
-                "description": "A pic of the Tehri dam taken from a moving bus... the Tehri dam on the Bhagirathi river is a man made wonder, and is the largest rock and earth fill dam in Asia. The reservoir of the dam drowned the District headquarters of Tehri, which have now been shifted to New Tehri"
-              }
-            ],
-            "available_languages": [
-              "ml",
-              "en",
-              "eu",
-              "ta"
-            ],
-            "languages": {
-              "ml": {
-                "title": "മാട്ടുപ്പെട്ടി അണക്കെട്ട്",
-                "extract": [
-                  "കേരളത്തിലെ ഇടുക്കി ജില്ലയിൽ മൂന്നാറിനു സമീപം ദേവികുളം പഞ്ചായത്തിൽ മാട്ടുപ്പെട്ടിയിൽ ചിത്തിരപുരം ഗ്രാമത്തിൽ സ്ഥിതി ചെയ്യുന്ന ഒരു അണക്കെട്ടാണ് മാട്ടുപ്പെട്ടി അണക്കെട്ട്. പള്ളിവാസൽ ജലവൈദ്യുതപദ്ധതി, ഒരു സംഭരണി അണക്കെട്ടുമാണിത്. ഇത് പെരിയാറിന്റെ പോഷകനദിയായ മുതിരപ്പുഴയാറിലാണ്  ഇത് നിർമിച്ചിട്ടുള്ളത് . വൈദ്യുതോല്പാദനത്തിനായി നിർമ്മിച്ച കോൺക്രീറ്റ് ഗ്രാവിറ്റി അണക്കെട്ടാണിത്. ഇത്തരത്തിലുള്ള ഇന്ത്യയിലെ ആദ്യത്തെ അണക്കെട്ടാണിത്.   അണക്കെട്ടിലെ ചെളി പുറത്തേക്ക് കളയാനായി അടിഭാഗത്ത് വാൽവ് സ്ഥാപിച്ചിട്ടുണ്ട്. 1954 ഇൽ ഇതിന്റെ നിർമ്മാണം പൂർത്തിയായി.",
-                  "== വൈദ്യുതി ഉത്പാദനം ==\nകെ.എസ്.ഇ.ബിയുടെ കേരളത്തിലെ ആദ്യത്തെ ജലവൈദ്യുത പദ്ധതിയായ പള്ളിവാസൽ ജലവൈദ്യുതപദ്ധതി 1942 ഫെബ്രുവരി 10 നു 4.5 മെഗാവാട്ടിന്റെ 3 ടർബൈനുകൾ ഉപയോഗിച്ച് 13.5 മെഗാവാട്ട് വൈദ്യുതി ഉത്പാദിപ്പിക്കുന്ന നിലയിൽ നിലവിൽ വന്നു . 1951 മാർച്ച് 7ന് 7.5 മെഗാവാട്ടിന്റെ 3 ടർബൈനുകൾ കൂടി കമ്മീഷൻ ചെയ്തു . 2001 ൽ പദ്ധതി നവീകരിച്ചു 36 മെഗാവാട്ടിൽ നിന്ന് 37.5 മെഗാവാട്ടായി ഉയർത്തി .നിലവിൽ വാർഷിക ഉൽപ്പാദനം 158 MU ആണ് .",
-                  "== മാട്ടുപ്പെട്ടി  വൈദ്യുതി നിലയം ==\n1998 ൽ അണക്കെട്ടിന് താഴെ 2 മെഗാവാട്ടിന്റെ ഒരു  ടർബൈൻ ഉപയോഗിച്ചുള്ള മാട്ടുപ്പെട്ടി  പവർ സ്റ്റേഷൻ എന്ന  ചെറിയ ഒരു പദ്ധതി കൂടെ നിലവിൽ വന്നു . ഇവിടുത്തെ  വാർഷിക ഉൽപ്പാദനം 6.4 MU ആണ്.",
-                  "== വിനോദസഞ്ചാരം ==\nമൂന്നാറിന്റെ സമീപപ്രദേശമായതുകൊണ്ട് തന്നെ മാട്ടുപ്പെട്ടി ഡാം സന്ദർശിക്കാൻ വളരെയധികം സഞ്ചാരികൾ വരാറുണ്ട്. ഡാമിന്റെ ആകർഷണവും മാട്ടുപ്പെട്ടിയുടെ പ്രകൃതിസൗന്ദര്യവും അണക്കെട്ടിൽ സാധ്യമാകുന്ന സ്പീഡ് ബോട്ട് സഞ്ചാരവുമാണ്.സുപ്രസിദ്ധമായ എക്കോ പോയിന്റ് ഇവിടെയാണ്.",
-                  "== ചിത്രശാല ==",
-                  "== കൂടുതൽ കാണുക ==\nകേരളത്തിലെ ജലവൈദ്യുതപദ്ധതികളുടെ പട്ടിക\nകേരളത്തിലെ അണക്കെട്ടുകളുടെ പട്ടിക",
-                  "== അവലംബം ==",
-                  "== പുറത്തേക്കുള്ള കണ്ണികൾ =="
-                ]
-              },
-              "en": {
-                "title": "Mattupetty Dam",
-                "extract": [
-                  "Mattupetty Dam (Madupetty Dam), Kannan Devan Hills in Idukki District,  is a  storage concrete gravity dam built  in  the mountains of Kerala, India, to conserve water for hydroelectricity. It has been a vital source of power and huge revenue for Idukki District. The large amount of perennially available water allows wild animals and birds to flourish.\nConstruction of the dam was led by E.U. Philipose, Superintending Engineer, Kerala State Electricity Board.  The height of the dam is  83.35 metres (273.5 ft) and the length is 237.74 metres (780.0 ft). Taluks through which the release flows are Udumpanchola, Devikulam, Kothamangalam, Muvattupuzha, Kunnathunadu, Aluva, Kodungalloor and Paravur.",
-                  "== Specifications ==\nLatitude : 10⁰ 06′ 23 ” N\nLongitude: 77⁰ 07′ 26” E\nPanchayath : Madupetty\nVillage : KDH Village\nDistrict : Idukki\nRiver Basin : Muthirapuzha\nRiver : Muthirapuzha\nRelease from Dam to river : Muthirapuzha\nType of Dam : Free-Fall Gravity\nConstruction : Rebar-Reinforced Concrete\nClassification : HH ( High Height)\nFull Reservoir Level ( FRL): EL 1599.59 m\nFull Reservoir Level ( FRL) : EL 1599.59 m\nStorage at FRL : 55.23 Mm3\nHeight from deepest foundation : 83.35 m\nLength : 237.74 m\nSpillway : Ogee type- 3 Nos. Radial gates, each of size 6.70 x 4.95 m \nMunnar is located near the confluence of the mountain streams of Muthirappuzha River, Chanduvarai River and Kundale River.\nThe reservoir is also known to be one of the visiting grounds of elephants in the region.",
-                  "== Gallery ==",
-                  "== See also ==",
-                  "List of dams and reservoirs in India\nPallivasal Hydro Electric Project",
-                  "== References ==",
-                  "== External links ==",
-                  "MADUPETTY DAM - KSEB Dam Safety Organisation\nMattupetti small hydro electric project on YouTube, Kerela State Electricity Board Ltd."
-                ]
-              },
-              "eu": {
-                "title": "Mattupetty presa"
-              },
-              "ta": {
-                "title": "மாட்டுப்பட்டி அணை",
-                "extract": [
-                  "மாட்டுப்பட்டி அணை கேரளா மாநிலத்தில் இடுக்கி மாவட்டத்தில் உள்ள மூணாருக்கு அருகே அமைந்துள்ள அணை. இது நீர் மின்சாரம் உற்பத்தி செய்ய கட்டப்பட்ட நீர்த்தேக்கம் ஆகும். இந்நீர்த்தேக்கத்தில் ஆண்டு முழுவதும் நீர் இருப்பதால் யானை முதலிய காட்டுயிர்கள் நிறைந்து காணப்படுகின்றன.",
-                  "== மேற்கோள்கள் =="
-                ]
-              }
-            }
-          },
-          "youtube_videos": []
-        },
-        {
-          "name": "moolamattom",
-          "wiki_data": {
-            "wiki_title": "Moolamattom",
-            "primary_lang": "en",
-            "wiki_extract": [
-              "Moolamattom is the headquarters of Arakulam Panchayath in Thodupuzha Taluk, Idukki district in Kerala, India. It lies 22 km from Thodupuzha, on the banks of the Thodupuzha River, a tributary of the Muvattupuzha river. Moolamattom is famous for India's second largest underground hydroelectric power station - Moolamattom hydro power station.",
-              "== Moolamattom Power Station ==\nMoolamattom Power Station is the biggest underground hydro-electric project in India. The water from the Idukki Dam is carried by the underground pipes to the power station. The installed capacity of the power house is 780 MW consisting of six generator units of 130 MW each. The regulated waters of Periyar fall through a drop of about 669.2 metres (2195 feet) while generating power in the underground power house. The tail waters makes Thodupuzha river, a tributary of the Muvattupuzha river, at Thriveni sangamam which is 1 km from Moolamattom Power Station. Project work on this power station was initiated by Sri. E.U. Philipose, Superintending Engineer, Kerala State Electricity Board in 1964. Visitors are restricted from entry due to security reasons.",
-              "== Tourism ==\nThumpichi St. Thomas mount, Nadukani, Malankara Dam, Kudayathoor Mala, Vayanakavu Temple and Ilaveezhapoonchira are nearby attractions. Idukki Dam, the world's second and Asia's first arch dam, is 43 kilometers away from Moolamattom. There are several Malayalam and other language films shot at Moolamattom and nearby places. Purappadu Rasathanthram, Drishyam, Papanasam are some of them.",
-              "== Education ==\nSchools: IHEP Govt UP School, Govt Vocational Higher Secondary School, St. George UP School, Sacred Heart English medium High schools are the elementary schools in Moolamattom.\nCollege: St. Joseph's College, Moolamattom, is a liberal arts and science college is situated 5 km away from Moolamattom run by the CMI fathers. Established in 1980, it offers undergraduate and postgraduate degrees in Management, Social Work, Chemistry, Physics, Commerce, Economics and English language.\nSt Joseph's Academy of higher education and research is another education institution situated 5 km away from Moolamattom run by the CMI fathers. Established in 2007, they offers undergraduate and postgraduate degrees in Actuarial  Science, Physical Education, Animation and Commerce.",
-              "== Important Personalities ==\nNP Pradeep-Indian Professional Footballer\nHoney Rose"
-            ],
-            "wiki_images": [
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6b\/Thriveni_Sangamam_Moolamattom.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Robinmemana",
-                "license": "CC BY-SA 4.0",
-                "description": "Thriveni Sangamam Moolamattom"
-              },
-              {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/17\/Moolamattom_power_house_view_and_area_5868.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/72\/Moolamattom_power_house_Switch_yard_view_and_area_5861.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
                 "author": "Rameshng",
                 "license": "CC BY-SA 3.0",
                 "description": "Moolamattom power station area"
               },
               {
-                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6b\/Thriveni_Sangamam_Moolamattom.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-                "author": "Robinmemana",
-                "license": "CC BY-SA 4.0",
-                "description": "Thriveni Sangamam Moolamattom"
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/72\/Moolamattom_power_house_Switch_yard_view_and_area_5861.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Rameshng",
+                "license": "CC BY-SA 3.0",
+                "description": "Moolamattom power station area"
               }
             ],
             "available_languages": [
-              "en",
-              "azb",
-              "hi",
               "ml",
-              "ta",
-              "ur"
+              "en"
             ],
             "languages": {
-              "en": {
-                "title": "Moolamattom",
-                "extract": [
-                  "Moolamattom is the headquarters of Arakulam Panchayath in Thodupuzha Taluk, Idukki district in Kerala, India. It lies 22 km from Thodupuzha, on the banks of the Thodupuzha River, a tributary of the Muvattupuzha river. Moolamattom is famous for India's second largest underground hydroelectric power station - Moolamattom hydro power station.",
-                  "== Moolamattom Power Station ==\nMoolamattom Power Station is the biggest underground hydro-electric project in India. The water from the Idukki Dam is carried by the underground pipes to the power station. The installed capacity of the power house is 780 MW consisting of six generator units of 130 MW each. The regulated waters of Periyar fall through a drop of about 669.2 metres (2195 feet) while generating power in the underground power house. The tail waters makes Thodupuzha river, a tributary of the Muvattupuzha river, at Thriveni sangamam which is 1 km from Moolamattom Power Station. Project work on this power station was initiated by Sri. E.U. Philipose, Superintending Engineer, Kerala State Electricity Board in 1964. Visitors are restricted from entry due to security reasons.",
-                  "== Tourism ==\nThumpichi St. Thomas mount, Nadukani, Malankara Dam, Kudayathoor Mala, Vayanakavu Temple and Ilaveezhapoonchira are nearby attractions. Idukki Dam, the world's second and Asia's first arch dam, is 43 kilometers away from Moolamattom. There are several Malayalam and other language films shot at Moolamattom and nearby places. Purappadu Rasathanthram, Drishyam, Papanasam are some of them.",
-                  "== Education ==\nSchools: IHEP Govt UP School, Govt Vocational Higher Secondary School, St. George UP School, Sacred Heart English medium High schools are the elementary schools in Moolamattom.\nCollege: St. Joseph's College, Moolamattom, is a liberal arts and science college is situated 5 km away from Moolamattom run by the CMI fathers. Established in 1980, it offers undergraduate and postgraduate degrees in Management, Social Work, Chemistry, Physics, Commerce, Economics and English language.\nSt Joseph's Academy of higher education and research is another education institution situated 5 km away from Moolamattom run by the CMI fathers. Established in 2007, they offers undergraduate and postgraduate degrees in Actuarial  Science, Physical Education, Animation and Commerce.",
-                  "== Important Personalities ==\nNP Pradeep-Indian Professional Footballer\nHoney Rose"
-                ]
-              },
-              "azb": {
-                "title": "مولاماتوم"
-              },
-              "hi": {
-                "title": "मूलामट्टमं",
-                "extract": [
-                  "मूलामट्टमं केरल के इडुक्की ज़िले के इडुक्की तालूक के अंतरगत अराक्कुलम ग्राम पंचायत के मुख्यालय है। ये तोटुपुज़ा शहर से २२ क़ी मी दूर दक्षिण पूर्व की ओर तोटुपुज़यार नदी के किनारे पे बसा हुआ है। ये गाव तीनों तरफ से पर्वतमालाएं घिरा हुआ और तराई में बसा होने के कारण यह जगह सुरम्य स्थान है, इसलिए दक्षिण भारतीय भाषा फिल्मों का बहुत फिल्में यहाँ फिल्माए गए हैं। भारत में सबसे बड़ी भूमिगत जल विद्युत पावर स्टेशन के कारण मूलामट्टमं प्रसिद्ध है।",
-                  "== मूलामट्टमं पवर हाउस ==\nमूलामट्टमं पावर स्टेशन भारत में सबसे बड़ी भूमिगत जल विद्युत परियोजना है, इडुक्की बांध से पानी भूमिगत पाइप द्वारा यहाँ ले आकर 669.2 मीटर (2195 फीट) ऊचाई से नीचे पानी ६ जनरेटरों पे गिराकर ७८० मेगावाट का बिजली उद्पादन करता है। बिजली उद्पादन के बाद में, पानी त्रिवेणी संगमं पे तोटुपुऴायार नदी जा मिलते है, इसलिए तोटुपुऴायार नदी ३६५ दिनों में पानी से भरपुर है। कडि सुरक्षा के वजह से पर्यटकों को प्रवेश प्रतिबंध है।",
-                  "== आसपाक के पर्यटक स्थलें ==\nसागौन बागानों, इलाप्पल्ली जल-प्रपात, त्रिवेणी संगमं, हैंगिगं पुल, तुम्बिच्ची काल्वरी समुच्चयम, नाटुकाणी मंडप, मलंकारा बांध, कुडायात्तूर पर्वत, वायानाक्कावु मंदिर और इलावीऴापून्चिरा आदि पर्यटकों केलिए मुख्य आकर्षण का जगह हैं। दुनिया का दूसरा और एशिया का पहिला आर्क बांध इडुक्की यहां से ४५ कि॰मी॰ दूर पे है।",
-                  "== शिक्षा ==\nस्कूल: IHEP यूपी स्कूल, गवर्नमेंट वोकेशनल हायर सेकेंडरी स्कूल, सेंट जॉर्ज स्कूल, सेक्रेड हार्ट अंग्रेजी मीडियम हायस्कूल\nकॉलेज: सेन्ट जोसफ कॉलेज, सीएमआई पाद्री लोगों से 1980 में स्थापित किया गया था। यह मूलामट्टम से 5 किमी दूर अराक्कुळम स्थित है। यह प्रबंधन, सामाजिक कार्य, रसायन विज्ञान, वाणिज्य, अर्थशास्त्र और अंग्रेजी भाषा में स्नातक और स्नातकोत्तर डिग्री प्रदान करता है।"
-                ]
-              },
               "ml": {
-                "title": "മൂലമറ്റം",
+                "title": "മൂലമറ്റം പവർ ഹൗസ്",
                 "extract": [
-                  "മൂലമറ്റം ഇടുക്കി ജില്ലയിൽ തൊടുപുഴ താലൂക്കിലെ ഒരു ഗ്രാമവും അറക്കുളം ഗ്രാമപഞ്ചായത്തിന്റെ ആസ്ഥാനവുമാണ്. തൊടുപുഴയിൽ നിന്നും 22 കിലോമീറാണ് ഇവിടേക്കുള്ള ദൂരം. വളരെ മനോഹരമായ ഭൂപ്രകൃതിയാൽ അനുഗൃഹീതമായതിനാൽ മലയാള സിനിമാ വ്യവസായത്തിന്റെ ശ്രദ്ധാകേന്ദ്രമാണിവിടം. മൂന്നു വശങ്ങളും മലനിരകളാൽ ചുറ്റപ്പെട്ടു കിടക്കുന്നതും അരുവികളാൽ നിറഞ്ഞതും, ഒരിക്കലും വറ്റാത്ത തൊടുപുഴയാറിന്റെ ഉത്ഭവസ്ഥാനവുമാണ് ഇവിടം.",
-                  "== മൂലമറ്റം പവർ ഹൗസ് ==\nഗ്രാമത്തിൽ സ്ഥിതിചെയ്യുന്ന മൂലമറ്റം പവർ ഹൗസ് ഇൻഡ്യയിലെ ഏറ്റവും വലിയ ഭൂഗർഭ ജലവൈദ്യുതി ഉത്പാദന കേന്ദ്രങ്ങളിൽ  (പവർ ഹൗസ്) ഒന്നാണ്. ഇടുക്കി ജലസംഭരണിയിൽ നിന്നുള്ള വെള്ളം ഭൂമിക്കടിയിലൂടെ വലിയ പൈപ്പുകളിൽ കൂടി മൂലമറ്റത്ത് എത്തിച്ച് ഏകദേശം 669.2 മിറ്റർ (2195 അടി) ഉയരത്തിൽ നിന്നും 6 ടർബൈനുളിലേക്കു വീഴിച്ച് വൈദ്യുതി ഉത്പാദിപ്പിക്കുന്നു. ഒരോ ടർബൈനുകളുടേയും ക്ഷമത 130 മെഗാവാട്ടും മൊത്ത ഉത്പാദന ക്ഷമത 780 മെഗാവാട്ടുമാണ്. വൈദ്യുതോത്പാദനത്തിനു ശേഷം പുറന്തള്ളുന്ന ജലം ത്രിവേണി സംഗമത്തിൽ വെച്ച്  തൊടുപുഴയാറിലേക്കു ചേരുന്നതിനാൽ ഒരിക്കലും വറ്റാത്ത പുഴ പേർ തൊടുപുഴയാറിനു ലഭിച്ചിരിക്കുന്നു. സുരക്ഷാ കാരണങ്ങളാൽ ഇവിടേക്കുള്ള പ്രവേശനം പരിമിതപ്പെടുത്തിയിരിക്കുന്നു.",
-                  "== വിനോദ സഞ്ചാര കേന്ദ്രം ==\nമൂലമറ്റം തേക്കും കൂപ്പ്, ഇലപ്പള്ളി വെള്ളച്ചാട്ടം, ത്രിവേണി സംഗമം, തൂക്കുപാലം, നാടുകാണി മണ്ഡപം, തുമ്പിച്ചി വി. തോമാ ഗിരി, മലങ്കര ജലസംഭരണി, കുടയത്തൂർ മല, ഇലവീഴാപൂഞ്ചിറ എന്നിവിടങ്ങളാണ് അടുത്തുള്ള പ്രധാന വിനോദസഞ്ചാര കേന്ദ്രങ്ങൾ. ലോകത്തിലെ രണ്ടാമത്തേതും, ഏഷ്യയിലെ ഒന്നാമത്തെതും കമാന ജലസംഭരണിയായ ഇടുക്കി ജലസംഭരണി ഇവിടെനിന്നും 45 കിലോമീറ്റർ അകലെയാണ്.",
-                  "== വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾ ==\nപാഠശാലകൾ : ഇടുക്കി ഹൈഡ്രോ ഇലക്ട്രിക് പ്രോജക്ട് ഗവണ്മെന്റ് അപ്പർ പ്രൈമറി സ്കൂൾ (ഐ.എച്ച്.ഇ.പി.ജി.യു.പി.എസ്.), ഗവണ്മെന്റ് വൊക്കേഷണൽ ഹയർ സെക്കൻഡറി സ്കൂൾ ( ജി.വി.എച്ച്.എസ്.എസ്.), സെന്റ്. ജോർജ്ജ് യു.പി സ്കൂൾ (എസ്.ജി.യു.പി.എസ്.), സേക്രട്ട് ഹാർട്ട് ഇംഗളീഷ് മീഡിയം ഹയർ സെക്കൻഡറി സ്കൂൾ (എസ്.എച്ച്.ഇ.എം.എച്ച്.എസ്.എസ്.), സെന്റ്. മേരീസ് ഹയർ സെക്കൻഡറി സ്കൂൾ (എസ്.എം.എച്ച്.എസ്.എസ്).\nകലാശാലകൾ : സെന്റ് ജോസഫ്സ് കോളേജ് അറക്കുളം ഇവിടെ നിന്നും 5 കി. മി. ദൂരത്തിലാണ്, ഇത് സി.എം.ഐ പാതിരിമാരാൽ 1980-ൽ സ്ഥാപിക്കപ്പെട്ട് നടന്നുവരുന്ന ഒരു വിദ്യഭ്യാസ സ്ഥാപനമാണ്. ഇവിടെ ബിരുദ പഠനവും ആംഗലേയ ഭാഷ, രസതന്ത്രം, വണികം, സാമൂഹ്യ പഠനം, സാമ്പത്തിക ശാസ്ത്രം എന്നിവയിൽ ബിരുദാനന്തര ബിരുദ പഠനം സാധ്യമാണ്."
+                  "പ്രതിവർഷം 2398 ദശലക്ഷം യൂണിറ്റ് വൈദ്യുതി ഉത്പാദിപ്പിക്കാൻ ശേഷിയുള്ള കേരള സ്റ്റേറ്റ് ഇലക്ട്രിസിറ്റി ബോർഡിന്റെ കേരളത്തിലെ ഏറ്റവും വലിയ  ജലവൈദ്യുതപദ്ധതിയാണ്  ഇടുക്കി ജലവൈദ്യുതപദ്ധതി.  1976 ഫെബ്രുവരി 12  നു അന്നത്തെ ഇന്ത്യൻ പ്രധാനമന്ത്രി ഇന്ദിരാഗാന്ധി ഇടുക്കി ജലവൈദ്യുത പദ്ധതി ഉദ്ഘാടനം ചെയ്തു.  ഇടുക്കി ജില്ലയിലെ  തൊടുപുഴ  താലൂക്കിലെ  അറക്കുളം ഗ്രാമപഞ്ചായത്തിലെ മൂലമറ്റത്താണ് ആണ് പദ്ധതിയിലെ പവർ ഹൗസ് നിർമിച്ചിട്ടുള്ളത്.  ഇന്ത്യയിലെ ഏറ്റവും വലിപ്പമേറിയ ഭൂഗർഭ ജല വൈദ്യുത നിലയമാണ് ഇത്.  പവർ ഹൗസിന്റെ സ്ഥാപിത ശേഷി 780 മെഗാ വാട്ടാണ്.  ഈ ജലവൈദ്യുത പദ്ധതിയിലെ മൂന്ന് അണക്കെട്ടുകളിൽ കുളമാവിനു സമീപമുള്ള ടണലുകൾ (പെൻസ്റ്റോക്ക് പൈപ്പുകൾ ) വഴിയാണ് മൂലമറ്റം പവർ ഹൗസിൽ വൈദ്യുതി ഉൽപ്പാദിപ്പിക്കുവാനാവശ്യമായ ജലമെത്തിക്കുന്നത്. തൊടുപുഴയാറിലേക്കാണ് ഇവിടെ നിന്നും പുറന്തള്ളുന്ന ജലം എത്തിച്ചേരുന്നത്. തന്മൂലം തൊടുപുഴയാർ വർഷം മുഴുവനും ജലസമൃദ്ധമാണ്. മൂലമറ്റം പവർ ഹൗസിലേക്ക് പൊതു ജനങ്ങൾക്ക് പ്രവേശനം ലഭ്യമല്ല. ഇടുക്കി അണക്കെട്ടിൽ നിന്നും 46 കിലോമീറ്റർ ദൂരത്തായി നാടുകാണി മലയുടെ താഴ്വാരത്തു ഭൂമിക്കടിയിലാണ്  പവർഹൗസ് സ്ഥാപിച്ചിരിക്കുന്നത്. പദ്ധതിയിൽ ഇടുക്കി ജലസംഭരണിയും ഇടുക്കി ആർച്ച് ഡാമും ചെറുതോണി , കുളമാവ് അണക്കെട്ടുകളും , ഏഴു ഡൈവേർഷൻ അണക്കെട്ടുകളും  മൂലമറ്റം പവർ ഹൗസും ഉൾപ്പെടുന്നു.",
+                  "== പദ്ധതിയിലെ ജലസംഭരണികളും അണക്കെട്ടുകളും പവർ ഹൗസുകളും ==\n1) മൂലമറ്റം പവർ ഹൗസ് \n1) ഇടുക്കി അണക്കെട്ട് (ഇടുക്കി ജലസംഭരണി )\n2) ചെറുതോണി അണക്കെട്ട് (ഇടുക്കി ജലസംഭരണി )\n3) കുളമാവ് അണക്കെട്ട് (ഇടുക്കി ജലസംഭരണി )\n4) അഴുത അണക്കെട്ട്  \n5) വഴിക്കടവ് ഡൈവേർഷൻ അണക്കെട്ട് \n6) കുട്ടിയാർ ഡൈവേർഷൻ ഡാം\n7) വടക്കേപ്പുഴ അണക്കെട്ട് \n8) കല്ലാർ അണക്കെട്ട്\n9) ഇരട്ടയാർ അണക്കെട്ട്\n10) നാരകക്കാനം ഡൈവേർഷൻ അണക്കെട്ട്",
+                  "== വൈദ്യുതി ഉത്പാദനം ==\nഇടുക്കി ജലവൈദ്യുതപദ്ധതി യിൽ 130 മെഗാവാട്ടിന്റെ 6 ടർബൈനുകൾ (PELTON TYPE- Neyrpic Canada , PELTON TYPE- Dominion Canada )  ഉപയോഗിച്ച്  130 മെഗാവാട്ട്   വൈദ്യുതി ഉത്പാദിപ്പിക്കുന്നു .  ആദ്യ മൂന്നു യൂണിറ്റിന്റെ ജനറേറ്റർ GE Canada യും രണ്ടാമത്തെ മൂന്നു യൂണിറ്റിന്റെ ജനറേറ്റർ MIL Canada യും ആണ്. വാർഷിക ഉൽപ്പാദനം 2398   MU ആണ്.  1976 ഫെബ്രുവരി 12 ന് യന്ത്രം കമ്മീഷൻ ചെയ്തു. 1986 സെപ്റ്റംബർ 9 ന്  പദ്ധതിയിലെ ആറാമത്തെ ജനറേറ്ററും കമ്മീഷൻ ചെയ്തു.  2017 ൽനവീകരണ പ്രവർത്തങ്ങൾ തുടങ്ങിയിട്ടുണ്ട് ."
                 ]
               },
-              "ta": {
-                "title": "மூலமட்டம்",
-                "extract": [
-                  "மூலமற்றம் (மூலமட்டம், Moolamattom, மலையாளம்: മൂലമറ്റം) இந்தியாவின் கேரள மாநிலம், இடுக்கி மாவட்டத்தில் தொடுபுழா தாலூக்காவில் அறக்குளம் பஞ்சாயத்து தலைமையகமாக உள்ள ஒரு கிராமம். இது தொடுபுழாவிலிருந்து 22 கி. மி. தூரத்தில் தொடுபுழா ஆற்றின் கரையில் அமைந்துள்ளது. மூன்று பக்கஙகளிலும் மலைகளாள் நிறைந்த ஒரு பள்ளத்தாக்கு ஆகும் இந்த இடம். தென் இந்திய மொழி திரைப்படங்கள் நிறைய இங்கே படமாக்கப்பட்டது",
-                  "== மூலமற்றம் மின் நிலையம் ==\nஇந்தியாவின் மிகப்பெரிய நிலத்தடி நீர் மின்சார திட்டம். இடுக்கி அணையில் இருந்து தண்ணீர் நிலத்தடி குழாய்கள் மூலம் கொண்டுவரப்பட்டு  669,2 மீட்டர் ( 2195 அடி)மேலிருருந்து 6 ஜெனரேட்டர் மேல் விழுத்தி 780 மெகாவாட் மின் உற்பத்தி செய்கிறது. பாதுகாப்பு காரணங்களுக்காக பார்வையாளர்களுக்கு மின் நிலையம் நுழைய தடை செய்யப்படுள்ளது.",
-                  "== சுற்றுலா ==\nதேக்கு தோட்டம் , இலப்பள்ளி நீர்வீழ்ச்சி, அருவிகள், த்ரிவேணி சங்கமம், தொங்கு பாலம்,தும்பிச்சி புனித தோமையார் மலை, நாடுகாணி, மலங்காரா அணை , குடயத்தூர் மலை, வாயனக்காவு கோயில்,இலவீழாபூஞ்சிரா துடங்கிய கண்ணுக்கினிய அருகில் இடங்கள் இருக்கின்றன. இடுக்கி அணை , உலகின் இரண்டாவது மற்றும் ஆசியாவின் முதல் கமான் அணை , 43 கிலோ மீட்டர் தொலைவில் இருக்கிறது."
-                ]
-              },
-              "ur": {
-                "title": "مولامٹم",
-                "extract": [
-                  "مولامٹم (انگریزی: Moolamattom) بھارت کا ایک بھارت میں گاؤں جو ایڈوکی ضلع میں واقع ہے۔",
-                  "== مزید دیکھیے ==\nبھارت\nبھارت کے شہروں کی فہرست",
-                  "== حوالہ جات =="
-                ]
+              "en": {
+                "title": "Moolamattom hydro power station",
+                "extract": "The Moolamattom hydro power station is the power house of the Kerala State Electricity Board's Idukki Hydroelectric Project, the largest hydroelectric project in Kerala, India, with a capacity to generate 2398 gigawatt-hours of electricity annually. Located on the banks of Muvattupuzha River at Moolamattam in Arakulam Gram Panchayat of Thodupuzha Taluk of Idukki district, it is one of the largest underground hydroelectric power stations in India. The power house has an installed capacity of 780 MW. In the three dams of this hydroelectric project, the water needed to generate electricity at the Moolamattam power station is pumped through tunnels (penstock pipes) near the pond level.\nThe water discharged from the power station reaches the Thodupuzha River (a tributary of Muvattupuzha river) which becomes full of water throughout the year due to this. The  power house is located underground in the foothills of Nadukani hill, at a distance of 46 km from the Idukki dam."
               }
             }
           },
