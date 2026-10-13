@@ -1,1 +1,130 @@
-Hi
+[
+  {
+    "bus_name": "KSRTC",
+    "route_id": "0420KTPTVM",
+    "bus_route": "Kattappana - Thiruvananthapuram",
+    "bus_type": "Fast Passenger",
+    "stops": [
+      {
+        "place_name": "Kattappana",
+        "stop_name": "",
+        "time": "04:20 AM"
+      },
+      {
+        "place_name": "Idukki",
+        "stop_name": "",
+        "time": "04:50 AM"
+      },
+      {
+        "place_name": "Cheruthoni",
+        "stop_name": "",
+        "time": "05:10 AM"
+      },
+      {
+        "place_name": "Painavu",
+        "stop_name": "",
+        "time": "05:20 AM"
+      },
+      {
+        "place_name": "Kulamavu",
+        "stop_name": "",
+        "time": "06:00 AM"
+      },
+      {
+        "place_name": "Moolamattom",
+        "stop_name": "",
+        "time": "06:30 AM"
+      },
+      {
+        "place_name": "Thodupuzha",
+        "stop_name": "",
+        "time": "07:10 AM"
+      },
+      {
+        "place_name": "Pala",
+        "stop_name": "",
+        "time": "08:10 AM"
+      },
+      {
+        "place_name": "Ettumanoor",
+        "stop_name": "",
+        "time": "08:40 AM"
+      },
+      {
+        "place_name": "Kottayam",
+        "stop_name": "",
+        "time": "09:00 AM"
+      },
+      {
+        "place_name": "Changanassery",
+        "stop_name": "",
+        "time": "09:30 AM"
+      },
+      {
+        "place_name": "Thiruvalla",
+        "stop_name": "",
+        "time": "09:45 AM"
+      },
+      {
+        "place_name": "Chengannoor",
+        "stop_name": "",
+        "time": "10:05 AM"
+      },
+      {
+        "place_name": "Pandalam",
+        "stop_name": "",
+        "time": "10:25 AM"
+      },
+      {
+        "place_name": "Adoor",
+        "stop_name": "",
+        "time": "10:45 AM"
+      },
+      {
+        "place_name": "Kottarakkara",
+        "stop_name": "",
+        "time": "11:20 AM"
+      },
+      {
+        "place_name": "Valakom",
+        "stop_name": "",
+        "time": "11:40 AM"
+      },
+      {
+        "place_name": "Ayyoor",
+        "stop_name": "",
+        "time": "11:55 AM"
+      },
+      {
+        "place_name": "Chadayamangalam",
+        "stop_name": "",
+        "time": "12:00 PM"
+      },
+      {
+        "place_name": "Kilimanoor",
+        "stop_name": "",
+        "time": "12:25 PM"
+      },
+      {
+        "place_name": "Venjaramoodu",
+        "stop_name": "",
+        "time": "12:45 PM"
+      },
+      {
+        "place_name": "Trivandrum",
+        "stop_name": "Kesavadasapuram",
+        "time": "01:26 PM"
+      },
+      {
+        "place_name": "Trivandrum",
+        "stop_name": "Patton",
+        "time": "01:28 PM"
+      },
+      {
+        "place_name": "Trivandrum",
+        "stop_name": "Central BS Thampannor",
+        "time": "01:30 PM"
+      }
+    ]
+  }
+]
