@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-15 20:22:48",
+  "total_banks": 3,
+  "total_branches": 4,
+  "banks": {
+    "Federal Bank": {
+      "bank_slug": "federal-bank",
+      "states": {
+        "Karnataka": {
+          "state_slug": "karnataka",
+          "districts": {
+            "Udupi": {
+              "district_slug": "udupi",
+              "file": "banks\/federal-bank\/karnataka\/udupi.json",
+              "branches_count": 1
+            }
+          }
+        },
+        "Kerala": {
+          "state_slug": "kerala",
+          "districts": {
+            "Ernakulam": {
+              "district_slug": "ernakulam",
+              "file": "banks\/federal-bank\/kerala\/ernakulam.json",
+              "branches_count": 1
+            }
+          }
+        }
+      }
+    },
+    "State Bank of India (SBI)": {
+      "bank_slug": "state-bank-of-india-sbi",
+      "states": {
+        "Kerala": {
+          "state_slug": "kerala",
+          "districts": {
+            "Idukki": {
+              "district_slug": "idukki",
+              "file": "banks\/state-bank-of-india-sbi\/kerala\/idukki.json",
+              "branches_count": 1
+            }
+          }
+        }
+      }
+    },
+    "Canara Bank": {
+      "bank_slug": "canara-bank",
+      "states": {
+        "Kerala": {
+          "state_slug": "kerala",
+          "districts": {
+            "Idukki": {
+              "district_slug": "idukki",
+              "file": "banks\/canara-bank\/kerala\/idukki.json",
+              "branches_count": 1
+            }
+          }
+        }
+      }
+    }
+  }
+}
