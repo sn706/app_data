@@ -1,0 +1,114 @@
+{
+  "updated_at": "2026-10-17 22:21:49",
+  "total_count": 9,
+  "special_days": [
+    {
+      "id": "day_1",
+      "day": 1,
+      "month": 1,
+      "year": 2026,
+      "is_annual": true,
+      "date_formatted": "01-01",
+      "title": "New Year's Day",
+      "info": "Celebration of the first day of the new year across the world.",
+      "has_wish": true,
+      "wish_message": "Happy New Year! 🎉"
+    },
+    {
+      "id": "day_2",
+      "day": 26,
+      "month": 1,
+      "year": 2026,
+      "is_annual": true,
+      "date_formatted": "01-26",
+      "title": "Republic Day",
+      "info": "Commemorating the Constitution of India coming into effect in 1950.",
+      "has_wish": true,
+      "wish_message": "Happy Republic Day! 🇮🇳"
+    },
+    {
+      "id": "day_3",
+      "day": 14,
+      "month": 4,
+      "year": 2026,
+      "is_annual": false,
+      "date_formatted": "04-14",
+      "title": "Vishu",
+      "info": "Traditional harvest and astronomical new year festival of Kerala.",
+      "has_wish": true,
+      "wish_message": "Happy Vishu! 🌸"
+    },
+    {
+      "id": "day_4",
+      "day": 15,
+      "month": 8,
+      "year": 2026,
+      "is_annual": true,
+      "date_formatted": "08-15",
+      "title": "Independence Day",
+      "info": "Celebrating India's independence attained on 15 August 1947.",
+      "has_wish": true,
+      "wish_message": "Happy Independence Day! 🇮🇳"
+    },
+    {
+      "id": "day_5",
+      "day": 27,
+      "month": 8,
+      "year": 2026,
+      "is_annual": false,
+      "date_formatted": "08-27",
+      "title": "Onam",
+      "info": "Grand harvest festival of Kerala celebrating King Mahabali.",
+      "has_wish": true,
+      "wish_message": "Happy Onam! 🌼"
+    },
+    {
+      "id": "day_6",
+      "day": 2,
+      "month": 10,
+      "year": 2026,
+      "is_annual": true,
+      "date_formatted": "10-02",
+      "title": "Gandhi Jayanti",
+      "info": "Birth anniversary of Mahatma Gandhi, celebrated as International Day of Non-Violence.",
+      "has_wish": false,
+      "wish_message": ""
+    },
+    {
+      "id": "day_1792253816798",
+      "day": 17,
+      "month": 10,
+      "year": 2026,
+      "is_annual": true,
+      "date_formatted": "10-17",
+      "title": "ലോകാരോഗ്യ ദിനം",
+      "info": "ആരോഗ്യ ദിനം",
+      "has_wish": true,
+      "wish_message": "ഹാപ്പി ഹെൽത്ത് ഡേ"
+    },
+    {
+      "id": "day_7",
+      "day": 1,
+      "month": 11,
+      "year": 2026,
+      "is_annual": true,
+      "date_formatted": "11-01",
+      "title": "Kerala Piravi",
+      "info": "Birth anniversary of the State of Kerala formed on 1 November 1956.",
+      "has_wish": true,
+      "wish_message": "Happy Kerala Piravi! 🌴"
+    },
+    {
+      "id": "day_8",
+      "day": 25,
+      "month": 12,
+      "year": 2026,
+      "is_annual": true,
+      "date_formatted": "12-25",
+      "title": "Christmas",
+      "info": "Global festival celebrating the birth of Jesus Christ.",
+      "has_wish": true,
+      "wish_message": "Merry Christmas! 🎄"
+    }
+  ]
+}
