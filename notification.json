@@ -1,0 +1,30 @@
+{
+  "updated_at": "2026-10-17 23:42:16",
+  "total_count": 2,
+  "notifications": [
+    {
+      "id": "notif_1",
+      "title": "പുതിയ അപ്‌ഡേറ്റ് ലഭ്യമാണ്! 🎉",
+      "content": "Galaxy ആപ്പിൽ പുതിയ ഫീച്ചറുകൾ എത്തിയിരിക്കുന്നു. ഏറ്റവും പുതിയ വെർഷനിലേക്ക് അപ്‌ഡേറ്റ് ചെയ്ത് ആസ്വദിക്കൂ.",
+      "app_link": "https:\/\/play.google.com\/store\/apps\/details?id=sebin.galaxy",
+      "call_number": "",
+      "whatsapp_link": "https:\/\/wa.me\/919876543210?text=Hi",
+      "badge": "UPDATE",
+      "date": "17-10-2026",
+      "is_active": true,
+      "show_on_home": true
+    },
+    {
+      "id": "notif_2",
+      "title": "കസ്റ്റമർ സപ്പോർട്ട് ഹെൽപ്പ്‌ലൈൻ 📞",
+      "content": "ആപ്പിലെ സേവനങ്ങളെക്കുറിച്ചോ റീചാർജ് സംശയങ്ങൾക്കോ ഞങ്ങളുടെ ഹെൽപ്പ്‌ലൈൻ നമ്പറിലേക്ക് വിളിക്കുക.",
+      "app_link": "",
+      "call_number": "+919876543210",
+      "whatsapp_link": "919876543210",
+      "badge": "SUPPORT",
+      "date": "17-10-2026",
+      "is_active": true,
+      "show_on_home": false
+    }
+  ]
+}
