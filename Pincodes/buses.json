@@ -1,1 +1,268 @@
-Hi
+[
+  {
+    "bus_name": "KSRTC",
+    "route_id": "0800MNRKLM",
+    "bus_route": "Munnar - Kollam",
+    "bus_type": "Super Fast Premium ,Non AC ,Seater,3×2",
+    "stops": [
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "08:00 AM"
+      },
+      {
+        "place_name": "Anachal",
+        "stop_name": "",
+        "time": "08:25 AM"
+      },
+      {
+        "place_name": "Adimali (Idukki)",
+        "stop_name": "",
+        "time": "08:50 AM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "09:40 AM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "10:05 AM"
+      },
+      {
+        "place_name": "Perumbavoor",
+        "stop_name": "",
+        "time": "10:35 AM"
+      },
+      {
+        "place_name": "Aluva",
+        "stop_name": "",
+        "time": "11:00 AM"
+      },
+      {
+        "place_name": "Vytilla Hub",
+        "stop_name": "",
+        "time": "11:29 AM"
+      },
+      {
+        "place_name": "Ernakulam",
+        "stop_name": "",
+        "time": "11:30 AM"
+      },
+      {
+        "place_name": "Cherthala",
+        "stop_name": "",
+        "time": "12:20 PM"
+      },
+      {
+        "place_name": "Alappuzha",
+        "stop_name": "",
+        "time": "12:55 PM"
+      },
+      {
+        "place_name": "Harippad",
+        "stop_name": "",
+        "time": "02:05 PM"
+      },
+      {
+        "place_name": "Kayamkulam",
+        "stop_name": "",
+        "time": "02:35 PM"
+      },
+      {
+        "place_name": "Karunagappally",
+        "stop_name": "",
+        "time": "02:55 PM"
+      },
+      {
+        "place_name": "Kollam",
+        "stop_name": "",
+        "time": "03:35 PM"
+      }
+    ],
+    "district": "Kollam",
+    "districts": [
+      "Kollam",
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "1140MNRTVM",
+    "bus_route": "Munnar - Thiruvananthapuram",
+    "bus_type": "Super Fast,Non AC,Seater,3×2",
+    "stops": [
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "11:40 AM"
+      },
+      {
+        "place_name": "Kallar",
+        "stop_name": "",
+        "time": "12:05 PM"
+      },
+      {
+        "place_name": "Adimali (Idukki)",
+        "stop_name": "",
+        "time": "12:25 PM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "01:45 PM"
+      },
+      {
+        "place_name": "Aluva",
+        "stop_name": "",
+        "time": "02:55 PM"
+      },
+      {
+        "place_name": "Vytilla Hub",
+        "stop_name": "",
+        "time": "03:34 PM"
+      },
+      {
+        "place_name": "Ernakulam",
+        "stop_name": "",
+        "time": "03:35 PM"
+      },
+      {
+        "place_name": "Cherthala",
+        "stop_name": "",
+        "time": "04:35 PM"
+      },
+      {
+        "place_name": "Alappuzha",
+        "stop_name": "",
+        "time": "05:15 PM"
+      },
+      {
+        "place_name": "Harippad",
+        "stop_name": "",
+        "time": "06:00 PM"
+      },
+      {
+        "place_name": "Kayamkulam",
+        "stop_name": "",
+        "time": "06:30 PM"
+      },
+      {
+        "place_name": "Karunagappally",
+        "stop_name": "",
+        "time": "06:55 PM"
+      },
+      {
+        "place_name": "Kollam",
+        "stop_name": "",
+        "time": "07:35 PM"
+      },
+      {
+        "place_name": "Attingal",
+        "stop_name": "",
+        "time": "08:35 PM"
+      },
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "Kazhakoottam",
+        "time": "09:00 PM"
+      },
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "Ulloor",
+        "time": "09:25 PM"
+      },
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "Kesavadasapuram",
+        "time": "09:27 PM"
+      },
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "Pattom",
+        "time": "09:28 PM"
+      },
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "",
+        "time": "09:30 PM"
+      }
+    ],
+    "district": "Thiruvananthapuram",
+    "districts": [
+      "Thiruvananthapuram",
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "1300SNYCTL",
+    "bus_route": "Suryanelli - Cherthala",
+    "bus_type": "Fast Passenger",
+    "stops": [
+      {
+        "place_name": "Suryanelli",
+        "stop_name": "",
+        "time": "01:00 PM"
+      },
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "02:10 PM"
+      },
+      {
+        "place_name": "Adimali (Idukki)",
+        "stop_name": "",
+        "time": "03:15 PM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "04:20 PM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "04:45 PM"
+      },
+      {
+        "place_name": "Perumbavoor",
+        "stop_name": "",
+        "time": "05:35 PM"
+      },
+      {
+        "place_name": "Aluva",
+        "stop_name": "",
+        "time": "06:00 PM"
+      },
+      {
+        "place_name": "Vytilla Hub",
+        "stop_name": "",
+        "time": "06:29 PM"
+      },
+      {
+        "place_name": "Ernakulam",
+        "stop_name": "",
+        "time": "06:30 PM"
+      },
+      {
+        "place_name": "Eramalloor",
+        "stop_name": "",
+        "time": "07:10 PM"
+      },
+      {
+        "place_name": "Cherthala",
+        "stop_name": "",
+        "time": "07:55 PM"
+      }
+    ],
+    "district": "Idukki",
+    "districts": [
+      "Idukki"
+    ]
+  }
+]
