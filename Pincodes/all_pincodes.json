@@ -498,5 +498,19 @@
         "youtube_videos": []
       }
     ]
+  },
+  {
+    "post_office_name": "Adoormala",
+    "pincode": "685590",
+    "state": "Kerala",
+    "district": "Idukki",
+    "branch_type": "Branch Post Office",
+    "taluk": "",
+    "region": "Kochi",
+    "division": "Idukki",
+    "sub_division": "Thodupuzha",
+    "sub_post_office": "Kudayathur",
+    "head_office": "Thodupuzha",
+    "updated_at": 1792579755843
   }
 ]
