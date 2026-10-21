@@ -1,1 +1,47 @@
-Hi
+{
+  "title": "Galaxy Pincodes Master Index",
+  "version": "1.0",
+  "generated_at": "2026-10-21T22:20:31Z",
+  "total_records": 1,
+  "total_states": 1,
+  "total_districts": 1,
+  "all_pincodes_file": "all_pincodes.json",
+  "disclaimer": {
+    "title": "App Disclaimer & Privacy Policy",
+    "paragraph": "This application is an independent public utility created for general educational, reference, and informational purposes. It is not affiliated with, sponsored by, or endorsed by any government entity or department. All postal boundaries, place records, and cultural insights are aggregated from public domain resources and Wikipedia under Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0) license. While utmost care is taken to ensure data accuracy, users are advised to verify critical information through official portals.",
+    "links": [
+      {
+        "title": "Official India Post Portal",
+        "url": "https:\/\/www.indiapost.gov.in"
+      },
+      {
+        "title": "Wikipedia Terms & Attribution",
+        "url": "https:\/\/wikimediafoundation.org\/wiki\/Terms_of_Use"
+      },
+      {
+        "title": "Creative Commons CC BY-SA 3.0",
+        "url": "https:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/"
+      }
+    ]
+  },
+  "states": {
+    "Kerala": {
+      "state_name": "Kerala",
+      "state_slug": "kerala",
+      "folder": "states\/kerala\/",
+      "total_records": 1,
+      "total_districts": 1,
+      "districts": {
+        "Idukki": {
+          "district_name": "Idukki",
+          "district_slug": "idukki",
+          "file": "states\/kerala\/idukki.json",
+          "total_records": 1,
+          "pincodes": [
+            "685561"
+          ]
+        }
+      }
+    }
+  }
+}
