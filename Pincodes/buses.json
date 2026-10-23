@@ -16,7 +16,7 @@
         "time": "08:25 AM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "08:50 AM",
         "district": "Idukki"
@@ -105,7 +105,7 @@
         "time": "12:05 PM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "12:25 PM",
         "district": "Idukki"
@@ -167,7 +167,7 @@
       },
       {
         "place_name": "Thiruvananthapuram",
-        "stop_name": "Kazhakoottam",
+        "stop_name": "Kazhakkoottam",
         "time": "09:00 PM"
       },
       {
@@ -214,7 +214,7 @@
         "time": "02:10 PM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "03:15 PM",
         "district": "Idukki"
@@ -277,7 +277,7 @@
         "time": "04:50 PM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "05:50 PM",
         "district": "Idukki"
@@ -365,7 +365,7 @@
         "time": "08:00 PM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "08:30 PM",
         "district": "Idukki"
@@ -397,7 +397,7 @@
       },
       {
         "place_name": "Thiruvananthapuram",
-        "stop_name": "Central Bus Station ,Thambanoor",
+        "stop_name": "Central Bus Station, Thambanoor",
         "time": "02:35 AM"
       }
     ],
@@ -429,7 +429,7 @@
         "time": "09:30 PM"
       },
       {
-        "place_name": "Devikulam (Idukki)",
+        "place_name": "Devikulam",
         "stop_name": "",
         "time": "10:10 PM",
         "district": "Idukki"
@@ -445,7 +445,7 @@
         "time": "10:50 PM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "11:15 PM",
         "district": "Idukki"
@@ -544,7 +544,7 @@
         "time": "03:50 AM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "04:35 AM",
         "district": "Idukki"
@@ -574,7 +574,7 @@
     "stops": [
       {
         "place_name": "Thiruvananthapuram",
-        "stop_name": "Central Bus Station ,Thambanoor",
+        "stop_name": "Central Bus Station, Thambanoor",
         "time": "11:15 PM"
       },
       {
@@ -603,7 +603,7 @@
         "time": "04:25 AM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "05:15 AM",
         "district": "Idukki"
@@ -647,7 +647,7 @@
         "time": "06:50 AM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "08:30 AM",
         "district": "Idukki"
@@ -776,7 +776,7 @@
         "time": "07:30 AM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "08:45 AM",
         "district": "Idukki"
@@ -870,7 +870,7 @@
         "time": "12:45 PM"
       },
       {
-        "place_name": "Adimali (Idukki)",
+        "place_name": "Adimali",
         "stop_name": "",
         "time": "01:50 PM",
         "district": "Idukki"
@@ -883,6 +883,750 @@
     ],
     "district": "Idukki",
     "districts": [
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "0550NDKMKKD",
+    "bus_route": "Nedumkandam - Kozhikkode",
+    "bus_type": "Super Fast",
+    "stops": [
+      {
+        "place_name": "Nedumkandam",
+        "stop_name": "",
+        "time": "05:50 AM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "07:30 AM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "08:45 AM"
+      },
+      {
+        "place_name": "Perumbavoor",
+        "stop_name": "",
+        "time": "09:15 AM"
+      },
+      {
+        "place_name": "Angamaly",
+        "stop_name": "",
+        "time": "09:45 AM"
+      },
+      {
+        "place_name": "Chalakkudy",
+        "stop_name": "",
+        "time": "10:05 AM"
+      },
+      {
+        "place_name": "Puthukkad",
+        "stop_name": "",
+        "time": "10:25 AM"
+      },
+      {
+        "place_name": "Thrissur",
+        "stop_name": "",
+        "time": "11:30 AM"
+      },
+      {
+        "place_name": "Kunnamkulam",
+        "stop_name": "",
+        "time": "12:00 PM"
+      },
+      {
+        "place_name": "Changaramkulam",
+        "stop_name": "",
+        "time": "12:25 PM"
+      },
+      {
+        "place_name": "Edappal",
+        "stop_name": "",
+        "time": "12:40 PM"
+      },
+      {
+        "place_name": "Kuttipuram",
+        "stop_name": "",
+        "time": "12:55 PM"
+      },
+      {
+        "place_name": "Valanchery",
+        "stop_name": "",
+        "time": "01:05 PM"
+      },
+      {
+        "place_name": "Kottakkal",
+        "stop_name": "",
+        "time": "01:25 PM"
+      },
+      {
+        "place_name": "Kozhikode University",
+        "stop_name": "",
+        "time": "02:10 PM"
+      },
+      {
+        "place_name": "Kozhikode",
+        "stop_name": "",
+        "time": "02:45 PM"
+      }
+    ],
+    "district": "Idukki",
+    "districts": [
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "0820MNRKKD",
+    "bus_route": "Munnar - Kozhikkode",
+    "bus_type": "Super Fast Premium",
+    "stops": [
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "08:20 AM"
+      },
+      {
+        "place_name": "Anachal",
+        "stop_name": "",
+        "time": "08:40 AM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "09:00 AM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "09:50 AM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "10:10 AM"
+      },
+      {
+        "place_name": "Perumbavoor",
+        "stop_name": "",
+        "time": "10:35 AM"
+      },
+      {
+        "place_name": "Angamaly",
+        "stop_name": "",
+        "time": "10:55 AM"
+      },
+      {
+        "place_name": "Chalakkudy",
+        "stop_name": "",
+        "time": "11:25 AM"
+      },
+      {
+        "place_name": "Puthukkad",
+        "stop_name": "",
+        "time": "11:55 AM"
+      },
+      {
+        "place_name": "Thrissur",
+        "stop_name": "",
+        "time": "12:25 PM"
+      },
+      {
+        "place_name": "Kunnamkulam",
+        "stop_name": "",
+        "time": "01:00 PM"
+      },
+      {
+        "place_name": "Changaramkulam",
+        "stop_name": "",
+        "time": "01:20 PM"
+      },
+      {
+        "place_name": "Edappal",
+        "stop_name": "",
+        "time": "01:30 PM"
+      },
+      {
+        "place_name": "Kuttipuram",
+        "stop_name": "Bypass Junction",
+        "time": "01:45 PM"
+      },
+      {
+        "place_name": "Valanchery",
+        "stop_name": "",
+        "time": "02:00 PM"
+      },
+      {
+        "place_name": "Kottakkal",
+        "stop_name": "Changuvetty",
+        "time": "02:20 PM"
+      },
+      {
+        "place_name": "Kozhikode University",
+        "stop_name": "",
+        "time": "03:00 PM"
+      },
+      {
+        "place_name": "Kozhikode",
+        "stop_name": "Mavoor Road, Ksrtc Bus Station",
+        "time": "03:30 PM"
+      }
+    ],
+    "district": "Idukki",
+    "districts": [
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "1420MNRPLK",
+    "bus_route": "Munnar - Palakkad",
+    "bus_type": "Fast Passenger",
+    "stops": [
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "02:20 PM"
+      },
+      {
+        "place_name": "Anachal",
+        "stop_name": "",
+        "time": "02:50 PM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "03:20 PM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "04:15 PM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "04:45 PM"
+      },
+      {
+        "place_name": "Perumbavoor",
+        "stop_name": "",
+        "time": "05:20 PM"
+      },
+      {
+        "place_name": "Angamaly",
+        "stop_name": "",
+        "time": "05:50 PM"
+      },
+      {
+        "place_name": "Chalakkudy",
+        "stop_name": "",
+        "time": "06:15 PM"
+      },
+      {
+        "place_name": "Thrissur",
+        "stop_name": "",
+        "time": "07:20 PM"
+      },
+      {
+        "place_name": "Vadakkencherry",
+        "stop_name": "",
+        "time": "08:20 PM"
+      },
+      {
+        "place_name": "Alathur",
+        "stop_name": "",
+        "time": "08:35 PM"
+      },
+      {
+        "place_name": "Kuzhalmannam",
+        "stop_name": "",
+        "time": "08:55 PM"
+      },
+      {
+        "place_name": "Palakkad",
+        "stop_name": "",
+        "time": "09:20 PM"
+      }
+    ],
+    "district": "Palakkad",
+    "districts": [
+      "Palakkad",
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "1530MNRBNG",
+    "bus_route": "Munnar - Bangalore",
+    "bus_type": "Super Deluxe Air Bus",
+    "stops": [
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "03:30 PM"
+      },
+      {
+        "place_name": "Anachal",
+        "stop_name": "",
+        "time": "04:00 PM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "04:30 PM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "05:20 PM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "05:35 PM"
+      },
+      {
+        "place_name": "Perumbavoor",
+        "stop_name": "",
+        "time": "06:15 PM"
+      },
+      {
+        "place_name": "Angamaly",
+        "stop_name": "",
+        "time": "06:55 PM"
+      },
+      {
+        "place_name": "Chalakkudy",
+        "stop_name": "",
+        "time": "07:15 PM"
+      },
+      {
+        "place_name": "Puthukkad",
+        "stop_name": "",
+        "time": "07:35 PM"
+      },
+      {
+        "place_name": "Thrissur",
+        "stop_name": "",
+        "time": "07:50 PM"
+      },
+      {
+        "place_name": "Kunnamkulam",
+        "stop_name": "",
+        "time": "08:30 PM"
+      },
+      {
+        "place_name": "Edappal",
+        "stop_name": "",
+        "time": "09:05 PM"
+      },
+      {
+        "place_name": "Kuttipuram",
+        "stop_name": "",
+        "time": "09:20 PM"
+      },
+      {
+        "place_name": "Kottakkal",
+        "stop_name": "",
+        "time": "09:50 PM"
+      },
+      {
+        "place_name": "Kozhikode University",
+        "stop_name": "",
+        "time": "10:45 PM"
+      },
+      {
+        "place_name": "Kozhikode",
+        "stop_name": "",
+        "time": "11:30 PM"
+      },
+      {
+        "place_name": "Thamarassery",
+        "stop_name": "",
+        "time": "12:30 AM"
+      },
+      {
+        "place_name": "Kalpetta",
+        "stop_name": "Old Bus Stand",
+        "time": "01:30 AM"
+      },
+      {
+        "place_name": "Sultan Bathery",
+        "stop_name": "",
+        "time": "02:05 AM"
+      },
+      {
+        "place_name": "Mysore",
+        "stop_name": "Sub urban bus station PF - 3",
+        "time": "04:25 AM"
+      },
+      {
+        "place_name": "Bangalore",
+        "stop_name": "Sriranga Patna",
+        "time": "04:49 AM"
+      },
+      {
+        "place_name": "Bangalore",
+        "stop_name": "Mandya Opp.Bus Stand",
+        "time": "05:19 AM"
+      },
+      {
+        "place_name": "Bangalore",
+        "stop_name": "Channapatna",
+        "time": "05:34 AM"
+      },
+      {
+        "place_name": "Bangalore",
+        "stop_name": "Ramanagara",
+        "time": "05:44 AM"
+      },
+      {
+        "place_name": "Bangalore",
+        "stop_name": "Bidadi",
+        "time": "06:05 AM"
+      },
+      {
+        "place_name": "Bangalore",
+        "stop_name": "Ikon College Mysore Road",
+        "time": "06:12 AM"
+      },
+      {
+        "place_name": "Bangalore",
+        "stop_name": "Rajarajeswari MC Hospital Mysore Road",
+        "time": "06:22 AM"
+      },
+      {
+        "place_name": "Bangalore",
+        "stop_name": "Kengery Opp Police Station",
+        "time": "06:28 AM"
+      },
+      {
+        "place_name": "Bangalore",
+        "stop_name": "Satelite Bus Stand Mysore Road PF 6",
+        "time": "06:45 AM"
+      }
+    ],
+    "district": "Idukki",
+    "districts": [
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "1700MNRPLK",
+    "bus_route": "Munnar - Palakkad",
+    "bus_type": "Super Fast Premium",
+    "stops": [
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "05:00 PM"
+      },
+      {
+        "place_name": "Kallar",
+        "stop_name": "",
+        "time": "05:20 PM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "05:40 PM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "06:30 PM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "06:50 PM"
+      },
+      {
+        "place_name": "Perumbavoor",
+        "stop_name": "",
+        "time": "07:15 PM"
+      },
+      {
+        "place_name": "Angamaly",
+        "stop_name": "",
+        "time": "07:35 PM"
+      },
+      {
+        "place_name": "Chalakkudy",
+        "stop_name": "",
+        "time": "08:00 PM"
+      },
+      {
+        "place_name": "Puthukkad",
+        "stop_name": "",
+        "time": "08:25 PM"
+      },
+      {
+        "place_name": "Thrissur",
+        "stop_name": "",
+        "time": "09:05 PM"
+      },
+      {
+        "place_name": "Vadakkencherry",
+        "stop_name": "",
+        "time": "09:55 PM"
+      },
+      {
+        "place_name": "Alathur",
+        "stop_name": "",
+        "time": "10:10 PM"
+      },
+      {
+        "place_name": "Kuzhalmannam",
+        "stop_name": "",
+        "time": "10:25 PM"
+      },
+      {
+        "place_name": "Palakkad",
+        "stop_name": "",
+        "time": "10:40 PM"
+      }
+    ],
+    "district": "Palakkad",
+    "districts": [
+      "Palakkad",
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "1930MNRSBY",
+    "bus_route": "Munnar - Sulthan Bathery",
+    "bus_type": "Super Deluxe Air Bus",
+    "stops": [
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "07:30 PM"
+      },
+      {
+        "place_name": "Anachal",
+        "stop_name": "",
+        "time": "07:50 PM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "08:10 PM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "08:55 PM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "09:15 PM"
+      },
+      {
+        "place_name": "Perumbavoor",
+        "stop_name": "",
+        "time": "09:40 PM"
+      },
+      {
+        "place_name": "Angamaly",
+        "stop_name": "",
+        "time": "10:05 PM"
+      },
+      {
+        "place_name": "Chalakkudy",
+        "stop_name": "Bypass Junction",
+        "time": "10:50 PM"
+      },
+      {
+        "place_name": "Puthukkad",
+        "stop_name": "",
+        "time": "10:50 PM"
+      },
+      {
+        "place_name": "Thrissur",
+        "stop_name": "",
+        "time": "11:10 PM"
+      },
+      {
+        "place_name": "Kunnamkulam",
+        "stop_name": "",
+        "time": "11:35 PM"
+      },
+      {
+        "place_name": "Edappal",
+        "stop_name": "",
+        "time": "12:00 AM"
+      },
+      {
+        "place_name": "Kuttipuram",
+        "stop_name": "",
+        "time": "12:10 AM"
+      },
+      {
+        "place_name": "Kottakkal",
+        "stop_name": "",
+        "time": "12:40 AM"
+      },
+      {
+        "place_name": "Kozhikode University",
+        "stop_name": "",
+        "time": "01:25 AM"
+      },
+      {
+        "place_name": "Kozhikode",
+        "stop_name": "Mavoor Road, Ksrtc Bus Station",
+        "time": "02:00 AM"
+      },
+      {
+        "place_name": "Thamarassery",
+        "stop_name": "",
+        "time": "02:40 AM"
+      },
+      {
+        "place_name": "Kalpetta",
+        "stop_name": "Old Bus Stand",
+        "time": "03:35 AM"
+      },
+      {
+        "place_name": "Sultan Bathery",
+        "stop_name": "Meenangadi",
+        "time": "03:55 AM"
+      },
+      {
+        "place_name": "Sultan Bathery",
+        "stop_name": "",
+        "time": "04:05 AM"
+      }
+    ],
+    "district": "Idukki",
+    "districts": [
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "2200MNRKNR",
+    "bus_route": "Munnar - Kannur",
+    "bus_type": "Super Deluxe Air Bus",
+    "stops": [
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "10:00 PM"
+      },
+      {
+        "place_name": "Anachal",
+        "stop_name": "",
+        "time": "10:20 PM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "10:35 PM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "11:20 PM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "11:50 PM"
+      },
+      {
+        "place_name": "Perumbavoor",
+        "stop_name": "",
+        "time": "12:15 AM"
+      },
+      {
+        "place_name": "Angamaly",
+        "stop_name": "",
+        "time": "12:35 AM"
+      },
+      {
+        "place_name": "Chalakkudy",
+        "stop_name": "Bypass Junction",
+        "time": "12:55 AM"
+      },
+      {
+        "place_name": "Puthukkad",
+        "stop_name": "",
+        "time": "01:15 AM"
+      },
+      {
+        "place_name": "Thrissur",
+        "stop_name": "",
+        "time": "01:45 AM"
+      },
+      {
+        "place_name": "Kunnamkulam",
+        "stop_name": "",
+        "time": "02:20 AM"
+      },
+      {
+        "place_name": "Edappal",
+        "stop_name": "",
+        "time": "02:50 AM"
+      },
+      {
+        "place_name": "Kuttipuram",
+        "stop_name": "",
+        "time": "03:00 AM"
+      },
+      {
+        "place_name": "Kottakkal",
+        "stop_name": "",
+        "time": "03:35 AM"
+      },
+      {
+        "place_name": "Kozhikode University",
+        "stop_name": "",
+        "time": "04:10 AM"
+      },
+      {
+        "place_name": "Kozhikode",
+        "stop_name": "Mavoor Road, Ksrtc Bus Station",
+        "time": "04:35 AM"
+      },
+      {
+        "place_name": "Koyilandy",
+        "stop_name": "",
+        "time": "05:10 AM"
+      },
+      {
+        "place_name": "Vadakara",
+        "stop_name": "",
+        "time": "05:40 AM"
+      },
+      {
+        "place_name": "Thalassery",
+        "stop_name": "Municipal New Bus Stand",
+        "time": "06:05 AM"
+      },
+      {
+        "place_name": "Kannur",
+        "stop_name": "",
+        "time": "06:30 AM"
+      }
+    ],
+    "district": "Kannur",
+    "districts": [
+      "Kannur",
       "Idukki"
     ]
   }
