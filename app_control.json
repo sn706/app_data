@@ -1,1 +1,37 @@
-Hi
+{
+  "version": 1,
+  "last_updated": "2026-10-24 18:49:28",
+  "app_name": "Galaxy",
+  "features": {
+    "bus_timings": {
+      "status": "upcoming",
+      "title": "ബസ് ടൈമിംഗ്സ്",
+      "message": "ബസ് സമയവിവരങ്ങൾ ക്രമീകരിച്ചു വരികയാണ്. ഉടൻ ലഭ്യമാകും! 🚌"
+    },
+    "bank_details": {
+      "status": "upcoming",
+      "title": "ബാങ്ക് വിവരങ്ങൾ & IFSC",
+      "message": "ബാങ്ക് ശാഖകളും IFSC വിവരങ്ങളും ക്രമീകരിച്ചു വരികയാണ്. ഉടൻ ലഭ്യമാകും! 🏦"
+    },
+    "recharge_plans": {
+      "status": "upcoming",
+      "title": "റീചാർജ്ജ് പ്ലാനുകൾ",
+      "message": "റീചാർജ്ജ് പ്ലാനുകൾ ക്രമീകരിച്ചു വരികയാണ്. ഉടൻ ലഭ്യമാകും! 📱"
+    },
+    "pincodes": {
+      "status": "upcoming",
+      "title": "പിൻകോഡുകൾ & പോസ്റ്റ് ഓഫീസ്",
+      "message": "പിൻകോഡ് വിവരങ്ങൾ ക്രമീകരിച്ചു വരികയാണ്. ഉടൻ ലഭ്യമാകും! 📮"
+    },
+    "phone_numbers": {
+      "status": "upcoming",
+      "title": "ഫോൺ ഡയറക്ടറി",
+      "message": "പ്രധാന ഫോൺ നമ്പറുകൾ ഉടൻ ലഭ്യമാകുന്നതാണ്. 📞"
+    },
+    "more_details": {
+      "status": "upcoming",
+      "title": "ടെക്നോളജി അറിവുകൾ",
+      "message": "വിജ്ഞാനപ്രദമായ പുതിയ അറിവുകൾ ഉടൻ ലഭ്യമാകും! 📰"
+    }
+  }
+}
