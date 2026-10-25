@@ -1,18 +1,20 @@
-{
-  "id": "blog_1792897091689",
-  "title": "ഗൂഗിൾ ജമിനി",
-  "subtitle": "",
-  "category": "Technology",
-  "author": "Admin",
-  "date": "2026-10-25",
-  "blocks": [
-    {
-      "type": "video",
-      "video_id": "WD29aC2dzbw",
-      "url": "https:\/\/youtu.be\/WD29aC2dzbw?si=o5sQsus1HG3cJ5E-",
-      "title": "ജെമിനി ഫ്രീ യൂസർമാർ ശ്രദ്ധിക്കുക! ഒക്ടോബർ 9 മുതൽ ജെമിനിയിൽ വൻ മാറ്റം!",
-      "author_name": "asianetnews",
-      "thumbnail": "https:\/\/img.youtube.com\/vi\/WD29aC2dzbw\/hqdefault.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": "blog_1792904955027",
+    "title": "നോക്കിയും കണ്ടും വേണം🧐",
+    "subtitle": "",
+    "category": "Social Media",
+    "author": "Kerala Police",
+    "date": "2026-10-25",
+    "blocks": [
+      {
+        "type": "facebook",
+        "post_url": "https:\/\/www.facebook.com\/share\/p\/19dwWq8Tv4\/",
+        "page_name": "Kerala Police",
+        "headline": "",
+        "post_date": "",
+        "image_url": "https:\/\/lookaside.fbsbx.com\/lookaside\/crawler\/media\/?media_id=1543539517799963"
+      }
+    ]
+  }
+]
