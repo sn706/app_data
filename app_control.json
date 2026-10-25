@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "last_updated": "2026-10-25 08:19:40",
+  "last_updated": "2026-10-25 19:30:36",
   "app_name": "Galaxy",
   "features": {
     "bus_timings": {
-      "status": "upcoming",
+      "status": "active",
       "title": "ബസ് ടൈമിംഗ്സ്",
       "message": "ബസ് സമയവിവരങ്ങൾ ക്രമീകരിച്ചു വരികയാണ്. ഉടൻ ലഭ്യമാകും! 🚌"
     },
