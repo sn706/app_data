@@ -44,18 +44,6 @@
         "description": ""
       },
       {
-        "type": "subtitle",
-        "text": "പുറം കണ്ണികൾ"
-      },
-      {
-        "type": "paragraph",
-        "text": "ഗൂഗിൾ\nജിമെയിൽ"
-      },
-      {
-        "type": "paragraph",
-        "text": "ബാർഡ് (ചാറ്റ്ബോട്ട്)"
-      },
-      {
         "type": "image",
         "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b0\/Increase2.svg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
         "caption": "പുറം കണ്ണികൾ - ഗൂഗിൾ",
@@ -123,9 +111,9 @@
     "id": "blog_1792917182896",
     "title": "ഓൺലൈൻ പണം ഇടപാടുകളിൽ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾ",
     "subtitle": "",
-    "category": "",
+    "category": "Technology",
     "author": "State Police Media Centre",
-    "date": "2026-10-25",
+    "date": "25 October 2026",
     "blocks": [
       {
         "type": "video",
@@ -206,9 +194,9 @@
     "id": "blog_1792913279876",
     "title": "അപരിചിതരുടെ വീഡിയോകാൾ റിക്വസ്റ്റ് നിരാകരിക്കുക. .ചതിയിൽപ്പെടാതിരിക്കുക.",
     "subtitle": "",
-    "category": "",
+    "category": "Social Media",
     "author": "Kerala Police",
-    "date": "2026-10-25",
+    "date": "25 October 2026",
     "blocks": [
       {
         "type": "video",
@@ -268,9 +256,9 @@
     "id": "blog_1792913052047",
     "title": "ഐഡികൾ ഉപയോഗിക്കുമ്പോൾ ജാഗ്രത പാലിക്കുക",
     "subtitle": "",
-    "category": "",
+    "category": "Technology",
     "author": "Kerala Police",
-    "date": "2026-10-25",
+    "date": "25 October 2026",
     "blocks": [
       {
         "type": "video",
@@ -288,9 +276,9 @@
     "id": "blog_1792913007414",
     "title": "മൊബൈൽ ഫോൺ നഷ്ടമായാൽ ? |  Do Immediately If You Lost Your Phone | KPTalks - Part V",
     "subtitle": "",
-    "category": "",
+    "category": "Technology",
     "author": "Kerala Police",
-    "date": "2026-10-25",
+    "date": "01 April 2023",
     "blocks": [
       {
         "type": "video",
@@ -298,7 +286,8 @@
         "url": "https:\/\/youtu.be\/gFw46XV-Hos?si=AuRPFZYJmORTtT5i",
         "title": "മൊബൈൽ ഫോൺ നഷ്ടമായാൽ ? |  Do Immediately If You Lost Your Phone | KPTalks - Part V",
         "author_name": "Kerala Police",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/gFw46XV-Hos\/hqdefault.jpg"
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/gFw46XV-Hos\/hqdefault.jpg",
+        "date": "2023-04-01"
       }
     ],
     "thumbnail": "https:\/\/img.youtube.com\/vi\/gFw46XV-Hos\/hqdefault.jpg",
