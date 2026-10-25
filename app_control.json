@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-24 18:49:28",
+  "last_updated": "2026-10-25 08:19:40",
   "app_name": "Galaxy",
   "features": {
     "bus_timings": {
@@ -29,7 +29,7 @@
       "message": "പ്രധാന ഫോൺ നമ്പറുകൾ ഉടൻ ലഭ്യമാകുന്നതാണ്. 📞"
     },
     "more_details": {
-      "status": "upcoming",
+      "status": "active",
       "title": "ടെക്നോളജി അറിവുകൾ",
       "message": "വിജ്ഞാനപ്രദമായ പുതിയ അറിവുകൾ ഉടൻ ലഭ്യമാകും! 📰"
     }
