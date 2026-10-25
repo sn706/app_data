@@ -2328,5 +2328,796 @@
       "Kozhikode",
       "Idukki"
     ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "1430MNRPLR",
+    "bus_route": "Munnar - Punalur",
+    "bus_type": "Fast Passenger",
+    "stops": [
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "02:30 PM"
+      },
+      {
+        "place_name": "Kallar",
+        "stop_name": "",
+        "time": "02:55 PM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "03:20 PM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "04:20 PM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "04:45 PM"
+      },
+      {
+        "place_name": "Muvattupuzha",
+        "stop_name": "",
+        "time": "05:05 PM"
+      },
+      {
+        "place_name": "Koothattukulam",
+        "stop_name": "",
+        "time": "05:35 PM"
+      },
+      {
+        "place_name": "Kuravilangad",
+        "stop_name": "",
+        "time": "06:05 PM"
+      },
+      {
+        "place_name": "Ettumanoor",
+        "stop_name": "",
+        "time": "06:25 PM"
+      },
+      {
+        "place_name": "Kottayam",
+        "stop_name": "",
+        "time": "06:45 PM"
+      },
+      {
+        "place_name": "Changanassery",
+        "stop_name": "",
+        "time": "07:15 PM"
+      },
+      {
+        "place_name": "Thiruvalla",
+        "stop_name": "",
+        "time": "07:30 PM"
+      },
+      {
+        "place_name": "Kozhenchery",
+        "stop_name": "",
+        "time": "08:00 PM"
+      },
+      {
+        "place_name": "Pathanamthitta",
+        "stop_name": "",
+        "time": "08:25 PM"
+      },
+      {
+        "place_name": "Konni",
+        "stop_name": "",
+        "time": "08:45 PM"
+      },
+      {
+        "place_name": "Pathanapuram",
+        "stop_name": "",
+        "time": "09:10 PM"
+      },
+      {
+        "place_name": "Punalur",
+        "stop_name": "",
+        "time": "09:30 PM"
+      }
+    ],
+    "district": "Idukki",
+    "districts": [
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "2045TVMPLNI",
+    "bus_route": "Thiruvananthapuram - Palani",
+    "bus_type": "Super Fast Premium",
+    "stops": [
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "Central Bus Station, Thambanoor",
+        "time": "08:45 PM"
+      },
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "Pattom",
+        "time": "08:47 PM"
+      },
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "Kesavadasapuram",
+        "time": "08:49 PM"
+      },
+      {
+        "place_name": "Vattappara",
+        "stop_name": "",
+        "time": "09:05 PM"
+      },
+      {
+        "place_name": "Vembayam",
+        "stop_name": "",
+        "time": "09:10 PM"
+      },
+      {
+        "place_name": "Venjarammodu",
+        "stop_name": "",
+        "time": "09:20 PM"
+      },
+      {
+        "place_name": "Kilimanoor",
+        "stop_name": "",
+        "time": "09:40 PM"
+      },
+      {
+        "place_name": "Chadayamangalam",
+        "stop_name": "",
+        "time": "10:00 PM"
+      },
+      {
+        "place_name": "Ayoor",
+        "stop_name": "",
+        "time": "10:05 PM"
+      },
+      {
+        "place_name": "Valakom",
+        "stop_name": "",
+        "time": "10:15 PM"
+      },
+      {
+        "place_name": "Kottarakkara",
+        "stop_name": "",
+        "time": "10:25 PM"
+      },
+      {
+        "place_name": "Enathu",
+        "stop_name": "",
+        "time": "10:40 PM"
+      },
+      {
+        "place_name": "Adoor",
+        "stop_name": "",
+        "time": "10:50 PM"
+      },
+      {
+        "place_name": "Pandalam",
+        "stop_name": "Pandalam Junction",
+        "time": "11:05 PM"
+      },
+      {
+        "place_name": "Chengannur",
+        "stop_name": "",
+        "time": "11:25 PM"
+      },
+      {
+        "place_name": "Thiruvalla",
+        "stop_name": "",
+        "time": "11:40 PM"
+      },
+      {
+        "place_name": "Changanassery",
+        "stop_name": "",
+        "time": "11:50 PM"
+      },
+      {
+        "place_name": "Chingavanam",
+        "stop_name": "",
+        "time": "12:05 AM"
+      },
+      {
+        "place_name": "Kottayam",
+        "stop_name": "",
+        "time": "12:15 AM"
+      },
+      {
+        "place_name": "Ettumanoor",
+        "stop_name": "Ettumanoor Junction",
+        "time": "12:35 AM"
+      },
+      {
+        "place_name": "Kuravilangad",
+        "stop_name": "",
+        "time": "12:50 AM"
+      },
+      {
+        "place_name": "Koothattukulam",
+        "stop_name": "Bypass Junction",
+        "time": "01:15 AM"
+      },
+      {
+        "place_name": "Aroor Top",
+        "stop_name": "",
+        "time": "01:25 AM"
+      },
+      {
+        "place_name": "Muvattupuzha",
+        "stop_name": "",
+        "time": "01:35 AM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "01:55 AM"
+      },
+      {
+        "place_name": "Nellimattom",
+        "stop_name": "",
+        "time": "02:00 AM"
+      },
+      {
+        "place_name": "Puthencruz",
+        "stop_name": "",
+        "time": "02:10 AM"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "02:15 AM"
+      },
+      {
+        "place_name": "37\/1 Mile",
+        "stop_name": "",
+        "time": "02:20 AM"
+      },
+      {
+        "place_name": "Cheeyappara",
+        "stop_name": "",
+        "time": "02:30 AM"
+      },
+      {
+        "place_name": "IBPM \/ MKDM",
+        "stop_name": "",
+        "time": "02:40 AM"
+      },
+      {
+        "place_name": "Machiplavu PO",
+        "stop_name": "",
+        "time": "02:50 AM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "02:55 AM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Koompanpara Palli",
+        "stop_name": "",
+        "time": "03:05 AM"
+      },
+      {
+        "place_name": "Iruttukanam",
+        "stop_name": "",
+        "time": "03:15 AM"
+      },
+      {
+        "place_name": "Kallar",
+        "stop_name": "",
+        "time": "03:25 AM"
+      },
+      {
+        "place_name": "Pallivasal 2nd Mile",
+        "stop_name": "",
+        "time": "03:40 AM"
+      },
+      {
+        "place_name": "Pallivasal TF",
+        "stop_name": "",
+        "time": "03:45 AM"
+      },
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "04:00 AM"
+      },
+      {
+        "place_name": "Knmala",
+        "stop_name": "",
+        "time": "04:10 AM"
+      },
+      {
+        "place_name": "8th Mile",
+        "stop_name": "",
+        "time": "04:25 AM"
+      },
+      {
+        "place_name": "Thalayar",
+        "stop_name": "",
+        "time": "04:45 AM"
+      },
+      {
+        "place_name": "Chattamunnar",
+        "stop_name": "",
+        "time": "05:00 AM"
+      },
+      {
+        "place_name": "Coffestore",
+        "stop_name": "",
+        "time": "05:05 AM"
+      },
+      {
+        "place_name": "Marayoor",
+        "stop_name": "",
+        "time": "05:15 AM"
+      },
+      {
+        "place_name": "Pampar",
+        "stop_name": "",
+        "time": "05:30 AM"
+      },
+      {
+        "place_name": "Chinnar",
+        "stop_name": "",
+        "time": "05:35 AM"
+      },
+      {
+        "place_name": "Udumalaipettai",
+        "stop_name": "",
+        "time": "06:15 AM"
+      },
+      {
+        "place_name": "Palani",
+        "stop_name": "",
+        "time": "06:50 AM"
+      }
+    ],
+    "district": "Thiruvananthapuram",
+    "districts": [
+      "Thiruvananthapuram",
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "0715KTRPLNI",
+    "bus_route": "Kottarakkara - Palani",
+    "bus_type": "Fast Passenger",
+    "stops": [
+      {
+        "place_name": "Kottarakkara",
+        "stop_name": "",
+        "time": "07:15 AM"
+      },
+      {
+        "place_name": "Adoor",
+        "stop_name": "",
+        "time": "07:45 AM"
+      },
+      {
+        "place_name": "Pandalam",
+        "stop_name": "",
+        "time": "08:00 AM"
+      },
+      {
+        "place_name": "Chengannur",
+        "stop_name": "",
+        "time": "08:25 AM"
+      },
+      {
+        "place_name": "Thiruvalla",
+        "stop_name": "",
+        "time": "08:40 AM"
+      },
+      {
+        "place_name": "Changanassery",
+        "stop_name": "",
+        "time": "08:55 AM"
+      },
+      {
+        "place_name": "Kottayam",
+        "stop_name": "",
+        "time": "09:35 AM"
+      },
+      {
+        "place_name": "Ettumanoor",
+        "stop_name": "",
+        "time": "09:55 AM"
+      },
+      {
+        "place_name": "Koothattukulam",
+        "stop_name": "",
+        "time": "10:55 AM"
+      },
+      {
+        "place_name": "Muvattupuzha",
+        "stop_name": "",
+        "time": "11:15 AM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "11:35 AM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "01:30 PM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "03:00 PM"
+      },
+      {
+        "place_name": "Marayoor",
+        "stop_name": "",
+        "time": "04:40 PM"
+      },
+      {
+        "place_name": "Palani",
+        "stop_name": "",
+        "time": "07:15 PM"
+      }
+    ],
+    "district": "Idukki",
+    "districts": [
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "0201PLNIKTR",
+    "bus_route": "Palani - Kottarakkara",
+    "bus_type": "Fast Passenger",
+    "stops": [
+      {
+        "place_name": "Palani",
+        "stop_name": "",
+        "time": "02:01 AM"
+      },
+      {
+        "place_name": "Marayoor",
+        "stop_name": "",
+        "time": "04:20 AM"
+      },
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "05:50 AM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "07:10 AM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "08:50 AM"
+      },
+      {
+        "place_name": "Muvattupuzha",
+        "stop_name": "",
+        "time": "09:20 AM"
+      },
+      {
+        "place_name": "Koothattukulam",
+        "stop_name": "",
+        "time": "09:40 AM"
+      },
+      {
+        "place_name": "Ettumanoor",
+        "stop_name": "",
+        "time": "10:40 AM"
+      },
+      {
+        "place_name": "Kottayam",
+        "stop_name": "",
+        "time": "11:00 AM"
+      },
+      {
+        "place_name": "Changanassery",
+        "stop_name": "",
+        "time": "11:50 AM"
+      },
+      {
+        "place_name": "Thiruvalla",
+        "stop_name": "",
+        "time": "12:05 PM"
+      },
+      {
+        "place_name": "Chengannur",
+        "stop_name": "",
+        "time": "12:20 PM"
+      },
+      {
+        "place_name": "Pandalam",
+        "stop_name": "",
+        "time": "12:45 PM"
+      },
+      {
+        "place_name": "Adoor",
+        "stop_name": "",
+        "time": "01:00 PM"
+      },
+      {
+        "place_name": "Kottarakkara",
+        "stop_name": "",
+        "time": "01:30 PM"
+      }
+    ],
+    "district": "Idukki",
+    "districts": [
+      "Idukki"
+    ]
+  },
+  {
+    "bus_name": "KSRTC",
+    "route_id": "1915PLNITVM",
+    "bus_route": "Palani - Thiruvanathapuram",
+    "bus_type": "Super Fast Premium",
+    "stops": [
+      {
+        "place_name": "Palani",
+        "stop_name": "",
+        "time": "07:15 PM"
+      },
+      {
+        "place_name": "Udumalaipettai",
+        "stop_name": "",
+        "time": "08:10 PM"
+      },
+      {
+        "place_name": "Chinnar",
+        "stop_name": "",
+        "time": "09:00 PM"
+      },
+      {
+        "place_name": "Pampar",
+        "stop_name": "",
+        "time": "09:10 PM"
+      },
+      {
+        "place_name": "Marayoor",
+        "stop_name": "",
+        "time": "09:35 PM"
+      },
+      {
+        "place_name": "Coffestore",
+        "stop_name": "",
+        "time": "09:45 PM"
+      },
+      {
+        "place_name": "Chattamunnar",
+        "stop_name": "",
+        "time": "09:55 PM"
+      },
+      {
+        "place_name": "Thalayar",
+        "stop_name": "",
+        "time": "10:05 PM"
+      },
+      {
+        "place_name": "8th Mile",
+        "stop_name": "",
+        "time": "10:20 PM"
+      },
+      {
+        "place_name": "Knmala",
+        "stop_name": "",
+        "time": "10:30 PM"
+      },
+      {
+        "place_name": "Munnar",
+        "stop_name": "",
+        "time": "10:35 PM"
+      },
+      {
+        "place_name": "Pallivasal TF",
+        "stop_name": "",
+        "time": "10:45 PM"
+      },
+      {
+        "place_name": "Pallivasal 2nd Mile",
+        "stop_name": "",
+        "time": "10:50 PM"
+      },
+      {
+        "place_name": "Anachal",
+        "stop_name": "",
+        "time": "11:00 PM"
+      },
+      {
+        "place_name": "Iruttukanam",
+        "stop_name": "",
+        "time": "11:05 PM"
+      },
+      {
+        "place_name": "Koompanpara Palli",
+        "stop_name": "",
+        "time": "11:15 PM"
+      },
+      {
+        "place_name": "Adimali",
+        "stop_name": "",
+        "time": "11:25 PM",
+        "district": "Idukki"
+      },
+      {
+        "place_name": "Machiplavu PO",
+        "stop_name": "",
+        "time": "11:30 PM"
+      },
+      {
+        "place_name": "IBPM \/ MKDM",
+        "stop_name": "",
+        "time": "11:40 PM"
+      },
+      {
+        "place_name": "Cheeyappara",
+        "stop_name": "",
+        "time": "11:50 PM"
+      },
+      {
+        "place_name": "37\/1 Mile",
+        "stop_name": "",
+        "time": "12:00 AM"
+      },
+      {
+        "place_name": "Neriamangalam",
+        "stop_name": "",
+        "time": "12:05 AM"
+      },
+      {
+        "place_name": "Puthencruz",
+        "stop_name": "",
+        "time": "12:10 AM"
+      },
+      {
+        "place_name": "Nellimattom",
+        "stop_name": "",
+        "time": "12:20 AM"
+      },
+      {
+        "place_name": "Kothamangalam",
+        "stop_name": "",
+        "time": "12:25 AM"
+      },
+      {
+        "place_name": "Muvattupuzha",
+        "stop_name": "",
+        "time": "12:45 AM"
+      },
+      {
+        "place_name": "Aroor Top",
+        "stop_name": "",
+        "time": "12:55 AM"
+      },
+      {
+        "place_name": "Koothattukulam",
+        "stop_name": "Bypass Junction",
+        "time": "01:10 AM"
+      },
+      {
+        "place_name": "Kuravilangad",
+        "stop_name": "",
+        "time": "01:30 AM"
+      },
+      {
+        "place_name": "Ettumanoor",
+        "stop_name": "",
+        "time": "01:45 AM"
+      },
+      {
+        "place_name": "Kottayam",
+        "stop_name": "",
+        "time": "02:05 AM"
+      },
+      {
+        "place_name": "Chingavanam",
+        "stop_name": "",
+        "time": "02:15 AM"
+      },
+      {
+        "place_name": "Changanassery",
+        "stop_name": "",
+        "time": "02:25 AM"
+      },
+      {
+        "place_name": "Thiruvalla",
+        "stop_name": "",
+        "time": "02:40 AM"
+      },
+      {
+        "place_name": "Chengannur",
+        "stop_name": "",
+        "time": "02:55 AM"
+      },
+      {
+        "place_name": "Pandalam",
+        "stop_name": "",
+        "time": "03:15 AM"
+      },
+      {
+        "place_name": "Adoor",
+        "stop_name": "",
+        "time": "03:30 AM"
+      },
+      {
+        "place_name": "Enathu",
+        "stop_name": "",
+        "time": "03:40 AM"
+      },
+      {
+        "place_name": "Kottarakkara",
+        "stop_name": "",
+        "time": "03:55 AM"
+      },
+      {
+        "place_name": "Valakom",
+        "stop_name": "",
+        "time": "04:05 AM"
+      },
+      {
+        "place_name": "Ayoor",
+        "stop_name": "",
+        "time": "04:15 AM"
+      },
+      {
+        "place_name": "Chadayamangalam",
+        "stop_name": "",
+        "time": "04:20 AM"
+      },
+      {
+        "place_name": "Kilimanoor",
+        "stop_name": "",
+        "time": "04:40 AM"
+      },
+      {
+        "place_name": "Venjarammodu",
+        "stop_name": "",
+        "time": "04:55 AM"
+      },
+      {
+        "place_name": "Vembayam",
+        "stop_name": "",
+        "time": "05:05 AM"
+      },
+      {
+        "place_name": "Vattappara",
+        "stop_name": "",
+        "time": "05:10 AM"
+      },
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "Kesavadasapuram",
+        "time": "05:26 AM"
+      },
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "Pattom",
+        "time": "05:28 AM"
+      },
+      {
+        "place_name": "Thiruvananthapuram",
+        "stop_name": "Central Bus Station, Thambanoor",
+        "time": "05:35 AM"
+      }
+    ],
+    "district": "Idukki",
+    "districts": [
+      "Idukki"
+    ]
   }
 ]
