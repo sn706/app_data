@@ -5,7 +5,7 @@
   "district_slug": "idukki",
   "index_path": "..\/..\/index.json",
   "all_pincodes_path": "..\/..\/all_pincodes.json",
-  "total_records": 1,
+  "total_records": 8,
   "pincodes": [
     {
       "post_office_name": "Adimali",
@@ -1158,6 +1158,478 @@
               },
               "zh": {
                 "title": "慕那尔"
+              }
+            }
+          },
+          "youtube_videos": []
+        }
+      ]
+    },
+    {
+      "post_office_name": "Adoormala",
+      "pincode": "685590",
+      "state": "Kerala",
+      "district": "Idukki",
+      "branch_type": "Branch Post Office",
+      "address": "Adoormala BO,Thodupuzha",
+      "city": "Idukki",
+      "taluk": "Thodupuzha",
+      "region": "Kochi",
+      "division": "Idukki",
+      "sub_division": "",
+      "sub_post_office": "",
+      "head_office": "Thodupuzha",
+      "updated_at": 1793288862458
+    },
+    {
+      "post_office_name": "Alakode",
+      "pincode": "685588",
+      "state": "Kerala",
+      "district": "Idukki",
+      "branch_type": "Branch Post Office",
+      "address": "Alakode BO,Thodupuzha",
+      "city": "Idukki",
+      "taluk": "Thodupuzha",
+      "region": "Kochi",
+      "division": "Idukki",
+      "sub_division": "",
+      "sub_post_office": "",
+      "head_office": "Thodupuzha",
+      "updated_at": 1793289142506,
+      "attractions": [
+        {
+          "name": "Kalayanthani",
+          "wiki_data": {
+            "wiki_title": "Kalayanthani",
+            "primary_lang": "en",
+            "wiki_extract": [
+              "Kalayanthani is a small town in Thodupuzha Taluk. It lies in the Idukki district of Kerala, India. The village is 9 km east of Thodupuzha, on the Velliyamattom route.\nKalayanthani is the meeting point of the Alakode and Velliamattom village Panchayats.\nThe main public establishments of Kalayanthani are St. Mary's Catholic Church (1920), the famous Muslim Mosque Konthalapally, St. George's High School., Yugasilpi Arts and Sports Club and Viswadeepthi library.\nThe current Kaikaran of St. Mary’s Catholic Church is Jose Varghese Pallickamyalil.\nKalayanthani is known as the 'Land of Art'. Inspector General of Police Tomin Thachankary, well known lyricist Baby John Kalayanthani, popular novelist, cartoonist and freelance journalist Ignatious Kalayanthani, famous artist and playwright Skylark (K.O. Varkey) and senior Journalist Roy Mathew Pallickamyalil and Joe Joseph Lijo were all born in Kalayanthani.\nA post office, a branch of Union bank, Urban Bank, Alakode service Cooperative Bank, and a primary health center are the main public institutions in Kalayanthani.\nThe main public establishments of Kalayanthani are St. Mary's Catholic Church (1920), the famous Muslim Mosque Konthalapally,",
+              "St. George's High School., Yugasilpi Arts and Sports Club and Viswadeepthi library. It is a very small town having only a few hotels, textile shops, stationary shops, provision shops, and hardware shops. It is the Junction of two roads: one to Chilavu and the other to Vettimattam.\nThe famous oil palm plantation (Ennappanathottam) of Agriculture Department is located at Vettimattam, which is two kilometers away from the town of Kalayanthani.",
+              "== Name ==\n'Kalayam' is the old Malayalam word for 'kalasham' meaning  small pot. 'Thani' is a derivative of the Sanskrit word 'Sthani' meaning  man in position . Therefore, 'Kalayanthani' means the one who occupies the position of a Kalasham. This is the title of the person who pours the liquor pot for Theyyam.",
+              "== Demographics ==\nMalayalam is the Local Language here.",
+              "=== Religion ===\nKalayanthani has all communities (Syrian Christians, Hindus, Muslims) however the Syrian Christians holds the majority.",
+              "== Education ==",
+              "Kalayanthani has a high school (St. George's high school), managed by the Syro-Malabar Catholic Eparchy of Kothamangalam and it is headed by the senior most teacher as Headmaster, which is really a benefit to the nearby villages.",
+              "== Transport ==",
+              "== Economy and Infrastructure ==\nMost of the people in Kalayanthani are farmers. They farm Rubber, Rice, Pepper, Ginger etc. There are number of people working abroad as Nurse, Engineer, Technicians, govt employees."
+            ],
+            "wiki_images": [
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/78\/Kalayanthani-Town2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ignatiousk",
+                "license": "Public domain",
+                "description": ""
+              },
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/90\/Kalayanthani-town.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ignatiousk",
+                "license": "Public domain",
+                "description": "a photograph of Kalayanthani suburb near Thodupuzha, Kerala,India"
+              },
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/52\/SGHS_kalayanthani.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ignatiousk",
+                "license": "Public domain",
+                "description": "St George's high school Kalayanthani"
+              },
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/78\/Kalayanthani-Town2.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Ignatiousk",
+                "license": "Public domain",
+                "description": ""
+              }
+            ],
+            "available_languages": [
+              "en",
+              "ml",
+              "ur"
+            ],
+            "languages": {
+              "en": {
+                "title": "Kalayanthani",
+                "extract": [
+                  "Kalayanthani is a small town in Thodupuzha Taluk. It lies in the Idukki district of Kerala, India. The village is 9 km east of Thodupuzha, on the Velliyamattom route.\nKalayanthani is the meeting point of the Alakode and Velliamattom village Panchayats.\nThe main public establishments of Kalayanthani are St. Mary's Catholic Church (1920), the famous Muslim Mosque Konthalapally, St. George's High School., Yugasilpi Arts and Sports Club and Viswadeepthi library.\nThe current Kaikaran of St. Mary’s Catholic Church is Jose Varghese Pallickamyalil.\nKalayanthani is known as the 'Land of Art'. Inspector General of Police Tomin Thachankary, well known lyricist Baby John Kalayanthani, popular novelist, cartoonist and freelance journalist Ignatious Kalayanthani, famous artist and playwright Skylark (K.O. Varkey) and senior Journalist Roy Mathew Pallickamyalil and Joe Joseph Lijo were all born in Kalayanthani.\nA post office, a branch of Union bank, Urban Bank, Alakode service Cooperative Bank, and a primary health center are the main public institutions in Kalayanthani.\nThe main public establishments of Kalayanthani are St. Mary's Catholic Church (1920), the famous Muslim Mosque Konthalapally,",
+                  "St. George's High School., Yugasilpi Arts and Sports Club and Viswadeepthi library. It is a very small town having only a few hotels, textile shops, stationary shops, provision shops, and hardware shops. It is the Junction of two roads: one to Chilavu and the other to Vettimattam.\nThe famous oil palm plantation (Ennappanathottam) of Agriculture Department is located at Vettimattam, which is two kilometers away from the town of Kalayanthani.",
+                  "== Name ==\n'Kalayam' is the old Malayalam word for 'kalasham' meaning  small pot. 'Thani' is a derivative of the Sanskrit word 'Sthani' meaning  man in position . Therefore, 'Kalayanthani' means the one who occupies the position of a Kalasham. This is the title of the person who pours the liquor pot for Theyyam.",
+                  "== Demographics ==\nMalayalam is the Local Language here.",
+                  "=== Religion ===\nKalayanthani has all communities (Syrian Christians, Hindus, Muslims) however the Syrian Christians holds the majority.",
+                  "== Education ==",
+                  "Kalayanthani has a high school (St. George's high school), managed by the Syro-Malabar Catholic Eparchy of Kothamangalam and it is headed by the senior most teacher as Headmaster, which is really a benefit to the nearby villages.",
+                  "== Transport ==",
+                  "== Economy and Infrastructure ==\nMost of the people in Kalayanthani are farmers. They farm Rubber, Rice, Pepper, Ginger etc. There are number of people working abroad as Nurse, Engineer, Technicians, govt employees."
+                ]
+              },
+              "ml": {
+                "title": "കലയന്താനി",
+                "extract": [
+                  "കേരളത്തിലെ ഇടുക്കി ജില്ലയിലെ തൊടുപുഴ താലൂക്കിൽ ഇളംദേശം ബ്ലോക്ക് പഞ്ചായത്തിനുകീഴിലുള്ള വെള്ളിയാമറ്റം ഗ്രാമപഞ്ചായത്തിൽ പെട്ട ആലക്കോടു വില്ലേജിലെ ഒരു ഗ്രാമമാണ് കലയന്താനി. ഇത് തൊടുപുഴയിൽനിന്ന് 10 കിലോമീറ്റർ അകലെയായി സ്ഥിതി ചെയ്യുന്നു.",
+                  "== പേരിനു പിന്നിൽ ==\n'കലയം' എന്നത് 'കലശം' എന്നതിന്റെ പഴയ മലയാളം വാക്കാണ്. താനി എന്നാൽ സംസ്‌കൃതത്തിലെ 'സ്ഥാനി' എന്ന പദത്തിന്റെ തദ്ഭവമാണ്. അതിനാൽ 'കലയന്താനി' എന്നാൽ കലശത്തിനു സ്ഥാനം നിക്കുന്ന കലയക്കാരൻ എന്നാണ് അർത്ഥം. തെയ്യത്തിനു മദ്യകുംഭം വെയ്ക്കുന്ന ആളുടെ സ്ഥാനപ്പേര് ആണിത്."
+                ]
+              },
+              "ur": {
+                "title": "کلایانتھانی",
+                "extract": [
+                  "کلایانتھانی (انگریزی: Kalayanthani) بھارت کا ایک قصبہ جو ایڈوکی ضلع میں واقع ہے۔",
+                  "== تفصیلات ==\nکلایانتھانی کی مجموعی آبادی 22 میٹر سطح سمندر سے بلندی پر واقع ہے۔"
+                ]
+              }
+            }
+          },
+          "youtube_videos": []
+        }
+      ]
+    },
+    {
+      "post_office_name": "Alpara",
+      "pincode": "685606",
+      "state": "Kerala",
+      "district": "Idukki",
+      "branch_type": "Branch Post Office",
+      "address": "Alpara BO,Thodupuzha",
+      "city": "Idukki",
+      "taluk": "Thodupuzha",
+      "region": "Kochi",
+      "division": "Idukki",
+      "sub_division": "",
+      "sub_post_office": "",
+      "head_office": "Kattappana",
+      "updated_at": 1793289097540
+    },
+    {
+      "post_office_name": "Amaravathy",
+      "pincode": "685509",
+      "state": "Kerala",
+      "district": "Idukki",
+      "branch_type": "Branch Post Office",
+      "address": "Amaravathy BO,Peerumade",
+      "city": "Idukki",
+      "taluk": "Peerumade",
+      "region": "Kochi",
+      "division": "Idukki",
+      "sub_division": "",
+      "sub_post_office": "",
+      "head_office": "Kattappana",
+      "updated_at": 1793289252221,
+      "attractions": [
+        {
+          "name": "Kumily",
+          "wiki_data": {
+            "wiki_title": "Kumily",
+            "primary_lang": "en",
+            "wiki_extract": [
+              "Kumily, also spelt as Kumaly (Malayalam: [kumɐɭi]), is a revenue village and Gram Panchayat in the Idukki district of the state of Kerala. It is a town in Cardamom Hills near Thekkady and Periyar Tiger Reserve and a well frequented tourist destination. Kumily is a border town of Kerala adjacent to Tamil Nadu.",
+              "== Etymology ==\nThe name \"Kumily\" is derived from the Tamil \/ Malayalam term Kumizh (Tamil: குமிழ்) \/ (Malayalam: കുമിഴ്), meaning \"bubble\" or \"spring,\" likely referring to natural water sources in the Cardamom Hills. The area was historically known as part of the Peerumade high ranges under Travancore administration.",
+              "== History ==\nKumily's modern development began in the early 20th century under the Travancore princely state, when high-range forests were cleared for plantation agriculture. Settlers from central Kerala and Tamil Nadu were resettled to cultivate cardamom, tea, and rubber, transforming the region into a major spice hub despite challenges from wildlife and malaria.\nThe area saw significant migration in the 1940s–1950s during post-war agricultural expansion. After Indian independence in 1947, Kumily became part of Travancore-Cochin state in 1949. With the formation of Kerala state on 1 November 1956, it was included in the newly created Kottayam district before being transferred to Idukki district upon its formation on 26 January 1974.\nThe establishment of the Periyar Wildlife Sanctuary in 1950 (notified as a tiger reserve in 1978) brought conservation focus, restricting further forest clearance and shifting economic reliance toward eco-tourism. By the 1980s, Kumily emerged as a gateway town for sanctuary visitors, with homestays and spice shops replacing some plantation labor.\nThe Grama Panchayat system formalized local governance; Kumily Grama Panchayat was constituted under the Kerala Panchayat Raj Act, 1994, covering 816.73 km² including revenue villages like Kumily and Thekkady. As of 2023, it remains a key border settlement facilitating trade and tourism between Kerala and Tamil Nadu.",
+              "== Demographics ==\nAs of 2011 Census, Kumily Grama Panchayat had a population of 35,915 with an area of 816.73 km2 (315.34 sq mi) and Kumily revenue village had a population of 30,276 (15,162 male and 15,114 female) which spreads over an area of 203.31 km2 (78.50 sq mi) with 7,404 families residing in it. The average sex ratio was a bit lower than the state average (997 vs 1084). 10.3% of the population was under 6 years old. Kumily had an average literacy of 90.5%, which is lower than the state average of 94%; male literacy was 93.6% and female literacy was 87.4%.",
+              "== Transportation ==\nTwo national highways pass through Kumily town, National Highway 183 and National Highway 185 There are many different busses going to several towns in Kerala and Tamil Nadu.\nThe nearest railway station is 60 km away at Theni.\nThe nearest Airport is 120 km away at Madurai."
+            ],
+            "wiki_images": [
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d5\/Peermade-taluk_%2815%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "No machine-readable author provided. Soman assumed (based on copyright claims).",
+                "license": "CC BY-SA 2.5",
+                "description": "National Highway 183 runs through the downtown Kumily, Kerala."
+              },
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bb\/Tea_Estate.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Rojypala at Malayalam Wikipedia",
+                "license": "CC BY-SA 3.0",
+                "description": "Tea plantations in Elappara, Kerala. Taken from State Highway 59 (aka. Hill Highway) roadside."
+              },
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d5\/Peermade-taluk_%2815%29.JPG?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "No machine-readable author provided. Soman assumed (based on copyright claims).",
+                "license": "CC BY-SA 2.5",
+                "description": "National Highway 183 runs through the downtown Kumily, Kerala."
+              },
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bb\/Tea_Estate.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "മലയാളം വിക്കിപീഡിയ പദ്ധതിയിലെ Rojypala",
+                "license": "CC BY-SA 3.0",
+                "description": "Tea plantations in Elappara, Kerala. Taken from State Highway 59 (aka. Hill Highway) roadside."
+              }
+            ],
+            "available_languages": [
+              "en",
+              "bn",
+              "hi",
+              "ml",
+              "ta"
+            ],
+            "languages": {
+              "en": {
+                "title": "Kumily",
+                "extract": [
+                  "Kumily, also spelt as Kumaly (Malayalam: [kumɐɭi]), is a revenue village and Gram Panchayat in the Idukki district of the state of Kerala. It is a town in Cardamom Hills near Thekkady and Periyar Tiger Reserve and a well frequented tourist destination. Kumily is a border town of Kerala adjacent to Tamil Nadu.",
+                  "== Etymology ==\nThe name \"Kumily\" is derived from the Tamil \/ Malayalam term Kumizh (Tamil: குமிழ்) \/ (Malayalam: കുമിഴ്), meaning \"bubble\" or \"spring,\" likely referring to natural water sources in the Cardamom Hills. The area was historically known as part of the Peerumade high ranges under Travancore administration.",
+                  "== History ==\nKumily's modern development began in the early 20th century under the Travancore princely state, when high-range forests were cleared for plantation agriculture. Settlers from central Kerala and Tamil Nadu were resettled to cultivate cardamom, tea, and rubber, transforming the region into a major spice hub despite challenges from wildlife and malaria.\nThe area saw significant migration in the 1940s–1950s during post-war agricultural expansion. After Indian independence in 1947, Kumily became part of Travancore-Cochin state in 1949. With the formation of Kerala state on 1 November 1956, it was included in the newly created Kottayam district before being transferred to Idukki district upon its formation on 26 January 1974.\nThe establishment of the Periyar Wildlife Sanctuary in 1950 (notified as a tiger reserve in 1978) brought conservation focus, restricting further forest clearance and shifting economic reliance toward eco-tourism. By the 1980s, Kumily emerged as a gateway town for sanctuary visitors, with homestays and spice shops replacing some plantation labor.\nThe Grama Panchayat system formalized local governance; Kumily Grama Panchayat was constituted under the Kerala Panchayat Raj Act, 1994, covering 816.73 km² including revenue villages like Kumily and Thekkady. As of 2023, it remains a key border settlement facilitating trade and tourism between Kerala and Tamil Nadu.",
+                  "== Demographics ==\nAs of 2011 Census, Kumily Grama Panchayat had a population of 35,915 with an area of 816.73 km2 (315.34 sq mi) and Kumily revenue village had a population of 30,276 (15,162 male and 15,114 female) which spreads over an area of 203.31 km2 (78.50 sq mi) with 7,404 families residing in it. The average sex ratio was a bit lower than the state average (997 vs 1084). 10.3% of the population was under 6 years old. Kumily had an average literacy of 90.5%, which is lower than the state average of 94%; male literacy was 93.6% and female literacy was 87.4%.",
+                  "== Transportation ==\nTwo national highways pass through Kumily town, National Highway 183 and National Highway 185 There are many different busses going to several towns in Kerala and Tamil Nadu.\nThe nearest railway station is 60 km away at Theni.\nThe nearest Airport is 120 km away at Madurai."
+                ]
+              },
+              "bn": {
+                "title": "কুমিলি",
+                "extract": [
+                  "কুমিলি, যাকে কুমালি নামেও লেখা হয় (মালয়ালম: [kumɐɭi] ), কেরালা রাজ্যের ইদুক্কি জেলার একটি রাজস্ব গ্রাম এবং গ্রাম পঞ্চায়েত। এটি থেকাডি এবং পেরিয়ার টাইগার রিজার্ভের কাছে কার্ডামম হিলসের একটি শহর এবং একটি জনপ্রিয় পর্যটন কেন্দ্র। কুমিলি হল তামিলনাড়ুর সংলগ্ন কেরালার একটি সীমান্তবর্তী শহর।",
+                  "== ব্যুৎপত্তি ==\n\"কুমিলি\" নামটি তামিল \/ মালয়ালম শব্দ 'কুমিঝ ' (তামিল: குமிழ்) \/ (মালয়ালম: കുമിഴ്) থেকে উদ্ভূত, যার অর্থ \"বুদবুদ\" বা \"ঝর্ণা\", যা সম্ভবত কার্ডামম পাহাড়ের প্রাকৃতিক জলের উৎসকে নির্দেশ করে। ঐতিহাসিকভাবে এই এলাকাটি ত্রিবাঙ্কুর প্রশাসনের অধীনে পীরুমাড উচ্চ পর্বতমালার অংশ হিসেবে পরিচিত ছিল।",
+                  "== ইতিহাস ==\nবিংশ শতাব্দীর গোড়ার দিকে ত্রিবাঙ্কুর রাজবংশের অধীনে কুমিলির আধুনিকীকরণ শুরু হয়, সেই সময় কৃষি-খামার নির্মাণের জন্য উঁচু এলাকার বনভূমি পরিষ্কার করা হয়েছিল। মধ্য কেরালা এবং তামিলনাড়ু থেকে আসা বসতি স্থাপনকারীদের এলাচ, চা এবং রাবার চাষের জন্য এখানে পুনর্বাসিত করা হয়েছিল। বন্যপ্রাণী এবং ম্যালেরিয়ার প্রতিকূলতা সত্ত্বেও এরপর এই অঞ্চলটি একটি প্রধান মসলা কেন্দ্রে রূপান্তরিত হয়েছিল।\nযুদ্ধ পরবর্তী কৃষি সম্প্রসারণের সময় ১৯৪০ - ১৯৫০-এর দশকে এই অঞ্চলে উল্লেখযোগ্য অভিবাসন ঘটেছিল। ১৯৪৭ সালে ভারতের স্বাধীনতার পর, ১৯৪৯ সালে কুমিলিকে ত্রিবাঙ্কুর-কোচিন রাজ্যের অন্তর্ভুক্ত হয়। ১৯৫৬ সালের ১লা নভেম্বর কেরালা রাজ্য গঠিত হলে, এটি নবগঠিত কোট্টায়াম জেলার অন্তর্ভুক্ত হয় এবং পরবর্তীতে ১৯৭৪ সালের ২৬শে জানুয়ারি ইদুক্কি জেলা গঠিত হলে তার অধীনে আসে।\n১৯৫০ সালে পেরিয়ার বন্যপ্রাণী অভয়ারণ্য প্রতিষ্ঠার ফলে (যা ১৯৭৮ সালে ব্যাঘ্র সংরক্ষণাগার হিসেবে ঘোষিত হয়) বন সংরক্ষণের ওপর মনোযোগ দেওয়া হয় এবং বনভূমি উজাড় করা বন্ধ করা হয়। এখানকার অর্থনৈতিক নির্ভরতা পরিবেশ-পর্যটনের দিকে স্থানান্তরিত হয়। ১৯৮০-এর দশকের মধ্যে কুমিলি অভয়ারণ্য পরিদর্শকদের জন্য একটি প্রবেশদ্বার শহর হিসেবে আবির্ভূত হয়, যেখানে বাগানের কিছু শ্রমিকের কাজের পরিবর্তে হোমস্টে ও মশলার দোকান গড়ে ওঠে।\nগ্রাম পঞ্চায়েত ব্যবস্থা স্থানীয়",
+                  "শাসনকে আনুষ্ঠানিক রূপ দিয়েছিল; ১৯৯৪ সালের কেরালা পঞ্চায়েত রাজ আইনের অধীনে কুমিলি গ্রাম পঞ্চায়েত গঠিত হয়েছিল, এটি কুমিলি এবং থেকাডির মতো রাজস্ব গ্রামকে নিয়ে ৮১৬.৭৩ বর্গ কিলোমিটার এলাকা জুড়ে বিস্তৃত। ২০২৩ সাল পর্যন্ত, এটি কেরালা এবং তামিলনাড়ুর মধ্যে বাণিজ্য ও পর্যটনের সুবিধার্থে একটি গুরুত্বপূর্ণ সীমান্ত বসতি হিসাবে রয়ে গেছে।",
+                  "== জনসংখ্যাতাত্ত্বিক ==\n২০১১ সালের আদমশুমারি অনুযায়ী, কুমিলি গ্রাম পঞ্চায়েতের জনসংখ্যা ছিল ৩৫,৯১৫ জন এবং এর এলাকা ছিল ৮১৬.৭৩ বর্গকিলোমিটার (৩১৫.৩৪ বর্গমাইল)।  রাজস্ব গ্রামের জনসংখ্যা ছিল ৩০,২৭৬ জন (১৫,১৬২ জন পুরুষ এবং ১৫,১১৪ জন মহিলা) এবং গ্রামটি ২০৩.৩১ বর্গকিলোমিটার (৭৮.৫০ বর্গমাইল) এলাকা জুড়ে বিস্তৃত।   সেখানে ৭,৪০৪টি পরিবার বসবাস করে। গড় লিঙ্গানুপাত রাজ্যের গড়ের চেয়ে কিছুটা কম ছিল (৯৯৭ বনাম ১০৮৪)। জনসংখ্যার ১০.৩ শতাংশের বয়স ছিল ৬ বছরের কম। কুমিলির গড় সাক্ষরতার হার ছিল ৯০.৫%, যা রাজ্যের গড় ৯৪% এর চেয়ে কম; পুরুষ সাক্ষরতার হার ছিল ৯৩.৬% এবং নারী সাক্ষরতার হার ছিল ৮৭.৪%।",
+                  "== পরিবহন ==\nকুমিলি শহরের মধ্যে দিয়ে দুটি জাতীয় মহাসড়ক গেছে, জাতীয় মহাসড়ক ১৮৩ এবং জাতীয় মহাসড়ক ১৮৫। কেরালা এবং তামিলনাড়ুর বিভিন্ন শহরে যাওয়ার জন্য নানা ধরনের বাস রয়েছে।\nনিকটতম রেলওয়ে স্টেশন থেনি-তে অবস্থিত, যেটি কুমিলি থেকে ৬০ কিমি দূরে। নিকটতম বিমানবন্দরটি ১২০ কিমি দূরে মাদুরাইতে অবস্থিত।",
+                  "== ছবিঘর =="
+                ]
+              },
+              "hi": {
+                "title": "कुमिली",
+                "extract": "कुमिली (Kumily) भारत के केरल राज्य के इडुक्की ज़िले में स्थित एक नगर है। भारत का राष्ट्रीय राजमार्ग १८३ यहाँ से गुज़रता है। यह पश्चिमी घाट में स्थित की कार्डमम पहाड़ियों में पेरियार राष्ट्रीय उद्यान के समीप बसा हुआ हैं।"
+              },
+              "ml": {
+                "title": "കുമളി",
+                "extract": [
+                  "കേരളത്തിലെ ഇടുക്കി ജില്ലയിലെ ഒരു റവന്യൂ ഗ്രാമവും ഗ്രാമപഞ്ചായത്തുമാണ് കുമളി. തേക്കടി, പെരിയാർ കടുവാ സങ്കേതം എന്നിവയുടെ സമീപമുള്ള ഏലം കുന്നുകളിലെ ഒരു പട്ടണവും വിനോദസഞ്ചാര കേന്ദ്രവുമാണ് ഇത്. തമിഴ്നാടിനോട് ചേർന്നുള്ള കേരളത്തിലെ ഒരു അതിർത്തി പട്ടണമാണ് കുമളി.",
+                  "== പേരിന്റെ ഉത്ഭവം ==\nകുമിൾ എന്ന പേര് തമിഴ്\/മലയാളം പദമായ കുമിളിൽ നിന്നാണ് ഉരുത്തിരിഞ്ഞത് (തമിഴ്ഃ കുമിൾ) (മലയാളംഃ കുമിൽ) അതായത് \"കുമിള\" അല്ലെങ്കിൽ \"നീരുറവ\", ഇത് ഏലയ്ക്ക കുന്നുകളിലെ പ്രകൃതിദത്ത ജലസ്രോതസ്സുകളെ സൂചിപ്പിക്കുന്നു. തിരുവിതാംകൂർ ഭരണത്തിൻ കീഴിലുള്ള പീരുമേട് മലനിരകളുടെ ഭാഗമായി ചരിത്രപരമായി ഈ പ്രദേശം അറിയപ്പെട്ടിരുന്നു.",
+                  "== ചരിത്രം ==\nകുമളിയുടെ വികസനം ആരംഭിച്ചത് ഇരുപതാം നൂറ്റാണ്ടിന്റെ തുടക്കത്തിൽ തിരുവിതാംകൂർ നാട്ടുരാജ്യത്തിൻ കീഴിൽ തോട്ടക്കൃഷിക്ക് ഇവിടെയുള്ള വനങ്ങൾ നീക്കം ചെയ്തതോടെയാണ്. മധ്യകേരളത്തിൽ നിന്നും തമിഴ്നാട്ടിൽ നിന്നുമുള്ള കുടിയേറ്റക്കാരെ ഏലം, തേയില, റബ്ബർ എന്നിവ കൃഷി ചെയ്യുന്നതിനായി ഇവിടെ പുനരധിവസിപ്പിച്ചു. വന്യജീവികളുടെ ആക്രമണം, മലേറിയ തുടങ്ങിയ വെല്ലുവിളികൾക്കിടയിലും ഈ പ്രദേശത്തെ ഒരു പ്രധാന സുഗന്ധവ്യഞ്ജന കേന്ദ്രമാക്കി മാറ്റുന്നതിന് ഈ കുടിയേറ്റം സഹായിച്ചു.\n1940-1950 കാലഘട്ടത്തിൽ യുദ്ധാനന്തര കാർഷിക വിപുലീകരണത്തിനിടയിൽ ഈ പ്രദേശത്ത് ഗണ്യമായ കുടിയേറ്റം നടന്നു. 1947ൽ ഇന്ത്യൻ സ്വാതന്ത്ര്യത്തിനുശേഷം 1949ൽ കുമളി തിരുവിതാംകൂർ-കൊച്ചി സംസ്ഥാനത്തിന്റെ ഭാഗമായി. 1956 നവംബർ 1 ന് കേരള സംസ്ഥാനം രൂപീകരിച്ചതോടെ, 1974 ജനുവരി 26 ന്  ഇടുക്കി ജില്ല രൂപീകരിച്ചതിനുശേഷം ഇടുക്കി ജില്ലയിലേക്ക് മാറ്റുന്നതിന് മുമ്പ് നേരത്തേയുണ്ടായിരുന്ന കോട്ടയം ജില്ലയിൽ ഈ പ്രദേശം ഉൾപ്പെടുത്തി.\n1950-ൽ പെരിയാർ വന്യജീവി സങ്കേതം സ്ഥാപിച്ചു (1978-ൽ കടുവാ സങ്കേതമായി വിജ്ഞാപനം ചെയ്യപ്പെട്ടു). തുടർന്ന് ഈ പ്രദേശത്തെ പാരിസ്ഥിതിക സംരക്ഷണത്തിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുകയും കൂടുതൽ വനനശീകരണം പരിമിതപ്പെടുത്തുകയും ചെയ്തു. ഇതോടെ ഇവിടത്തെ പ്രധാന വരുമാനം പരിസ്ഥിതി ടൂറിസത്തിലേക്ക് മാറ്റുകയും ചെയ്തു. 1980കളോടെ കുമളി പെരിയാർ വന്യജീവി സങ്കേതത്തിലേക്ക്",
+                  "എത്തുന്ന സന്ദർശകരുടെ കവാടമായി മാറി, ചില തോട്ടം തൊഴിലാളികളുടെ താമസസ്ഥങ്ങൾക്ക് പകരം ഹോംസ്റ്റേകളും സുഗന്ധവ്യഞ്ജന കടകളും ഇവിടെ വ്യാപിച്ചു.\nകുമളി, തേക്കടി തുടങ്ങിയ റവന്യൂ ഗ്രാമങ്ങൾ ഉൾപ്പെടെ 1994 ലെ കേരള പഞ്ചായത്ത് രാജ് നിയമപ്രകാരം കുമളി ഗ്രാമപഞ്ചായത്ത് രൂപീകരിച്ചു. 2023 ലെ കണക്കനുസരിച്ച്, കേരളത്തിനും തമിഴ്നാടിനും ഇടയിൽ വ്യാപാരവും വിനോദസഞ്ചാരവും സുഗമമാക്കുന്ന ഒരു പ്രധാന അതിർത്തി പട്ടണമായി ഇത് തുടരുന്നു.",
+                  "== ജനസംഖ്യാശാസ്ത്രം ==\nലെ സെൻസസ് പ്രകാരം കുമളി ഗ്രാമപഞ്ചായത്തിലെ ജനസംഖ്യ 35,915 ആണ്, കൂടാതെ കുമളി റവന്യൂ ഗ്രാമത്തിലെ ജനസംഖ്യ 30,276 (15,162 പുരുഷന്മാരും 15,114 സ്ത്രീകളും) ആണ്, ഇവിടെ  7,404 കുടുംബങ്ങളുണ്ട്. ശരാശരി ലിംഗാനുപാതം സംസ്ഥാന ശരാശരിയേക്കാൾ അൽപ്പം കുറവാണ് (997 ഉം 1084 ഉം). ജനസംഖ്യയുടെ 10.3% 6 വയസ്സിന് താഴെയുള്ളവരായിരുന്നു. കുമളിയുടെ ശരാശരി സാക്ഷരത 90.5% ആയിരുന്നു, ഇത് സംസ്ഥാന ശരാശരിയായ 94% നേക്കാൾ കുറവാണ്.",
+                  "== ഗതാഗതം ==\nകുമളി പട്ടണത്തിലൂടെ രണ്ട് ദേശീയപാതകൾ കടന്നുപോകുന്നു.  ദേശീയ പാത 183, ദേശീയ പാത 185 എന്നിവയാണവ. കേരളത്തിലെയും തമിഴ്നാട് നിരവധി പട്ടണങ്ങളിലേക്ക് നിരവധി വ്യത്യസ്ത ബസുകൾ കുമളി വഴി കടന്നു പോകുന്നുണ്ട്.\nഏറ്റവും അടുത്തുള്ള റെയിൽവേ സ്റ്റേഷൻ 60 കിലോമീറ്റർ അകലെയുള്ള തേനിയിലാണ്. ഏറ്റവും അടുത്തുള്ള വിമാനത്താവളം 120 കിലോമീറ്റർ അകലെയുള്ള മധുരയിലാണ്."
+                ]
+              },
+              "sv": {
+                "title": "Kumily"
+              },
+              "ta": {
+                "title": "குமுளி",
+                "extract": [
+                  "குமுளி இந்தியாவின் கேரள மாநிலத்தில் இடுக்கி மாவட்டத்தில் தமிழகத்தின் தேனி மாவட்டத்தில் கேரளா மற்றும் தமிழ்நாடு எல்லைப் பகுதியில் உள்ள ஓர் ஊராகும். இந்த ஊரிலிருந்து 2 கிலோ மீட்டர் தொலைவில் புகழ்பெற்ற தேக்கடி வனவிலங்கு உய்வகம் அமைந்துள்ளது. மேலும் ஆனவிலாசம், சக்குப்பள்ளம், அனக்கர, புட்டடி, கொச்சற போன்றவை குமுளி அருகே உள்ள அழகிய சிற்றூர்களாகும். அண்மையில் மங்களாதேவி கோவில் அமைந்துள்ளது. இந்திய தேசிய நெடுஞ்சாலை 220 (கோட்டயம் - குமுளி:கே.கே சாலை எனப்படுவது) இதன் வழியே செல்கிறது. சுற்றுப்புறங்களிலிருந்து ஏலக்காய், மிளகு போன்றவையின் வணிக மையமாகவும் திகழ்கிறது. தமிழகத்திலிருந்து சபரிமலை  செல்வோர் பயணிக்கும் முக்கியப் பாதையில் இந்நகர் அமைந்துள்ளது. தமிழ்நாட்டின் எல்லைப் பகுதியில் தேனி மாவட்டத்தின் கூடலூர் நகராட்சி உள்ளது.\nகுமுளியிலிருந்து மேற்கே கோட்டயத்திற்கும், கிழக்கே தேனி வழியாக மதுரைக்கும் செல்ல நல்ல சாலை வசதிகள் உள்ளன. காந்தளூர், மூணாறு வழியாக உடுமலைப்பேட்டை செல்வதற்கு சரியான சாலை வசதிகள் இல்லை. மேலும், இவ்வழியில் காட்டு விலங்குகளும் ஏராளமாக உலவும்.",
+                  "சங்ககாலத்தில்\nசங்ககாலத்தில் குமுழி ஞாழலார் நப்பசலையார் என்னும் புலவர் இவ்வூரில் வாழ்ந்துவந்தார்.",
+                  "== மேற்கோள்கள் =="
+                ]
+              }
+            }
+          },
+          "youtube_videos": []
+        }
+      ]
+    },
+    {
+      "post_office_name": "Amayapra",
+      "pincode": "685595",
+      "state": "Kerala",
+      "district": "Idukki",
+      "branch_type": "Branch Post Office",
+      "address": "Amayapra BO,Thodupuzha",
+      "city": "Idukki",
+      "taluk": "Thodupuzha",
+      "region": "Kochi",
+      "division": "Idukki",
+      "sub_division": "",
+      "sub_post_office": "",
+      "head_office": "Thodupuzha",
+      "updated_at": 1793289327953
+    },
+    {
+      "post_office_name": "Anakkara",
+      "pincode": "685512",
+      "state": "Kerala",
+      "district": "Idukki",
+      "branch_type": "Sub Post Office",
+      "address": "Anakkara,Anakkara,Udumbanchola",
+      "city": "Idukki",
+      "taluk": "Udumbanchola",
+      "region": "Kochi",
+      "division": "Idukki",
+      "sub_division": "",
+      "sub_post_office": "",
+      "head_office": "Kattappana",
+      "updated_at": 1793289445733,
+      "wiki_data": {
+        "wiki_title": "അണക്കര",
+        "primary_lang": "ml",
+        "wiki_extract": "ഇടുക്കി ജില്ലയിലെ ചക്കുപള്ളം പഞ്ചായത്തിൽ സ്ഥിതി ചെയ്യുന്ന ഒരു ഗ്രാമമാണ് അണക്കര. പഞ്ചായത്തിന്റെയും അണക്കര വില്ലേജിന്റെയും കാര്യാലയങ്ങൾ ഇവിടെയാണ് സ്ഥിതി ചെയ്യുന്നത്. തേക്കടിയിൽ നിന്നും 18 കിലോമീറ്റർ ദൂരെയായി സ്ഥിതി ചെയ്യുന്ന ഈ ഗ്രാമത്തിൽ ഏലമാണ് പ്രധാന കൃഷി. വിനോദസഞ്ചാരപ്രാധാന്യമുള്ള ഇവിടുത്തെ പ്രധാന ആകർഷണവും ഏലത്തോട്ടങ്ങളാണ്. ഭാരതസർക്കാരും യുണൈറ്റഡ് നേഷൻസ് ഡെവലപ്മെന്റ് പ്രോഗ്രാമും ചേർന്ന് അതുല്യമായ വിനോദസഞ്ചാര പ്രാധാന്യമുള്ള കേന്ദ്രങ്ങളെ 36 ജില്ലകളിൽ നിന്നും തിരഞ്ഞെടുക്കുവാനായി അണക്കരയെയും പരിഗണിച്ചിരുന്നു. നിർദ്ദിഷ്ട ഇടുക്കി വിമാനത്താവളം അണക്കരയിലാണ് സ്ഥാപിക്കാൻ ഉദ്ദേശിച്ചിരിക്കുന്നത്.",
+        "wiki_images": [
+          {
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8b\/Anakkara.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Ben3john",
+            "license": "CC BY-SA 3.0",
+            "description": "Still Anakkara have the 50 years of past memory"
+          },
+          {
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a5\/Hot_chilly_pepper.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Ben3john",
+            "license": "CC BY-SA 3.0",
+            "description": "\"Kandhari.......Too Hot\""
+          },
+          {
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8c\/Jackfruits.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Jaisontsy at English Wikipedia",
+            "license": "Public domain",
+            "description": "Queen of fruits"
+          },
+          {
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/PADDY_FIELDS.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Ben3john",
+            "license": "CC BY-SA 3.0",
+            "description": "A panoramic view of Anakkara"
+          },
+          {
+            "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8b\/Anakkara.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+            "author": "Ben3john",
+            "license": "CC BY-SA 3.0",
+            "description": "Still Anakkara have the 50 years of past memory"
+          }
+        ],
+        "available_languages": [
+          "ml",
+          "en",
+          "ur"
+        ],
+        "languages": {
+          "ml": {
+            "title": "അണക്കര",
+            "extract": "ഇടുക്കി ജില്ലയിലെ ചക്കുപള്ളം പഞ്ചായത്തിൽ സ്ഥിതി ചെയ്യുന്ന ഒരു ഗ്രാമമാണ് അണക്കര. പഞ്ചായത്തിന്റെയും അണക്കര വില്ലേജിന്റെയും കാര്യാലയങ്ങൾ ഇവിടെയാണ് സ്ഥിതി ചെയ്യുന്നത്. തേക്കടിയിൽ നിന്നും 18 കിലോമീറ്റർ ദൂരെയായി സ്ഥിതി ചെയ്യുന്ന ഈ ഗ്രാമത്തിൽ ഏലമാണ് പ്രധാന കൃഷി. വിനോദസഞ്ചാരപ്രാധാന്യമുള്ള ഇവിടുത്തെ പ്രധാന ആകർഷണവും ഏലത്തോട്ടങ്ങളാണ്. ഭാരതസർക്കാരും യുണൈറ്റഡ് നേഷൻസ് ഡെവലപ്മെന്റ് പ്രോഗ്രാമും ചേർന്ന് അതുല്യമായ വിനോദസഞ്ചാര പ്രാധാന്യമുള്ള കേന്ദ്രങ്ങളെ 36 ജില്ലകളിൽ നിന്നും തിരഞ്ഞെടുക്കുവാനായി അണക്കരയെയും പരിഗണിച്ചിരുന്നു. നിർദ്ദിഷ്ട ഇടുക്കി വിമാനത്താവളം അണക്കരയിലാണ് സ്ഥാപിക്കാൻ ഉദ്ദേശിച്ചിരിക്കുന്നത്."
+          },
+          "en": {
+            "title": "Anakkara (Idukki)",
+            "extract": [
+              "Anakkara is a geographic area of around 50 square kilometres (12,000 acres) that spreads across Vandanmedu, Chakkupallam Panchayats in the Udumbanchola Taluk of Idukki District, Kerala, India. Anakkara is the administrative capital of Chakkupallam Grama Panchayat and Anakkara Revenue Village. It is about 18 kilometers (11 mi) from Thekkady wildlife sanctuary on the Kumily-Munnar state highway. It is at an altitude of about 4,000 feet (1,200 m) above sea level.",
+              "== Demographics ==",
+              "As of 2011 Census, Anakkara had a population of 24,193 with 12,056 males and 12,136 females. Anakkara village has an area of 38.46 km2 (14.85 sq mi) with 5,962 families residing in it. The average sex ratio was 1007 lower than the state average of 1084. In Anakkara, 9.8% of the population was under 6 years of age. Anakkara had an average literacy of 92% lower than the state average of 94%: male literacy was 94.2% and female literacy was 89.9%.",
+              "== History ==",
+              "=== Modern history ===",
+              "In 1972 Kottayam district of Kerala was split into Kottayam and Idukki districts. In 1986, around 50 km2 area of Vandanmettu village was split into a new revenue village by the name Anakkara."
+            ]
+          },
+          "ur": {
+            "title": "اناکارتھ",
+            "extract": [
+              "اناکارتھ (انگریزی: Anakkara (Idukki)) بھارت کا ایک بھارت میں گاؤں جو ایڈوکی ضلع میں واقع ہے۔",
+              "== تفصیلات ==\nاناکارتھ کا رقبہ 38.46 مربع کیلومیٹر ہے اور اس کی مجموعی آبادی 24,192 افراد پر مشتمل ہے اور 900 میٹر سطح سمندر سے بلندی پر واقع ہے۔"
+            ]
+          },
+          "fa": {
+            "title": "اناکارا (ایدوکی)"
+          }
+        },
+        "fetched_at": "29 Oct 2026",
+        "wiki_last_revised": "13 Sep 2026",
+        "quick_facts": {
+          "state": "Kerala",
+          "district": "Idukki district",
+          "settlement_type": "Village",
+          "area": "38.46 km²",
+          "elevation": "900 m",
+          "population": "24,192 (2011)",
+          "pincode": "685512",
+          "telephone_code": "04868",
+          "vehicle_registration": "KL-37",
+          "timezone": "IST (+5:30)",
+          "languages": "Malayalam, English",
+          "coordinates": "9.6646° N, 77.1658° E"
+        }
+      }
+    },
+    {
+      "post_office_name": "Anakkulam",
+      "pincode": "685565",
+      "state": "Kerala",
+      "district": "Idukki",
+      "branch_type": "Branch Post Office",
+      "address": "Anakulam BO,Devikulam",
+      "city": "Idukki",
+      "taluk": "Devikulam",
+      "region": "Kochi",
+      "division": "Idukki",
+      "sub_division": "",
+      "sub_post_office": "",
+      "head_office": "Thodupuzha",
+      "updated_at": 1793289590230,
+      "attractions": [
+        {
+          "name": "Mankulam, Idduki",
+          "wiki_data": {
+            "wiki_title": "Mankulam, Idduki",
+            "primary_lang": "en",
+            "wiki_extract": [
+              "Mankulam  is a village in Idukki district in the Indian state of Kerala. This is the first Grama Panchayat in Kerala which produces electricity on its own. It sells it to the Electricity board of Kerala.",
+              "== Demographics ==\nAs of 2011 India census, Mankulam had a population of 9595, with 4863 males and 4732 females."
+            ],
+            "wiki_images": [
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/20\/Hdr_%28213530865%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Vasanth Baskar",
+                "license": "CC0",
+                "description": "Southern area of Mankulam in Idukki district, Kerala. Looking WNW."
+              },
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/44\/Anakkulam.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Shajinss",
+                "license": "CC BY-SA 4.0",
+                "description": "anakulam"
+              },
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/db\/Anakulam_view_point.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Shajinss",
+                "license": "CC BY-SA 4.0",
+                "description": "anakulam"
+              },
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3d\/Mankulam_waterfalls.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Shajinss",
+                "license": "CC BY-SA 4.0",
+                "description": "33 Waterfalls in Mankulam, Idukki district, Kerala."
+              },
+              {
+                "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ac\/Perumbankuthu_waterfall.jpg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+                "author": "Shajinss",
+                "license": "CC BY-SA 4.0",
+                "description": "Perumbankuthu Waterfall in Mankulam, Idukki district, Kerala."
+              }
+            ],
+            "available_languages": [
+              "en",
+              "ml",
+              "ur"
+            ],
+            "languages": {
+              "en": {
+                "title": "Mankulam, Idduki",
+                "extract": [
+                  "Mankulam  is a village in Idukki district in the Indian state of Kerala. This is the first Grama Panchayat in Kerala which produces electricity on its own. It sells it to the Electricity board of Kerala.",
+                  "== Demographics ==\nAs of 2011 India census, Mankulam had a population of 9595, with 4863 males and 4732 females."
+                ]
+              },
+              "ml": {
+                "title": "മാങ്കുളം ഗ്രാമപഞ്ചായത്ത്",
+                "extract": [
+                  "ഇടുക്കി ജില്ലയിലെ  ദേവികുളം താലൂക്കിൽ ദേവികുളം ബ്ലോക്കിലാണ് മാങ്കുളം ഗ്രാമപഞ്ചായത്ത് സ്ഥിതി ചെയ്യുന്നത്. 2000 ഓക്ടോബർ 2-ാം തിയതി രൂപീകൃതമായ ഈ പഞ്ചായത്ത് മാങ്കുളം വില്ലേജ് പരിധിയിൽ ഉൾപ്പെടുന്നു. 123 ചതുരശ്ര കിലോമീറ്റർ വിസ്തീർണ്ണമുള്ള ഈ പഞ്ചായത്തിന്റെ അതിരുകൾ വടക്കുഭാഗത്ത് മൂന്നാർ പഞ്ചായത്തും, തെക്കുഭാഗത്ത് അടിമാലി പഞ്ചായത്തും, കിഴക്കുഭാഗത്ത് മൂന്നാർ, പള്ളിവാസൽ പഞ്ചായത്തുകളും, പടിഞ്ഞാറുഭാഗത്ത് കുട്ടമ്പുഴ, അടിമാലി പഞ്ചായത്തുകളുമാണ്. ഭൂപ്രകൃതിയനുസരിച്ച് മലനാട് മേഖലയിൽ വരുന്ന മാങ്കുളം പഞ്ചായത്തിലെ പ്രധാന വിളകൾ റബ്ബർ, കൊക്കോ, കവുങ്ങ്, ഏലം, ജാതി, കാപ്പി, കൊടി, തെങ്ങ് മുതലായവയാണ്. നല്ലതണ്ണിപ്പുഴ, മാങ്കുളം പുഴ, ഈറ്റചോല പുഴ എന്നിവ പഞ്ചായത്തിലെ പ്രധാന ജലസ്രോതസ്സുകളാണ്.",
+                  "= മാങ്കുളം ചെറുകിട ജലവൈദ്യുതപദ്ധതി =\nസംസ്ഥാനത്ത് വൈദ്യുതി ഉത്പാദിപ്പിച്ചു കേരള സ്റ്റേറ്റ് ഇലക്ട്രിസിറ്റി ബോർഡ്  വൈദ്യുതി ഗ്രിഡിലേക്ക്  വിൽക്കുന്ന സംസ്ഥാനത്തിലെ   ആദ്യത്തെ പഞ്ചായത്ത്  ആണ് മാങ്കുളം ഗ്രാമപഞ്ചായത്ത്.",
+                  "= ഭൂപ്രകൃതിയും  വിനോദ സഞ്ചാരവും =\nമലമ്പ്രദേശമായ മാങ്കുളം പഞ്ചായത്തിൽ നിരവധി കുന്നുകളും, മലകളുമുണ്ട്. പള്ളികുന്ന്, 96 കുന്ന്, മുനിപാറകുന്ന്, പാർവ്വതിമല, കിളിക്കല്ല് മല, വിരിഞ്ഞപാറ മല എന്നിവ ഇവിടുത്തെ പ്രധാന കുന്നുകളും മലകളുമാണ്. മൊത്തം ഭൂവിസ്തൃതിയുടെ 25 ശതമാനം വനപ്രദേശമാണ്. ആനക്കുളം ഓര്, പെരുമ്പൻകുത്ത്, നക്ഷത്രകുത്ത്, ചിന്നാർ കുത്ത്, കിളിക്കല്ല് കുത്ത്, വിരിഞ്ഞ പാറ മുനിയറ, കള്ളക്കുട്ടികുടി കുത്ത്, കോഴിവാലൻ കുത്ത്, വെല്ലിപാറകുട്ടി, വിരിപാറ തേയിലതോട്ടം എന്നിവ ഈ പഞ്ചായത്തിലേക്ക് വിനോദ സഞ്ചാരികളെ ആകർഷിക്കുന്ന സ്ഥലങ്ങളാണ്. നെടുമ്പാശ്ശേരി-കൊടൈക്കനാൽ സംസ്ഥാന പാത പഞ്ചായത്തിലൂടെ കടന്നു പോകുന്നു. \nഭാരതത്തിന്റെ സുഗന്ധവ്യഞ്ജന ഉദ്യാനമായ കേരള സംസ്ഥാനത്തിന്റെ കിഴക്ക് ഭാഗത്തായി സ്ഥിതി ചെയ്യുന്ന ഇടുക്കി ജില്ലയുടെ കിഴക്കേ അറ്റത്ത് തമിഴ് നാടിനോട് തൊട്ടുകിടക്കുന്ന  മാങ്കുളം പഞ്ചായത്ത് ഭൂമിശാസ്ത്രപരമായും കാലാവസ്ഥ, സംസ്കാരം, കാർഷികവിളകൾ എന്നിവയുടെ കാര്യത്തിലും കേരളത്തിലെ മറ്റുപ്രദേശങ്ങളിൽ നിന്നും വ്യത്യസ്തത പുലർത്തുന്നു. പശ്ചിമഘട്ടത്തിന്റെ ഭാഗമായി സഹ്യപർവ്വതനിരകൾക്കിടയിലാണ് പ്രകൃതിരമണീയമായ ഈ പ്രദേശം സ്ഥിതി ചെയ്യുന്നത്. ഹൈറേഞ്ചസ് എന്ന കാർഷിക കാലാവസ്ഥ മേഖലയിലാണ് ഈ പഞ്ചായത്ത് ഉൾപ്പെടുന്നത്. ചരിത്രപുരാവസ്തു ഗവേഷകർ 3000 കൊല്ലങ്ങൾക്ക് മേൽ പ്രായം കണക്കാക്കിയിട്ടുള്ള പ്രപിതാ മഹാന്മാർ വരച്ച എഴുത്തളകളും",
+                  "നൂറ്റാണ്ടുകളായി നിലനിൽക്കുന്ന ചരിത്രമുറങ്ങുന്ന മുനിയറകളും ഈ പ്രദേശത്തിന്റെ മാത്രം സ്വന്തം. പഞ്ചപാണ്ഡവൻമാരുടെ പുണ്യപാദധൂളികളാൽ അനുഗൃഹീതമാണ് ഇവിടുത്തെ മിക്ക പ്രദേശങ്ങളും എന്ന് പഴമക്കാർ വിശ്വസിക്കുന്നു.\nമാങ്കുളത്തെ കുറിച്ച് പുറംലോകം അറിഞ്ഞ് തുടങ്ങിയിട്ട് ഏറെ നാളുകളൊന്നും ആയിട്ടില്ല. വേണ്ടത്ര വാഹന സൗകര്യമോ മററ് അടിസ്ഥാന വികസനങ്ങളോ എത്തിപ്പെടാതെ കിടക്കുന്ന മാങ്കുളം അക്ഷരാർത്ഥത്തിൽ വനത്തിനുളളിലെ പറുദീസ തന്നെയാണ്. മലകളാൽ ചുറ്റപ്പെട്ട് പച്ചപ്പിന്റെ മേലങ്കിയണിഞ്ഞ് കാട്ടരുവികളാലും പുഴകളാലും വെളളച്ചാട്ടങ്ങളാലും സമൃദ്ധമായി തണുത്ത കാറ്റിന്റെ സ്പർശനത്താൽ കുളിരണിഞ്ഞ് നിൽക്കുന്ന മാങ്കുളം മൂന്നാറിനോട് ചേർന്നു കിടക്കുന്ന, അറിയപ്പെടേണ്ടുന്ന എന്നാൽ അറിയാൻ ബാക്കി വച്ച പ്രകൃതി സൗന്ദര്യത്തിന്റെ ഒരു തുരുത്താണ്.",
+                  "= യാത്ര സൗകര്യം =\nകല്ലാറ്റിൽ നിന്നു തുടങ്ങിയ യാത്രയിൽ മാങ്കുളത്തേക്ക് പതിനേഴ് കിലോമീറ്റർ എന്ന പൊതുമരാമത്ത് വകുപ്പിന്റെ ബോർഡ് സഞ്ചാരികളെ സ്വാഗതം ചെയ്യുന്നു. വീതി കൂടിയ ദേശീയ പാതയിൽ നിന്നും ഇടുങ്ങിയതും ഗട്ടറുകൾ നിറഞ്ഞതുമായ പതിനേഴ് കിലോമീറ്റർ ദൂരം താണ്ടുക എന്നതാണ് യാത്രയ്ക്കിടയിലെ പ്രധാന വെല്ലുവിളി. ഇടയ്ക്കിടെ വന്നു പോകുന്ന സ്വകാര്യ ബസുകളാണ് പ്രദേശത്തേക്കുളള തരക്കേടില്ലാത്ത യാത്രാ സംവിധാനം. വളഞ്ഞും തിരിഞ്ഞും പോകുന്ന റോഡിലൂടെ കുരിശുപാറയും പീച്ചാടും പിന്നിട്ടാൽ മറ്റൊരു ലോകമായി. മാനം മുട്ടെ വളർന്നു നിൽക്കുന്ന വന്മരങ്ങൾക്കിടയിലൂടെ നുരഞ്ഞൊഴുകു കാട്ടാറിനരികിലൂടെ സുഗന്ധം പൊഴിക്കുന്ന ഏലച്ചെടികൾക്കിടയിലൂടെയുളള യാത്ര ഏതൊരു സൗന്ദര്യാസ്വാദകന്റയും മനസ്സിൽ എണ്ണമറ്റ പൂക്കൾ വിരിയിക്കും. വലിയ മരങ്ങൾ പിന്നിട്ട് റോഡിനിരുവശവും പരന്ന് കിടക്കുന്ന തേയിലത്തോട്ടങ്ങൾക്കിടയിലൂടെയാണ് പിന്നീടുളള സഞ്ചാരം. നിരനിരയായി വെട്ടി നിർത്തിയിരിക്കുന്ന തേയില ചെടികൾക്കിടയിൽ വളർന്നു നിൽക്കുന്ന ചൗക്ക മരങ്ങളും കരിവീരന്റെ ഗാംഭീര്യത്തോടെ ഉയർന്നു നിൽക്കുന്ന പാറക്കൂട്ടങ്ങളും മണ്ണിലേക്ക് പെയ്തിറങ്ങാൻ വെമ്പുന്ന മഞ്ഞു കണങ്ങളും അങ്ങനെ \nമാമരങ്ങൾക്കിടയിൽ നിന്നും വിശാലമായ പച്ച വിരിച്ച് കിടക്കുന്ന തേയില ചെടികൾക്കിടയിലൂടെ സഞ്ചരിക്കുമ്പോൾ കഴിഞ്ഞ് പോകുന്ന സുന്ദര നിമിഷങ്ങളെ ഓർമകൾക്കൊപ്പം ചേർത്ത് നിർത്താൻ മത്സരിച്ച് ചിത്രങ്ങൾ പകർത്തുന്ന",
+                  "സഞ്ചാരികളെ വഴിയരികുകളിൽ കാണാം. \nമൂന്നാറിനോട് ചേർന്നു കിടക്കുന്ന പ്രദേശമാണെങ്കിലും ആഡംബരത്തിന്റെ വലിയ റിസോർട്ടുകളോ മുന്തിയ ഹോട്ടലുകളോ വാഹനങ്ങളുടെ തിരക്കോ ഒന്നും ഈ ഗ്രാമത്തിൽ കാണാൻ കഴിയില്ല. പകരം എവിടേക്ക് നോക്കിയാലും മാനം മുട്ട ഉയർന്നു നിൽക്കുന്ന മലകളും മലകൾക്കപ്പുറം മാനത്തെ തഴുകുന്ന മേഘ പാളികളും മാത്രം. താമസ സൗകര്യത്തിനായി വിരലിലെണ്ണാവുന്ന ഏതാനും ചില ലോഡ്ജുകളെ ആശ്രയിക്കുക എന്നതാണ് മാങ്കുളത്തെത്തിയാൽ ചെയ്യേണ്ട ആദ്യ ജോലി. ദീർഘ നേരത്തെ യാത്രാക്ഷീണം ഒഴിവാക്കാൻ ഗ്രാമത്തിലെ തണുത്ത വായു മാത്രം ശ്വസിച്ചാൽ മതിയാവും. 123 ചതുരശ്ര കിലോമീറ്റർ വിസ്തീർണ്ണമുളള ഗ്രാമത്തിൽ 12000 ജനസംഖ്യ മാത്രമാണുള്ളത്. ചരിത്രം പരിശോധിച്ചാൽ പൂഞ്ഞാർ രാജാക്കന്മാരുടെ കീഴിലായിരുന്നു ഈ പ്രദേശമെന്നു മനസ്സിലാക്കാം. ബ്രിട്ടീഷ് ആധിപത്യത്തിന്റെ ആഢത്വം വിളിച്ചോതുന്ന അവശേഷിപ്പുകൾ ഇന്ന് മാങ്കുളത്ത് ബാക്കിയായിട്ടുണ്ട്. ജനവാസ മേഖലകളെക്കാളും വനപ്രദേശമാണ് ഗ്രാമത്തിൽ അധികമായുളളത് എന്നതാണ് മാങ്കുളത്തിന്റെ വലിയ സവിശേഷതകളിൽ ഒന്ന്.",
+                  "= കാലാവസ്ഥ =\nവ്യത്യസ്തങ്ങളായ മൂന്ന് തരത്തിലുളള കാലാവസ്ഥയാണ് മാങ്കുളത്തിന്റെ ഏറ്റവും വലിയ പ്രത്യേകത. നവംബർ-ഡിസംബർ മാസങ്ങളിൽ പൂജ്യത്തിലും താഴെ അന്തരീക്ഷ ഊഷ്മാവ് എത്തുന്ന വിരിപ്പാറ, തണുപ്പും ചൂടും സമിശ്രമായ മാങ്കുളം, ചൂടേറെയുളള ആനക്കുളം; ഏതാണ്ട് പതിനഞ്ച് കിലോമീറ്റർ ദൂരത്തിനുളളിൽ തന്നെ വ്യത്യസ്തങ്ങളായ ഈ മൂന്നു കാലാവസ്ഥയും അനുഭവിക്കാൻ കഴിയും. മാങ്കുളത്തെത്തിയാൽ ആശ്രയിക്കാവുന്ന ഏറ്റവും നല്ല വാഹനം ജീപ്പ് തന്നെയാണ്. മണ്ണും കല്ലും നിറഞ്ഞ വഴികളിലൂടെ സഞ്ചരിക്കാൻ ഇതിലും ഉചിതമായ മറ്റൊരു വാഹനം അവിടെ കിട്ടാനില്ലായെന്നതു തന്നെയാണ് അതിന്റെ പ്രധാന കാരണം. മാങ്കുളത്തിന്റെ വിവിധ മേഖലകളിലേക്കു സഞ്ചരിക്കാൻ തയ്യാറായി കിടക്കുന്ന ടാക്‌സി ജീപ്പുകൾ അവിടെ കാണാം.",
+                  "= വെളളച്ചാട്ടങ്ങൾ =",
+                  "ഉയരത്തിൽ നിന്നും ഇടതടവില്ലാതെ നുരഞ്ഞ് പതഞ്ഞ് താഴേക്ക് പതിക്കുന്ന ഒന്നിലധികം വെളളച്ചാട്ടങ്ങളാൽ സമ്പന്നമാണ് ഇവിടം. ചിന്നാർ വെളളച്ചാട്ടം, വിരിപ്പാറ വെളളച്ചാട്ടം, കോഴിവാലൻക്കുത്ത്, പെരുമ്പൻകുത്ത്, നക്ഷത്രകുത്ത് തുടങ്ങി അരഡസനിലധികം വെളളച്ചാട്ടങ്ങൾ മാങ്കുളത്തുണ്ട്. അവയിലേറെയും ഇരുന്നൂറ് ഇരുന്നൂറ്റമ്പത് അടിക്കുമേൽ ഉയരത്തിൽ നിന്നുമാണ് വെള്ളം താഴേക്കു പതിക്കുന്നത്. കലർപ്പില്ലാത്ത ശുദ്ധജലമാണ് എന്നു മാത്രമല്ല ശരീരം കോച്ചുന്നത്ര തണുപ്പുമാണ് അതിന്. വെളളച്ചാട്ടങ്ങളാൽ സമ്പന്നമായതിനാലാവണം സ്വന്തമായി വൈദ്യുതി ഉത്പാദിപ്പിച്ച് വൈദ്യുതി ബോർഡിന് വിൽപ്പന നടത്തുന്ന സംസ്ഥാനത്തെ ഏക പഞ്ചായത്ത് എന്ന ബഹുമതി മാങ്കുളത്തിനുണ്ട്. നക്ഷത്രകുത്തിനോട് ചേർന്നാണ് ഇത്തരത്തിൽ വൈദ്യുതി ഉത്പ്പാദിപ്പിക്കുന്ന പവർഹൗസും മറ്റ് അനുബന്ധ ഉപകരണങ്ങളും.",
+                  "= ആനക്കുളം =",
+                  "കാട്ടാനക്കൂട്ടം പതിവായി വെളളം കുടിക്കാനെത്തുന്ന ആനക്കുളമാണ് മാങ്കുളത്തിന്റെ ഏറ്റവും ആകർഷീയമായ കേന്ദ്രം. ഈ അപൂർവ സുന്ദര കാഴ്ച കാണാൻ ദിവസവും ഒട്ടേറെ സഞ്ചാരികൾ ആനക്കുളത്തെത്താറുണ്ട്. ആനക്കുളത്ത് വനത്തിനോട് ചേർന്നു കിടക്കുന്ന പുഴയിലാണ് ഗജവീരന്മാറരുടെ നീരാട്ട.വേനൽക്കാലമാകുന്നതോടെ ഉൾവനങ്ങളിൽ രൂക്ഷമായ ജലക്ഷാമം അനുഭവപ്പെടും. ഈ സമയത്ത് കുടിക്കാനും കുളിക്കാനുമുളള വെളളം തേടിയാണ് കാട്ടാനക്കൂട്ടം ആനക്കുളത്തെത്താറുളളത്. പുഴയിലെ ഒരു പാറയുടെ കീഴിൽ നിന്നുയരുന്ന കുമിളകൾക്ക് ഉപ്പ് രസം ഉണ്ടെന്നും ഓര് എന്ന് പ്രദേശവാസികൾ വിളിക്കുന്ന ഈ ഓര് വെളളം ആനകൾക്ക് ഏറെ പ്രിയപ്പെട്ടതാണെന്നും ഇത് കുടിക്കുവാനായാണ് ദിവസേന നിരവധിയായ ആനകൾ ഇവിടേക്ക് എത്തുന്നതെന്നും പറയപ്പെടുന്നു. മുപ്പത് ആനകൾ വരെ കൂട്ടമായി എത്തിയ ദിവസങ്ങൾ ഉണ്ടെന്നു പ്രദേശവാസികൾ പറഞ്ഞു. ഈ കാട്ടാന കൂട്ടത്തിന്റെ സാമീപ്യം മൂന്ന് നാല് മാസത്തോളം ഇവിടെയുണ്ടാകും. മഴക്കാലം ആരംഭിക്കുമ്പോൾ മാത്രമാണ് ഇവ തിരികെ ഉൾവനങ്ങളിലേക്ക് പോകാറുളളത്രേ. കുട്ടിയാനകൾ മുതൽ കൊലകൊമ്പന്മാാർ വരെ പുഴയിൽ കളിച്ച് തിമിർക്കുമ്പോൾ പുഴയോട് ചേർന്നുളള വലിയ മൈതാനത്ത് കുട്ടികൾ കാൽപ്പന്ത് കളിക്കുന്നത് ഏറെ കൗതുകത്തോടെ മാത്രമേ കാണാൻ കഴിയൂ. വെളളം കുടിക്കാൻ എത്തുന്ന ആനകൾ പുഴ കടന്ന് ജനവാസ മേഖലയിലേക്ക് വരികയോ ആളുകളെ ഉപദ്രവിക്കുകയോ ചെയ്യാറില്ല എന്നും ഇവിടുത്തുകാർ പറഞ്ഞു. ആനക്കൂട്ടം വിഹരിക്കുന്ന ആനക്കുളം ഫോറസ്റ്റ് റെയ്ഞ്ചിന് കീഴിലുളള ഈ വനമേഖലയും സഞ്ചാരികളെ ത്രസിപ്പിക്കുതാണ്. പച്ചപ്പ് നിറഞ്ഞ പുൽമൈതാനത്താണ് ആനകളെ കാണാൻ സഞ്ചാരികൾ തമ്പടിക്കാറ്. വൻ മരങ്ങളാലും ജൈവസമ്പത്താലും അനുഗൃഹീതമായ ഈ വന മേഖലയിൽ അപൂർവ ഇനത്തിൽപ്പെട്ട വേഴാമ്പൽ ഉൾപ്പെടെയുളള പക്ഷികളുടെ സംരക്ഷിത മേഖല കൂടിയാണ്.",
+                  "= ആദിവാസികൾ =\nപ്രകൃതിയുമായി ഏറെ അടുത്തിടപ്പഴകുന്ന ആദിവാസി വിഭാഗങ്ങളുടെ ജീവിതം നേരിട്ട് കണ്ടറിയാൻ മാങ്കുളത്തേക്കുളള യാത്ര സഹായിക്കുമെന്നത് മറ്റൊരു പ്രത്യേകതയാണ്. ജനസാന്ദ്രത നന്നേ കുറഞ്ഞ മാങ്കുളത്ത് ഏകദേശം ഇരുപത്തഞ്ച് ശതമാനത്തോളം ആദിവാസി ജനതയാണ് ഉളളത്. പ്ലാമലക്കുടി, താളുകണ്ടം കുടി, വിരിപാറ ആദിവാസി സെറ്റിൽമെന്റ്, കോഴിയിളക്കുടി, ചിക്കണംകുടി, ശേവലുക്കുടി, കളളക്കൂട്ടി കുടി തുടങ്ങിയ മേഖലകളിലാണ് ആദിവാസി ജനത ജീവിച്ച് വരുന്നത്. മുതുവാൻ, മാൻ സമുദായത്തിൽപ്പെടുന്ന ‘ ആദിവാസി വിഭാഗങ്ങളെയാണ് ഇവിടെ കണ്ട് വരുന്നത്. ഉൾക്കാടുകളിൽ തങ്ങളുടേതായ പാരമ്പര്യ ജീവിത ശൈലി നയിക്കുന്ന ഇവർ അത്യാവശ്യ സാഹചര്യങ്ങളിൽ മാത്രമാണ് പുറംലോകവുമായി ബന്ധപ്പെടാറ്. ഭാഷ, വസ്ത്രധാരണ രീതി, ആചാരങ്ങൾ, ഭക്ഷണം, പണ സമ്പാദനം എന്നിവയിലൊക്കെ ഏറെ കൗതുകകരമായ കാഴ്ചകളാണ് ഈ ആദിവാസി ജനത കാണിച്ച് തരുന്നത്. തമിഴ് മിശ്രമായ മലയാള ഭാഷയാണ് പൊതുവായി ഇവർ ഉപയോഗിക്കുന്നത് എങ്കിൽ കൂടിയും ഈ വിഭാഗത്തിന്റെ തനതായ ഭാഷയ്ക്ക് ലിപി ഇല്ലയെന്നതാണ് ഏറ്റവും വലിയ പ്രത്യേകത. കടുംനിറത്തിലുളള വസ്ത്രങ്ങൾ കൂടുതലായി ഉപയോഗിക്കുന്ന ഇവർ ധാരാളമായി ആഭരണങ്ങളും അണിയാറുണ്ട്. വെറ്റില കൂട്ടി മുറുക്കുക എന്നത് ഇവരുടെ ദൈനംദിന ജീവിതത്തിന്റെ ഭാഗമാണ്. പുരുഷന്മാർ പലരും മുടി നീട്ടി വളർത്തിയിട്ടുണ്ടാകും. വന വിഭവങ്ങളാണ് ഇവരുടെ പ്രധാന വരുമാന മാർഗം. മൂർച്ചയുള്ള ഒരായുധം ഇവർ എപ്പോഴും കൈയ്യിൽ",
+                  "കരുതും. പ്രായപൂർത്തിയായ ആൺകുട്ടികളും പെൺകുട്ടികളും വീടുകളിൽ നിന്നും മാറി വനത്തിനുള്ളിൽ വെവ്വേറെ വീടുകൾ നിർമ്മിച്ചാണ് താമസിക്കാറ്. ഗോത്രത്തിനുള്ളിലെ പ്രശ്‌ന പരിഹാരത്തിനായി ഊരു മൂപ്പൻ ഇവർക്കു ണ്ടായിരിക്കും. ആർത്തവ സമയങ്ങളിൽ ഈ വിഭാഗത്തിലെ സ്ത്രീകൾ ‘വാലായ്മപ്പുരകൾ’ എന്നു പേരിട്ടിരിക്കുന്ന കുടിലുകളിൽ മാറിയാണ് താമസിക്കാറ്. ഗോത്രത്തിനകത്തും ഗോത്രത്തിനുപുറത്തും ഉള്ള അന്യപുരുഷന്മാരുടെ മുമ്പിൽ കഴിവതും ഈ വിഭാഗത്തിലെ സ്ത്രീകൾ വരാറില്ല. മരച്ചീനി, ചേമ്പ് ,തിന ,ചോളം , തുവര എന്നിവയൊക്കെയാണ് ഇവരുടെ പ്രധാന കൃഷികൾ. ഈറ്റ ഉപയോഗിച്ച് തീർത്ത വയായിരിക്കും ഇവരുടെ കുടിലുകൾ. തെറ്റ് ചെയ്താൽ ഊര് വിലക്കുൾപ്പെടെയുള്ള ശക്തമായ ശിക്ഷാവിധികളും ഈ ജനവിഭാഗം പിന്തുടർന്നു വരുന്നുണ്ട്. ഇത്തരത്തിൽ കൗതുകമുണർത്തുന്ന ഒരു ജനവിഭാഗത്തെ അടുത്തറിയാനുള്ള ഒരു സാഹചര്യവും മാങ്കുളത്തേക്കുള്ള യാത്രയിലൂടെ സാധിച്ചെടുത്തു.",
+                  "= കാർഷികവൃത്തി =\nസമ്പൂർണ്ണ ജൈവഗ്രാമം കൂടിയാണ് മാങ്കുളം. കാർഷികവൃത്തിയുടെ കാര്യത്തിൽ ഈ ഗ്രാമം ഏതാണ്ട് സ്വയംപര്യാപ്തമാണ്. ഏലം, റബ്ബർ, കാപ്പി ,കുരുമുളക്, തേയില എന്നിവയ്ക്കു പുറമെ വാഴ, മരച്ചീനി, നെല്ല് ,ചേമ്പ്, ചേന തുടങ്ങിയ ഭക്ഷ്യവിളകളും ഇവിടുത്തെ കർഷകർ ഉത്പാദിപ്പിച്ചുവരുന്നു. മാങ്കുളത്തെ ജനസംഖ്യയിൽ 99 ശതമാനം ആളുകളും കർഷകരാണ് എതാണ് ഇവിടുത്തെ പ്രത്യേകത. ജൈവകൃഷി പിന്തുടരുന്ന മാങ്കുളത്തെ കർഷകർക്ക് 100 മേനി വിജയമാണ് ഇവിടുത്തെ മണ്ണും കാലാവസ്ഥയും സമ്മാനിക്കുന്നത്. 100 കിലോയ്ക്ക് മുകളിൽ തൂക്കമുള്ള വാഴക്കുലകളും ഒറ്റക്കെടുത്തുയർത്താൻ പറ്റാത്ത മരച്ചീനിയുടെ കിഴങ്ങുകളും ഈ ജൈവഗ്രാമത്തിൻെ്‌റ പ്രത്യേകതകളാണ്. ഉത്പന്നങ്ങൾ വിറ്റഴിക്കുന്നതിനായി കർഷക വിപണിയും ഇവിടെയുണ്ട്. കാർഷിക മേഖലയോടും മൃഗപരിപാലനത്തോടും ചേർന്നു നിന്നുകൊണ്ടുള്ള വിനോദസഞ്ചാരത്തേയും ഇവിടുത്തുകാർ പ്രോത്സാഹിപ്പിക്കുന്നുണ്ട്. നിരവധിയായ സ്‌പൈസസ് ഗാർഡനുകളും ഫാമുകളും സഞ്ചാരികൾക്കായി ഇവിടെ തുറന്നിട്ടുണ്ട്. മീൻ പിടിക്കുക എന്ന തനി നാടൻ ശൈലിയെ തന്നെ ഇവിടുത്തുകാർ ടൂറിസത്തിന്റെ ഭാഗമാക്കി മാറ്റിയിട്ടുണ്ട്. നിശ്ചിത തുകയടച്ച് സഞ്ചാരികൾക്ക് ചൂണ്ടയിട്ടു രസിച്ച് യാത്ര അവിസ്മരണീയമാക്കാവുന്നതാണ്. ഇവിടുത്തെ കുടുംബങ്ങളിലധികവും വിഷമയമല്ലാത്ത പച്ചക്കറികളാണ് ഏറെയും ഉപയോഗിക്കുന്നത് അവയൊക്കെ തന്നെയും അവരവരുടെ തൊടികളിൽ വിളഞ്ഞവയുമാണ്.",
+                  "= ട്രീഹൗസുകൾ =\nവലിയ മരങ്ങളുടെ ശിഖരങ്ങളിൽ നിർമ്മിച്ചിരിക്കുന്ന ഏറുമാടങ്ങൾ അഥവ ട്രീ ഹൗസുകളാണ് മാങ്കുളത്തെ മറ്റൊരു ആകർഷണ കേന്ദ്രം. ആദ്യകാലത്ത് ഈ മേഖലയിൽ ട്രീഹൗസുകൾ നിർമ്മിച്ചിരുന്നത് കാട്ടുമൃഗങ്ങളിൽ നിന്നു രക്ഷനേടാനായിരുന്നു എങ്കിൽ ഇപ്പോൾ സഞ്ചാരികളെ ആകർഷിക്കാനാണ് ഇത്തരം വീടുകൾ നിർമ്മിക്കുന്നത്. നിലത്തുനിന്നും ഗോവണികയറി മുകളിലെത്തിയാൽ ഒരുകൊച്ചു വീടിനു സമാനമായ എല്ലാക്രമീകരണങ്ങളും ഈ ട്രീഹൗസുകളിൽ ഒരുക്കിയിട്ടുണ്ട്. ഭൂമിക്കും ആകാശത്തിനുമിടയിൽ മാമരങ്ങൾക്ക് മുകളിൽ അങ്ങനെ നിൽക്കുമ്പോൾ മനസ്സിൽ അൽപ്പം ഭയം കയറിപ്പറ്റാതില്ല. എങ്കിലും ഇളം കാറ്റേറ്റ് ഇലകളുടെ മർമ്മരങ്ങൾക്ക് കാതോർത്ത് വനത്തിനുള്ളിലെ പറുദീസയിൽ ദൂരേക്ക് കണ്ണും നട്ടങ്ങനെ നിൽക്കുക എന്നത് ഏറെ ആസ്വദ്യകരം തന്നെ. വലിയ കാട്ടാറിനു കുറുകെ ബലിഷ്ഠമായ കമ്പികൾ ബന്ധിപ്പിച്ച് നിർമ്മിച്ചിരിക്കുന്ന പാലങ്ങളാണ് കാഴ്ച്ചക്കാരെ അമ്പരപ്പിക്കുന്ന മറ്റൊരു വസ്തു. ‘ആട്ടുപാല’മെന്നും ‘തൂക്കുപാല’മെന്നുമൊക്കെ പ്രദേശവാസികൾ പേരിട്ടുവിളിക്കുന്ന ഈ പാലത്തിലൂടെയുള്ള സാഹസികയാത്രക്ക് അൽപം മനോധൈര്യം തന്നെ വേണം. പാലത്തിൽ കാലെടുത്തുവയ്ക്കുമ്പോൾ മുതൽ പാലം താഴേക്കും മുകളിലേക്കും ഒരു താളത്തിൽ ആടാൻ തുടങ്ങും. ആ താളത്തിനൊത്ത് കാലുകൾ പറിച്ച് വച്ച് മറുകര എത്തുക എന്നത് ഏറെ ശ്രമകരം തന്നെ. ഇടക്കെങ്ങാനും വെള്ളത്തിലേക്ക് നോക്കിയാൽ പാലമുൾപ്പെടെ ഒഴുകിപ്പോകുന്നതായി തോന്നും അതിനാൽ പാലത്തിൽ കയറുമ്പോൾ മുതൽ മുമ്പോട്ടു മാത്രമെ നോക്കാവു എന്ന് പ്രദേശവാസികൾ മുറിയിപ്പ് തരുന്നു. കാര്യങ്ങൾ ഇത്തരത്തിലൊക്കെയാണെങ്കിലും സ്‌കൂൾ വിദ്യാർത്ഥികൾ മുതൽ പ്രായമായവർ വരെ യാതൊരു സങ്കോചവുമില്ലാതെ കൈകൾപോലും പിടിക്കാതെ പാലത്തിലൂടെ അക്കരയിക്കരെ യാത്ര ചെയ്യുന്നത് ഏറെ അത്ഭുതത്തോടെ നോക്കിനിന്നു.",
+                  "= ചരിത്രം =\nമുമ്പ് സൂചിപ്പിച്ച പോലെ രാജഭരണത്തിന്റെയും ബ്രിട്ടീഷ് ഭരണത്തിന്റെയും അവശേഷിപ്പുകൾ കൂടികണ്ടശേഷമേ മാങ്കുളത്തു നിന്നും മടങ്ങാൻ മനസ് അനുവദിക്കുകയുള്ളു. പൂഞ്ഞാർ രാജഭരണ കാലത്ത് നിർമിച്ച ബംഗ്ലാവുകളുടെ അവശിഷ്ടങ്ങൾ ഇപ്പോഴും മാങ്കുളത്തുണ്ട്.’ബംഗ്ലാവ് തറ’ എന്ന സ്ഥലവാസികൾ പേരിട്ടു വിളിക്കുന്ന ഈ ചരിത്ര ഭൂമിയിൽ നിന്നു പ്രദേശവാസികൾക്ക് വളരെ വിലപ്പെട്ട’ മുത്തുകളും സ്വർണ്ണ മണികളും ദ്രവിച്ച് തീർന്ന ആയുധങ്ങളും അടുത്ത കാലത്ത് ലഭിച്ചിരുന്നു എന്നാണ് പറയുന്നത്. ബ്രിട്ടീഷ് ഭരണ കാലത്ത് കുതിര കുളമ്പടികളാൽ മുഖരിതമായിരുന്ന പഴയ ആലുവ-മൂന്നാർ റോഡിന്റെ ഭാഗങ്ങളും യാത്രക്കിടയിൽ കാണാൻ സാധിക്കും. നൂറ് വർഷങ്ങൾക്കപ്പുറം ഉണ്ടായ ശക്തമായ വെള്ളലപ്പാച്ചിലിനെയും ഉരുൾപ്പൊട്ടലിനെയും അതിജീവിച്ച പാലങ്ങളുടെയും കലുങ്കുകളുടെയും ബാക്കിപത്രം ഇപ്പോഴും കൗതുകം ജനിപ്പിക്കുന്നതാണ്. സാങ്കേതിക വിദ്യ വികസിക്കാത്ത കാലത്ത് പോലും ഭീമാകാരമായ കരിങ്കല്ലുകൾ കീറി ഉണ്ടാക്കിയ വലിയ കരിങ്കൽ പാളികൾ ഉപയോഗിച്ചാണ് കലുങ്കുകളും പാലങ്ങളും അക്കാലത്ത് നിർമ്മിച്ചിരുന്നത്. ആലുവ മുതൽ മൂന്നാർ വരെയുളള രാജപാതയിൽ ഒരിടത്തും കാര്യമായ കയറ്റിറക്കങ്ങൾ ഇല്ല എന്നതും കാഴ്ചക്കാരനെ അമ്പരിപ്പിക്കുന്നു.\nപ്രകൃതിയുടെ മടിത്തട്ടിൽ പശ്ചിമഘട്ട മലനിരകളോട് ചേർന്നു കിടക്കുന്ന ഈ കൊച്ചു ഗ്രാമം സഞ്ചാരികളെ മാടിവിളിക്കുകയാണ്. കാറ്റിന്റെ ഇളം സ്പർശനത്തിൽ നിന്നും ഇലകളുടെ മർമ്മരങ്ങളിൽ നിന്നും അകന്ന് തേയില കാടുകൾക്കിടയിലൂടെ തിരികെ മൂന്നാറിലേക്ക് മടങ്ങുമ്പോൾ മനസ്സ് മാത്രം ഒപ്പമെത്തിയില്ല. വീണ്ടും ഒരു മടങ്ങി വരവിനായി കാതോർക്കുന്ന നിശ്ശബ്ദതക്കൊപ്പം മനസ്സും അലിഞ്ഞ് ചേർന്നിരുന്നു.",
+                  "= അതിരുകൾ =\nവടക്ക് - മൂന്നാർ പഞ്ചായത്ത്\nതെക്ക് - അടിമാലി പഞ്ചായത്ത്\nകിഴക്ക് - മൂന്നാർ, പള്ളിവാസൽ പഞ്ചായത്തുകൾ\nപടിഞ്ഞാറ് - കുട്ടമ്പുഴ, അടിമാലി പഞ്ചായത്തുകൾ",
+                  "== വാർഡുകൾ ==\nആനക്കുളം നോർത്ത്\nശേവൽകുടി\nഅന്പതാം മൈൽ\nആറാംമൈൽ\nമാങ്കുളം\nമുനിപാറ\nവിരിപാറ\nപാമ്പുംകയം\nതാളുംകണ്ടം\nവേലിയാംപാറ\nവിരിഞ്ഞപാറ\nപെരുംപന്കുത്ത്\nആനക്കുളം സൌത്ത്"
+                ]
+              },
+              "ur": {
+                "title": "منکلام، ایڈوکی",
+                "extract": [
+                  "منکلام، ایڈوکی (انگریزی: Mankulam, Idduki) بھارت کا ایک پنچایت جو ایڈوکی ضلع میں واقع ہے۔",
+                  "== تفصیلات ==\nمنکلام، ایڈوکی کی مجموعی آبادی 9,595 افراد پر مشتمل ہے۔"
+                ]
+              },
+              "uz": {
+                "title": "Mankulam (Idduki)"
               }
             }
           },
