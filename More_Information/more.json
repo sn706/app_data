@@ -1,293 +1,226 @@
 [
   {
-    "id": "blog_1792943084028",
-    "title": "ജെമിനി (ചാറ്റ്ബോട്ട്)",
-    "subtitle": "",
-    "category": "വിക്കിപീഡിയ",
-    "author": "വിക്കിപീഡിയ",
-    "date": "25 October 2026",
-    "blocks": [
-      {
-        "type": "paragraph",
-        "text": "ഗൂഗിൾ വികസിപ്പിച്ചെടുത്ത ഒരു ജനറേറ്റീവ് ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് ചാറ്റ്ബോട്ടാണ് ജെമിനി. ഓപ്പൺഎഐയുടെ ചാറ്റ്ജിപിടിയുടെ ഉയർച്ചയ്ക്ക് മറുപടിയായാണ് ഗൂഗിൾ 2023 ൽ ഇത് സമാരംഭിച്ചത്. ജെമിനി മുമ്പ് ലാഎംഡിഎ , പിഎഎൽഎം എൽഎൽഎമ്മുകളെ അടിസ്ഥാനമാക്കിയുള്ളതായിരുന്നു.\n2021-ൽ ലാഎംഡിഎ വികസിപ്പിച്ച് പ്രഖ്യാപിച്ചിരുന്നെങ്കിലും, അത് പൊതുജനങ്ങൾക്ക് ലഭ്യമായിരുന്നില്ല. 2022 നവംബറിൽ ഓപ്പൺഎഐയുടെയും ചാറ്റ്ജിപിടിയുടെയും ആരംഭവും തുടർന്നുള്ള അതിന്റെ ജനപ്രീതിയും ഗൂഗിൾ എക്സിക്യൂട്ടീവുകളെ അസ്വസ്ഥതരാക്കി. തുടർന്നുള്ള മാസങ്ങളിൽ ഇത് വലിയ പ്രതികരണങ്ങൾക്ക് കാരണമായി. ഗൂഗിൾ തങ്ങളുടെ ജീവനക്കാരെ AIക്ക് വേണ്ടി സജ്ജമാക്കിയതിനുശേഷം, 2023 മാർച്ചിൽ പരിമിതമായ ശേഷിയിൽ ബാർഡ് എന്ന ഒരു ചാറ്റ് ബോട്ട് ആരംഭിച്ചു. മെയ് മാസത്തിൽ ഇത് മറ്റ് രാജ്യങ്ങളിലേക്ക് വ്യാപിപ്പിച്ചു. 2023 ലെ ഗൂഗിൾ ഐ\/ഒ കീനോട്ടിൽ ബാർഡ് ഒരു കേന്ദ്രബിന്ദുവായി. ഡിസംബറിൽ ബാർഡ് ജെമിനി എൽഎൽഎമ്മിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യപ്പെട്ടു. 2024 ഫെബ്രുവരിയിൽ, ഗൂഗിളിന്റെ മറ്റൊരു ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് ഉൽപ്പന്നമായ ബാർഡും ഡ്യുയറ്റ് എഐയും ജെമിനി ബ്രാൻഡിന് കീഴിൽ ഏകീകരിക്കപ്പെട്ടു."
-      },
-      {
-        "type": "image",
-        "url": "https:\/\/thumb.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9b\/Google_Gemini_Screenshot_%282026%29.png\/960px-Google_Gemini_Screenshot_%282026%29.png?utm_source=ml.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "caption": "ജെമിനി (ചാറ്റ്ബോട്ട്)",
-        "author": "വിക്കിമീഡിയ കോമൺസ് \/ വിക്കിപീഡിയ",
-        "license": "CC BY-SA 4.0",
-        "description": ""
-      },
-      {
-        "type": "subtitle",
-        "text": "പശ്ചാത്തലം"
-      },
-      {
-        "type": "paragraph",
-        "text": "2022 നവംബറിൽ വലിയ ഭാഷാ മോഡലുകളുടെ (LLMs) GPT-3 യെ അടിസ്ഥാനമാക്കിയുള്ള ഒരു ചാറ്റ്ബോട്ടായ ചാറ്റ്ജിപിടി ഓപ്പൺഎഐ ആരംഭിച്ചു.  ChatGPT പീന്നീട് ലോകമെമ്പാടും ശ്രദ്ധ നേടി, ഒരു വൈറൽ ഇന്റർനെറ്റ് സെൻസേഷനായി മാറി. Google തിരയലിനെതിരെ ChatGPT യുടെ ഭീഷണിയിൽ പരിഭ്രാന്തരായ Google എക്സിക്യൂട്ടീവുകൾ അതിനെതിരെ ഒരു \"കോഡ് റെഡ്\" അലേർട്ട് പുറപ്പെടുവിച്ചു. കമ്പനിയുടെ കൃത്രിമ ബുദ്ധി (AI) ശ്രമങ്ങളിൽ സഹായിക്കാൻ ഗൂഗിൾ നിരവധി ടീമുകളെ നിയോഗിച്ചു. Google ന്റെയും മാതൃ കമ്പനിയായ ആൽഫബെറ്റിന്റെയും സിഇഒ സുന്ദർ പിച്ചൈ ഈ അലേർട്ട് പുറപ്പെടുവിച്ചതായി വ്യാപകമായി റിപ്പോർട്ട് ചെയ്യപ്പെട്ടു. എന്നാൽ പിച്ചൈ പിന്നീട് ന്യൂയോർക്ക് ടൈംസിനോട് ഇത് നിഷേധിച്ചു. ഒരു അപൂർവ നീക്കത്തിൽ, 2019 ൽ ആൽഫബെറ്റിന്റെ സഹ-സിഇഒമാരായി സ്ഥാനമൊഴിഞ്ഞ Google സഹസ്ഥാപകരായ ലാറി പേജും സെർജി ബ്രിനും , ChatGPT യോടുള്ള ഗൂഗിളിന്റെ പ്രതികരണത്തെക്കുറിച്ച് ചർച്ച ചെയ്യാൻ കമ്പനി എക്സിക്യൂട്ടീവുകളുമായി അടിയന്തര യോഗങ്ങളിൽ പങ്കെടുത്തു. വർഷങ്ങൾക്ക് ശേഷം ആദ്യമായി, 2023 ഫെബ്രുവരിയിൽ ബ്രിൻ ഗൂഗിളിന്റെ കോഡിലേക്കുളള ആക്‌സസ് അഭ്യർത്ഥിച്ചു.\n2021-ൽ ഗൂഗിൾ ലാംഡ എന്ന പ്രോട്ടോടൈപ്പ് എൽഎൽഎം പുറത്തിറക്കിയിരുന്നു. എന്നാൽ അത് പൊതുജനങ്ങൾക്ക് ലഭ്യമായിരുന്നില്ല. ചാറ്റ്ജിപിടിയുമായി മത്സരിക്കുന്നതിന് ലാംഡ ഒരു അവസരം നഷ്ടപ്പെടുത്തിയതാണോ എന്ന് പിന്നീട് ഒരു മീറ്റിംഗിൽ ജീവനക്കാർ ചോദിച്ചപ്പോൾ, കമ്പനിക്ക് ചാറ്റ്ജിപിടിയുമായി സമാനമായ കഴിവുകളുണ്ടെങ്കിലും, ഓപ്പൺഎഐയേക്കാൾ ഗൂഗിൾ ഗണ്യമായി വലുതായതിനാൽ ആ രംഗത്ത് വളരെ വേഗത്തിൽ നീങ്ങുന്നത് ഒരു വലിയ \"പ്രശസ്തിത്വ അപകടസാധ്യത\"യെ പ്രതിനിധീകരിക്കുമെന്ന് പിച്ചൈയും ഗൂഗിൾ എഐ മേധാവി ജെഫ് ഡീനും പറഞ്ഞു. 2023 ജനുവരിയിൽ, ഗൂഗിൾ ബ്രെയിൻ സഹോദര കമ്പനിയായ ഡീപ്പ് മൈൻഡ് സിഇഒ ഡെമിസ് ഹസാബിസ് ഒരു ചാറ്റ്ജിപിടി എതിരാളിക്കുള്ള പദ്ധതികളെക്കുറിച്ച് സൂചന നൽകി. കൂടാതെ ഗൂഗിൾ ജീവനക്കാർക്ക് തങ്ങളുടെ എതിരാളിയുടെ പുരോഗതി ത്വരിതപ്പെടുത്താൻ നിർദ്ദേശം നൽകി. \"അപ്രന്റീസ് ബാർഡ്\" ഉം മറ്റ് ചാറ്റ്ബോട്ടുകളും ഇതിനായി അവർ തീവ്രമായി പരീക്ഷിച്ചു. ഫെബ്രുവരിയിൽ ഗൂഗിളിന്റെ ത്രൈമാസ വരുമാന നിക്ഷേപക സംവാദത്തിനിടെ , ലാഎംഡിഎയുടെ ലഭ്യതയും ആപ്ലിക്കേഷനുകളും വികസിപ്പിക്കാൻ കമ്പനിക്ക് പദ്ധതിയുണ്ടെന്ന് പിച്ചൈ നിക്ഷേപകർക്ക് ഉറപ്പ് നൽകി."
-      },
-      {
-        "type": "image",
-        "url": "https:\/\/thumb.wikimedia.org\/wikipedia\/commons\/thumb\/5\/52\/Acap.svg\/960px-Acap.svg.png?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "caption": "പശ്ചാത്തലം - ജെമിനി (ചാറ്റ്ബോട്ട്)",
-        "author": "F l a n k e r",
-        "license": "CC BY-SA 4.0",
-        "description": ""
-      },
-      {
-        "type": "subtitle",
-        "text": "പുറം കണ്ണികൾ"
-      },
-      {
-        "type": "paragraph",
-        "text": "ഔദ്യോഗിക വെബ്സൈറ്റ് \nജെമിനി (ചാറ്റ്ബോട്ട്)  on Google Play"
-      },
-      {
-        "type": "image",
-        "url": "https:\/\/thumb.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9b\/Google_Gemini_Screenshot_%282026%29.png\/960px-Google_Gemini_Screenshot_%282026%29.png?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "caption": "പുറം കണ്ണികൾ - ജെമിനി (ചാറ്റ്ബോട്ട്)",
-        "author": "Google",
-        "license": "CC BY-SA 4.0",
-        "description": ""
-      },
-      {
-        "type": "actions",
-        "items": [
-          {
-            "type": "web",
-            "label": "🔗 വിക്കിപീഡിയയിൽ വായിക്കുക",
-            "value": "https:\/\/ml.wikipedia.org\/wiki\/%E0%B4%9C%E0%B5%86%E0%B4%AE%E0%B4%BF%E0%B4%A8%E0%B4%BF%20(%E0%B4%9A%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%AC%E0%B5%8B%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D)"
-          }
-        ]
-      }
-    ],
-    "thumbnail": "https:\/\/thumb.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9b\/Google_Gemini_Screenshot_%282026%29.png\/960px-Google_Gemini_Screenshot_%282026%29.png?utm_source=ml.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "thumbnail_type": "image"
-  },
-  {
-    "id": "blog_1792934506331",
-    "title": "ഗൂഗിൾ",
-    "subtitle": "Googleplex Headquarters, Mountain View, US",
-    "category": "വിക്കിപീഡിയ",
-    "author": "വിക്കിപീഡിയ",
-    "date": "25 October 2026",
-    "blocks": [
-      {
-        "type": "paragraph",
-        "text": "ഇൻറർനെറ്റ് തിരച്ചിൽ, വെബ് അധിഷ്ഠിത സേവനം, വെബ്സൈറ്റ് പരസ്യം എന്നീ രംഗങ്ങളിൽ പ്രവർത്തിക്കുന്ന അമേരിക്കൻ കമ്പനിയാണ് ഗൂഗിൾ (ഇംഗ്ലീഷ് ഉച്ചാരണം - IPA: [ˈguːgəl]) ലോകത്തിലെ ഏറ്റവും വിശാലമായ ഇന്റർനെറ്റ് തിരച്ചിൽ സംവിധാ‍നമാണ് ഗൂഗിൾ. അറിവുകൾ ശേഖരിച്ച് സാർവ്വ ദേശീയമായി ലഭ്യമാക്കുക എന്നതാണ് ഗൂഗിളിന്റെ പ്രഖ്യാപിത ലക്ഷ്യം. വിവിധ തിരച്ചിൽ ഉപകരണങ്ങളിലൂടെ ഇരുപത് കോടിയിൽപ്പരം അന്വേഷണങ്ങളാണ് പ്രതിദിനം ഗൂഗിളിലെത്തുന്നത്. വെബ് സെർച്ച് എൻ‌ജിൻ മാത്രമായി തുടക്കം കുറിച്ച ഗൂഗിളിൽ ഇപ്പോൾ ചിത്രങ്ങൾ, വാർത്തകൾ, വീഡിയോ, മാപ്പുകൾ, ഓൺലൈൻ വ്യാപാരം, ഓൺലൈൻ സംവാദം എന്നിങ്ങനെ ഇന്റർനെറ്റിന്റെ സമസ്ത മേഖലകളിലും അനുബന്ധ സംവിധാനങ്ങളുണ്ട്. 2005 തുടക്കമായപ്പോഴേക്കും 800 കോടിയോളം വെബ് പേജുകളും നൂറുകോടിയോളം വെബ്ചിത്രങ്ങളും ഗൂഗിൾ തിരച്ചിലുകൾക്കായി ക്രമപ്പെടുത്തിയിരുന്നു\n2015 ഓഗസ്റ്റ് 10 -ന്  ഗൂഗിൾ പല കമ്പനികളായി വിഭജിച്ചു. അങ്ങനെ ആൽഫബെറ്റ് എന്ന് പേരിട്ട പുതിയ കമ്പനിയിലെ ഉപകമ്പനിയായി  ഗൂഗിൾ. സുന്ദർ പിച്ചൈ ഗൂഗിളിന്റെ പുതിയ  സിഇഒ ആയി നിയമിതനായി. മുൻ സിഇഒ ലാറി പേജ് ആണ് മാതൃസ്ഥാപനമായ ആൽഫബെറ്റ് ഇൻകോർപ്പറേഷന് നേതൃത്വം നൽകിയിരുന്നത്.ഇപ്പോൾ സുന്ദ്ർ രണ്ടിനും CEO സ്ഥാനം വഹിക്കുന്നു."
-      },
-      {
-        "type": "subtitle",
-        "text": "പേരിനു പിന്നിൽ"
-      },
-      {
-        "type": "paragraph",
-        "text": "അപ്രതീക്ഷിതമായ ഒരു അക്ഷരപ്പിശകിൽനിന്നും പിറവിയെടുത്തതാണ് ഗൂഗിൾ എന്ന പദം. ഒന്നിനു ശേഷം നൂറു പൂജ്യങ്ങൾ വരുന്ന സംഖ്യയെ സൂചിപ്പിക്കാൻ ഉപയോഗിക്കുന്ന ഗൂഗൾ(googol) എന്ന പദം സെർച്ച് എൻ‌ജിന്റെ പേരാക്കാനായിരുന്നു സ്ഥാപകരുടെ ലക്ഷ്യം. അമേരിക്കൻ ഗണിത ശാസ്ത്രജ്ഞനായ എഡ്വേഡ് കാസ്നറുടെ അനന്തരവൻ ഒൻപതു വയസുകാരൻ മിൽട്ടൺ സൈറോറ്റയാണ് 1938ൽ ആദ്യമായി ഗൂഗൾ എന്ന പദം ഉപയോഗിച്ചത്. ഗണിത ശാസ്ത്രജ്ഞരുടെ ഇടയിൽ പ്രചരിച്ചിരുന്ന ഈ പദം തന്നെ തങ്ങളുടെ സെർച്ച് എൻ‌ജിനു പേരായി നൽകാം എന്നായിരുന്നു ഗൂഗിളിന്റെ പിറവിക്കു പിന്നിൽ പ്രവർത്തിച്ചവരുടെ ചിന്ത. എണ്ണിയാലൊടുങ്ങാത്ത വിവരങ്ങൾ ഈ സെർച്ച് എൻ‌ജിനിൽ ലഭ്യമാകും എന്ന സന്ദേശമായിരുന്നു വിവക്ഷ. എന്നാൽ അവർ എഴുതിയത് അക്ഷരപ്പിശകോടെയായെന്നു മാത്രം. അങ്ങനെ ഗൂഗളിനു പകരം ഗൂഗിൾ(google) ആയി മാറി. \nഏതായാലും തങ്ങൾക്കു പറ്റിയ അക്ഷരപ്പിശക് മറ്റാരെയും വഴിതെറ്റിക്കരുത് എന്ന ചിന്ത ഗൂഗിൾ ഉടമകൾക്ക് ഉണ്ടെന്നുള്ളതാണു രസകരമായ വസ്തുത. ഗൂഗിൾ എന്ന് ടൈപ് ചെയ്യുമ്പോൾ വന്നുപോയേക്കാവുന്ന അക്ഷരപ്പിശകുകളുടെ ഫലങ്ങളെല്ലാം ഡൊമെയ്ൻ പദങ്ങളായി രജിസ്റ്റർ ചെയ്തിട്ടുണ്ട്. ഉദാഹരണത്തിന് gogle.com, googel.com എന്നിങ്ങനെ തെറ്റായി ടൈപ് ചെയ്താലും ചെന്നെത്തുന്നത് ഗൂഗിളിൽ തന്നെയായിരിക്കും. ഗൂഗിളിനു സദൃശമായ അക്ഷരത്തെറ്റുകളെല്ലാം ഇപ്രകാരം ശരിയായ ഡൊമെയിൻ നാമത്തിലേക്കു് വഴിതിരിച്ചു വിട്ടിരിക്കുകയാണ്."
-      },
-      {
-        "type": "image",
-        "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ee\/Google_2026_logo.svg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-        "caption": "പേരിനു പിന്നിൽ - ഗൂഗിൾ",
-        "author": "Google LLC",
-        "license": "CC BY-SA 4.0",
-        "description": ""
-      },
-      {
-        "type": "subtitle",
-        "text": "ചരിത്രം"
-      },
-      {
-        "type": "paragraph",
-        "text": "സ്റ്റാൻ‌ഫോർഡ് സർവ്വകലാശാലയിലെ പി.എച്ച്.ഡി. വിദ്യാർത്ഥികളായിരുന്ന ലാറി പേജ്, സെർജി ബ്രിൻ എന്നിവരുടെ ഗവേഷണ വിഷയമെന്ന നിലയ്ക്കാണ് ഗൂഗിൾ ബീജാവാപം ചെയ്തത്. 1996 ജനുവരിയിലായിരുന്നു ഇവർ ഗവേഷണത്തിനു തുടക്കമിട്ടത്. വെബ്‌സൈറ്റുകളുടെ സ്വഭാവത്തിനനുസരിച്ച് തിരയൽ ക്രമീകരിക്കാമോ എന്ന പരീക്ഷണമാണ് ഇവർ തുടക്കമിട്ടത്. അതുവരെ ഒരാൾ തിരയുന്ന പദം എത്ര തവണ പേജിലുണ്ട് എന്നു നോക്കുക മാത്രമായിരുന്നു വെബ്‌തിരയൽ സംവിധാനങ്ങളുടെ ശൈലി. പലപ്പോഴും പരസ്പര ബന്ധമില്ലാത്ത ഫലങ്ങൾ ഇത്തരം തിരയലുകൾ തരുമെന്നതിൽ സംശയമില്ല. തങ്ങളുടെ പുതിയ തിരച്ചിൽ സംവിധാനത്തിന് ബാക്ക് റബ് എന്ന പേരാണ് ലാറിയും സെർജിയും നൽകിയത്. ബാക്ൿലിങ്കുകളിൽ നിന്നും സെർച്ച് ഫലങ്ങൾ കണ്ടെത്തിയിരുന്നതിനാലാണിത്. \nപരീക്ഷണങ്ങൾ ഫലപ്രാപ്തിയിലെത്തിയതോടെ 1997 സെപ്റ്റംബർ 15ന് ഗൂഗിൾ എന്ന ഡൊമെയിൻ നാമം രജിസ്റ്റർ ചെയ്യപ്പെട്ടു. ഒരുവർഷത്തിനു ശേഷം കാലിഫോർണിയയിൽ ഒരു സുഹൃത്തിന്റെ ഗാരേജിൽ ലാറിയും സെർജിയും തങ്ങളുടെ കമ്പനിയുടെ പ്രവർത്തനമാരംഭിച്ചു. 1999 സെപ്റ്റംബർ 21 വരെ ഗൂഗിൾ സെർച്ച് ബീറ്റാ വെർഷനിലായിരുന്നു പ്രവർത്തിച്ചത്. ലളിതമായ രുപകൽ‌പനയായിരുന്നു ഗൂഗിൾ സെർച്ച് എൻ‌ജിന്റെ പ്രധാന ആകർഷണം. ചിത്രങ്ങൾ അധികമൊന്നും നൽകാതെയുള്ള ഈ ലാളിത്യ മുഖം ഗൂഗിൾ പേജുകൾ ലോഡ് ചെയ്യുന്നത് എളുപ്പമാക്കി. ഇന്റർനെറ്റ് ഉപഭോക്താക്കളുടെ ഇടയിൽ ഗൂഗിൾ പെട്ടെന്നു പ്രശസ്തമായി. 2000-ൽ സെർച്ച് കീ വേർഡിനനുസരിച്ച് ഗൂഗിളിൽ പരസ്യങ്ങൾ നൽകാൻ തുടങ്ങി. ഗൂഗിളിന്റെ വരുമാനവും ഇതോടെ കുതിച്ചുയർന്നു. സമകാലീനരായ ഒട്ടേറെ ഡോട്ട്കോം സംരംഭങ്ങൾ പരാജയപ്പെട്ടപ്പോഴും കാർഷെഡിൽ പ്രവർത്തനമാരംഭിച്ച ഗൂഗിൾ വിജയ ഗാഥകൾ രചിച്ചു. \nഇൻറർനെറ്റിൽ തിരയുക എന്നതിനു പകരമായി  റ്റു ഗൂഗിൾ എന്ന പ്രയോഗശൈലി തന്നെ ഇംഗ്ലീഷിൽ രൂപപ്പെട്ടു. ഏതായാലും ഗൂഗിൾ ഉടമകൾ ഈ ശൈലിക്ക് അത്ര പ്രോത്സാ‍ഹനം നൽകിയില്ല. തങ്ങളുടെ ഡൊമെയിൻ നാമം ദുരുപയോഗം ചെയ്യപ്പെടുമോ എന്ന പേടിയായിരുന്നു ഇതിനുപിന്നിൽ."
-      },
-      {
-        "type": "image",
-        "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/24\/Gtk-dialog-question.svg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-        "caption": "ചരിത്രം - ഗൂഗിൾ",
-        "author": "Rocket000 (original icon by David Vignoni)",
-        "license": "CC BY-SA 4.0",
-        "description": ""
-      },
-      {
-        "type": "image",
-        "url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b0\/Increase2.svg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-        "caption": "പുറം കണ്ണികൾ - ഗൂഗിൾ",
-        "author": "Sarang",
-        "license": "CC BY-SA 4.0",
-        "description": ""
-      },
-      {
-        "type": "actions",
-        "items": [
-          {
-            "type": "web",
-            "label": "🔗 വിക്കിപീഡിയയിൽ വായിക്കുക",
-            "value": "https:\/\/ml.wikipedia.org\/wiki\/%E0%B4%97%E0%B5%82%E0%B4%97%E0%B4%BF%E0%B5%BE"
-          }
-        ]
-      }
-    ],
-    "thumbnail": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ee\/Google_2026_logo.svg?utm_source=ml.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
-    "thumbnail_type": "image"
-  },
-  {
-    "id": "blog_1792917289579",
-    "title": "വ്യാജ ട്രേഡിങ്ങ് ആപ്പുകളിലൂടെ പണം തട്ടുന്നത് തടയാം   #police #keralapolice #statepolicemediacentre",
+    "id": "blog_1793537329476",
+    "title": "ഒരു AI മറുപടി ജീവനെടുക്കുമോ? ChatGPTയെ എത്രമാത്രം വിശ്വസിക്കാം?",
     "subtitle": "",
     "category": "Technology",
-    "author": "State Police Media Centre",
-    "date": "2025-07-08",
+    "author": "News Malayalam 24x7",
+    "date": "01 November 2026",
     "blocks": [
       {
         "type": "video",
-        "video_id": "oa9dvhXNklw",
-        "url": "https:\/\/youtube.com\/shorts\/oa9dvhXNklw?si=Yq6YFRKjuqEHTqjY",
-        "title": "വ്യാജ ട്രേഡിങ്ങ് ആപ്പുകളിലൂടെ പണം തട്ടുന്നത് തടയാം   #police #keralapolice #statepolicemediacentre",
-        "author_name": "State Police Media Centre",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/oa9dvhXNklw\/hqdefault.jpg",
-        "date": "2025-07-08"
+        "video_id": "KMeUN97itu4",
+        "url": "https:\/\/youtu.be\/KMeUN97itu4?si=WomzaK2mPGD8muWy",
+        "title": "ഒരു AI മറുപടി ജീവനെടുക്കുമോ? ChatGPTയെ എത്രമാത്രം വിശ്വസിക്കാം?",
+        "author_name": "News Malayalam 24x7",
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/KMeUN97itu4\/hqdefault.jpg",
+        "date": "2026-11-01"
       }
     ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/oa9dvhXNklw\/hqdefault.jpg",
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/KMeUN97itu4\/hqdefault.jpg",
     "thumbnail_type": "video"
   },
   {
-    "id": "blog_1792917222880",
-    "title": "KP TIPS EPISODE 8 സമൂഹമാധ്യമങ്ങളിലെ വ്യാജന്മാരെ എങ്ങനെ തിരിച്ചറിയാം ? നടപടികൾ എന്തൊക്കെ ?",
+    "id": "blog_1793525821271",
+    "title": "ബാങ്ക് ഒടിപി മോഷ്‍ടിക്കുന്ന പുതിയ ആൻഡ്രോയിഡ് മാൽവെയർ; ഉപയോക്താക്കൾ ശ്രദ്ധിക്കുക | Tech News",
     "subtitle": "",
     "category": "Technology",
-    "author": "State Police Media Centre",
-    "date": "2020-10-08",
+    "author": "asianetnews",
+    "date": "30 October 2026",
     "blocks": [
       {
         "type": "video",
-        "video_id": "xFmeDpI5GrI",
-        "url": "https:\/\/youtu.be\/xFmeDpI5GrI?si=6FJuCiU37TmhSKzm",
-        "title": "KP TIPS EPISODE 8 സമൂഹമാധ്യമങ്ങളിലെ വ്യാജന്മാരെ എങ്ങനെ തിരിച്ചറിയാം ? നടപടികൾ എന്തൊക്കെ ?",
-        "author_name": "State Police Media Centre",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/xFmeDpI5GrI\/hqdefault.jpg",
-        "date": "2020-10-08"
+        "video_id": "Z-tM-x9fS2A",
+        "url": "https:\/\/youtu.be\/Z-tM-x9fS2A?si=p_pq5iHE_EUv8r5-",
+        "title": "ബാങ്ക് ഒടിപി മോഷ്‍ടിക്കുന്ന പുതിയ ആൻഡ്രോയിഡ് മാൽവെയർ; ഉപയോക്താക്കൾ ശ്രദ്ധിക്കുക | Tech News",
+        "author_name": "asianetnews",
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/Z-tM-x9fS2A\/hqdefault.jpg",
+        "date": "2026-10-30"
       }
     ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/xFmeDpI5GrI\/hqdefault.jpg",
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/Z-tM-x9fS2A\/hqdefault.jpg",
     "thumbnail_type": "video"
   },
   {
-    "id": "blog_1792917182896",
-    "title": "ഓൺലൈൻ പണം ഇടപാടുകളിൽ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾ",
+    "id": "blog_1793525884223",
+    "title": "ആപ്പിളിന് പൊട്ടൽ! ഐഫോൺ ഡ്യുവോയ്ക്കെതിരെ പരാതിയുമായി ഉപഭോക്താക്കൾ",
     "subtitle": "",
     "category": "Technology",
-    "author": "State Police Media Centre",
-    "date": "25 October 2026",
+    "author": "MediaoneTV Live",
+    "date": "27 October 2026",
     "blocks": [
       {
         "type": "video",
-        "video_id": "bfWmX-sKxZI",
-        "url": "https:\/\/youtu.be\/bfWmX-sKxZI?si=jraTiIdIGLW3RBB5",
-        "title": "ഓൺലൈൻ പണം ഇടപാടുകളിൽ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾ",
-        "author_name": "State Police Media Centre",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/bfWmX-sKxZI\/hqdefault.jpg"
+        "video_id": "zIfOVQas5nc",
+        "url": "https:\/\/youtu.be\/zIfOVQas5nc?si=aXXc3uhajyRF4Z5i",
+        "title": "ആപ്പിളിന് പൊട്ടൽ! ഐഫോൺ ഡ്യുവോയ്ക്കെതിരെ പരാതിയുമായി ഉപഭോക്താക്കൾ",
+        "author_name": "MediaoneTV Live",
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/zIfOVQas5nc\/hqdefault.jpg",
+        "date": "2026-10-27"
       }
     ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/bfWmX-sKxZI\/hqdefault.jpg",
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/zIfOVQas5nc\/hqdefault.jpg",
     "thumbnail_type": "video"
   },
   {
-    "id": "blog_1792917160847",
-    "title": "സാമൂഹ്യമാധ്യമങ്ങള്‍ ഉപയോഗിക്കുമ്പോള്‍ എന്തൊക്കെ ശ്രദ്ധിക്കണം?",
+    "id": "blog_1793537149513",
+    "title": "AI മനുഷ്യരാശിയെ നശിപ്പിക്കുമോ? | GLOBAL BUSINESS TALK | Future of AI Explained",
     "subtitle": "",
     "category": "Technology",
-    "author": "State Police Media Centre",
-    "date": "2021-10-07",
+    "author": "Manorama Online Business",
+    "date": "22 October 2026",
     "blocks": [
       {
         "type": "video",
-        "video_id": "XR5ALe7aMFI",
-        "url": "https:\/\/youtu.be\/XR5ALe7aMFI?si=ynVCbZA9w7NVa0HJ",
-        "title": "സാമൂഹ്യമാധ്യമങ്ങള്‍ ഉപയോഗിക്കുമ്പോള്‍ എന്തൊക്കെ ശ്രദ്ധിക്കണം?",
-        "author_name": "State Police Media Centre",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/XR5ALe7aMFI\/hqdefault.jpg",
-        "date": "2021-10-07"
+        "video_id": "v6aiZd9nbVE",
+        "url": "https:\/\/youtu.be\/v6aiZd9nbVE?si=sE98PzbLyM7SMotu",
+        "title": "AI മനുഷ്യരാശിയെ നശിപ്പിക്കുമോ? | GLOBAL BUSINESS TALK | Future of AI Explained",
+        "author_name": "Manorama Online Business",
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/v6aiZd9nbVE\/hqdefault.jpg",
+        "date": "2026-10-22"
       }
     ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/XR5ALe7aMFI\/hqdefault.jpg",
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/v6aiZd9nbVE\/hqdefault.jpg",
     "thumbnail_type": "video"
   },
   {
-    "id": "blog_1792917112597",
-    "title": "വ്യാജ ട്രേഡിങ്ങ് ആപ്പുകളും  തട്ടിപ്പും  കേരള പോലീസ് സംസാരിക്കുന്നു",
+    "id": "blog_1793540680009",
+    "title": "നോക്കിയയുടെ വമ്പൻ തിരിച്ചുവരവ്! മൊബൈൽ രാജാവിൽ നിന്ന് AI യുഗത്തിലേക്ക് | Nokia Story Malayalam",
     "subtitle": "",
     "category": "Technology",
-    "author": "State Police Media Centre",
-    "date": "2025-07-08",
+    "author": "MediaOne Business",
+    "date": "09 October 2026",
     "blocks": [
       {
         "type": "video",
-        "video_id": "PcZLsKkSRl4",
-        "url": "https:\/\/youtu.be\/PcZLsKkSRl4?si=mri3u0y8Ghw4fbDe",
-        "title": "വ്യാജ ട്രേഡിങ്ങ് ആപ്പുകളും  തട്ടിപ്പും  കേരള പോലീസ് സംസാരിക്കുന്നു",
-        "author_name": "State Police Media Centre",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/PcZLsKkSRl4\/hqdefault.jpg",
-        "date": "2025-07-08"
+        "video_id": "ilVNIArq3ak",
+        "url": "https:\/\/youtu.be\/ilVNIArq3ak?si=ZxDom07UZW4pNhWy",
+        "title": "നോക്കിയയുടെ വമ്പൻ തിരിച്ചുവരവ്! മൊബൈൽ രാജാവിൽ നിന്ന് AI യുഗത്തിലേക്ക് | Nokia Story Malayalam",
+        "author_name": "MediaOne Business",
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/ilVNIArq3ak\/hqdefault.jpg",
+        "date": "2026-10-09"
       }
     ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/PcZLsKkSRl4\/hqdefault.jpg",
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/ilVNIArq3ak\/hqdefault.jpg",
     "thumbnail_type": "video"
   },
   {
-    "id": "blog_1792917072899",
-    "title": "ഓൺലൈൻ സാമ്പത്തികത്തട്ടിപ്പിനിരയായാൽ ഒരുമണിക്കൂറിനകം വിവരം 1930 എന്ന നമ്പറിൽ സൈബർ പോലീസിനെ അറിയിക്കുക",
+    "id": "blog_1793540411516",
+    "title": "ഫോണിൽ പച്ച ഡോട്ട് കണ്ടാൽ ശ്രദ്ധിക്കു; നിസാരമല്ല ആ വെളിച്ചം | Mobile Phone Privacy Alert",
     "subtitle": "",
     "category": "Technology",
-    "author": "State Police Media Centre",
-    "date": "2024-06-26",
+    "author": "MediaoneTV Live",
+    "date": "16 February 2026",
     "blocks": [
       {
         "type": "video",
-        "video_id": "wjE--ZF92h4",
-        "url": "https:\/\/youtu.be\/wjE--ZF92h4?si=K0RYPMFjsaEWMQ7I",
-        "title": "ഓൺലൈൻ സാമ്പത്തികത്തട്ടിപ്പിനിരയായാൽ ഒരുമണിക്കൂറിനകം വിവരം 1930 എന്ന നമ്പറിൽ സൈബർ പോലീസിനെ അറിയിക്കുക",
-        "author_name": "State Police Media Centre",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/wjE--ZF92h4\/hqdefault.jpg",
-        "date": "2024-06-26"
+        "video_id": "wKIYuJ7TWak",
+        "url": "https:\/\/youtu.be\/wKIYuJ7TWak?si=BU1xpP04lk70C5oJ",
+        "title": "ഫോണിൽ പച്ച ഡോട്ട് കണ്ടാൽ ശ്രദ്ധിക്കു; നിസാരമല്ല ആ വെളിച്ചം | Mobile Phone Privacy Alert",
+        "author_name": "MediaoneTV Live",
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/wKIYuJ7TWak\/hqdefault.jpg",
+        "date": "2026-02-16"
       }
     ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/wjE--ZF92h4\/hqdefault.jpg",
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/wKIYuJ7TWak\/hqdefault.jpg",
     "thumbnail_type": "video"
   },
   {
-    "id": "blog_1792913279876",
-    "title": "അപരിചിതരുടെ വീഡിയോകാൾ റിക്വസ്റ്റ് നിരാകരിക്കുക. .ചതിയിൽപ്പെടാതിരിക്കുക.",
+    "id": "blog_1793540942788",
+    "title": "KERALA POLICE | SERVICES | ERSS | 112",
     "subtitle": "",
-    "category": "Social Media",
+    "category": "Technology",
     "author": "Kerala Police",
-    "date": "25 October 2026",
+    "date": "09 September 2023",
     "blocks": [
       {
         "type": "video",
-        "video_id": "5pdFjIUom3M",
-        "url": "https:\/\/youtube.com\/shorts\/5pdFjIUom3M?si=0jK0ZdsqShj9djVw",
-        "title": "അപരിചിതരുടെ വീഡിയോകാൾ റിക്വസ്റ്റ് നിരാകരിക്കുക. .ചതിയിൽപ്പെടാതിരിക്കുക.",
+        "video_id": "i8JY7OIAe-Y",
+        "url": "https:\/\/youtube.com\/shorts\/i8JY7OIAe-Y?si=ezIDqm8I-kfe_z8h",
+        "title": "KERALA POLICE | SERVICES | ERSS | 112",
         "author_name": "Kerala Police",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/5pdFjIUom3M\/hqdefault.jpg"
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/i8JY7OIAe-Y\/hqdefault.jpg",
+        "date": "2023-09-09"
       }
     ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/5pdFjIUom3M\/hqdefault.jpg",
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/i8JY7OIAe-Y\/hqdefault.jpg",
     "thumbnail_type": "video"
   },
   {
-    "id": "blog_1792913227602",
-    "title": "പ്ലേ സ്റ്റോർ, ആപ്പ് സ്റ്റോർ  വഴി മാത്രം മൊബൈൽ ആപ്പുകൾ ഡൗൺലോഡ് ചെയ്യുക",
+    "id": "blog_1793537245696",
+    "title": "നിര്‍മിത ബുദ്ധിയും സാധ്യതകളും, അപകടങ്ങളും | Call centre | Artificial intelligence",
+    "subtitle": "",
+    "category": "Technology",
+    "author": "MediaoneTV Live",
+    "date": "25 August 2023",
+    "blocks": [
+      {
+        "type": "video",
+        "video_id": "XCK0cw1WQn4",
+        "url": "https:\/\/youtu.be\/XCK0cw1WQn4?si=Okd9YLRcFJ3S4FEQ",
+        "title": "നിര്‍മിത ബുദ്ധിയും സാധ്യതകളും, അപകടങ്ങളും | Call centre | Artificial intelligence",
+        "author_name": "MediaoneTV Live",
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/XCK0cw1WQn4\/hqdefault.jpg",
+        "date": "2023-08-25"
+      }
+    ],
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/XCK0cw1WQn4\/hqdefault.jpg",
+    "thumbnail_type": "video"
+  },
+  {
+    "id": "blog_1793540449331",
+    "title": "കേരളത്തിലെ ആദ്യ മൊബൈൽ ഫോൺ അപകട മരണം എങ്ങനെ? | decode | mobile | mobileheat",
+    "subtitle": "",
+    "category": "Technology",
+    "author": "MediaoneTV Live",
+    "date": "26 April 2023",
+    "blocks": [
+      {
+        "type": "video",
+        "video_id": "ZEVxREwf9EE",
+        "url": "https:\/\/youtu.be\/ZEVxREwf9EE?si=WKqA638_GqR9Dukq",
+        "title": "കേരളത്തിലെ ആദ്യ മൊബൈൽ ഫോൺ അപകട മരണം എങ്ങനെ? | decode | mobile | mobileheat",
+        "author_name": "MediaoneTV Live",
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/ZEVxREwf9EE\/hqdefault.jpg",
+        "date": "2023-04-26"
+      }
+    ],
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/ZEVxREwf9EE\/hqdefault.jpg",
+    "thumbnail_type": "video"
+  },
+  {
+    "id": "blog_1793540994288",
+    "title": "KERALAPOLICE | TROLL | OTP",
     "subtitle": "",
     "category": "Technology",
     "author": "Kerala Police",
-    "date": "2022-03-29",
+    "date": "20 January 2023",
+    "blocks": [
+      {
+        "type": "video",
+        "video_id": "sZ-tXlblyCY",
+        "url": "https:\/\/youtube.com\/shorts\/sZ-tXlblyCY?si=-dQD7GzNLw_gGurG",
+        "title": "KERALAPOLICE | TROLL | OTP",
+        "author_name": "Kerala Police",
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/sZ-tXlblyCY\/hqdefault.jpg",
+        "date": "2023-01-20"
+      }
+    ],
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/sZ-tXlblyCY\/hqdefault.jpg",
+    "thumbnail_type": "video"
+  },
+  {
+    "id": "blog_1793541041770",
+    "title": "പ്‌ളേ സ്റ്റോർ, ആപ്പ് സ്റ്റോർ  വഴി മാത്രം മൊബൈൽ ആപ്പുകൾ ഡൗൺലോഡ് ചെയ്യുക",
+    "subtitle": "",
+    "category": "Technology",
+    "author": "Kerala Police",
+    "date": "29 March 2022",
     "blocks": [
       {
         "type": "video",
         "video_id": "EmqRb7mu3X8",
-        "url": "https:\/\/youtube.com\/shorts\/EmqRb7mu3X8?si=6_b1x9vWTFoiRj3U",
+        "url": "https:\/\/youtube.com\/shorts\/EmqRb7mu3X8?si=TjSPjCH3PB_GZHis",
         "title": "പ്‌ളേ സ്റ്റോർ, ആപ്പ് സ്റ്റോർ  വഴി മാത്രം മൊബൈൽ ആപ്പുകൾ ഡൗൺലോഡ് ചെയ്യുക",
         "author_name": "Kerala Police",
         "thumbnail": "https:\/\/img.youtube.com\/vi\/EmqRb7mu3X8\/hqdefault.jpg",
@@ -298,212 +231,45 @@
     "thumbnail_type": "video"
   },
   {
-    "id": "blog_1792913094688",
-    "title": "വാട്സ് ആപ് അക്കൗണ്ട് ഹാക്കിങ് എങ്ങനെ തടയാം ?  | How to prevent Whatsapp Hacking ? | Watch Video",
+    "id": "blog_1793541105834",
+    "title": "അപരിചിതരുടെ വീഡിയോകാൾ റിക്വസ്റ്റ് നിരാകരിക്കുക. .ചതിയിൽപ്പെടാതിരിക്കുക.",
     "subtitle": "",
     "category": "Technology",
     "author": "Kerala Police",
-    "date": "2020-11-07",
+    "date": "03 December 2021",
     "blocks": [
       {
         "type": "video",
-        "video_id": "QSnpkJ6ZrXM",
-        "url": "https:\/\/youtu.be\/QSnpkJ6ZrXM?si=283Ei_3PSg3hVCpr",
-        "title": "വാട്സ് ആപ് അക്കൗണ്ട് ഹാക്കിങ് എങ്ങനെ തടയാം ?  | How to prevent Whatsapp Hacking ? | Watch Video",
+        "video_id": "5pdFjIUom3M",
+        "url": "https:\/\/youtube.com\/shorts\/5pdFjIUom3M?si=DD7-sIloJph0W1yd",
+        "title": "അപരിചിതരുടെ വീഡിയോകാൾ റിക്വസ്റ്റ് നിരാകരിക്കുക. .ചതിയിൽപ്പെടാതിരിക്കുക.",
         "author_name": "Kerala Police",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/QSnpkJ6ZrXM\/hqdefault.jpg",
-        "date": "2020-11-07"
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/5pdFjIUom3M\/hqdefault.jpg",
+        "date": "2021-12-03"
       }
     ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/QSnpkJ6ZrXM\/hqdefault.jpg",
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/5pdFjIUom3M\/hqdefault.jpg",
     "thumbnail_type": "video"
   },
   {
-    "id": "blog_1792913052047",
-    "title": "ഐഡികൾ ഉപയോഗിക്കുമ്പോൾ ജാഗ്രത പാലിക്കുക",
+    "id": "blog_1793540586778",
+    "title": "MEDTALK - Radiation and Life - Dr. K. Mohanan | MEDEX Thiruvananthapuram",
     "subtitle": "",
     "category": "Technology",
-    "author": "Kerala Police",
-    "date": "25 October 2026",
+    "author": "Monsoon Media",
+    "date": "22 January 2017",
     "blocks": [
       {
         "type": "video",
-        "video_id": "BEBUF0IfqM4",
-        "url": "https:\/\/youtu.be\/BEBUF0IfqM4?si=5aeJ0F1xea1nUinQ",
-        "title": "ഐഡികൾ ഉപയോഗിക്കുമ്പോൾ ജാഗ്രത പാലിക്കുക",
-        "author_name": "Kerala Police",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/BEBUF0IfqM4\/hqdefault.jpg"
+        "video_id": "NlC1aQ4z4UA",
+        "url": "https:\/\/youtu.be\/NlC1aQ4z4UA?si=0hsR8A58GvNWDVJT",
+        "title": "MEDTALK - Radiation and Life - Dr. K. Mohanan | MEDEX Thiruvananthapuram",
+        "author_name": "Monsoon Media",
+        "thumbnail": "https:\/\/img.youtube.com\/vi\/NlC1aQ4z4UA\/hqdefault.jpg",
+        "date": "2017-01-22"
       }
     ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/BEBUF0IfqM4\/hqdefault.jpg",
-    "thumbnail_type": "video"
-  },
-  {
-    "id": "blog_1792913007414",
-    "title": "മൊബൈൽ ഫോൺ നഷ്ടമായാൽ ? |  Do Immediately If You Lost Your Phone | KPTalks - Part V",
-    "subtitle": "",
-    "category": "Technology",
-    "author": "Kerala Police",
-    "date": "01 April 2023",
-    "blocks": [
-      {
-        "type": "video",
-        "video_id": "gFw46XV-Hos",
-        "url": "https:\/\/youtu.be\/gFw46XV-Hos?si=AuRPFZYJmORTtT5i",
-        "title": "മൊബൈൽ ഫോൺ നഷ്ടമായാൽ ? |  Do Immediately If You Lost Your Phone | KPTalks - Part V",
-        "author_name": "Kerala Police",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/gFw46XV-Hos\/hqdefault.jpg",
-        "date": "2023-04-01"
-      }
-    ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/gFw46XV-Hos\/hqdefault.jpg",
-    "thumbnail_type": "video"
-  },
-  {
-    "id": "blog_1792912978534",
-    "title": "എങ്ങനെ AI തട്ടിപ്പുകളിൽ പെടാതിരിക്കാം | KPTalks - Part XVI",
-    "subtitle": "",
-    "category": "Technology",
-    "author": "Kerala Police",
-    "date": "2023-07-16",
-    "blocks": [
-      {
-        "type": "video",
-        "video_id": "FtTqFIs1_hU",
-        "url": "https:\/\/youtu.be\/FtTqFIs1_hU?si=sIXM2u471Har0Vcn",
-        "title": "എങ്ങനെ AI തട്ടിപ്പുകളിൽ പെടാതിരിക്കാം | KPTalks - Part XVI",
-        "author_name": "Kerala Police",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/FtTqFIs1_hU\/hqdefault.jpg",
-        "date": "2023-07-16"
-      }
-    ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/FtTqFIs1_hU\/hqdefault.jpg",
-    "thumbnail_type": "video"
-  },
-  {
-    "id": "blog_1792912938984",
-    "title": "ഓൺലൈൻ നിക്ഷേപ തട്ടിപ്പ് | KERALA POLICE | AWARENESS VIDEO | CYBER DIVISION",
-    "subtitle": "",
-    "category": "Technology",
-    "author": "Kerala Police",
-    "date": "2024-05-06",
-    "blocks": [
-      {
-        "type": "video",
-        "video_id": "tBc0YQlfUfg",
-        "url": "https:\/\/youtu.be\/tBc0YQlfUfg?si=G449nrMDh9nC8BLK",
-        "title": "ഓൺലൈൻ നിക്ഷേപ തട്ടിപ്പ് | KERALA POLICE | AWARENESS VIDEO | CYBER DIVISION",
-        "author_name": "Kerala Police",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/tBc0YQlfUfg\/hqdefault.jpg",
-        "date": "2024-05-06"
-      }
-    ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/tBc0YQlfUfg\/hqdefault.jpg",
-    "thumbnail_type": "video"
-  },
-  {
-    "id": "blog_1792912289854",
-    "title": "ജെമിനി ഫ്രീ യൂസർമാർ ശ്രദ്ധിക്കുക! ഒക്ടോബർ 9 മുതൽ ജെമിനിയിൽ വൻ മാറ്റം!",
-    "subtitle": "",
-    "category": "Technology",
-    "author": "asianetnews",
-    "date": "2026-10-07",
-    "blocks": [
-      {
-        "type": "video",
-        "video_id": "WD29aC2dzbw",
-        "url": "https:\/\/youtu.be\/WD29aC2dzbw?si=5G5XnAZURqurGnVQ",
-        "title": "ജെമിനി ഫ്രീ യൂസർമാർ ശ്രദ്ധിക്കുക! ഒക്ടോബർ 9 മുതൽ ജെമിനിയിൽ വൻ മാറ്റം!",
-        "author_name": "asianetnews",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/WD29aC2dzbw\/hqdefault.jpg",
-        "date": "2026-10-07"
-      }
-    ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/WD29aC2dzbw\/hqdefault.jpg",
-    "thumbnail_type": "video"
-  },
-  {
-    "id": "blog_1792911937425",
-    "title": "SIM Binding | സിം കാർഡ് ഉപയോ​ഗത്തിൽ ഞെട്ടിക്കുന്ന മാറ്റം! 2027 മുതൽ സിം​ഗിൾ സിം Cyber Security N18V",
-    "subtitle": "",
-    "category": "Technology",
-    "author": "News18 Kerala",
-    "date": "2026-10-23",
-    "blocks": [
-      {
-        "type": "video",
-        "video_id": "g_dqdWYHJyg",
-        "url": "https:\/\/youtu.be\/g_dqdWYHJyg?si=3DqOhyzV4YF8Emsk",
-        "title": "SIM Binding | സിം കാർഡ് ഉപയോ​ഗത്തിൽ ഞെട്ടിക്കുന്ന മാറ്റം! 2027 മുതൽ സിം​ഗിൾ സിം Cyber Security N18V",
-        "author_name": "News18 Kerala",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/g_dqdWYHJyg\/hqdefault.jpg",
-        "date": "2026-10-23"
-      }
-    ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/g_dqdWYHJyg\/hqdefault.jpg",
-    "thumbnail_type": "video"
-  },
-  {
-    "id": "blog_1792911898262",
-    "title": "Apple Pay എത്തി, Google Payക്ക് പണി കിട്ടുമോ?!  | Apple pay | India  | UPI",
-    "subtitle": "",
-    "category": "Technology",
-    "author": "MediaoneTV Live",
-    "date": "2026-10-02",
-    "blocks": [
-      {
-        "type": "video",
-        "video_id": "AOUfHWeuMag",
-        "url": "https:\/\/youtube.com\/shorts\/AOUfHWeuMag?si=LH1ZT7oUcDj-L7Xk",
-        "title": "Apple Pay എത്തി, Google Payക്ക് പണി കിട്ടുമോ?!  | Apple pay | India  | UPI",
-        "author_name": "MediaoneTV Live",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/AOUfHWeuMag\/hqdefault.jpg",
-        "date": "2026-10-02"
-      }
-    ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/AOUfHWeuMag\/hqdefault.jpg",
-    "thumbnail_type": "video"
-  },
-  {
-    "id": "blog_1792906810463",
-    "title": "നവംബർ 1 മുതൽ അജ്ഞാത നമ്പറിൽ നിന്ന് കോൾ വന്നാലും പേര് അറിയാം; CNAP സംവിധാനം വരുന്നു",
-    "subtitle": "",
-    "category": "Technology",
-    "author": "Reporter TV",
-    "date": "2026-10-15",
-    "blocks": [
-      {
-        "type": "video",
-        "video_id": "MVp879RMcgM",
-        "url": "https:\/\/youtu.be\/MVp879RMcgM?si=VBPd746D8xhSIPpN",
-        "title": "നവംബർ 1 മുതൽ അജ്ഞാത നമ്പറിൽ നിന്ന് കോൾ വന്നാലും പേര് അറിയാം; CNAP സംവിധാനം വരുന്നു",
-        "author_name": "Reporter TV ",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/MVp879RMcgM\/hqdefault.jpg",
-        "date": "2026-10-15"
-      }
-    ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/MVp879RMcgM\/hqdefault.jpg",
-    "thumbnail_type": "video"
-  },
-  {
-    "id": "blog_1792906724900",
-    "title": "ബാങ്കിംഗ് പാസ്‌വേഡുകൾ മാറ്റുക; OTP ചോദിച്ചുള്ള കോളുകൾ വ്യാജം, ജാഗ്രത വേണം - പി വിനോദ് ഭട്ടതിരിപ്പാട്",
-    "subtitle": "",
-    "category": "Technology",
-    "author": "Mathrubhumi News",
-    "date": "2026-10-21",
-    "blocks": [
-      {
-        "type": "video",
-        "video_id": "B2vgFIyfK5E",
-        "url": "https:\/\/youtu.be\/B2vgFIyfK5E?si=4pPA-g4B70WCA9-E",
-        "title": "ബാങ്കിംഗ് പാസ്‌വേഡുകൾ മാറ്റുക; OTP ചോദിച്ചുള്ള കോളുകൾ വ്യാജം, ജാഗ്രത വേണം - പി വിനോദ് ഭട്ടതിരിപ്പാട്",
-        "author_name": "Mathrubhumi News",
-        "thumbnail": "https:\/\/img.youtube.com\/vi\/B2vgFIyfK5E\/hqdefault.jpg",
-        "date": "2026-10-21"
-      }
-    ],
-    "thumbnail": "https:\/\/img.youtube.com\/vi\/B2vgFIyfK5E\/hqdefault.jpg",
+    "thumbnail": "https:\/\/img.youtube.com\/vi\/NlC1aQ4z4UA\/hqdefault.jpg",
     "thumbnail_type": "video"
   }
 ]
